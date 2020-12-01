@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MUdlyRfE_f1VEVOaB6LYlX7AUo7fpe8u6LRqmueZ8Ur-AaJz-X_DAj7jf-wIA8WiUBQ90c0cljdywT9KLw">](https://music.youtube.com/channel/UCW8qNYmxUC0ES1kDXwtpC_w)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Nw5rfoKHjsqmqxaGMZ2HL2I8f0MOy-xKo3pcSO7BQ77e1s50N9X4mPHUxUUK-1r7mSvfI_8a4QsPG6CZtg">](https://music.youtube.com/channel/UCdS-U2PcmohOBkzYenZfTcQ)
 
-Untell - Perter Pan(피처링: BewhY)
+Zion.T - No Make Up
 
-**Albums**: Show Me the Money 9 Episode 2
+**Albums**: No Make Up
 
-Last updated at 12/01/2020 17:38
+Last updated at 12/01/2020 17:42
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
