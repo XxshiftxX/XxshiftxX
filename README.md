@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Nw5rfoKHjsqmqxaGMZ2HL2I8f0MOy-xKo3pcSO7BQ77e1s50N9X4mPHUxUUK-1r7mSvfI_8a4QsPG6CZtg">](https://music.youtube.com/channel/UCdS-U2PcmohOBkzYenZfTcQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/PBfoMk2SWaTaFWU8zKFua2bALMTBXgwckX1YzwXPNwzG5Fr4G5UjKwWxIuEK_zSEO9WNXEfkPq-9uegE">](https://music.youtube.com/channel/UCCWbwMj_DYJDsQCfC2NglCA)
 
-Zion.T - No Make Up
+SOMDEF - No Rules(피처링: Paloalto, JUSTHIS)
 
-**Albums**: No Make Up
+**Albums**: MorningMare
 
-Last updated at 12/01/2020 17:42
+Last updated at 12/01/2020 17:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
