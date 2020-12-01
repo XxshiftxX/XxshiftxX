@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9nrpxed3lKVTImN0qRGbeJhanyH3xFbmchcMVvO8hlEJAxBdh9q4XwqlN_OIyuEJYEuX2qqJ1-0lVHAqjw">](https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/qOrRbZOnwyv3Bq71SsJApjvycYuOy9tYIqkqzJ3sxibkJwOrXjbQzUs-her5v3DPunUPT2aGZ0f6Sza6">](https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ)
 
-식케이 Sik-K - party (SHUT DOWN)
+팔로알토, 허클베리피 및 지투 - Rapflicks
 
-**Albums**: H.A.L.F (Have.A.Little.Fun)
+**Albums**: Rapflicks
 
-Last updated at 12/01/2020 16:40
+Last updated at 12/01/2020 16:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
