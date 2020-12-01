@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/YcaUOgiPrDT4RYRAVLxGKVvd7gWDqAlIRAEaIsQTVL72VKdzSNLp38JhZ-o65RE5fHMYb5Z4x-0TZ-OX">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
 
-GIRIBOY - wewantourmoneyback (Prod. By Lemac)(피처링: Young B, Kid Milli)
+창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)
 
-**Albums**: 졸업식
+**Albums**: Swoosh Flow (Remix)
 
-Last updated at 12/01/2020 16:51
+Last updated at 12/01/2020 16:55
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
