@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/7aClDnSaXczMU6jptT55xf6bs8MdKgFM5TemfkBMLfuxRBLEqNsnEgA_8WC6R4q4NRml0a7OMBxkfWK9cQ">](https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QqGByVsI7u5nnedlnjC4BJAAkqTlJvIWTz1UC6TxxoZTRGwcv4HEMy0oC7DN69ZbC0u9LLiE6rJFzzQ">](https://music.youtube.com/channel/UCisEF-v8jsvrW263wPJqX0g)
 
-스윙스(Swings) - Watch(피처링: 블랙넛(Black Nut))
+젤로 - Realization Time
 
-**Albums**: [Levitate 1] Mixtape
+**Albums**: Day2Day
 
-Last updated at 12/01/2020 17:02
+Last updated at 12/01/2020 17:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
