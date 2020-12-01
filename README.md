@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Aik51t13yd06esbIJkJcKxYBZqGiYpn4p8x5wz5FIR3jp1PO9dmvQuOkIevtO0byhwZqkeumdttXL7axFg">](https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kR_RBDwAIwlFZYbKElfaOWWW1Nu-y0fv4Td-yqw-8utVPLkDIRvGDjm6hXEYyUbwVP9UdA4qQbES_5eePw">](https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw)
 
-스윙스(Swings) - The Difference in Caliber 3
+더 콰이엇(The Quiett) - gui gam(피처링: zene the zilla)
 
-**Albums**: [Levitate 3] Mixtape
+**Albums**: glow forever
 
-Last updated at 12/01/2020 17:24
+Last updated at 12/01/2020 17:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
