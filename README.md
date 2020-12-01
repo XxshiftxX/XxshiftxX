@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/w2Xa9VHsB1_aPtMXScWVg10CD2r-zxduLSBpio2DT40qg2Fuid_v5FxsOjmztD2xTVG6_2vaUHhaaKJG">](https://music.youtube.com/channel/UC25P5vPTAiSgnOmypHAvWGA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/YcaUOgiPrDT4RYRAVLxGKVvd7gWDqAlIRAEaIsQTVL72VKdzSNLp38JhZ-o65RE5fHMYb5Z4x-0TZ-OX">](https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag)
 
-보이비 - UN Village
+GIRIBOY - wewantourmoneyback (Prod. By Lemac)(피처링: Young B, Kid Milli)
 
-**Albums**: Night Vibe 1.4
+**Albums**: 졸업식
 
-Last updated at 12/01/2020 16:47
+Last updated at 12/01/2020 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
