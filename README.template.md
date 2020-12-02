@@ -2,7 +2,9 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  [<img width="300" src="{CURRENT_PLAYING_ALBUM_SRC}">]({CURRENT_PLAYING_URL})
+  <a href="{CURRENT_PLAYING_URL}">
+    <img width="300" src="{CURRENT_PLAYING_ALBUM_SRC}">
+  </a>
   <br>
   🎵&nbsp&nbsp&nbsp <b>{CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}</b> &nbsp&nbsp&nbsp🎵
   <br>
