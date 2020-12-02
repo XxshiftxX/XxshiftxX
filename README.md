@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCPJE3mXvKJlwVxA-asfU6FA">
-    <img width="300" src="https://lh3.googleusercontent.com/TgEnZvZ4pWgTyyrKqlgnV6FcjG_6yN79fexd1zcdJFY3si-AK5KYElMlanfe8YDwiwSBBm7YDLwU9Do">
+  <a href="https://music.youtube.com/channel/UCt0DL6mxwl5As1B5eFJO2tQ">
+    <img width="300" src="https://lh3.googleusercontent.com/JYSp8V9gMF2xxvLqoQGUhsFZk0zuGVWmTH9Au1naSK2IQ5PCakhvy3tzIM6e_aktmzlG1SV92GfCY5no">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>올티(Olltii) - Cypherpath(피처링: 허클베리피, 조원우)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크러쉬(Crush) - Cereal(피처링: 지코(ZICO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Cypherpath</b>
+  on <b>wonderlost</b>
   
   <br />
   <br />
-  12/02/2020 13:53 Playing on YTMusic
+  12/02/2020 13:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
