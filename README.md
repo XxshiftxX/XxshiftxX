@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">](https://music.youtube.com/browse/MPREb_M6Fq20eOK5e)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">](https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA)
 
-pH-1, 김하온(HAON), 우디고차일드(Woodie Gochild) , 박재범, Sik-K(식케이), TRADE L 및 빅나티 - Teléfono Remix
+다이나믹 듀오 - Blue(피처링: Crush, SOLE)
 
-**Albums**: H1GHR : RED TAPE
+**Albums**: OFF DUTY
 
-Last updated at 12/02/2020 11:29
+Last updated at 12/02/2020 11:33
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
