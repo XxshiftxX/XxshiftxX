@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
-    <img width="300" src="https://lh3.googleusercontent.com/5GuwOneDpL7vkguvxQ4JT6eKIkihJG_frHSsWlC7pGZigAba1MKTCe_rF56BneNQXVZ7RuZEI-sKmaA">
+  <a href="https://music.youtube.com/channel/UCXJNxFmv5DA7OlNFADVOz0g">
+    <img width="300" src="https://lh3.googleusercontent.com/9Q69XAZOl8dm1DBE19W8Gb-SneQUI4jdBggWQBKH41tcRZCQq-IvtYFNx7-qcpEw9J5kq67feyiFwn7OtA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - It's okay even for a moment at dawn(피처링: jerd)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>offonoff(오프온오프) - Photograph</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>It's okay even for a moment at dawn</b>
+  on <b>photograph</b>
   
   <br />
   <br />
-  12/02/2020 14:53 Playing on YTMusic
+  12/02/2020 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
