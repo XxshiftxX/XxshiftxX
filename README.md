@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">](https://music.youtube.com/channel/UCoERzGw4bv2nRMoMOJFwmkQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_8Nl0a2eDz8h7R0OvgFJ1lIMlmKckCo-NgxYACLSn6yR4-y3QvR0d21emdylZv-96aUO-XvSrYzS9dc">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))
+염따 - BENTLEY 1.5
 
-**Albums**: EVERYTHING
+**Albums**: BENTLEY 1.5
 
-Last updated at 12/02/2020 09:23
+Last updated at 12/02/2020 09:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
