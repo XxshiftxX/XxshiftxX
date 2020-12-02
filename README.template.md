@@ -8,7 +8,7 @@
   <br>
   🎵&nbsp&nbsp&nbsp <b>{CURRENT_PLAYING_ARTISTS} - {CURRENT_PLAYING_NAME}</b> &nbsp&nbsp&nbsp🎵
   <br>
-  ON {CURRENT_PLAYING_ALBUM}
+  on <b>{CURRENT_PLAYING_ALBUM}</b>
   
   <br />
   <br />
