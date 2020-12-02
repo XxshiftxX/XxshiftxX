@@ -12,9 +12,7 @@
   
   <br />
   <br />
-  {CURRENT_PLAYING_LAST_UPDATED}
-  <br />
-  Playing on {CURRENT_PLAYING_SOURCE}
+  {CURRENT_PLAYING_LAST_UPDATED} Playing on {CURRENT_PLAYING_SOURCE}
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
