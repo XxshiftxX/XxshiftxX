@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AYkPq8BnP4i93P32WrpnsH0J8nZHzLzzx_ZI-Zk_d18An9Ui6JGGs-Mj4R0CSbcIqvOa-RY-la9RrGDf">](https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
 
-저스디스 - Gone
+Yumdda - hanadoo(피처링: Zion.T)
 
-**Albums**: Re: Tired.
+**Albums**: Breathe 3
 
-Last updated at 12/02/2020 13:13
+Last updated at 12/02/2020 13:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
