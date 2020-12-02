@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/e0kaxY0gm0WcUCtDfLv1BfiX4P-iygIN4_bvu0b05wRavY2oO9MllrtbjmBawhjfLti6TnYfuR4-btpTpQ">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli - Boss Thang(피처링: Young B)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - SUPERBEEWHY(피처링: BewhY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 777 Final</b>
+  on <b>Show Me the Money 777 Semi Final</b>
   
   <br />
   <br />
-  12/02/2020 14:07 Playing on YTMusic
+  12/02/2020 14:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
