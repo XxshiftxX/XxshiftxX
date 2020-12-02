@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/faTXPW2kiuZ4JPRqbQWiOk6gsjjmKlV6VLweLVpeY37M8TSJ2wJWo6ROn6EMr2CdQA3zYVCh90-jQgLc">](https://music.youtube.com/channel/UCVNOAagoYw6DIY39X-81oJw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/quN2WPMLxcP3OAbm1KEGsEGUYbbMdeqtOF1u4fKa-wpj17d0PfIltzdbzBL5_cY8rlYjpe_nKh7ahmYQ">](https://music.youtube.com/channel/UCJfKcDBzYK5d0Qs-fb43OnQ)
 
-Gemimi - Going
+DEAN(딘) - instagram
 
-**Albums**: Going
+**Albums**: instagram
 
-Last updated at 12/02/2020 10:45
+Last updated at 12/02/2020 10:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
