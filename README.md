@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/6wtEqdF77OnuxhPHMmp2LZ2OPsyU2xjLd7KmX0DKtZYwLUCJgWSv4ZqP61S0qRAOUJE81McXh63F5D1b_Q">](https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/i9uJ6wlxR_oFCRCcvUGp1AG4ag5a3k4LRCWKiWkOMHh1cn3iDJV2WvUN3EHSYvnkmbygjTJugf27o5Xgsg">](https://music.youtube.com/channel/UC_3AeIAcbi01OChGkTanuuQ)
 
-pH-1 - Hate You(피처링: 우원재)
+Viceversa - LIT RED
 
-**Albums**: Hate You (From "Show Me the Money 7, Episode 2")
+**Albums**: "Incomplete"
 
-Last updated at 12/02/2020 13:06
+Last updated at 12/02/2020 13:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
