@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/e0kaxY0gm0WcUCtDfLv1BfiX4P-iygIN4_bvu0b05wRavY2oO9MllrtbjmBawhjfLti6TnYfuR4-btpTpQ">
+  <a href="https://music.youtube.com/channel/UCPJE3mXvKJlwVxA-asfU6FA">
+    <img width="300" src="https://lh3.googleusercontent.com/TgEnZvZ4pWgTyyrKqlgnV6FcjG_6yN79fexd1zcdJFY3si-AK5KYElMlanfe8YDwiwSBBm7YDLwU9Do">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli - Goals(피처링: Paloalto, Hoody)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>올티(Olltii) - Cypherpath(피처링: 허클베리피, 조원우)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 777 Final</b>
+  on <b>Cypherpath</b>
   
   <br />
   <br />
-  12/02/2020 13:49 Playing on YTMusic
+  12/02/2020 13:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
