@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/MUdlyRfE_f1VEVOaB6LYlX7AUo7fpe8u6LRqmueZ8Ur-AaJz-X_DAj7jf-wIA8WiUBQ90c0cljdywT9KLw">](https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/dKFeSqdr0pkC9gB7-CpupRfKhSS_Q6102MkIkimT5muHVR1fhjZ7VLHXqlDPIazsLbP7BJ-fkkUUCzTB">](https://music.youtube.com/channel/UC40bAhduiI5dXS6Skp3aH5Q)
 
-Swings - Upgrade 2020(피처링: Paloalto)
+지코 ZICO - I Am You, You Are Me
 
-**Albums**: Show Me the Money 9 Episode 2
+**Albums**: Break up 2 Make Up
 
-Last updated at 12/02/2020 09:30
+Last updated at 12/02/2020 09:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
