@@ -2,19 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/channel/UCK9DGUQe7gzpvFayfJ5wGFw">
+    <img width="300" src="https://lh3.googleusercontent.com/dav8he9Co-ohwCoPVgEmdbNtMmndyWRUpenlzMxifyyabumK3pzgV1GcdxkEsSY6dx_riXG8JeiCtztDDg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Swings, Mckdaddy, Layone 및 Khakii - Want It(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>죠지 - Boat</b> &nbsp&nbsp&nbsp🎵
   <br>
-  ON Show Me the Money 9 Episode 1
+  on <b>Boat</b>
   
   <br />
   <br />
-  12/02/2020 13:30
-  <br />
-  Playing on YTMusic
+  12/02/2020 13:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
