@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QaBzLKxxurL-7hlJe7D33zTTbjgOGuIu_bB81Ni6zljQx_d87y3-5XGxJfXtqo8n8lExxGzEhK8pdVkiWg">](https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">](https://music.youtube.com/browse/MPREb_M6Fq20eOK5e)
 
-창모(CHANGMO) - GJD
+pH-1, 김하온(HAON), 우디고차일드(Woodie Gochild) , 박재범, Sik-K(식케이), TRADE L 및 빅나티 - Teléfono Remix
 
-**Albums**: GJD
+**Albums**: H1GHR : RED TAPE
 
-Last updated at 12/02/2020 11:26
+Last updated at 12/02/2020 11:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
