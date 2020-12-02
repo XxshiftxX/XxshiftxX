@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCt0DL6mxwl5As1B5eFJO2tQ">
-    <img width="300" src="https://lh3.googleusercontent.com/JYSp8V9gMF2xxvLqoQGUhsFZk0zuGVWmTH9Au1naSK2IQ5PCakhvy3tzIM6e_aktmzlG1SV92GfCY5no">
+  <a href="https://music.youtube.com/channel/UChqpu_SK_JuQBwahc8vGgzg">
+    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>크러쉬(Crush) - Cereal(피처링: 지코(ZICO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>나플라(nafla) - Sunbbang(피처링: 개코, 기리보이(Giriboy))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>wonderlost</b>
+  on <b>Show Me the Money 777 Semi Final</b>
   
   <br />
   <br />
-  12/02/2020 13:57 Playing on YTMusic
+  12/02/2020 14:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
