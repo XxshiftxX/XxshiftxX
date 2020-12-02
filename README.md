@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UChqpu_SK_JuQBwahc8vGgzg">
-    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
+  <a href="https://music.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA">
+    <img width="300" src="https://lh3.googleusercontent.com/GRtWYVGG6X3wcPQXzvVr6gWZi2C9xjkk7jmT6U21lQEWpy83ruQU1G9ehzS5QAOYWA9ecWLAVXsSXpuE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나플라(nafla) - Sunbbang(피처링: 개코, 기리보이(Giriboy))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>우원재 - JOB(피처링: 타이거JK, 김아일)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 777 Semi Final</b>
+  on <b>BLACK OUT</b>
   
   <br />
   <br />
-  12/02/2020 14:01 Playing on YTMusic
+  12/02/2020 14:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
