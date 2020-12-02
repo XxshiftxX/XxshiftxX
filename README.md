@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCPJE3mXvKJlwVxA-asfU6FA">
-    <img width="300" src="https://lh3.googleusercontent.com/PaH88LJS6yCfgiv9LvfYoybpIEc03ryzxbCf4bj64LuSTt2I4E2awQ0hCFgkdzCmSSAYEmTCFqL5-sGiTw">
+  <a href="https://music.youtube.com/channel/UCsJRAXDDdBvZI9RViSV2j4Q">
+    <img width="300" src="https://lh3.googleusercontent.com/cslxPYwAbjWEPeK4eDopukdgDnlXeh8mJlk1GrFliYc8qxbzIJ5pvqIJ8Qak7HS5vdzL0-mjQw6wUKgQPA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>올티 (Olltii) - Money</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>강현준(Lil tachi) 및 김호진(HOTCHKISS) - Snow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Obvious Money Talk</b>
+  on <b>School Rapper3 Team-Battle, Pt. 1</b>
   
   <br />
   <br />
-  12/02/2020 15:00 Playing on YTMusic
+  12/02/2020 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
