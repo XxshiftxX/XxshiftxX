@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
-    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
+  <a href="https://music.youtube.com/channel/UCt0DL6mxwl5As1B5eFJO2tQ">
+    <img width="300" src="https://lh3.googleusercontent.com/6M1xdmOcnd_Z0I-mIw-PH6yYj4yPLotp2eWNNxYFGwkm1GAkrciqIBWliBwYu40tzRYMQkzto-qtWPQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(피처링: 에이 부기 윗 다 후디)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CRUSH - 잊어버리지마(피처링: 태연(TAEYEON))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Q Day Remixes</b>
+  on <b>잊어버리지마</b>
   
   <br />
   <br />
-  12/02/2020 14:45 Playing on YTMusic
+  12/02/2020 14:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
