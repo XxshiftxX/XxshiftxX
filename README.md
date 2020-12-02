@@ -2,15 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  [<img width="300" src="https://lh3.googleusercontent.com/ziNZ3-faTXuaS9pUCTJGh0U7CRVlhc3bVuLcdGINcr4oEMLEor9vvrMKreRVRuJ4Vogjk8b9_-E5qW3V">](https://music.youtube.com/channel/UCfXo9-l8ZFFCM29zu7SQ96w)
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉, 그레이 및 원 - Comfortable</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Swings, Mckdaddy, Layone 및 Khakii - Want It(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  ON Show Me the Money 5 Episode 2
+  ON Show Me the Money 9 Episode 1
   
   <br />
   <br />
-  12/02/2020 13:28
+  12/02/2020 13:30
   <br />
   Playing on YTMusic
   <br />
