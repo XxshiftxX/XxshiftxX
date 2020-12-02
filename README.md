@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">](https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/WBYrnGWgjgAxhRnWQ-p4Zx_P4aKiX3QxzldNaidWlUVLo7-qjg53nVfDMR7XJK8VU5u4OcbWQ7R7r3TsTw">](https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g)
 
-Yumdda - hanadoo(피처링: Zion.T)
+Kid Milli - Change(피처링: GRAY)
 
-**Albums**: Breathe 3
+**Albums**: Show Me the Money 777 (Episode 4)
 
-Last updated at 12/02/2020 13:16
+Last updated at 12/02/2020 13:20
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
