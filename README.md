@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/AmeJVWsrCAv5WUN27M0ZEMBUDqXY7F4eP2Qm3Y6EjSfJTtzCSzgf_UT-5sloJCqFIueP3cD_yePtBdgg">](https://music.youtube.com/channel/UC7dG-UHeOXI38CgAFPz-W5g)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">](https://music.youtube.com/channel/UCoERzGw4bv2nRMoMOJFwmkQ)
 
-블루 - 달의아이
+웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))
 
-**Albums**: It's not Love I'm just Drunk
+**Albums**: EVERYTHING
 
-Last updated at 12/02/2020 11:56
+Last updated at 12/02/2020 11:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
