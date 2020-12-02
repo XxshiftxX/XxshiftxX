@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw">
-    <img width="300" src="https://lh3.googleusercontent.com/U9XGkPqK_E641rD0cVTdiE_BUTrCdc1nqgoI2IdavqBH7A7hoga_F9xNdzRDjwqXDd-HsXlQkTWWqR9q">
+  <a href="https://music.youtube.com/channel/UCDG5Gd2xB3sQwVcciOQlnwg">
+    <img width="300" src="https://lh3.googleusercontent.com/QlIQaNqGk3BiuMFxLCglVc4QodpY0C519JIlzOopVbNGVlsJ4sKKLJ0JXoanhaYlPrTeJ148MYjEcDJS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이) - Is It Love?(피처링: MOON)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Colde (콜드) - 와르르 ♥</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Is It Love?</b>
+  on <b>Love Part 1</b>
   
   <br />
   <br />
-  12/02/2020 14:34 Playing on YTMusic
+  12/02/2020 14:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
