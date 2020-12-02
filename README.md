@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
-    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
+  <a href="https://music.youtube.com/channel/UCa6xaGioOMH9tlLNlPI7OMQ">
+    <img width="300" src="https://lh3.googleusercontent.com/1I0xj3D_rWQa0V0a8CwokClrauqp-YgI7ClE-I1OC-TRzS5G8hjX5Jqk4dFU5cMfJ3oceghuLMDvtoIBYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - SUPERBEEWHY(피처링: BewhY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HAON - NOAH(피처링: Jay Park, Hoody)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 777 Semi Final</b>
+  on <b>TRAVEL: NOAH</b>
   
   <br />
   <br />
-  12/02/2020 14:11 Playing on YTMusic
+  12/02/2020 14:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
