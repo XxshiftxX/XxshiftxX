@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCfXo9-l8ZFFCM29zu7SQ96w">
-    <img width="300" src="https://lh3.googleusercontent.com/6-iWv6YqjBQylxtHHfA5aPoBYMwX7nx1IajfU6HYVHOSQ4aYDPOB2Oy-S7Dt0hjvWu2Gaa-aUN8jI5Mn">
+  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
+    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - GOTT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피(Loopy) - NoNo(피처링: 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>No Open Flames</b>
+  on <b>Show Me the Money 777 Semi Final</b>
   
   <br />
   <br />
-  12/02/2020 15:12 Playing on YTMusic
+  12/02/2020 15:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
