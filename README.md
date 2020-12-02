@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/dKFeSqdr0pkC9gB7-CpupRfKhSS_Q6102MkIkimT5muHVR1fhjZ7VLHXqlDPIazsLbP7BJ-fkkUUCzTB">](https://music.youtube.com/channel/UC40bAhduiI5dXS6Skp3aH5Q)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/-aB03JZvL8GfZ9gKAbMl6GvMKK43f6-ICu8EX2Pi7gB6s3L73SVzrAjeu3p0iEzmt6Lzi9jKo3NDa3P_">](https://music.youtube.com/channel/UCJfKcDBzYK5d0Qs-fb43OnQ)
 
-지코 ZICO - I Am You, You Are Me
+DEAN - D (Half Moon)(피처링: Gaeko)
 
-**Albums**: Break up 2 Make Up
+**Albums**: 130 Mood : TRBL
 
-Last updated at 12/02/2020 09:34
+Last updated at 12/02/2020 09:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
