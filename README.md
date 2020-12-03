@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA">
-    <img width="300" src="https://lh3.googleusercontent.com/ei1OYvJUsm8lk5nVcZv3yU-u1g4t-WAHHLLTILD0a_lUXqoQXRyhntQX72ntuvyp9NW3pHhMO5ufNYpg">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/QLqZPL_XzdZbF5AGMflXj1uaUofnA2j8RzE1NjQ2BJXdEm6lksRk_KeQc194VzkxtU4QnrcqzelFB7eg5A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오 - Hemi's room(피처링: 오혁(OhHyuk))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - 5 Gawd</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Hemi's Room</b>
+  on <b>How to be A HappyBoy</b>
   
   <br />
   <br />
-  12/03/2020 16:15 Playing on YTMusic
+  12/03/2020 16:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
