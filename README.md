@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
-    <img width="300" src="https://lh3.googleusercontent.com/e0kaxY0gm0WcUCtDfLv1BfiX4P-iygIN4_bvu0b05wRavY2oO9MllrtbjmBawhjfLti6TnYfuR4-btpTpQ">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/7vgDRyzycOhSoeuj6aPKIhC1d4_gn9BFxt7DO03E8p0Bg8RY9Y2HZpYMNnn9hnaOHvpIV7-KgVbeRD_a">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Loopy - V(피처링: Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - G+Jus Freestyle (From "Show Me The Money 9 Special")</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 777 Final</b>
+  on <b>G+Jus Freestyle (From "Show Me The Money 9 Special")</b>
   
   <br />
   <br />
-  12/03/2020 12:06 Playing on YTMusic
+  12/03/2020 12:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
