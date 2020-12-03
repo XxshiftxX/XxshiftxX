@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
-    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
+  <a href="https://music.youtube.com/channel/UCa6xaGioOMH9tlLNlPI7OMQ">
+    <img width="300" src="https://lh3.googleusercontent.com/MMowI9GtznoW-LF5zUabUADXVQEyuzZR7NoOFJZqWMz4q3QNUisDfbPDTnekk09pi8SPyWDCEn0u9Z8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Like Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김하온(HAON) - BwB</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>HALO</b>
+  on <b>BwB</b>
   
   <br />
   <br />
-  12/03/2020 16:07 Playing on YTMusic
+  12/03/2020 16:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
