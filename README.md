@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCJfKcDBzYK5d0Qs-fb43OnQ">
-    <img width="300" src="https://lh3.googleusercontent.com/quN2WPMLxcP3OAbm1KEGsEGUYbbMdeqtOF1u4fKa-wpj17d0PfIltzdbzBL5_cY8rlYjpe_nKh7ahmYQ">
+  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
+    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DEAN(딘) - instagram</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, Kid Milli, NO:EL 및 Swings - Work Out</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>instagram</b>
+  on <b>IM</b>
   
   <br />
   <br />
-  12/03/2020 16:36 Playing on YTMusic
+  12/03/2020 16:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
