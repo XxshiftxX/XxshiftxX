@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
-    <img width="300" src="https://lh3.googleusercontent.com/hOwTK2Y7Dy4twakFfgZGNRAXtgkp_UBqe7OK_sRDv0dGCZpoC8iWyJvoGk765LmwsaB-qynjpucFvQVd">
+  <a href="https://music.youtube.com/channel/UCDG5Gd2xB3sQwVcciOQlnwg">
+    <img width="300" src="https://lh3.googleusercontent.com/WCFYRBaSe2rDgsUMb7JCrffKpvCr5ptvsfi9GDjMSGNBdYWfoRt1LzXexu7yYsrFWk-wl7tsuCLFx8c">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Homebody</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Colde (콜드) - String(피처링: 선우정아)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>staying</b>
+  on <b>Wave</b>
   
   <br />
   <br />
-  12/03/2020 16:21 Playing on YTMusic
+  12/03/2020 16:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
