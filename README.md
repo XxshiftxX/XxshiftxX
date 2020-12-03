@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
-    <img width="300" src="https://lh3.googleusercontent.com/1MSnAGIMFn8Rcm7rZQr84h9VO7EM5U1L9-gntMAPfcYyOJywtlbR0wOEsj7SwjVH0Sw2Hf2hL6vRsjP4TQ">
+  <a href="https://music.youtube.com/channel/UCNouwu3pD7Wyxivan-LHepA">
+    <img width="300" src="https://lh3.googleusercontent.com/goonHGAJo3EwQLROC3V4UhZy_Yhu4W5n7AyAa8w_yjB_as0aceO4tplbqUyfJkZqM8ofmoZyOfVszQA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai - 띵 (Prod. By 기리보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Rad Museum - Cloud(피처링: Colde (콜드), 펀치넬로(punchnello), 미소)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Dingo X Indigo Music</b>
+  on <b>Scene</b>
   
   <br />
   <br />
-  12/03/2020 14:26 Playing on YTMusic
+  12/03/2020 14:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
