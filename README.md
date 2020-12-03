@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/tUNZ57vAPKygLyIhL6VON2E42U2YHFMDPNrZz6AAdDIA8QqdCoTEfBOcaf9iEQ2EMVlIaEFuXObLtXc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Swings, Mckdaddy, Layone 및 Khakii - Want It(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE 및 Uneducated Kid - 문제아 (Full Version)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 1</b>
+  on <b>Catch Me If You Can</b>
   
   <br />
   <br />
-  12/03/2020 14:56 Playing on YTMusic
+  12/03/2020 15:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
