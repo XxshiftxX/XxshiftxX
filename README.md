@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
-    <img width="300" src="https://lh3.googleusercontent.com/BQ6rsQPMjLCsWzOMysPUc3yi9v1AFMjmJgibiuW3hj6KkfJ9M-feKOa0FnII-mpufcVfqcke8VAuLskQ">
+  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
+    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>원슈타인 - It's me !</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Like Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ZOO</b>
+  on <b>HALO</b>
   
   <br />
   <br />
-  12/03/2020 16:04 Playing on YTMusic
+  12/03/2020 16:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
