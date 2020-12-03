@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC9dIQRHQwB6cvfymHRvJ7mA">
-    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
+  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
+    <img width="300" src="https://lh3.googleusercontent.com/9YFoZ8bQtTdX1P0H3e-tHskonaO5Alwc7qW9Q5hPUkFhO69g98mv5IbjW-zggs2QowoOgDAS7OdAq_E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Big Naughty - 문제 Problems(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피 (Loopy) - Save(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 8 Episode 4</b>
+  on <b>Show Me the Money 777 Episode 3</b>
   
   <br />
   <br />
-  12/03/2020 11:49 Playing on YTMusic
+  12/03/2020 11:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
