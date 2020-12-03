@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw">
-    <img width="300" src="https://lh3.googleusercontent.com/yQcCBh6_r2cL1wl69JLl_sbTrfr-VWR7sIBYvsUSfhYf6guhHMcdXk3wbxzSZ9ynoGrjjdnn13CN9vg">
+  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
+    <img width="300" src="https://lh3.googleusercontent.com/e0kaxY0gm0WcUCtDfLv1BfiX4P-iygIN4_bvu0b05wRavY2oO9MllrtbjmBawhjfLti6TnYfuR4-btpTpQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이) - WHY YOU?</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Loopy - V(피처링: Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>WHY YOU?</b>
+  on <b>Show Me the Money 777 Final</b>
   
   <br />
   <br />
-  12/03/2020 12:03 Playing on YTMusic
+  12/03/2020 12:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
