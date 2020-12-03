@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
-    <img width="300" src="https://lh3.googleusercontent.com/9YFoZ8bQtTdX1P0H3e-tHskonaO5Alwc7qW9Q5hPUkFhO69g98mv5IbjW-zggs2QowoOgDAS7OdAq_E">
+  <a href="https://music.youtube.com/channel/UCXJNxFmv5DA7OlNFADVOz0g">
+    <img width="300" src="https://lh3.googleusercontent.com/JeDd3coRHSBktXIdO2DO-FyAXdNDtpRC5R7BMtSIUjbrS6TZEwtZ6lLWo1DOtPM1XeUqPJYVydr8fe4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>루피 (Loopy) - Save(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>offonoff(오프온오프) - bath</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 777 Episode 3</b>
+  on <b>bath</b>
   
   <br />
   <br />
-  12/03/2020 11:53 Playing on YTMusic
+  12/03/2020 11:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
