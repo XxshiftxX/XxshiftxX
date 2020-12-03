@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCNouwu3pD7Wyxivan-LHepA">
-    <img width="300" src="https://lh3.googleusercontent.com/goonHGAJo3EwQLROC3V4UhZy_Yhu4W5n7AyAa8w_yjB_as0aceO4tplbqUyfJkZqM8ofmoZyOfVszQA">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Rad Museum - Cloud(피처링: Colde (콜드), 펀치넬로(punchnello), 미소)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Swings, Mckdaddy, Layone 및 Khakii - Want It(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Scene</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  12/03/2020 14:50 Playing on YTMusic
+  12/03/2020 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
