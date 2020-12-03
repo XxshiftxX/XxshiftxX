@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
-    <img width="300" src="https://lh3.googleusercontent.com/QLqZPL_XzdZbF5AGMflXj1uaUofnA2j8RzE1NjQ2BJXdEm6lksRk_KeQc194VzkxtU4QnrcqzelFB7eg5A">
+  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
+    <img width="300" src="https://lh3.googleusercontent.com/hOwTK2Y7Dy4twakFfgZGNRAXtgkp_UBqe7OK_sRDv0dGCZpoC8iWyJvoGk765LmwsaB-qynjpucFvQVd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - 5 Gawd</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Homebody</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>How to be A HappyBoy</b>
+  on <b>staying</b>
   
   <br />
   <br />
-  12/03/2020 16:18 Playing on YTMusic
+  12/03/2020 16:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
