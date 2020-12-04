@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
+  <a href="https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ">
+    <img width="300" src="https://lh3.googleusercontent.com/UYvUDadIT43Fbpx4PwrGUdMNbyFGnOkcu5BtGjUbI_wdd1cw74XFneSZhuNNZbu30WN8y3ZYXv7pHLMXFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>디보 - I Could Do Dead(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Swoosh Flow (Remix)</b>
+  on <b>I Could Do Dead</b>
   
   <br />
   <br />
-  12/04/2020 16:17 Playing on YTMusic
+  12/04/2020 16:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
