@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
+  <a href="https://music.youtube.com/channel/UCO4p2LbFEEF1HKm4HnUVjfg">
+    <img width="300" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>양홍원 - Business class(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Swoosh Flow (Remix)</b>
+  on <b>Stranger</b>
   
   <br />
   <br />
-  12/04/2020 13:13 Playing on YTMusic
+  12/04/2020 13:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
