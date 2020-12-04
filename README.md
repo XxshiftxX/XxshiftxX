@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC_3AeIAcbi01OChGkTanuuQ">
-    <img width="300" src="https://lh3.googleusercontent.com/i9uJ6wlxR_oFCRCcvUGp1AG4ag5a3k4LRCWKiWkOMHh1cn3iDJV2WvUN3EHSYvnkmbygjTJugf27o5Xgsg">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/AYkPq8BnP4i93P32WrpnsH0J8nZHzLzzx_ZI-Zk_d18An9Ui6JGGs-Mj4R0CSbcIqvOa-RY-la9RrGDf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Viceversa - LIT RED</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - Gone</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>"Incomplete"</b>
+  on <b>Re: Tired.</b>
   
   <br />
   <br />
-  12/04/2020 16:32 Playing on YTMusic
+  12/04/2020 16:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
