@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - Acrobat 곡예사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Acrobat 곡예사</b>
+  on <b>Swoosh Flow (Remix)</b>
   
   <br />
   <br />
-  12/04/2020 13:57 Playing on YTMusic
+  12/04/2020 16:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
