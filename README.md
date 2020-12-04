@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCn6FYFhIQLgA7qVKHuhKrZw">
-    <img width="300" src="https://lh3.googleusercontent.com/OtykJKiypU0vGTYJQg1BnuMsnp55vUpM8fJRNzDDHXFEkRAdzCtDxtXLK-Bk0isdw6_OhJrPISmQhyl2">
+  <a href="https://www.youtube.com/channel/UCVZwtg0UzSN0PxiU92S6Q2A">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwng2itrkZIv5tfc0OVF0s_Bqw14QkeFWZFkoKqOU=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블랙넛 - 100(피처링: Nochang)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sam Kim - Toy Soldier : 가짜사나이2 Theme song (Demo ver.)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>100</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  12/04/2020 11:37 Playing on YTMusic
+  12/04/2020 11:40 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
