@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCSTcnwyNcgD3BZo3WE7Yhmw">
-    <img width="300" src="https://lh3.googleusercontent.com/LOemTcDvp8VQ677XXLPDud_e2qa2nXJ5nXNyKqwnlRiqHLMRM65OeJ-fMZIs9ThzHs5UWisD8mpguJzv">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ease Is Easy - Aago</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Aago</b>
+  on <b>Swoosh Flow (Remix)</b>
   
   <br />
   <br />
-  12/04/2020 16:59 Playing on YTMusic
+  12/04/2020 18:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
