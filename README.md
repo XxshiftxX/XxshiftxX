@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA">
-    <img width="300" src="https://i.ytimg.com/vi/akhmS1D2Ce4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCjkJFiodfnRldYT7isvnckw">
+    <img width="300" src="https://lh3.googleusercontent.com/b0yrROVAPDoUcBdVu1Ka49HlJ8bNzPP-tL8AiZJZcA60WIohX3Sfs-vBc0Ng5ILXV35hIgw0vzWm9Mc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Spinnin' Records - Lana Del Rey vs Cedric Gervais 'Summertime Sadness' Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>메스토 및 마이크 윌리엄스 - Wait Another Day</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 1.4억회</b>
+  on <b>Wait Another Day</b>
   
   <br />
   <br />
-  12/04/2020 10:30 Playing on YTMusic
+  12/04/2020 10:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
