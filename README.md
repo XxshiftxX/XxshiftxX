@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
+  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
+    <img width="300" src="https://lh3.googleusercontent.com/9YFoZ8bQtTdX1P0H3e-tHskonaO5Alwc7qW9Q5hPUkFhO69g98mv5IbjW-zggs2QowoOgDAS7OdAq_E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피 (Loopy) - Save(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>IM</b>
+  on <b>Show Me the Money 777 Episode 3</b>
   
   <br />
   <br />
-  12/04/2020 11:01 Playing on YTMusic
+  12/04/2020 11:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
