@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw">
-    <img width="300" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">
+  <a href="https://music.youtube.com/channel/UC_3AeIAcbi01OChGkTanuuQ">
+    <img width="300" src="https://lh3.googleusercontent.com/i9uJ6wlxR_oFCRCcvUGp1AG4ag5a3k4LRCWKiWkOMHh1cn3iDJV2WvUN3EHSYvnkmbygjTJugf27o5Xgsg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Han Yo Han - TO ALL THE FAKE RAPSTARS (Remix)(피처링: Young B, NO:EL, JUSTHIS, Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Viceversa - BIH</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>엑시브</b>
+  on <b>"Incomplete"</b>
   
   <br />
   <br />
-  12/04/2020 13:50 Playing on YTMusic
+  12/04/2020 13:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
