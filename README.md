@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCO4p2LbFEEF1HKm4HnUVjfg">
-    <img width="300" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>양홍원 - Business class(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모, 해쉬 스완, ASH ISLAND 및 김효은 - 비워 (Beer) (Prod. Way Ched)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Stranger</b>
+  on <b>Dingo X Ambition Musik</b>
   
   <br />
   <br />
-  12/04/2020 13:42 Playing on YTMusic
+  12/04/2020 13:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
