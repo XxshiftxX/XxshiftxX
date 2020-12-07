@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCUJ9742BWNAZsjCIw9ElNJw">
-    <img width="300" src="https://i.ytimg.com/vi/ztVi_Y55YSw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCGuE0TrBNIZKfordUwAQe2w">
+    <img width="300" src="https://i.ytimg.com/vi/Azuhdk8jN-4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>타임피버 - 빌어먹을</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파 - 창모 (CHANGMO) - 광장동에서 [광장동에서]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 6.4천회</b>
+  on <b>조회수 38만회</b>
   
   <br />
   <br />
-  12/07/2020 16:23 Playing on YTMusic
+  12/07/2020 16:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
