@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://i.ytimg.com/vi/-s96Ofmvfrc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCGuE0TrBNIZKfordUwAQe2w">
+    <img width="300" src="https://i.ytimg.com/vi/CQ7fz_1eu38/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - 릴러말즈 (Leellamarz) & Panda Gomm - 신사 (Feat. 개코 & JUSTHIS) lyrics/가사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파 - 기리보이 - 우리서로사랑하지는말자 [영화같게]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 7.4만회</b>
+  on <b>조회수 62만회</b>
   
   <br />
   <br />
-  12/07/2020 15:43 Playing on YTMusic
+  12/07/2020 15:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
