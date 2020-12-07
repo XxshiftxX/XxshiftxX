@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCGuE0TrBNIZKfordUwAQe2w">
-    <img width="300" src="https://i.ytimg.com/vi/Azuhdk8jN-4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UC4YXkgp__Ev_3NZ9215MA6Q">
+    <img width="300" src="https://i.ytimg.com/vi/QO01wlIj0wo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>알파 - 창모 (CHANGMO) - 광장동에서 [광장동에서]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>최옹졸 - [Full Album] 쇼미더머니9 - Episode 3 (Mask On, Achoo, 번쩍, 뿌리, 내일이 오면, 부어라 비워라, 적외선 카메라)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 38만회</b>
+  on <b>조회수 3.9천회</b>
   
   <br />
   <br />
-  12/07/2020 16:27 Playing on YTMusic
+  12/07/2020 17:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
