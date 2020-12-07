@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCGuE0TrBNIZKfordUwAQe2w">
-    <img width="300" src="https://i.ytimg.com/vi/CQ7fz_1eu38/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCYptgDEx0q56AYYcFn--aTA">
+    <img width="300" src="https://i.ytimg.com/vi/Ll8p-z79ajk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>알파 - 기리보이 - 우리서로사랑하지는말자 [영화같게]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>윤훼이, 릴타치, 저스디스 및 양홍원 - 나쁜맛</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 62만회</b>
+  on <b>조회수 3만회</b>
   
   <br />
   <br />
-  12/07/2020 15:48 Playing on YTMusic
+  12/07/2020 15:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
