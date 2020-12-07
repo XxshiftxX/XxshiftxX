@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmzH63BsJ4qYpdJNDtlsjpQ">
-    <img width="300" src="https://i.ytimg.com/vi/kfHhJHwaARk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UC9Vqr5Eax-P92HKtljIsW0g">
+    <img width="300" src="https://i.ytimg.com/vi/ebaZsRRSCX4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>지올팍, 마미손, 김승민 및 원슈타인 - Noise</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>리릭뭉치 - [싱크 맞춤]지조 & 래원 & livur - 쇄빙선 [쇼미더머니8 Final]│가사, Lyrics</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 105만회</b>
+  on <b>조회수 34만회</b>
   
   <br />
   <br />
-  12/07/2020 16:14 Playing on YTMusic
+  12/07/2020 16:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
