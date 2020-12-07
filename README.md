@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://i.ytimg.com/vi/jd2DxTR0znU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCGuE0TrBNIZKfordUwAQe2w">
+    <img width="300" src="https://i.ytimg.com/vi/8OY5mgv9d40/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli, 저스디스, 장용준 및 양홍원 - IndiGO</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파 - M1NU, 래원, 베이니플, 서동현 - 급SICK (Prod. Grene Man) [쇼미더머니 8 Final - 특별무대]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 2716만회</b>
+  on <b>조회수 36만회</b>
   
   <br />
   <br />
-  12/07/2020 13:39 Playing on YTMusic
+  12/07/2020 13:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
