@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A">
-    <img width="300" src="https://i.ytimg.com/vi/sI9p6CP14PM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UC_3AeIAcbi01OChGkTanuuQ">
+    <img width="300" src="https://lh3.googleusercontent.com/i9uJ6wlxR_oFCRCcvUGp1AG4ag5a3k4LRCWKiWkOMHh1cn3iDJV2WvUN3EHSYvnkmbygjTJugf27o5Xgsg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Reol - Reol - 劣等上等 [Live at 侵攻アップグレード Tokyo] Midium ver</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Viceversa - LIT RED</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 428만회</b>
+  on <b>"Incomplete"</b>
   
   <br />
   <br />
-  12/08/2020 12:12 Playing on YTMusic
+  12/08/2020 12:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
