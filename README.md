@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
-    <img width="300" src="https://lh3.googleusercontent.com/BQ6rsQPMjLCsWzOMysPUc3yi9v1AFMjmJgibiuW3hj6KkfJ9M-feKOa0FnII-mpufcVfqcke8VAuLskQ">
+  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
+    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>원슈타인 - GOAT(피처링: 버벌진트)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 및 Jvcki Wai - KOCEAN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ZOO</b>
+  on <b>Maiden Voyage III</b>
   
   <br />
   <br />
-  12/08/2020 19:06 Playing on YTMusic
+  12/08/2020 19:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
