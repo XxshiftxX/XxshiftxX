@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC4YXkgp__Ev_3NZ9215MA6Q">
-    <img width="300" src="https://i.ytimg.com/vi/QO01wlIj0wo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>최옹졸 - [Full Album] 쇼미더머니9 - Episode 3 (Mask On, Achoo, 번쩍, 뿌리, 내일이 오면, 부어라 비워라, 적외선 카메라)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 3.9천회</b>
+  on <b>Swoosh Flow (Remix)</b>
   
   <br />
   <br />
-  12/07/2020 17:22 Playing on YTMusic
+  12/08/2020 12:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
