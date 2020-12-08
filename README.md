@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ">
-    <img width="300" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">
+  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
+    <img width="300" src="https://lh3.googleusercontent.com/BQ6rsQPMjLCsWzOMysPUc3yi9v1AFMjmJgibiuW3hj6KkfJ9M-feKOa0FnII-mpufcVfqcke8VAuLskQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(피처링: 이케이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>원슈타인 - GOAT(피처링: 버벌진트)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>One of Them</b>
+  on <b>ZOO</b>
   
   <br />
   <br />
-  12/08/2020 19:01 Playing on YTMusic
+  12/08/2020 19:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
