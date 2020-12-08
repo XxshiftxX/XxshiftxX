@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_Bf34UwjjIBi">
-    <img width="300" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">
+  <a href="https://music.youtube.com/channel/UCUPi1vr_lp8cvBklKnyBBQA">
+    <img width="300" src="https://lh3.googleusercontent.com/xX_FuBLBo7uPby8lLwow1G5EkL7qjj_3H1Zruw20eeZeVcFb9mEkLuim6lOYAmrrHkn5TULW0U-cGv9A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Just Music(스윙스, 기리보이, 천재노창, 씨잼(Cjamm)) - Rain Showers Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HD BL4CK - My Side(피처링: oceanfromtheblue(오션), ASH ISLAND, BRADYSTREET, 원슈타인)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Ripple Effect(파급효과)</b>
+  on <b>4</b>
   
   <br />
   <br />
-  12/08/2020 18:29 Playing on YTMusic
+  12/08/2020 18:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
