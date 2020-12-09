@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
-    <img width="300" src="https://lh3.googleusercontent.com/zqh1AE97SB3wkt_2_QNMOf6Es9NeBN6eAb8cJNN_8uTtNtj5d4OlCxrt7DJyRIxE0NTTKJCFWIWxr50">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>루피 - Gear 2</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>KING LOOPY</b>
+  on <b>Swoosh Flow (Remix)</b>
   
   <br />
   <br />
-  12/09/2020 10:38 Playing on YTMusic
+  12/09/2020 14:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
