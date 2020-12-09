@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmsWxSGPqsQFuSJutdlzmUw">
-    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
+  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
+    <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>EK - Diablo(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - IZAKAYA(피처링: Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 8 Episode 4</b>
+  on <b>AI, THE PLAYLIST</b>
   
   <br />
   <br />
-  12/09/2020 10:31 Playing on YTMusic
+  12/09/2020 10:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
