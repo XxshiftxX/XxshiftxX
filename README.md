@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC9dIQRHQwB6cvfymHRvJ7mA">
-    <img width="300" src="https://lh3.googleusercontent.com/oy43V7V6zXyMMvC6R6rGt3zDcACMteV7o_JrGWwWbpN9egw4rszd1GGrim8kW0DB4YwXOCeXk7e66aY">
+  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
+    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty - 시발점 Remix(피처링: Verbal Jint, Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(피처링: 에이 부기 윗 다 후디)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>시발점 Remix</b>
+  on <b>Q Day Remixes</b>
   
   <br />
   <br />
-  12/09/2020 14:27 Playing on YTMusic
+  12/09/2020 14:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
