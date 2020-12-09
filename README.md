@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">
+  <a href="https://music.youtube.com/channel/UC9dIQRHQwB6cvfymHRvJ7mA">
+    <img width="300" src="https://lh3.googleusercontent.com/oy43V7V6zXyMMvC6R6rGt3zDcACMteV7o_JrGWwWbpN9egw4rszd1GGrim8kW0DB4YwXOCeXk7e66aY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모, 해쉬 스완, ASH ISLAND 및 김효은 - 비워</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty - 시발점 Remix(피처링: Verbal Jint, Beenzino)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>비워</b>
+  on <b>시발점 Remix</b>
   
   <br />
   <br />
-  12/09/2020 14:23 Playing on YTMusic
+  12/09/2020 14:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
