@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCZxkyZg2AsJHZZkZqWKYUfg">
-    <img width="300" src="https://lh3.googleusercontent.com/C33Wq-dliOxMPWXO0ySFc_wsZbQCXXGWgIbqMWTgFJYfcKh85kGSAU59ThHTbwHv00khryOquRBx1Dg">
+  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
+    <img width="300" src="https://lh3.googleusercontent.com/8pnkUGJbmJ3qNmTdDJ9KJsFJqbtiDwpEv6Q9vxNWles5uVzl4A3840A4RKGOljFsRakgyd0yeI5iDcd8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마미손, 김승민, 원슈타인 및 Zior Park - Noise</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 이모힙합(피처링: 베이식, 이영지, 이케이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Noise</b>
+  on <b>이태원</b>
   
   <br />
   <br />
-  12/08/2020 19:14 Playing on YTMusic
+  12/09/2020 10:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
