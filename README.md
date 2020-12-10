@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
-    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/oUjCncoU4L0PvGiHmOxlBAHMgJLsp6kvHBl5ckQ-3-I7nUoCH-_Ln1pG-e7hwTyG5cinW_1tpUZm3BjIYA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(피처링: 에이 부기 윗 다 후디)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스, 키드밀리 및 매드 클라운 - Not Enough(피처링: 염따, pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Q Day Remixes</b>
+  on <b>Show Me the Money 8 Episode 1</b>
   
   <br />
   <br />
-  12/09/2020 14:31 Playing on YTMusic
+  12/10/2020 16:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
