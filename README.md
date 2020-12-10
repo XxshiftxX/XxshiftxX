@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
-    <img width="300" src="https://lh3.googleusercontent.com/oUjCncoU4L0PvGiHmOxlBAHMgJLsp6kvHBl5ckQ-3-I7nUoCH-_Ln1pG-e7hwTyG5cinW_1tpUZm3BjIYA">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/iGP5HeyZao8SD7kH7VC872iseyKldFaV1ceAxaUAGrWfe1M9fEu1SudK5YO3BPJjvHMTg1XZWsYWowODLQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스, 키드밀리 및 매드 클라운 - Not Enough(피처링: 염따, pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 아이야(피처링: Beenzino)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 8 Episode 1</b>
+  on <b>돈 벌 시간 3</b>
   
   <br />
   <br />
-  12/10/2020 16:41 Playing on YTMusic
+  12/10/2020 16:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
