@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
-    <img width="300" src="https://lh3.googleusercontent.com/7aClDnSaXczMU6jptT55xf6bs8MdKgFM5TemfkBMLfuxRBLEqNsnEgA_8WC6R4q4NRml0a7OMBxkfWK9cQ">
+  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
+    <img width="300" src="https://lh3.googleusercontent.com/Zcb7MtQPylAAJ1mBfAHBs45CF8iuxAy-5ORNl8f7Awf28paDz1iXsAGXkx0ivZmjGBbDPKOTc_Nxt7vl">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Watch(피처링: 블랙넛(Black Nut))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Paloalto, Swervy, H2ADIN 및 Huckleberry P - 한라산 (Hi-Lite Sign) (Prod. by Yosi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>[Levitate 1] Mixtape</b>
+  on <b>Dingo X Hi-Lite Records</b>
   
   <br />
   <br />
-  12/11/2020 18:07 Playing on YTMusic
+  12/11/2020 18:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
