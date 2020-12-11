@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_Bf34UwjjIBi">
-    <img width="300" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Just Music(스윙스, 기리보이, 천재노창, 씨잼(Cjamm)) - Rain Showers Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Ripple Effect(파급효과)</b>
+  on <b>IM</b>
   
   <br />
   <br />
-  12/11/2020 14:05 Playing on YTMusic
+  12/11/2020 17:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
