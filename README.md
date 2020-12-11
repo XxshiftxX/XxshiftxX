@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
+  <a href="https://music.youtube.com/browse/MPREb_Bf34UwjjIBi">
+    <img width="300" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Just Music(스윙스, 기리보이, 천재노창, 씨잼(Cjamm)) - Rain Showers Remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Swoosh Flow (Remix)</b>
+  on <b>Ripple Effect(파급효과)</b>
   
   <br />
   <br />
-  12/11/2020 13:18 Playing on YTMusic
+  12/11/2020 14:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
