@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/YcaUOgiPrDT4RYRAVLxGKVvd7gWDqAlIRAEaIsQTVL72VKdzSNLp38JhZ-o65RE5fHMYb5Z4x-0TZ-OX">
+  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
+    <img width="300" src="https://lh3.googleusercontent.com/zqh1AE97SB3wkt_2_QNMOf6Es9NeBN6eAb8cJNN_8uTtNtj5d4OlCxrt7DJyRIxE0NTTKJCFWIWxr50">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - Wewantourmoneyback(피처링: Young B, Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피 - Gear 2</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>졸업식</b>
+  on <b>KING LOOPY</b>
   
   <br />
   <br />
-  12/11/2020 18:22 Playing on YTMusic
+  12/11/2020 18:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
