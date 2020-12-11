@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCm8UEFhHUgn24DuHRFwa8mw">
-    <img width="300" src="https://lh3.googleusercontent.com/3LzAQXRLKesQfdPElBD7Ai7L4gvw-7DMZ1aSsQWZnCLE-TGkGEHzpxETNYH8MltTHtbsXQvnGAgLRQjc">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/htRTBgE5uolWV4XiufBQFfl_c6rtwmcU54fTbHsiknbL82_wzGy0phi5BEFuQZaaMgVualy1GVreBlsZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>캐모스타 (Camo Starr) - Break Bread</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Swings - Keep Going (Prod. By IOAH)(피처링: BewhY, Nafla, ZICO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Break Bread</b>
+  on <b>Keep Going</b>
   
   <br />
   <br />
-  12/11/2020 17:42 Playing on YTMusic
+  12/11/2020 17:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
