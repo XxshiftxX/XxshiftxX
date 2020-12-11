@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
-    <img width="300" src="https://lh3.googleusercontent.com/Zcb7MtQPylAAJ1mBfAHBs45CF8iuxAy-5ORNl8f7Awf28paDz1iXsAGXkx0ivZmjGBbDPKOTc_Nxt7vl">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/YcaUOgiPrDT4RYRAVLxGKVvd7gWDqAlIRAEaIsQTVL72VKdzSNLp38JhZ-o65RE5fHMYb5Z4x-0TZ-OX">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paloalto, Swervy, H2ADIN 및 Huckleberry P - 한라산 (Hi-Lite Sign) (Prod. by Yosi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - Wewantourmoneyback(피처링: Young B, Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Dingo X Hi-Lite Records</b>
+  on <b>졸업식</b>
   
   <br />
   <br />
-  12/11/2020 18:18 Playing on YTMusic
+  12/11/2020 18:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
