@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCUPi1vr_lp8cvBklKnyBBQA">
-    <img width="300" src="https://lh3.googleusercontent.com/xX_FuBLBo7uPby8lLwow1G5EkL7qjj_3H1Zruw20eeZeVcFb9mEkLuim6lOYAmrrHkn5TULW0U-cGv9A">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/7aClDnSaXczMU6jptT55xf6bs8MdKgFM5TemfkBMLfuxRBLEqNsnEgA_8WC6R4q4NRml0a7OMBxkfWK9cQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HD BL4CK - My Side(피처링: oceanfromtheblue(오션), ASH ISLAND, BRADYSTREET, 원슈타인)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Watch(피처링: 블랙넛(Black Nut))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>4</b>
+  on <b>[Levitate 1] Mixtape</b>
   
   <br />
   <br />
-  12/11/2020 18:03 Playing on YTMusic
+  12/11/2020 18:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
