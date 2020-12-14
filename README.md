@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA">
-    <img width="300" src="https://lh3.googleusercontent.com/-m5p86y-U865P2hO_l062rA2rvuaTsjJrQhzszq08kZrq52V7adsTfS8IhxkWs3hLT4wkQ6Y_mk1ILs">
+    <img width="300" src="https://lh3.googleusercontent.com/zCZo0qw6NIk6FLiw28u1zHo6zu_LeGaRL600pK5C3rx3PggWCW7C0xfKX6bKUnscAPDIYMXr6g7GaoalmA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Aimer(에메) - Brave Shine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Aimer(에메) - SPARK-AGAIN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Dawn</b>
+  on <b>SPARK-AGAIN</b>
   
   <br />
   <br />
-  12/14/2020 10:50 Playing on YTMusic
+  12/14/2020 10:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
