@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/oli_E9r5fyW7sCmVi7HV8jRKs9-fpyO5uAL1UF5QFsadhpBPWjgYH3lNXRBQ7T9UcsVg5FtomQz-0sX6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - WHAT THEY WANT(피처링: Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - LIT(피처링: 빈첸(VINXEN))</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>BAMBOOCLUB[B]</b>
   
   <br />
   <br />
-  12/14/2020 11:17 Playing on YTMusic
+  12/14/2020 11:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
