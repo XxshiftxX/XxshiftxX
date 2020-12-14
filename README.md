@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCsz35tVwzTPeYiadbFgd2bA">
-    <img width="300" src="https://lh3.googleusercontent.com/zqh1AE97SB3wkt_2_QNMOf6Es9NeBN6eAb8cJNN_8uTtNtj5d4OlCxrt7DJyRIxE0NTTKJCFWIWxr50">
+  <a href="https://music.youtube.com/channel/UC_gksw7NEueO_u3lPL372hA">
+    <img width="300" src="https://lh3.googleusercontent.com/db9bpfuDeAzihX2kkZCdmg0G1gngqtOxUm10d-GiapOHyYkr_y4qEp3rDjvH1XaxVTXIVwy245zBYfI_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>루피 - Gear 2</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Aimer(에메) - I beg you</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>KING LOOPY</b>
+  on <b>I beg you</b>
   
   <br />
   <br />
-  12/11/2020 18:25 Playing on YTMusic
+  12/14/2020 10:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
