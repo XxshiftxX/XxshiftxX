@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_AuxJ0vQcubv">
-    <img width="300" src="https://lh3.googleusercontent.com/0bkXoHSxryi_Gl5Ztg8wWYfL8AB8un4XR0JRCXN-ZwAVkm4OmMVvLK8Esp9myapSc-AIwVYrlXrUnsBzlw">
+  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
+    <img width="300" src="https://lh3.googleusercontent.com/BQ6rsQPMjLCsWzOMysPUc3yi9v1AFMjmJgibiuW3hj6KkfJ9M-feKOa0FnII-mpufcVfqcke8VAuLskQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Goretexx, GIRIBOY, Black Nut, BILL STAX, C Jamm, Nochang, Swings - 카니발갱</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>원슈타인 - GOAT(피처링: 버벌진트)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>우리효과 (We Effect)</b>
+  on <b>ZOO</b>
   
   <br />
   <br />
-  12/15/2020 11:15 Playing on YTMusic
+  12/15/2020 11:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
