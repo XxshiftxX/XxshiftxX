@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
-    <img width="300" src="https://lh3.googleusercontent.com/htRTBgE5uolWV4XiufBQFfl_c6rtwmcU54fTbHsiknbL82_wzGy0phi5BEFuQZaaMgVualy1GVreBlsZ">
+  <a href="https://music.youtube.com/channel/UCZxkyZg2AsJHZZkZqWKYUfg">
+    <img width="300" src="https://lh3.googleusercontent.com/C33Wq-dliOxMPWXO0ySFc_wsZbQCXXGWgIbqMWTgFJYfcKh85kGSAU59ThHTbwHv00khryOquRBx1Dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Swings - Keep Going (Prod. By IOAH)(피처링: BewhY, Nafla, ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손, 김승민, 원슈타인 및 Zior Park - Noise</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Keep Going</b>
+  on <b>Noise</b>
   
   <br />
   <br />
-  12/15/2020 11:05 Playing on YTMusic
+  12/15/2020 11:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
