@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/6anR6B6OWy137S8QCcaPWH64yI6EO_fOUeaKbLcSu1PMVZJD8rLaWb-k9mNgHv28uBiMLH-UAVrWVNsSwg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Reol - ミラージュ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Reol - 真空オールドローズ</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>事実上(Special edition)</b>
   
   <br />
   <br />
-  12/15/2020 18:06 Playing on YTMusic
+  12/15/2020 18:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
