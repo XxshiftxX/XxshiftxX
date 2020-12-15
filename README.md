@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ">
-    <img width="300" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/htRTBgE5uolWV4XiufBQFfl_c6rtwmcU54fTbHsiknbL82_wzGy0phi5BEFuQZaaMgVualy1GVreBlsZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(피처링: 이케이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Swings - Keep Going (Prod. By IOAH)(피처링: BewhY, Nafla, ZICO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>One of Them</b>
+  on <b>Keep Going</b>
   
   <br />
   <br />
-  12/15/2020 11:00 Playing on YTMusic
+  12/15/2020 11:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
