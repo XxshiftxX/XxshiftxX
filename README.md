@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
-    <img width="300" src="https://lh3.googleusercontent.com/oli_E9r5fyW7sCmVi7HV8jRKs9-fpyO5uAL1UF5QFsadhpBPWjgYH3lNXRBQ7T9UcsVg5FtomQz-0sX6">
+  <a href="https://music.youtube.com/channel/UC_3AeIAcbi01OChGkTanuuQ">
+    <img width="300" src="https://lh3.googleusercontent.com/i9uJ6wlxR_oFCRCcvUGp1AG4ag5a3k4LRCWKiWkOMHh1cn3iDJV2WvUN3EHSYvnkmbygjTJugf27o5Xgsg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - LIT(피처링: 빈첸(VINXEN))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Viceversa - LIT RED</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BAMBOOCLUB[B]</b>
+  on <b>"Incomplete"</b>
   
   <br />
   <br />
-  12/14/2020 11:21 Playing on YTMusic
+  12/15/2020 10:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
