@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://i.ytimg.com/vi/7eDx-dV2Xus/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
+    <img width="300" src="https://i.ytimg.com/vi/mNp370TTKJE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - 암순응</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kid Milli, Tommy Strate, 릴타치 및 저스디스 - BOY (Remix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 25만회</b>
+  on <b>조회수 2.2만회</b>
   
   <br />
   <br />
-  12/16/2020 11:01 Playing on YTMusic
+  12/16/2020 11:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
