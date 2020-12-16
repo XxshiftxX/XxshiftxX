@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw">
-    <img width="300" src="https://i.ytimg.com/vi/PZ5ZA2QxLpU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
+    <img width="300" src="https://i.ytimg.com/vi/dXzQnI3nwHQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>1theK (원더케이) - 실키보이즈</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - 회상록</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 441만회</b>
+  on <b>조회수 44만회</b>
   
   <br />
   <br />
-  12/16/2020 11:50 Playing on YTMusic
+  12/16/2020 11:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
