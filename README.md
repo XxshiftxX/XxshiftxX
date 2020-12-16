@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://i.ytimg.com/vi/2B7GHO7sws4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://i.ytimg.com/vi/zNzN84_pXh4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - Gone</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - vv 2 (Feat. Kid Milli, ChoiLB(최엘비), Kim Seungmin(김승민), Hayake)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 430만회</b>
+  on <b>조회수 239만회</b>
   
   <br />
   <br />
-  12/16/2020 10:53 Playing on YTMusic
+  12/16/2020 10:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
