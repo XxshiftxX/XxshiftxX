@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://i.ytimg.com/vi/rccM461vVmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://i.ytimg.com/vi/zOIshHfhwCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - THISISJUSTHIS Pt. II</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 염따(YUMDDA) - BENTLEY 1.5 (Official MV)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 1.5만회</b>
+  on <b>조회수 60만회</b>
   
   <br />
   <br />
-  12/16/2020 11:33 Playing on YTMusic
+  12/16/2020 11:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
