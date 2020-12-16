@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
-    <img width="300" src="https://i.ytimg.com/vi/eELnb74_4vU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://i.ytimg.com/vi/SdePCgFvgo8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - BLAME MY CIRCLE (feat. JUSTHIS, Owen) (prod. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - wewantourmoneyback (Prod. By Lemac)(피처링: Kid Milli, 양홍원)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 7.8만회</b>
+  on <b>조회수 272만회</b>
   
   <br />
   <br />
-  12/16/2020 11:41 Playing on YTMusic
+  12/16/2020 11:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
