@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A">
-    <img width="300" src="https://lh3.googleusercontent.com/nzHyvUsxUIKy45CgRcj8GrMz72OpmzKEMDzJQnIBPzZWjEiqHhBzhjUBV2VAiGuCVU_cmgpDxQ541lg">
+  <a href="https://music.youtube.com/channel/UCgPgDMjQay1KRjobwA_L22w">
+    <img width="300" src="https://i.ytimg.com/vi/MuLChReG20s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Reol - シンカロン</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>챙스타 - 27RING - 원기옥Genkidama RMX (feat Asol, Changstarr*, Basick, niahn, viceversa, QM, Jiho Givenchy) [MV]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>文明EP</b>
+  on <b>조회수 121만회</b>
   
   <br />
   <br />
-  12/15/2020 18:54 Playing on YTMusic
+  12/16/2020 10:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
