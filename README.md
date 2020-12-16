@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCgPgDMjQay1KRjobwA_L22w">
-    <img width="300" src="https://i.ytimg.com/vi/MuLChReG20s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCmzH63BsJ4qYpdJNDtlsjpQ">
+    <img width="300" src="https://i.ytimg.com/vi/kfHhJHwaARk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>챙스타 - 27RING - 원기옥Genkidama RMX (feat Asol, Changstarr*, Basick, niahn, viceversa, QM, Jiho Givenchy) [MV]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>지올팍, 마미손, 김승민 및 원슈타인 - Noise</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 121만회</b>
+  on <b>조회수 110만회</b>
   
   <br />
   <br />
-  12/16/2020 10:40 Playing on YTMusic
+  12/16/2020 10:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
