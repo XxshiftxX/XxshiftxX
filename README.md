@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://i.ytimg.com/vi/PUpk68IKchk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw">
+    <img width="300" src="https://i.ytimg.com/vi/4tdOzlB6I7w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - Grow back(피처링: 브라운티거)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>씨잼(C Jamm) - 신기루 (illusion)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 93만회</b>
+  on <b>조회수 2351만회</b>
   
   <br />
   <br />
-  12/16/2020 12:12 Playing on YTMusic
+  12/16/2020 12:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
