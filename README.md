@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ">
-    <img width="300" src="https://i.ytimg.com/vi/sx-XHtkMa7Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw">
+    <img width="300" src="https://i.ytimg.com/vi/PZ5ZA2QxLpU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>디보 - I Could Do Dead(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>1theK (원더케이) - 실키보이즈</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 45만회</b>
+  on <b>조회수 441만회</b>
   
   <br />
   <br />
-  12/16/2020 11:48 Playing on YTMusic
+  12/16/2020 11:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
