@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://lh3.googleusercontent.com/9h-nvN488B5KKEZHvYPb7iLXJ9L62tXwUtE5qHrK7cYrlWKfFpUeAjC1FwAGtk2W3DSKr6_08xNrGe4">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - That Ain't Real</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>That Ain't Real</b>
+  on <b>Gettin Money Moment</b>
   
   <br />
   <br />
-  12/17/2020 17:29 Playing on YTMusic
+  12/17/2020 17:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
