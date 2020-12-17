@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
+    <img width="300" src="https://lh3.googleusercontent.com/giypxyPDmkpXwgOA4BnQA1a5mv-DVEsIRMwSLMb2jmeyDe2Yk3MTZ-l_ZlSCReqGku9PxqLR-TgDWKYT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 - 보자보자</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Gettin Money Moment</b>
+  on <b>보자보자</b>
   
   <br />
   <br />
-  12/17/2020 17:32 Playing on YTMusic
+  12/17/2020 17:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
