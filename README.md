@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
-    <img width="300" src="https://lh3.googleusercontent.com/giypxyPDmkpXwgOA4BnQA1a5mv-DVEsIRMwSLMb2jmeyDe2Yk3MTZ-l_ZlSCReqGku9PxqLR-TgDWKYT">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 - 보자보자</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - 거울 (Mirror)(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>보자보자</b>
+  on <b>Rap Legend 2</b>
   
   <br />
   <br />
-  12/17/2020 17:36 Playing on YTMusic
+  12/17/2020 17:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
