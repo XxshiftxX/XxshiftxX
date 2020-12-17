@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
-    <img width="300" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/9h-nvN488B5KKEZHvYPb7iLXJ9L62tXwUtE5qHrK7cYrlWKfFpUeAjC1FwAGtk2W3DSKr6_08xNrGe4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Selfmade Orange 2(피처링: 창모(CHANGMO), Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - That Ain't Real</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Rap Legend 2</b>
+  on <b>That Ain't Real</b>
   
   <br />
   <br />
-  12/17/2020 17:25 Playing on YTMusic
+  12/17/2020 17:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
