@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ">
-    <img width="300" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">
+  <a href="https://music.youtube.com/channel/UCZxkyZg2AsJHZZkZqWKYUfg">
+    <img width="300" src="https://lh3.googleusercontent.com/C33Wq-dliOxMPWXO0ySFc_wsZbQCXXGWgIbqMWTgFJYfcKh85kGSAU59ThHTbwHv00khryOquRBx1Dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(피처링: 이케이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손, 김승민, 원슈타인 및 Zior Park - Noise</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>One of Them</b>
+  on <b>Noise</b>
   
   <br />
   <br />
-  12/17/2020 16:20 Playing on YTMusic
+  12/17/2020 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
