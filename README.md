@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
-    <img width="300" src="https://lh3.googleusercontent.com/8OSAL7--DWtQKRDhwymCISi8DcR-HcXL3W1Zz9f_FeoZyS3XvQBVtCLH_iuLT7t_RMTrkn7eJ1LUvusr">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/7aClDnSaXczMU6jptT55xf6bs8MdKgFM5TemfkBMLfuxRBLEqNsnEgA_8WC6R4q4NRml0a7OMBxkfWK9cQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 - 그늘(피처링: SUPERBEE, 스웨이디, zene the zilla)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Watch(피처링: 블랙넛(Black Nut))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Summer Grooves</b>
+  on <b>[Levitate 1] Mixtape</b>
   
   <br />
   <br />
-  12/17/2020 16:42 Playing on YTMusic
+  12/17/2020 16:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
