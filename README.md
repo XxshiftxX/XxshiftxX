@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCnjYjwzLQ66kRDikH0YVlpw">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
+    <img width="300" src="https://lh3.googleusercontent.com/8OSAL7--DWtQKRDhwymCISi8DcR-HcXL3W1Zz9f_FeoZyS3XvQBVtCLH_iuLT7t_RMTrkn7eJ1LUvusr">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Miranni, 먼치맨, 쿤디판다 및 머쉬베놈 - VVS(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팔로알토 - 그늘(피처링: SUPERBEE, 스웨이디, zene the zilla)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 1</b>
+  on <b>Summer Grooves</b>
   
   <br />
   <br />
-  12/17/2020 16:36 Playing on YTMusic
+  12/17/2020 16:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
