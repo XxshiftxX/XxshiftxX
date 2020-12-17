@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
-    <img width="300" src="https://i.ytimg.com/vi/ir7G_H0LFJw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCuO7_otWgte9BU9yIvxWUFQ">
+    <img width="300" src="https://i.ytimg.com/vi/6rDo1MKPal8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai - 띵 (Prod. By 기리보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - JOKE!(피처링: 사이먼 도미닉, 씨잼(C Jamm))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 193만회</b>
+  on <b>조회수 249만회</b>
   
   <br />
   <br />
-  12/17/2020 11:12 Playing on YTMusic
+  12/17/2020 11:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
