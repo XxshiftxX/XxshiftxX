@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCRKrBZq4oFRS6Kv1W8deNSw">
-    <img width="300" src="https://i.ytimg.com/vi/DI1BLBjwQHs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
+    <img width="300" src="https://i.ytimg.com/vi/ir7G_H0LFJw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제네 더 질라 - ITX(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai - 띵 (Prod. By 기리보이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 33만회</b>
+  on <b>조회수 193만회</b>
   
   <br />
   <br />
-  12/16/2020 12:19 Playing on YTMusic
+  12/17/2020 11:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
