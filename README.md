@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw">
-    <img width="300" src="https://i.ytimg.com/vi/PZ5ZA2QxLpU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UC_3AeIAcbi01OChGkTanuuQ">
+    <img width="300" src="https://lh3.googleusercontent.com/i9uJ6wlxR_oFCRCcvUGp1AG4ag5a3k4LRCWKiWkOMHh1cn3iDJV2WvUN3EHSYvnkmbygjTJugf27o5Xgsg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>1theK (원더케이) - 실키보이즈</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Viceversa - LIT RED</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 441만회</b>
+  on <b>"Incomplete"</b>
   
   <br />
   <br />
-  12/17/2020 11:34 Playing on YTMusic
+  12/17/2020 16:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
