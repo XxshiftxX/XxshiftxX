@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC9vrvNSL3xcWGSkV86REBSg">
-    <img width="300" src="https://lh3.googleusercontent.com/TwlGKVdZKQoUEA1A7ZwE4X5VUGliaSWcpXDAUaAHUmkb04IBq63PARb8jzH2nr0nC6TaB_O_hG2lB7wi">
+  <a href="https://music.youtube.com/channel/UC9HhDGbto7PIQP8ZFmKESkg">
+    <img width="300" src="https://lh3.googleusercontent.com/sDjy7Flu3ZF2vNbXxoop3MfWhMQsPfIz78hQLKEnSmQVh9JpHzAjb0u9K99i8WjuMZzuDoInBvZoMt0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>방탄소년단 - We are Bulletproof : the Eternal</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오반(OVAN) - 어떻게 지내</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>MAP OF THE SOUL : 7</b>
+  on <b>어떻게 지내</b>
   
   <br />
   <br />
-  12/18/2020 14:51 Playing on YTMusic
+  12/18/2020 14:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
