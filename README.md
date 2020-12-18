@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCJrizhKhrz1BAJ0h7UW5KNw">
-    <img width="300" src="https://lh3.googleusercontent.com/wSaCVGFPFZoiOU2zWu-9epNWqFlsMlMbL9qGWNOVqAFR61Ol8U-2Igw00GFKyjSCCCHhb2anT9vPp98">
+  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
+    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김효은 - Finally remix(피처링: 윤진영, 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - 회상록</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>LOVE-HATE</b>
+  on <b>암순응</b>
   
   <br />
   <br />
-  12/17/2020 17:42 Playing on YTMusic
+  12/18/2020 10:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
