@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA">
-    <img width="300" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">
+  <a href="https://www.youtube.com/channel/UCJwGWV914kBlV4dKRn7AEFA">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngNRbQ0wRc8flYiQfOm1FFhLB1aghNa2WJs4uOD=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오 - MSG(피처링: 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HatsuneMiku - プログラミング・コンテスト受賞作品発表 / TextAlive講座</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>OFF DUTY</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  12/18/2020 15:13 Playing on YTMusic
+  12/18/2020 15:15 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
