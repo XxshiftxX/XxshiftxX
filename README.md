@@ -6,13 +6,13 @@
     <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DECO*27 - 勘違い性反希望症 feat. 初音ミク</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - 스크램블 교제 feat. 하츠네 미쿠</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>undefined</b>
   
   <br />
   <br />
-  12/18/2020 15:20 Playing on YouTube
+  12/18/2020 15:24 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
