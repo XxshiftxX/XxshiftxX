@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCJwGWV914kBlV4dKRn7AEFA">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngNRbQ0wRc8flYiQfOm1FFhLB1aghNa2WJs4uOD=s48-c-k-c0xffffffff-no-nd-rj-mo">
+  <a href="https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnjaEYEIPXlF1IjAspJZD1zfCXE04oERIu80Pl0s=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HatsuneMiku - プログラミング・コンテスト受賞作品発表 / TextAlive講座</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - ネオネオン feat. 初音ミク</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>undefined</b>
   
   <br />
   <br />
-  12/18/2020 15:15 Playing on YouTube
+  12/18/2020 15:16 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
