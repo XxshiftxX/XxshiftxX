@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC9HhDGbto7PIQP8ZFmKESkg">
-    <img width="300" src="https://lh3.googleusercontent.com/sDjy7Flu3ZF2vNbXxoop3MfWhMQsPfIz78hQLKEnSmQVh9JpHzAjb0u9K99i8WjuMZzuDoInBvZoMt0">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://lh3.googleusercontent.com/uPgvrKaLgdIj78oZXXw3_c-icJ1ceJlgaZ32zmTKmTxb7BjWph44MO7B00Vk7ee1w1jRi35LAGTjwZABPw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>오반(OVAN) - 어떻게 지내</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 좋아한다니까</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>어떻게 지내</b>
+  on <b>좋아한다니까</b>
   
   <br />
   <br />
-  12/18/2020 14:52 Playing on YTMusic
+  12/18/2020 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
