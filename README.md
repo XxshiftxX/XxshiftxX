@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCGPIAHT_xtPHkY6jY1y4rRQ">
-    <img width="300" src="https://lh3.googleusercontent.com/iKnVi5g3MrSwYjWEu5kCXCcdvEiApraq5Upl-2pmv3txO3XI0USfYBCc78ICqxuszdgz5cDLTThqVUG5IQ">
+  <a href="https://music.youtube.com/channel/UC0RmG5tT5r05BDBlW55i-pA">
+    <img width="300" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TWLV, Uneducated Kid, YUZION 및 SUPERBEE - Dingo X Yng & Rich Records (Part 1) - trotrap 트로트랩</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오 - MSG(피처링: 페노메코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Dingo X Yng & Rich Records (Part 1) - trotrap 트로트랩</b>
+  on <b>OFF DUTY</b>
   
   <br />
   <br />
-  12/18/2020 15:10 Playing on YTMusic
+  12/18/2020 15:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
