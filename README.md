@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCnjYjwzLQ66kRDikH0YVlpw">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw">
+    <img width="300" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Miranni, 먼치맨, 쿤디판다 및 머쉬베놈 - VVS(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 400km(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 1</b>
+  on <b>원기옥</b>
   
   <br />
   <br />
-  12/18/2020 11:53 Playing on YTMusic
+  12/18/2020 11:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
