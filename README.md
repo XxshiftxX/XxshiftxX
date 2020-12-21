@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
-    <img width="300" src="https://lh3.googleusercontent.com/giypxyPDmkpXwgOA4BnQA1a5mv-DVEsIRMwSLMb2jmeyDe2Yk3MTZ-l_ZlSCReqGku9PxqLR-TgDWKYT">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/9h-nvN488B5KKEZHvYPb7iLXJ9L62tXwUtE5qHrK7cYrlWKfFpUeAjC1FwAGtk2W3DSKr6_08xNrGe4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 - 보자보자</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - That Ain't Real</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>보자보자</b>
+  on <b>That Ain't Real</b>
   
   <br />
   <br />
-  12/21/2020 15:00 Playing on YTMusic
+  12/21/2020 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
