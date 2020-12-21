@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
+  <a href="https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ">
+    <img width="300" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - 암순응</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(피처링: 이케이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>암순응</b>
+  on <b>One of Them</b>
   
   <br />
   <br />
-  12/21/2020 09:40 Playing on YTMusic
+  12/21/2020 09:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
