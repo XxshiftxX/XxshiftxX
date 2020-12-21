@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
+  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
+    <img width="300" src="https://lh3.googleusercontent.com/8OSAL7--DWtQKRDhwymCISi8DcR-HcXL3W1Zz9f_FeoZyS3XvQBVtCLH_iuLT7t_RMTrkn7eJ1LUvusr">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팔로알토 - 그늘(피처링: SUPERBEE, 스웨이디, zene the zilla)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>IM</b>
+  on <b>Summer Grooves</b>
   
   <br />
   <br />
-  12/21/2020 14:41 Playing on YTMusic
+  12/21/2020 14:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
