@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
+  <a href="https://music.youtube.com/channel/UCsJRAXDDdBvZI9RViSV2j4Q">
+    <img width="300" src="https://lh3.googleusercontent.com/H_0z_rlLiFm0u0163hn_Lub5XbfdPv0n2avRq61zpcDz_NvLb9ibBxfQ3C7VQidlBFXumumyaepthQTg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - 회상록</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>강현준 (Lil Tachi), 영비, 윤훼이 및 저스디스 - 나쁜맛</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>암순응</b>
+  on <b>Cumpilation</b>
   
   <br />
   <br />
-  12/21/2020 14:53 Playing on YTMusic
+  12/21/2020 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
