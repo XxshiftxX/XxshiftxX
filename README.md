@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCsJRAXDDdBvZI9RViSV2j4Q">
-    <img width="300" src="https://lh3.googleusercontent.com/H_0z_rlLiFm0u0163hn_Lub5XbfdPv0n2avRq61zpcDz_NvLb9ibBxfQ3C7VQidlBFXumumyaepthQTg">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
+    <img width="300" src="https://lh3.googleusercontent.com/giypxyPDmkpXwgOA4BnQA1a5mv-DVEsIRMwSLMb2jmeyDe2Yk3MTZ-l_ZlSCReqGku9PxqLR-TgDWKYT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>강현준 (Lil Tachi), 영비, 윤훼이 및 저스디스 - 나쁜맛</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 - 보자보자</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Cumpilation</b>
+  on <b>보자보자</b>
   
   <br />
   <br />
-  12/21/2020 14:56 Playing on YTMusic
+  12/21/2020 15:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
