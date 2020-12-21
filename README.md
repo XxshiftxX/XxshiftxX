@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
-    <img width="300" src="https://lh3.googleusercontent.com/Zcb7MtQPylAAJ1mBfAHBs45CF8iuxAy-5ORNl8f7Awf28paDz1iXsAGXkx0ivZmjGBbDPKOTc_Nxt7vl">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paloalto, Swervy, H2ADIN 및 Huckleberry P - 한라산 (Hi-Lite Sign) (Prod. by Yosi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Dingo X Hi-Lite Records</b>
+  on <b>Swoosh Flow (Remix)</b>
   
   <br />
   <br />
-  12/21/2020 10:08 Playing on YTMusic
+  12/21/2020 10:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
