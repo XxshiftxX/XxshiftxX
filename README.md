@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngbL5Lje18jZieilufwiVkRim0KHSJm-QE1PN5HvQ=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngXfHMHhncMEHLUqimBqc3o9hhMVCtORKOvtLgU7g=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ayase / YOASOBI - YOASOBI「밤을 달리다」 Official Music Video</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>米津玄師 - 米津玄師「STRAY SHEEP」F/W SPOT</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>undefined</b>
   
   <br />
   <br />
-  12/21/2020 11:16 Playing on YouTube
+  12/21/2020 12:45 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
