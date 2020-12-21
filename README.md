@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/8pnkUGJbmJ3qNmTdDJ9KJsFJqbtiDwpEv6Q9vxNWles5uVzl4A3840A4RKGOljFsRakgyd0yeI5iDcd8">
+  <a href="https://music.youtube.com/channel/UCHV_IGaK8V1oD8l_EqOqk2A">
+    <img width="300" src="https://lh3.googleusercontent.com/sqnc1nLHfz5dbNmdFZr2nZnOb5jNnNOmTcUikccrNdYJIlTwCe_OWOgiMmjqL0KC-sClMaV6t76N-DkpRQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 이모힙합(피처링: 베이식, 이영지, 이케이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 및 브라운티거 - Raw(피처링: Seungmin Kim)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>이태원</b>
+  on <b>Raw (feat. Seungmin Kim)</b>
   
   <br />
   <br />
-  12/21/2020 09:53 Playing on YTMusic
+  12/21/2020 09:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
