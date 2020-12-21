@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmsWxSGPqsQFuSJutdlzmUw">
-    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
+  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
+    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>EK - Diablo(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - 회상록</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 8 Episode 4</b>
+  on <b>암순응</b>
   
   <br />
   <br />
-  12/21/2020 14:49 Playing on YTMusic
+  12/21/2020 14:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
