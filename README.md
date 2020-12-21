@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
+  <a href="https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngbL5Lje18jZieilufwiVkRim0KHSJm-QE1PN5HvQ=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ayase / YOASOBI - YOASOBI「ハルカ」Official Music Video</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Swoosh Flow (Remix)</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  12/21/2020 10:30 Playing on YTMusic
+  12/21/2020 11:03 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
