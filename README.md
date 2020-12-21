@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCHV_IGaK8V1oD8l_EqOqk2A">
-    <img width="300" src="https://lh3.googleusercontent.com/sqnc1nLHfz5dbNmdFZr2nZnOb5jNnNOmTcUikccrNdYJIlTwCe_OWOgiMmjqL0KC-sClMaV6t76N-DkpRQ">
+  <a href="https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw">
+    <img width="300" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 및 브라운티거 - Raw(피처링: Seungmin Kim)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 400km(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Raw (feat. Seungmin Kim)</b>
+  on <b>원기옥</b>
   
   <br />
   <br />
-  12/21/2020 09:57 Playing on YTMusic
+  12/21/2020 10:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
