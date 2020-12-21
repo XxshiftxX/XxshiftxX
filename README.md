@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">
+  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
+    <img width="300" src="https://lh3.googleusercontent.com/Zcb7MtQPylAAJ1mBfAHBs45CF8iuxAy-5ORNl8f7Awf28paDz1iXsAGXkx0ivZmjGBbDPKOTc_Nxt7vl">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 널만나러가는길이야</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Paloalto, Swervy, H2ADIN 및 Huckleberry P - 한라산 (Hi-Lite Sign) (Prod. by Yosi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Foxiboy</b>
+  on <b>Dingo X Hi-Lite Records</b>
   
   <br />
   <br />
-  12/21/2020 10:04 Playing on YTMusic
+  12/21/2020 10:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
