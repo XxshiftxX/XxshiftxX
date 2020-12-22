@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCvGM2SmVyASDYs3eC6PE-yg">
-    <img width="300" src="https://lh3.googleusercontent.com/kh_9y2GfsjP0q-UNBACzPb9rwcX6vcyJJk0kg0owC23a53x7sywiv8oxwxz88-f-RHBWjENfHyQEs5uk">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/AYkPq8BnP4i93P32WrpnsH0J8nZHzLzzx_ZI-Zk_d18An9Ui6JGGs-Mj4R0CSbcIqvOa-RY-la9RrGDf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUNNY - NEW GIRL(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - Gone</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>NEW GIRL (feat. Kid Milli)</b>
+  on <b>Re: Tired.</b>
   
   <br />
   <br />
-  12/22/2020 11:30 Playing on YTMusic
+  12/22/2020 11:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
