@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
-    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
+  <a href="https://music.youtube.com/browse/MPREb_TWPZSe9ioLL">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - Trip(피처링: 한나)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>An ByeongWoong , Khakii , Mckdaddy , Munchman - New New (Prod. GroovyRoom, MISU)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Violinist</b>
+  on <b>Show Me The Money 9 Final</b>
   
   <br />
   <br />
-  12/22/2020 17:59 Playing on YTMusic
+  12/22/2020 18:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
