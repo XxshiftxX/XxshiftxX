@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/QaBzLKxxurL-7hlJe7D33zTTbjgOGuIu_bB81Ni6zljQx_d87y3-5XGxJfXtqo8n8lExxGzEhK8pdVkiWg">
+  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
+    <img width="300" src="https://lh3.googleusercontent.com/sMXRQlSOzL-W9sdqkw3g7gm0GNv87RR8iBmgK6sB7XPfGnkm2Z44ug7L_196YFDYqd-0cS4kmW_5tWll">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - GJD</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리, Tommy Strate, JUSTHIS 및 Lil Tachi - BOY Remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>GJD</b>
+  on <b>BEIGE 0.5</b>
   
   <br />
   <br />
-  12/22/2020 12:53 Playing on YTMusic
+  12/22/2020 12:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
