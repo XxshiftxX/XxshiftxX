@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/xYae6fkCp-dtyd69njrYn6ko1g4euKRz13JaJoiAt904hzWC1lOqqD2KY08Qczjp29mDu7-uxHvSFfFd">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 이혼서류</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO), 해쉬 스완(Hash Swan), ASH ISLAND 및 김효은 - BAND</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>치명적인 맛보기 2곡</b>
+  on <b>BAND</b>
   
   <br />
   <br />
-  12/22/2020 17:47 Playing on YTMusic
+  12/22/2020 17:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
