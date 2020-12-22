@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">
+  <a href="https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw">
+    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO), 해쉬 스완(Hash Swan), ASH ISLAND 및 김효은 - BAND</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이), pH-1 및 김하온(HAON) - Me&Bae</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BAND</b>
+  on <b>H1GHR : BLUE TAPE</b>
   
   <br />
   <br />
-  12/22/2020 17:51 Playing on YTMusic
+  12/22/2020 17:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
