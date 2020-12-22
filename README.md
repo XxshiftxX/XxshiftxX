@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/HDHJzRgyv2m60TiRGxzpnE5JOWdYtyeNy2iIrALDR6L_7Q3POaiSDXyIu0d1KSPZ5GU_1Pr5XxijHsjP">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli 및 dress - Bankroll(피처링: Okasian)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Swings - Still Hungry (Prod. CODE KUNST)(피처링: Mommy Son, Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Bankroll</b>
+  on <b>Show Me The Money 9 Final</b>
   
   <br />
   <br />
-  12/22/2020 10:30 Playing on YTMusic
+  12/22/2020 10:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
