@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw">
-    <img width="300" src="https://lh3.googleusercontent.com/9K3ify-ajj-GxBVKVLAgBmHijgpX9BdRpfhZW90Zkx25RTzsveX6oLtSmEv9RrCOvNKKjW6Wla7RrdoP">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/xCo2s3t7D--mu1PJYifAzhmSbxoLYlFgDM2WxE-U9P9JQbBp06Tp1UnccRM91oXkiW6TpApbSBGxp-6y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - 반복</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - +82 Bars</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>반복</b>
+  on <b>1집 : Rap Legend</b>
   
   <br />
   <br />
-  12/22/2020 17:06 Playing on YTMusic
+  12/22/2020 17:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
