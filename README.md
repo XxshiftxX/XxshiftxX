@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/JZF4Y9aEX6m4FptTS_japPrAoM0IshfJISJwI57cuWLs3Ii4Whyo-LU7O9ExENJN4ee7E_RBvsGn_lI">
+  <a href="https://music.youtube.com/channel/UCKaF7agbJ4Vp0-ggt8TXMzg">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 우리서로사랑하지는말자</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>로즈 드 페니, Dsel, 가오가이 및 Untell - Win Win(피처링: BewhY(비와이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>영화같게</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  12/22/2020 11:53 Playing on YTMusic
+  12/22/2020 11:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
