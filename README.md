@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
-    <img width="300" src="https://lh3.googleusercontent.com/MUdlyRfE_f1VEVOaB6LYlX7AUo7fpe8u6LRqmueZ8Ur-AaJz-X_DAj7jf-wIA8WiUBQ90c0cljdywT9KLw">
+  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
+    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Upgrade 2020(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - Orange (Remix)(피처링: pH-1, 키드밀리)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 2</b>
+  on <b>Q Day Remixes</b>
   
   <br />
   <br />
-  12/22/2020 13:14 Playing on YTMusic
+  12/22/2020 13:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
