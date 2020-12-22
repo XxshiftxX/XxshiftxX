@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
+  <a href="https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw">
+    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - 동물원(피처링: 브레인)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이), pH-1, 우디고차일드(Woodie Gochild)  및 김하온(HAON) - Back From 0</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>AI, THE PLAYLIST</b>
+  on <b>H1GHR : BLUE TAPE</b>
   
   <br />
   <br />
-  12/22/2020 16:04 Playing on YTMusic
+  12/22/2020 16:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
