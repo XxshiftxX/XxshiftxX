@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/XAYtmYDUhTHP8OYsTCWcAP7Lc5ONv1s4wIciqhVIVm-fEmvvpdCv7ArLnGQ0ImXd77j-WW1WabCQsiAytA">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 아퍼(피처링: 릴타치, 씨잼(C Jamm), 김승민, 장용준)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Selfmade Orange(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>100년제전문대학</b>
+  on <b>Dnsg</b>
   
   <br />
   <br />
-  12/22/2020 17:38 Playing on YTMusic
+  12/22/2020 17:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
