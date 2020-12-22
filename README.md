@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
-    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
+  <a href="https://music.youtube.com/browse/MPREb_QQiQJJklYc6">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - Orange (Remix)(피처링: pH-1, 키드밀리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Mirani - Part Time(피처링: Queen WA$ABII)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Q Day Remixes</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  12/22/2020 13:18 Playing on YTMusic
+  12/22/2020 16:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
