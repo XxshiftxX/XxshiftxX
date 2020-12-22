@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCv6YKzTZuGdFB6oVVzkbmyw">
-    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
+  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
+    <img width="300" src="https://lh3.googleusercontent.com/el-TrXoO-goo0GMrTXI0-PtXJyzadkXN1t11DuFjdNpUHtKOON4W8m4Jrb2qU0OjFd8ozdW8GwdnoVz4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이), pH-1 및 김하온(HAON) - Me&Bae</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - CATCH ME IF YOU CAN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>H1GHR : BLUE TAPE</b>
+  on <b>CATCH ME IF YOU CAN</b>
   
   <br />
   <br />
-  12/22/2020 17:55 Playing on YTMusic
+  12/22/2020 17:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
