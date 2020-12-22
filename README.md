@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/jPGHmJovYvRbJ86alT_AUHIMDWkpmtP3x-YRBvPSyzKjONewH0G5aLqN4Cn2xvGhj_b7HvG0lH9POzAvug">
+  <a href="https://music.youtube.com/channel/UCakpJvdXIN9aMOXmuLqQEtQ">
+    <img width="300" src="https://lh3.googleusercontent.com/hUVmb-IVZeXyNeQNa2v7Pt0MFHhP93EDde4yQFl7qP-9O6rw2O_VhgwGGaloRROwV784IZ-mVL6yOdN0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 무거워</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(피처링: 이케이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>KGVOVC from WYBH, Vol. 1</b>
+  on <b>One of Them</b>
   
   <br />
   <br />
-  12/22/2020 16:49 Playing on YTMusic
+  12/22/2020 16:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
