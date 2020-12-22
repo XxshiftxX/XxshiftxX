@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/zPsFLEf0cVAD6BwlsVo7JP1zv2_XM4xbm-olOUPRrrO-rr1RuY891X6rRhx17c0IWJCpIGl4o2ch_GRZ">
+  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
+    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - northbutsouth (Prod. By Lnb)(피처링: 키드밀리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, Kid Milli, NO:EL 및 Swings - Work Out</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>2곡</b>
+  on <b>IM</b>
   
   <br />
   <br />
-  12/22/2020 12:29 Playing on YTMusic
+  12/22/2020 12:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
