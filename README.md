@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/zgMUBhJrrK-CUX3nMKbQKLdXBIYMjdOgLOjRb-0RE1RnTomyhGfX0H8hQ7lwR3m10eTs5llZO9kt_9g">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/JZF4Y9aEX6m4FptTS_japPrAoM0IshfJISJwI57cuWLs3Ii4Whyo-LU7O9ExENJN4ee7E_RBvsGn_lI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli - APP(피처링: Loopy)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 우리서로사랑하지는말자</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>L I F E</b>
+  on <b>영화같게</b>
   
   <br />
   <br />
-  12/22/2020 11:49 Playing on YTMusic
+  12/22/2020 11:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
