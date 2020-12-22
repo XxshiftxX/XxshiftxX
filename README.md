@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
-    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
+  <a href="https://music.youtube.com/channel/UCW8qNYmxUC0ES1kDXwtpC_w">
+    <img width="300" src="https://lh3.googleusercontent.com/MUdlyRfE_f1VEVOaB6LYlX7AUo7fpe8u6LRqmueZ8Ur-AaJz-X_DAj7jf-wIA8WiUBQ90c0cljdywT9KLw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, Kid Milli, NO:EL 및 Swings - Work Out</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Untell - Peter Pan (Prod. BewhY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>IM</b>
+  on <b>Show Me the Money 9 Episode 2</b>
   
   <br />
   <br />
-  12/22/2020 12:33 Playing on YTMusic
+  12/22/2020 12:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
