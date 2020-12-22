@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/qYpCSxPmXS6LiyhUJw7LUdVi3qjIVueA3fZuXV90tEdhd1a7bT6-j4chowUPD_xEsz1FztOUdXSKeVfgjQ">
+  <a href="https://music.youtube.com/channel/UCuFmwkCbIe3AEwWCC2QiRgQ">
+    <img width="300" src="https://lh3.googleusercontent.com/Qjxw6KzNSjvVW0tkosn22CIEBJ8pES8JmlxsfzqIcJrqsVoBwj1NkdkRohAxF8YiaEw9kb3W6U8T6IDM9A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - vv 2(피처링: hayake, 최엘비, Kid Milli, 김승민)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>브린 - Veteran(피처링: 버벌진트, 팔로알토, 저스디스, 릴러말즈(Leellamarz))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>땡큐</b>
+  on <b>SILKMOTH</b>
   
   <br />
   <br />
-  12/22/2020 12:18 Playing on YTMusic
+  12/22/2020 12:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
