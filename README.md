@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
-    <img width="300" src="https://lh3.googleusercontent.com/5JfxElh_SkcsS_epZ1QkNGZxq9CNHo7kZEvNlJJK8zpI155JxTSLqJhovRtrxggcC3T2LJ1hpY_F0bQ">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/GMXEG4isA1AO-uCNz8jeOtNdU2hfCeKuP7BBGV5G9P0DT8GitgZKuwJbDhPQxWOPXGzfcwL4p21S-poI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett - Abu Dhabi(피처링: Skinny Brown, Leellamarz, Sik-K)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP (Prod. By 기리보이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BENTLEY 2</b>
+  on <b>IMJMWDP</b>
   
   <br />
   <br />
-  12/22/2020 13:00 Playing on YTMusic
+  12/22/2020 13:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
