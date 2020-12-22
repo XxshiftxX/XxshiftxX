@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/sMXRQlSOzL-W9sdqkw3g7gm0GNv87RR8iBmgK6sB7XPfGnkm2Z44ug7L_196YFDYqd-0cS4kmW_5tWll">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - 너(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 존시나(피처링: Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BEIGE 0.5</b>
+  on <b>살아숨셔 3</b>
   
   <br />
   <br />
-  12/22/2020 16:35 Playing on YTMusic
+  12/22/2020 16:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
