@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/JTKrs5_o9lfQnJkbe5GB3yWgzveStdIgtAJbd72fJ2I5GNtNrleB8qCyZIDyK1VG6s_Iah1LioS2CJNP">
+  <a href="https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw">
+    <img width="300" src="https://lh3.googleusercontent.com/9K3ify-ajj-GxBVKVLAgBmHijgpX9BdRpfhZW90Zkx25RTzsveX6oLtSmEv9RrCOvNKKjW6Wla7RrdoP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Muddy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 반복</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Maiden Voyage Ⅱ</b>
+  on <b>반복</b>
   
   <br />
   <br />
-  12/22/2020 17:01 Playing on YTMusic
+  12/22/2020 17:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
