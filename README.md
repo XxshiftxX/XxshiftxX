@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/sMXRQlSOzL-W9sdqkw3g7gm0GNv87RR8iBmgK6sB7XPfGnkm2Z44ug7L_196YFDYqd-0cS4kmW_5tWll">
+  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
+    <img width="300" src="https://lh3.googleusercontent.com/5JfxElh_SkcsS_epZ1QkNGZxq9CNHo7kZEvNlJJK8zpI155JxTSLqJhovRtrxggcC3T2LJ1hpY_F0bQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리, Tommy Strate, JUSTHIS 및 Lil Tachi - BOY Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Quiett - Abu Dhabi(피처링: Skinny Brown, Leellamarz, Sik-K)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BEIGE 0.5</b>
+  on <b>BENTLEY 2</b>
   
   <br />
   <br />
-  12/22/2020 12:56 Playing on YTMusic
+  12/22/2020 13:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
