@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/sMXRQlSOzL-W9sdqkw3g7gm0GNv87RR8iBmgK6sB7XPfGnkm2Z44ug7L_196YFDYqd-0cS4kmW_5tWll">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Timmy Holiday(피처링: Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MUSHVENOM - Go(피처링: Simon Dominic, The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BEIGE 0.5</b>
+  on <b>Show Me The Money 9 Final</b>
   
   <br />
   <br />
-  12/22/2020 12:06 Playing on YTMusic
+  12/22/2020 12:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
