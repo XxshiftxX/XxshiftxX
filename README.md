@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
-    <img width="300" src="https://lh3.googleusercontent.com/oli_E9r5fyW7sCmVi7HV8jRKs9-fpyO5uAL1UF5QFsadhpBPWjgYH3lNXRBQ7T9UcsVg5FtomQz-0sX6">
+  <a href="https://music.youtube.com/channel/UC8OKN2YRtvdMjw3-MYvhvyQ">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - WHAT THEY WANT(피처링: Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Khundi Panda - Hero(피처링: JUSTHIS, Golden)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BAMBOOCLUB[B]</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  12/23/2020 16:15 Playing on YTMusic
+  12/23/2020 16:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
