@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
-    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
+  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
+    <img width="300" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - FUXX THAT SHXX!</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>더 콰이엇 - Han gang gang (Megamix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>TOYSTORY2</b>
+  on <b>Han gang gang (Megamix)</b>
   
   <br />
   <br />
-  12/23/2020 16:46 Playing on YTMusic
+  12/23/2020 16:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
