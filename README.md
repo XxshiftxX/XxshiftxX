@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_QQiQJJklYc6">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
+    <img width="300" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Bad News Cypher vol.2(피처링: TakeOne)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - 야망(피처링: ASH ISLAND, 김효은, 해쉬 스완(Hash Swan), 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Semi Final</b>
+  on <b>MARZ 2 AMBITION</b>
   
   <br />
   <br />
-  12/23/2020 16:22 Playing on YTMusic
+  12/23/2020 16:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
