@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
-    <img width="300" src="https://lh3.googleusercontent.com/kUwgu2HKDV8zsEejZsQ7eG0IeoVH-NyBjsn9TcFlg-fpnYTYK-G1QKafy1AjoqbNEQoFUt1x5jZ8Apo">
+  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
+    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA, The Quiett, Deepflow 및 Simon Dominic - I'MMA DO 아마두(피처링: Huckleberry P, Keem Hyo-Eun, Paloalto, Woo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - FUXX THAT SHXX!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Dingo X DAMOIM (Part 2)</b>
+  on <b>TOYSTORY2</b>
   
   <br />
   <br />
-  12/23/2020 16:40 Playing on YTMusic
+  12/23/2020 16:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
