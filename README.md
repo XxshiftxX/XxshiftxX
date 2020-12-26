@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_TWPZSe9ioLL">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UC8OKN2YRtvdMjw3-MYvhvyQ">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>An ByeongWoong , Khakii , Mckdaddy , Munchman - New New (Prod. GroovyRoom, MISU)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Khundi Panda - Hero(피처링: JUSTHIS, Golden)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me The Money 9 Final</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  12/26/2020 09:22 Playing on YTMusic
+  12/26/2020 09:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
