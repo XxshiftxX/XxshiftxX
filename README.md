@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_5Dk5nDSUeEl">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
+    <img width="300" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 널만나러가는길이야</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 3</b>
+  on <b>Foxiboy</b>
   
   <br />
   <br />
-  01/04/2021 08:39 Playing on YTMusic
+  01/04/2021 08:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
