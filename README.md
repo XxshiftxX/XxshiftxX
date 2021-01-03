@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
     <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Layone - Daydreamin (Prod. Yosi & CODE KUNST)(피처링: sogumm, Woo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MUSHVENOM - Go(피처링: Simon Dominic, The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>Show Me The Money 9 Final</b>
   
   <br />
   <br />
-  01/04/2021 08:03 Playing on YTMusic
+  01/04/2021 08:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
