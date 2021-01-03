@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/channel/UCKaF7agbJ4Vp0-ggt8TXMzg">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MUSHVENOM - Godok(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>로즈 드 페니, Dsel, 가오가이 및 Untell - Win Win(피처링: BewhY(비와이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Semi Final</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  01/04/2021 08:21 Playing on YTMusic
+  01/04/2021 08:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
