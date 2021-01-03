@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_l6juIUylTfM">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미, 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MUSHVENOM - Godok(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 1</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  01/04/2021 08:18 Playing on YTMusic
+  01/04/2021 08:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
