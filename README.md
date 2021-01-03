@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/browse/MPREb_l6juIUylTfM">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MUSHVENOM - The Beauty of Void (Prod. GroovyRoom)(피처링: Jessi, JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미, 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me The Money 9 Final</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  01/04/2021 08:14 Playing on YTMusic
+  01/04/2021 08:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
