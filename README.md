@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCk30waAVsGbvc2n_8aQGpkQ">
-    <img width="300" src="https://lh3.googleusercontent.com/xStbuAc4_ycIFGGqhYKX4fDAZzhkU1g50-nZVqBCyBDHsjFcL567r86anCpJjg-7K_dTPLVE5m0pVqo0">
+  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>긱스 (Geeks) - Officially Missing You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Layone - iii(피처링: Basick, Kid Milli, Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Officially Missing You</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  01/04/2021 09:49 Playing on YTMusic
+  01/04/2021 09:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
