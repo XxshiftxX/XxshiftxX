@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
-    <img width="300" src="https://lh3.googleusercontent.com/pGjY8k3vMDZbgLgfuaVtXScMYgA53dxdn3VXfM0kUQ7SUqBbYeUruVHz0B6JrWh1fDFQnT9oScq83DY">
+  <a href="https://music.youtube.com/channel/UCk30waAVsGbvc2n_8aQGpkQ">
+    <img width="300" src="https://lh3.googleusercontent.com/xStbuAc4_ycIFGGqhYKX4fDAZzhkU1g50-nZVqBCyBDHsjFcL567r86anCpJjg-7K_dTPLVE5m0pVqo0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Wonstein - X (Butterfly)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>긱스 (Geeks) - Officially Missing You</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>X</b>
+  on <b>Officially Missing You</b>
   
   <br />
   <br />
-  01/04/2021 09:45 Playing on YTMusic
+  01/04/2021 09:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
