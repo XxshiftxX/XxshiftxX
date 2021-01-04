@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCM5DY5LhE3gMWLKYG4XGq8A">
-    <img width="300" src="https://lh3.googleusercontent.com/u29OsRqZUEL3migY7Zg_C6aOgZ4BHHLKg_bVDxfmNKrQlijZ4HVeC-5OaJVXYaK603JIK78Zng7h9nk">
+  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
+    <img width="300" src="https://lh3.googleusercontent.com/pGjY8k3vMDZbgLgfuaVtXScMYgA53dxdn3VXfM0kUQ7SUqBbYeUruVHz0B6JrWh1fDFQnT9oScq83DY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Rohann (이로한) - Whee(피처링: Leellamarz)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Wonstein - X (Butterfly)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>NEVERLAND</b>
+  on <b>X</b>
   
   <br />
   <br />
-  01/04/2021 09:41 Playing on YTMusic
+  01/04/2021 09:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
