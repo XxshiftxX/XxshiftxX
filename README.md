@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/f80BexvDrDDNiYKt0uwP2F9G-A_qfZ6V5e3vkx-aBG_NIjxfCP_-pBPIMVu1o--nzjvJaMFfaw5ZULxiJA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>원슈타인 - Infrared Camera</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모 (Changmo) - 담배</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 3</b>
+  on <b>담배</b>
   
   <br />
   <br />
-  01/05/2021 15:36 Playing on YTMusic
+  01/05/2021 15:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
