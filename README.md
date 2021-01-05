@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/xYae6fkCp-dtyd69njrYn6ko1g4euKRz13JaJoiAt904hzWC1lOqqD2KY08Qczjp29mDu7-uxHvSFfFd">
+  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 이혼서류</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>원슈타인 - Infrared Camera</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>치명적인 맛보기 2곡</b>
+  on <b>Show Me the Money 9 Episode 3</b>
   
   <br />
   <br />
-  01/05/2021 15:32 Playing on YTMusic
+  01/05/2021 15:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
