@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
-    <img width="300" src="https://lh3.googleusercontent.com/GJQZ4pMRZOHXEn9gRy9qZM5jjvkNjjbrRelk25zPCtIKRJFnNmgRc2O_y3U9HwUQ4sHtI9kTR3Oyx8ku">
+  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
+    <img width="300" src="https://lh3.googleusercontent.com/BQ6rsQPMjLCsWzOMysPUc3yi9v1AFMjmJgibiuW3hj6KkfJ9M-feKOa0FnII-mpufcVfqcke8VAuLskQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따, 더 콰이엇(The Quiett), 팔로알토 및 사이먼 도미닉 - 달려</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>원슈타인 - GOAT(피처링: 버벌진트)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>RUN</b>
+  on <b>ZOO</b>
   
   <br />
   <br />
-  01/05/2021 15:57 Playing on YTMusic
+  01/05/2021 16:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
