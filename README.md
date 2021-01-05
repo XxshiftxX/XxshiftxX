@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/f80BexvDrDDNiYKt0uwP2F9G-A_qfZ6V5e3vkx-aBG_NIjxfCP_-pBPIMVu1o--nzjvJaMFfaw5ZULxiJA">
+  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
+    <img width="300" src="https://lh3.googleusercontent.com/6wtEqdF77OnuxhPHMmp2LZ2OPsyU2xjLd7KmX0DKtZYwLUCJgWSv4ZqP61S0qRAOUJE81McXh63F5D1b_Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모 (Changmo) - 담배</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Hate You(피처링: 우원재)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>담배</b>
+  on <b>Hate You (From "Show Me the Money 7, Episode 2")</b>
   
   <br />
   <br />
-  01/05/2021 15:39 Playing on YTMusic
+  01/05/2021 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
