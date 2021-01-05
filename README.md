@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwng517eYWWUKfMc6TdBi_6gh5KQ-jGHTb443SxjuOQ=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Layone - Daydreamin (Prod. Yosi & CODE KUNST)(피처링: sogumm, Woo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 염따(YUMDDA) - 존시나 (feat. Northfacegawd, JUSTHIS, 래원) [Official MV]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me The Money 9 Final</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  01/05/2021 16:11 Playing on YTMusic
+  01/05/2021 18:39 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
