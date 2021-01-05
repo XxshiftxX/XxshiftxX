@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
-    <img width="300" src="https://lh3.googleusercontent.com/6wtEqdF77OnuxhPHMmp2LZ2OPsyU2xjLd7KmX0DKtZYwLUCJgWSv4ZqP61S0qRAOUJE81McXh63F5D1b_Q">
+  <a href="https://music.youtube.com/browse/MPREb_QQiQJJklYc6">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Hate You(피처링: 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Mirani - Part Time(피처링: Queen WA$ABII)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Hate You (From "Show Me the Money 7, Episode 2")</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  01/05/2021 15:43 Playing on YTMusic
+  01/05/2021 15:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
