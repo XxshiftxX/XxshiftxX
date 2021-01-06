@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_TWPZSe9ioLL">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Rohann , Rose de Penny , xs , Khundi Panda , dsel - Y earned (Prod. Primary, plusNONE)(피처링: Gaeko, SOLE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - 호랑이소굴(피처링: Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me The Money 9 Final</b>
+  on <b>호랑이소굴</b>
   
   <br />
   <br />
-  01/06/2021 11:09 Playing on YTMusic
+  01/06/2021 11:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
