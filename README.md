@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
-    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
+  <a href="https://music.youtube.com/channel/UCJVA-stKCH0IS_C1qIOUjTA">
+    <img width="300" src="https://lh3.googleusercontent.com/qqTc9FWa2ERXddJwype105B6IAzrAKr_sIR1iZ_oozYN2x3Hd3YHc-hjO5D7b2v7uzc0SRZvb60sTOIx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - 아가씨 (Feat. ZENE THE ZILLA & 머쉬베놈)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Loco(로꼬) - No Manners(무례하게)(피처링: GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>TOYSTORY2</b>
+  on <b>LOCOMOTIVE</b>
   
   <br />
   <br />
-  01/06/2021 18:43 Playing on YTMusic
+  01/06/2021 18:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
