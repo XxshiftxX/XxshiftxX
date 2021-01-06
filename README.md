@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw">
-    <img width="300" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">
+  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
+    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - 400km(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - GONE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>원기옥</b>
+  on <b>TOYSTORY2</b>
   
   <br />
   <br />
-  01/06/2021 19:08 Playing on YTMusic
+  01/06/2021 19:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
