@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC8OKN2YRtvdMjw3-MYvhvyQ">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/channel/UCVagV5IcUirle7zFhSmLLDA">
+    <img width="300" src="https://lh3.googleusercontent.com/h7bs8nxW8A8jBxljxrVRWmtfk6F_3HEpLbHf5yajs9_yz-a-56Hu26Mpu-r4Vx4iub9JEcG0zZdUwoAM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿤디판다 - The Roots(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST, CHOI JUNG HOON of JANNABI, Simon Dominic - 사라진 모든 것들에게(with ELLE KOREA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 3</b>
+  on <b>RECONNECT</b>
   
   <br />
   <br />
-  01/06/2021 17:58 Playing on YTMusic
+  01/06/2021 18:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
