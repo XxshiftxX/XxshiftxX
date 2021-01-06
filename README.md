@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCVagV5IcUirle7zFhSmLLDA">
-    <img width="300" src="https://lh3.googleusercontent.com/h7bs8nxW8A8jBxljxrVRWmtfk6F_3HEpLbHf5yajs9_yz-a-56Hu26Mpu-r4Vx4iub9JEcG0zZdUwoAM">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CODE KUNST, CHOI JUNG HOON of JANNABI, Simon Dominic - 사라진 모든 것들에게(with ELLE KOREA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 파티피플(피처링: Uneducated Kid, 염따)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>RECONNECT</b>
+  on <b>갑분기</b>
   
   <br />
   <br />
-  01/06/2021 18:02 Playing on YTMusic
+  01/06/2021 18:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
