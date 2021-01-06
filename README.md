@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_QQiQJJklYc6">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/channel/UCZxkyZg2AsJHZZkZqWKYUfg">
+    <img width="300" src="https://lh3.googleusercontent.com/C33Wq-dliOxMPWXO0ySFc_wsZbQCXXGWgIbqMWTgFJYfcKh85kGSAU59ThHTbwHv00khryOquRBx1Dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Bad News Cypher vol.2(피처링: TakeOne)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손, 김승민, 원슈타인 및 Zior Park - Noise</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Semi Final</b>
+  on <b>Noise</b>
   
   <br />
   <br />
-  01/06/2021 18:54 Playing on YTMusic
+  01/06/2021 18:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
