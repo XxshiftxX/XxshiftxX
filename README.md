@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
-    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
+  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
+    <img width="300" src="https://lh3.googleusercontent.com/B9818xpMvQhDLUTN6L75pPCXouHn4aAR-MpOatH6cKQvzkCLWSTKm6DVmpOnjLBk1NeKbtyIs4Bof36_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - GONE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 오태식</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>TOYSTORY2</b>
+  on <b>해바라기</b>
   
   <br />
   <br />
-  01/06/2021 19:11 Playing on YTMusic
+  01/06/2021 19:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
