@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwng517eYWWUKfMc6TdBi_6gh5KQ-jGHTb443SxjuOQ=s48-c-k-c0xffffffff-no-nd-rj-mo">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 래원 그는 통닭인가 랩퍼인가 🐓🐓</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Selfmade Orange 2(피처링: 창모(CHANGMO), Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>Rap Legend 2</b>
   
   <br />
   <br />
-  01/07/2021 12:55 Playing on YouTube
+  01/07/2021 13:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
