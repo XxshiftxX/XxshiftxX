@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/HjxNkiBNdEBjHwOXisKLUNme-nTknMDB8E3k1QY3i9GnYFqQH-RtLx6D1AGtj2wFMSh2QXBj7JRUqZ2PEg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Layone - Daydreamin(피처링: sogumm, Woo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 빈집(피처링: 따마)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>3곡</b>
   
   <br />
   <br />
-  01/07/2021 13:39 Playing on YTMusic
+  01/07/2021 13:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
