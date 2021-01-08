@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/HjxNkiBNdEBjHwOXisKLUNme-nTknMDB8E3k1QY3i9GnYFqQH-RtLx6D1AGtj2wFMSh2QXBj7JRUqZ2PEg">
+  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
+    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 빈집(피처링: 따마)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - 곡예사 Remix(피처링: 마이노스, 식보이(Sikboy), 올티(Olltii), 브라운티거)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>3곡</b>
+  on <b>암순응</b>
   
   <br />
   <br />
-  01/07/2021 13:43 Playing on YTMusic
+  01/08/2021 13:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
