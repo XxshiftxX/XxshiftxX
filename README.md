@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngbL5Lje18jZieilufwiVkRim0KHSJm-QE1PN5HvQ=s48-c-k-c0xffffffff-no-nd-rj-mo">
+  <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
+    <img width="300" src="https://lh3.googleusercontent.com/T9bAT2bb34D41tPOYm5fcn_6jZGPjbxk_E3NkDKjX_VG6pvP7vy6aCn6wtTGeAbf3req5NFl-Je6tCHn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ayase / YOASOBI - YOASOBI「群青」Official Music Video</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - GHOST</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>Cyphisonia E.P.</b>
   
   <br />
   <br />
-  01/12/2021 16:35 Playing on YouTube
+  01/13/2021 13:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
