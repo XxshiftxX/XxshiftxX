@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
-    <img width="300" src="https://lh3.googleusercontent.com/7W4z9ckaL0-2Pl5WiePrvS1BI91-3Gn61v3zspjHVX4AVlNB4Scjdn667FfWzP3KH6uDAswxzXTNCdjY">
+    <img width="300" src="https://lh3.googleusercontent.com/AItSrJBMDMdYmwF5h1aRAw_i1hjztwIpmfGYwU7YdIy18Y3MmoSzjvwYZqz3fEw7bYrB96ugqc6nFPI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - "DELTA":for the DELTA</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Nacreous Snowmelt</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>PLANET / / SHAPER</b>
+  on <b>Nacreous Snowmelt</b>
   
   <br />
   <br />
-  01/13/2021 14:22 Playing on YTMusic
+  01/13/2021 14:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
