@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
-    <img width="300" src="https://lh3.googleusercontent.com/7W4z9ckaL0-2Pl5WiePrvS1BI91-3Gn61v3zspjHVX4AVlNB4Scjdn667FfWzP3KH6uDAswxzXTNCdjY">
+    <img width="300" src="https://lh3.googleusercontent.com/uxX71eWbNSSg5O1L6NJ6u99qbuqKJEVL_9akXflzcLBp_MLU_FxEkiGU-h4rBwM2mA8LmbVu7R-CXRxCzA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Exit This Earth's Atomosphere</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Camellia - ΩΩPARTS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>PLANET / / SHAPER</b>
+  on <b>ΩΩPARTS</b>
   
   <br />
   <br />
-  01/13/2021 13:17 Playing on YTMusic
+  01/13/2021 13:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
