@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
-    <img width="300" src="https://lh3.googleusercontent.com/AItSrJBMDMdYmwF5h1aRAw_i1hjztwIpmfGYwU7YdIy18Y3MmoSzjvwYZqz3fEw7bYrB96ugqc6nFPI">
+    <img width="300" src="https://lh3.googleusercontent.com/kD-Ih7itkK-j6C-lDMkqzDODd5N9kWsmNStst5C_5nUFe8et5-Z46Mz2gPo_Ip5yG48zHVZ1Ro-EpVAk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Nacreous Snowmelt</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Tojita Sekai</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Nacreous Snowmelt</b>
+  on <b>heart of android</b>
   
   <br />
   <br />
-  01/13/2021 14:28 Playing on YTMusic
+  01/13/2021 14:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
