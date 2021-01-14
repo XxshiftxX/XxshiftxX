@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
-    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
+    <img width="300" src="https://lh3.googleusercontent.com/uxX71eWbNSSg5O1L6NJ6u99qbuqKJEVL_9akXflzcLBp_MLU_FxEkiGU-h4rBwM2mA8LmbVu7R-CXRxCzA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - We Could Get More Machinegun Psystyle! -And More Genre Switches-</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Camellia - ΩΩPARTS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Blackmagik Blazing</b>
+  on <b>ΩΩPARTS</b>
   
   <br />
   <br />
-  01/14/2021 16:50 Playing on YTMusic
+  01/14/2021 17:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
