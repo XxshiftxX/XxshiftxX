@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
-    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
+  <a href="https://music.youtube.com/channel/UC0nuEa_S2ANq-Y6SEGdjnNA">
+    <img width="300" src="https://i.ytimg.com/vi/ERo-sPa1a5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Circles of Death</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>하치오지P 및 GigaP(기가P) - 八王子P × Giga「Gimme×Gimme feat. 初音ミク・鏡音リン」(피처링: 하츠네 미쿠, Rin Kagamine)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Blackmagik Blazing</b>
+  on <b>조회수 981만회</b>
   
   <br />
   <br />
-  01/14/2021 11:56 Playing on YTMusic
+  01/14/2021 14:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
