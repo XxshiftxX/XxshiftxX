@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Circles of Death</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - B L A C K - R A Y</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>Blackmagik Blazing</b>
   
   <br />
   <br />
-  01/14/2021 10:35 Playing on YTMusic
+  01/14/2021 10:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
