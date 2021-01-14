@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCuLYCVJQHH4hCeROWAlGs1A">
-    <img width="300" src="https://i.ytimg.com/vi/1st0XSY0VKQ/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://i.ytimg.com/vi/A02rLvm257w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>WONDERFUL★OPPORTUNITY! - remote controller (feat. Kagamine Rin&Kagamine Len)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 하나두(피처링: Zion.T)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 317만회</b>
+  on <b>조회수 78만회</b>
   
   <br />
   <br />
-  01/14/2021 14:25 Playing on YTMusic
+  01/14/2021 14:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
