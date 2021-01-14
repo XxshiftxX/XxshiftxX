@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw">
-    <img width="300" src="https://i.ytimg.com/vi/kkJhfJmqodg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCCWbwMj_DYJDsQCfC2NglCA">
+    <img width="300" src="https://lh3.googleusercontent.com/PBfoMk2SWaTaFWU8zKFua2bALMTBXgwckX1YzwXPNwzG5Fr4G5UjKwWxIuEK_zSEO9WNXEfkPq-9uegE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>1theK (원더케이) - [MV] SOMDEF(썸데프) _ MorningMare (Feat. Kid Milli, 저스디스&팔로알토, 기리보이, ODEE, sokodomo, 창모&Tommy Strate)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>썸데프 (SOMDEF) - Insomniac(피처링: 키드밀리)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 50만회</b>
+  on <b>MorningMare</b>
   
   <br />
   <br />
-  01/14/2021 14:43 Playing on YTMusic
+  01/14/2021 14:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
