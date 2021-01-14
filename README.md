@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCgjUnkSCRMtjrrTEFzkSmQw">
-    <img width="300" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCxh2AsIrMjB7RE45IWdLQUA">
+    <img width="300" src="https://i.ytimg.com/vi/DWwFK2gjwa8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GigaP(기가P) - 劣等上等 feat. 鏡音リン・レン</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ポリスピカデリー - ルーマー</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 2417만회</b>
+  on <b>조회수 71만회</b>
   
   <br />
   <br />
-  01/14/2021 14:15 Playing on YTMusic
+  01/14/2021 14:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
