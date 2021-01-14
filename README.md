@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC0nuEa_S2ANq-Y6SEGdjnNA">
-    <img width="300" src="https://i.ytimg.com/vi/ERo-sPa1a5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCgjUnkSCRMtjrrTEFzkSmQw">
+    <img width="300" src="https://i.ytimg.com/vi/oEkGC2HV7rc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>하치오지P 및 GigaP(기가P) - 八王子P × Giga「Gimme×Gimme feat. 初音ミク・鏡音リン」(피처링: 하츠네 미쿠, Rin Kagamine)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GigaP(기가P) - 劣等上等 feat. 鏡音リン・レン</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 981만회</b>
+  on <b>조회수 2417만회</b>
   
   <br />
   <br />
-  01/14/2021 14:12 Playing on YTMusic
+  01/14/2021 14:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
