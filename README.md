@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCCWbwMj_DYJDsQCfC2NglCA">
-    <img width="300" src="https://lh3.googleusercontent.com/PBfoMk2SWaTaFWU8zKFua2bALMTBXgwckX1YzwXPNwzG5Fr4G5UjKwWxIuEK_zSEO9WNXEfkPq-9uegE">
+  <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
+    <img width="300" src="https://lh3.googleusercontent.com/T9bAT2bb34D41tPOYm5fcn_6jZGPjbxk_E3NkDKjX_VG6pvP7vy6aCn6wtTGeAbf3req5NFl-Je6tCHn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>썸데프 (SOMDEF) - Insomniac(피처링: 키드밀리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - GHOST</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>MorningMare</b>
+  on <b>Cyphisonia E.P.</b>
   
   <br />
   <br />
-  01/14/2021 14:49 Playing on YTMusic
+  01/14/2021 16:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
