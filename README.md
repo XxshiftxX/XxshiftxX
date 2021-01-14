@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCVl4Pxo4uyd6K3eoFsgdtBQ">
-    <img width="300" src="https://lh3.googleusercontent.com/X1OrpvJSTRrxwJaSFas-uEGAwu9JxL5UCvaqdUKdLfwrzOPzCUzZDe6EpkafgXXYcRf49rHRincMQSPkaQ">
+  <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
+    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>かめりあ as "menaXe inXonnu" - Xronial Xero</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Blackmagik Blazing</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Xronial Xero</b>
+  on <b>Blackmagik Blazing</b>
   
   <br />
   <br />
-  01/14/2021 10:41 Playing on YTMusic
+  01/14/2021 10:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
