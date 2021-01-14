@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
-    <img width="300" src="https://lh3.googleusercontent.com/sUZyoa6JomGF5FpPkJeJTgjlIpIY1xzgchggSc1AWmGj0_YG-Pm9fzC8BK1UiTKSOnoKTy3cp4CU78M">
+    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Qyoh -Nine Stars-</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Nasty * Nasty * Spell</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Qyoh -Nine Stars-</b>
+  on <b>Blackmagik Blazing</b>
   
   <br />
   <br />
-  01/14/2021 10:49 Playing on YTMusic
+  01/14/2021 11:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
