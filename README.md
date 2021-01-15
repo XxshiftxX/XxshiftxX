@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCtnCXEwEHH4gasIa4AnSH7A">
-    <img width="300" src="https://lh3.googleusercontent.com/Kk9BfpBzMSFSzSYlglvU4oL_0uqp8f4qZPN5LOPPNYgaJcbg7PM86fTjqyMP4SKj7QoD7o9bexpzoCtB6w">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
+    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>mega 및 나나히라 - Sekai seifuku!Nanamega Kingdom</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 및 저스디스 - Take It (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Nanamega Kingdom</b>
+  on <b>G＋Jus</b>
   
   <br />
   <br />
-  01/15/2021 11:53 Playing on YTMusic
+  01/15/2021 11:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
