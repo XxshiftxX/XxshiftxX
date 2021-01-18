@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
-    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
+  <a href="https://www.youtube.com/channel/UCjWRi2qaGtKjQyoQLc4OGkw">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwniN0GgSxD4NEhCr5KbuHxW_6dh9AUP2fnc2hDUt5Q=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1, BIG Naughty, TRADE L 및 Woodie Gochild - VVS (H1GHR Remix) (Feat. JUSTHIS) (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sungha Jung - 에어맨이 쓰러지지 않아 쳐드렸습니다~</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>G＋Jus</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  01/15/2021 11:59 Playing on YTMusic
+  01/18/2021 10:22 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
