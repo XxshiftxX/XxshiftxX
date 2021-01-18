@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCW-4vXGlIn9gaCueUfqQD-A">
-    <img width="300" src="https://i.ytimg.com/vi/GBpMWCvYiCk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://i.ytimg.com/vi/DN-brUZElEE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Bobii Lewis - Force You(피처링: Not3s)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 염따(YUMDDA) - 좋아한다니까 (Lyric Video)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 1.2만회</b>
+  on <b>조회수 109만회</b>
   
   <br />
   <br />
-  01/18/2021 18:54 Playing on YTMusic
+  01/18/2021 18:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
