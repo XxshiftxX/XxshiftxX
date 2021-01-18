@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
-    <img width="300" src="https://i.ytimg.com/vi/A02rLvm257w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+    <img width="300" src="https://i.ytimg.com/vi/KT5nEChOISs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 하나두(피처링: Zion.T)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 존시나(피처링: Northfacegawd, 저스디스, 래원 (Layone))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 80만회</b>
+  on <b>조회수 181만회</b>
   
   <br />
   <br />
-  01/18/2021 18:14 Playing on YTMusic
+  01/18/2021 18:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
