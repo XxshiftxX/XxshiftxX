@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/S9nLGLFQqxEbP8Y3xkFgm3Yn5YiT9qJ8AU3apAuflOzsTw67o_jOpdHiVjIUBHColXe3_5AkWoojUTxO">
+  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
+    <img width="300" src="https://lh3.googleusercontent.com/LEyCLgAsFx99t1DUrmHT5z7A45iqa8x4xff2pCEzdnfNW1n8BkQYgx1GHDp_B4AZSTyxRdr7fMjKPsQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 리버스 (Prod. By 기리보이)(피처링: Khakii, 안병웅, 김모노 (Kim MONO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - GOODMORNING FREESTYLE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>리버스</b>
+  on <b>[L]</b>
   
   <br />
   <br />
-  01/18/2021 11:11 Playing on YTMusic
+  01/18/2021 11:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
