@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCUEbMnl7U4rLoMopD2bqT3Q">
-    <img width="300" src="https://i.ytimg.com/vi/KCpWMEsiN3Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://i.ytimg.com/vi/s5k8hpbOE1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SEOUL MUSIC / 서울뮤직 - [MV] 디핵 (D-Hack), PATEKO - OHAYO MY NIGHT / Official Music Video</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 그녀와 나의 느와르</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 13만회</b>
+  on <b>조회수 6.1만회</b>
   
   <br />
   <br />
-  01/19/2021 15:38 Playing on YTMusic
+  01/19/2021 15:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
