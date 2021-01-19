@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCvX__PSdlJZQcKqx3616Kaw">
-    <img width="300" src="https://i.ytimg.com/vi/4tdOzlB6I7w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://i.ytimg.com/vi/zOIshHfhwCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>씨잼(C Jamm) - 신기루 (illusion)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - BENTLEY 1.5</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 2378만회</b>
+  on <b>조회수 66만회</b>
   
   <br />
   <br />
-  01/19/2021 15:31 Playing on YTMusic
+  01/19/2021 15:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
