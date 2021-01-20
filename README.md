@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/LEyCLgAsFx99t1DUrmHT5z7A45iqa8x4xff2pCEzdnfNW1n8BkQYgx1GHDp_B4AZSTyxRdr7fMjKPsQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - BAD TRIP</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - FLASH BACK</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>[L]</b>
   
   <br />
   <br />
-  01/20/2021 18:22 Playing on YTMusic
+  01/20/2021 18:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
