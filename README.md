@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCNpObHElUk-URbs0wvC6rTw">
-    <img width="300" src="https://lh3.googleusercontent.com/JuQLfW0i_CuEsDMLymqh0bdvvf6XBm9qWtBughDPGJcBhexkU0dohTXcb9fciV_emOUsWi1PpMIll-4p">
+  <a href="https://music.youtube.com/channel/UCyvFbqTGEVjbtppSdGrHPoA">
+    <img width="300" src="https://lh3.googleusercontent.com/Ez85RnZTwo991VmLILk7i4mUHZs9RihLIgzXrO7KLwjDdJiNmLVfhYMvlvcfN2Mh2vFDm-DI4eckqXs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - Switch Lanes (Prod. Slim Shinichi)(피처링: 쿠기)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MELOH - IDNY(피처링: 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Island</b>
+  on <b>MELOH</b>
   
   <br />
   <br />
-  01/21/2021 17:56 Playing on YTMusic
+  01/21/2021 18:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
