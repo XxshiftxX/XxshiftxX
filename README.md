@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyvFbqTGEVjbtppSdGrHPoA">
-    <img width="300" src="https://lh3.googleusercontent.com/Ez85RnZTwo991VmLILk7i4mUHZs9RihLIgzXrO7KLwjDdJiNmLVfhYMvlvcfN2Mh2vFDm-DI4eckqXs">
+  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MELOH - IDNY(피처링: 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>MELOH</b>
+  on <b>Show Me the Money 9 Final</b>
   
   <br />
   <br />
-  01/21/2021 18:00 Playing on YTMusic
+  01/21/2021 18:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
