@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
+    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1, BIG Naughty, TRADE L 및 Woodie Gochild - VVS (H1GHR Remix) (Feat. JUSTHIS) (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>G＋Jus</b>
   
   <br />
   <br />
-  01/21/2021 18:03 Playing on YTMusic
+  01/21/2021 18:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
