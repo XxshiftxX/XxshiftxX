@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCoMEDhoTikktzNMiHypJVEg">
+    <img width="300" src="https://lh3.googleusercontent.com/oQ2m7Qir9Q7_sq_LNUmf3SoSdG8NG3sGRM64eEbxEGkAcYqs7pdfPnYUdkBvqU91PFJQKcWcugv0Vfs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 - The Beauty of Void(피처링: 제시(Jessi), 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Uneducated Kid - God Bless(피처링: Jay Park, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>HOODSTAR 2</b>
   
   <br />
   <br />
-  01/21/2021 17:42 Playing on YTMusic
+  01/21/2021 17:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
