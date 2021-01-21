@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
-    <img width="300" src="https://lh3.googleusercontent.com/dsI6zTdfnDQwaYliYBsoZOoBgHBuF-wbyreYT6ogpJEwSyd_xgRt6zF_17zVQq595gAV-lbi_w5iuh4C">
+  <a href="https://music.youtube.com/channel/UCoERzGw4bv2nRMoMOJFwmkQ">
+    <img width="300" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 사랑이었나봐</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>9컷</b>
+  on <b>EVERYTHING</b>
   
   <br />
   <br />
-  01/21/2021 15:34 Playing on YTMusic
+  01/21/2021 15:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
