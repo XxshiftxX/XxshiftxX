@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/QaBzLKxxurL-7hlJe7D33zTTbjgOGuIu_bB81Ni6zljQx_d87y3-5XGxJfXtqo8n8lExxGzEhK8pdVkiWg">
+  <a href="https://music.youtube.com/channel/UCNpObHElUk-URbs0wvC6rTw">
+    <img width="300" src="https://lh3.googleusercontent.com/JuQLfW0i_CuEsDMLymqh0bdvvf6XBm9qWtBughDPGJcBhexkU0dohTXcb9fciV_emOUsWi1PpMIll-4p">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - GJD</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김승민 - Switch Lanes (Prod. Slim Shinichi)(피처링: 쿠기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>GJD</b>
+  on <b>Island</b>
   
   <br />
   <br />
-  01/21/2021 17:53 Playing on YTMusic
+  01/21/2021 17:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
