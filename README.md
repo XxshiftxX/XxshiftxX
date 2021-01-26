@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoNq-kohNtB6l7ChNheqW0g">
-    <img width="300" src="https://lh3.googleusercontent.com/08yjk6GL3hpIEs5fr98-vKEKsL25zWrVxWQMQHCJz6kqRi3IFPrAn23x9yiCLW2ug9spsf9N2gmyhSWn">
+  <a href="https://music.youtube.com/channel/UCnjYjwzLQ66kRDikH0YVlpw">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에픽하이(EPIK HIGH) - 정당방위(피처링: 우원재, 넉살, 창모)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Epik High Is Here 上, Part 1</b>
+  on <b>Show Me the Money 9 Episode 3</b>
   
   <br />
   <br />
-  01/26/2021 15:36 Playing on YTMusic
+  01/26/2021 15:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
