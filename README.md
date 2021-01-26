@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
-    <img width="300" src="https://lh3.googleusercontent.com/pGjY8k3vMDZbgLgfuaVtXScMYgA53dxdn3VXfM0kUQ7SUqBbYeUruVHz0B6JrWh1fDFQnT9oScq83DY">
+  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
+    <img width="300" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>원슈타인 - X (Butterfly)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO), 해쉬 스완(Hash Swan), ASH ISLAND 및 김효은 - BAND</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>X (Butterfly)</b>
+  on <b>BAND</b>
   
   <br />
   <br />
-  01/26/2021 15:29 Playing on YTMusic
+  01/26/2021 15:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
