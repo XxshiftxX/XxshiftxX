@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCnjYjwzLQ66kRDikH0YVlpw">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/S9nLGLFQqxEbP8Y3xkFgm3Yn5YiT9qJ8AU3apAuflOzsTw67o_jOpdHiVjIUBHColXe3_5AkWoojUTxO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 리버스 (Prod. By 기리보이)(피처링: Khakii, 안병웅, 김모노 (Kim MONO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 3</b>
+  on <b>리버스</b>
   
   <br />
   <br />
-  01/26/2021 15:39 Playing on YTMusic
+  01/26/2021 17:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
