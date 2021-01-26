@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg">
-    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
+  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
+    <img width="300" src="https://lh3.googleusercontent.com/pGjY8k3vMDZbgLgfuaVtXScMYgA53dxdn3VXfM0kUQ7SUqBbYeUruVHz0B6JrWh1fDFQnT9oScq83DY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범, pH-1, Sik-K(식케이) 및 빅나티 - How We Rock</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>원슈타인 - X (Butterfly)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>H1GHR : RED TAPE</b>
+  on <b>X (Butterfly)</b>
   
   <br />
   <br />
-  01/26/2021 15:08 Playing on YTMusic
+  01/26/2021 15:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
