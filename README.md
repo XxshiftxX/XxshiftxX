@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
+    <img width="300" src="https://lh3.googleusercontent.com/el-TrXoO-goo0GMrTXI0-PtXJyzadkXN1t11DuFjdNpUHtKOON4W8m4Jrb2qU0OjFd8ozdW8GwdnoVz4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Daydreamin(피처링: sogumm, 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - CATCH ME IF YOU CAN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>CATCH ME IF YOU CAN</b>
   
   <br />
   <br />
-  01/25/2021 17:41 Playing on YTMusic
+  01/26/2021 14:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
