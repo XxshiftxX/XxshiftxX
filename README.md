@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwng517eYWWUKfMc6TdBi_6gh5KQ-jGHTb443SxjuOQ=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 염따(YUMDDA) - 존시나 (feat. Northfacegawd, JUSTHIS, 래원) [Official MV]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 3</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  01/27/2021 18:16 Playing on YTMusic
+  01/27/2021 20:07 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
