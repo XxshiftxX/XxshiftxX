@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCjWRi2qaGtKjQyoQLc4OGkw">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwniN0GgSxD4NEhCr5KbuHxW_6dh9AUP2fnc2hDUt5Q=s48-c-k-c0xffffffff-no-nd-rj-mo">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/S9nLGLFQqxEbP8Y3xkFgm3Yn5YiT9qJ8AU3apAuflOzsTw67o_jOpdHiVjIUBHColXe3_5AkWoojUTxO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sungha Jung - (DJ Okawari) Flower Dance - 정성하 - 기타커버</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 리버스 (Prod. By 기리보이)(피처링: Khakii, 안병웅, 김모노 (Kim MONO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>리버스</b>
   
   <br />
   <br />
-  01/27/2021 13:13 Playing on YouTube
+  01/27/2021 17:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
