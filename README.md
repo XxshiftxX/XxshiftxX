@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
-    <img width="300" src="https://lh3.googleusercontent.com/lq7q4EF84zItG4jRq7v-8-7NyUTThD3Ba7QazX4m7AtOzhIuyyjRU9EpYIB5OYLsyFOIf74zTxsdXkM">
+  <a href="https://music.youtube.com/channel/UCoV8L_tyJqZoRh51f-2ylhQ">
+    <img width="300" src="https://lh3.googleusercontent.com/LEyCLgAsFx99t1DUrmHT5z7A45iqa8x4xff2pCEzdnfNW1n8BkQYgx1GHDp_B4AZSTyxRdr7fMjKPsQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - 5 Gawd 2 (Warrior Flow)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - 0 (YOUNG)(피처링: Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>5 Gawd 2</b>
+  on <b>[L]</b>
   
   <br />
   <br />
-  01/27/2021 17:47 Playing on YTMusic
+  01/27/2021 17:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
