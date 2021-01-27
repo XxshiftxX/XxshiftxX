@@ -2,17 +2,44 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A">
-    <img width="300" src="https://lh3.googleusercontent.com/7vT-ruHgST-HVSTma_-t1BlDIOLoloiEoq1d-oeGmWXpn_nMrqT4oNVUa_OQaiXQjTAa32lRTDnVR9hnew">
+  <a href="https://www.youtube.com/channel/UCvkOJJ9uFi9hto95bD3XO7Q">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnjOOofHb4u0eakq9XxN121orHtGzT8vyMtg1dY=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Reol - 第六感</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>
+  
+    SPYAIR Official YouTube Channel
+  
+  
+    
+
+    
+      
+    SPYAIR Official YouTube Channel
+  
+    
+
+
+
+  
+    
+    
+  
+    
+
+    
+      공식 아티스트 채널
+    
+
+
+
+ - SPYAIR 『現状ディストラクション』</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>第六感</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  01/27/2021 21:58 Playing on YTMusic
+  01/27/2021 22:30 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
