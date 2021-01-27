@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg">
-    <img width="300" src="https://lh3.googleusercontent.com/LtzwLew9W3Igam672B19Vp7Kotr_tjTSkEY4L4DNjAvIkfLOxs34jYaAUJ3cCd5SUIzHwJfPyDIlHl_N">
+  <a href="https://music.youtube.com/channel/UC9vrvNSL3xcWGSkV86REBSg">
+    <img width="300" src="https://lh3.googleusercontent.com/n1-pqG9jYCHqxiSSq7DORgk10PCS7vyMX5VX0o0HoPwEEIZM5pamJAFIDOHqo7Hl27hJ9YvqTahya3Fg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BLACKPINK - How You Like That</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>방탄소년단 - Life Goes On</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>How You Like That</b>
+  on <b>BE</b>
   
   <br />
   <br />
-  01/27/2021 17:57 Playing on YTMusic
+  01/27/2021 18:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
