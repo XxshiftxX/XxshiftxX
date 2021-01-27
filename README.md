@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC9vrvNSL3xcWGSkV86REBSg">
-    <img width="300" src="https://lh3.googleusercontent.com/n1-pqG9jYCHqxiSSq7DORgk10PCS7vyMX5VX0o0HoPwEEIZM5pamJAFIDOHqo7Hl27hJ9YvqTahya3Fg">
+  <a href="https://music.youtube.com/channel/UC40bAhduiI5dXS6Skp3aH5Q">
+    <img width="300" src="https://lh3.googleusercontent.com/JOYeu3B1Cm6y8eDM0MpOzhVxLkNjBLIA1emtf8uMS_WbwRt4OyukL2abyrNKLa1w0r9BW_pvoSkbV28">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>방탄소년단 - Life Goes On</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>지코 (ZICO) - 아무노래</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BE</b>
+  on <b>아무노래</b>
   
   <br />
   <br />
-  01/27/2021 18:00 Playing on YTMusic
+  01/27/2021 18:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
