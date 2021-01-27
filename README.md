@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
-    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
+  <a href="https://music.youtube.com/channel/UCRKrBZq4oFRS6Kv1W8deNSw">
+    <img width="300" src="https://lh3.googleusercontent.com/X50xtI-Ku0aLC5QkYHRwnjGHcV4yCXiAb76YJzegaTxK7XB97x-zJoxk34Wz4FMnLcFbtTSIRbxxwDSz">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 하나두(피처링: Zion.T)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제네 더 질라 - ITX(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>살아숨셔 3</b>
+  on <b>ITX</b>
   
   <br />
   <br />
-  01/27/2021 17:36 Playing on YTMusic
+  01/27/2021 17:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
