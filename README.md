@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnjikPqZQLCLO0Dpiekl_ZkNcSB-1HMCy1Rz_f2UiA=s48-c-k-c0xffffffff-no-nd-rj-mo">
+  <a href="https://music.youtube.com/channel/UCknW0jP_BkALWACMQ44cJ1A">
+    <img width="300" src="https://lh3.googleusercontent.com/7vT-ruHgST-HVSTma_-t1BlDIOLoloiEoq1d-oeGmWXpn_nMrqT4oNVUa_OQaiXQjTAa32lRTDnVR9hnew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Love Yourself (Official Music Video)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Reol - 第六感</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>第六感</b>
   
   <br />
   <br />
-  01/27/2021 21:06 Playing on YouTube
+  01/27/2021 21:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
