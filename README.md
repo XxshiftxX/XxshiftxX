@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
+  <a href="https://www.youtube.com/channel/UCjWRi2qaGtKjQyoQLc4OGkw">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwniN0GgSxD4NEhCr5KbuHxW_6dh9AUP2fnc2hDUt5Q=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - METEOR</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sungha Jung - (DJ Okawari) Flower Dance - 정성하 - 기타커버</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Boyhood</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  01/26/2021 17:32 Playing on YTMusic
+  01/27/2021 13:13 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
