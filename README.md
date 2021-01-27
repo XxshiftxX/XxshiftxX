@@ -6,13 +6,40 @@
     <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnjEDJWYaIksia0vpqmF1_jPxZz4oYeNnPG6zs-IBw=s48-c-k-c0xffffffff-no-nd-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BLACKPINK - ROSÉ - COMING SOON TEASER</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>
+  
+    BLACKPINK
+  
+  
+    
+
+    
+      
+    BLACKPINK
+  
+    
+
+
+
+  
+    
+    
+  
+    
+
+    
+      공식 아티스트 채널
+    
+
+
+
+ - ROSÉ - COMING SOON TEASER</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>undefined</b>
   
   <br />
   <br />
-  01/27/2021 20:29 Playing on YouTube
+  01/27/2021 20:32 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
