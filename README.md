@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC40bAhduiI5dXS6Skp3aH5Q">
-    <img width="300" src="https://lh3.googleusercontent.com/JOYeu3B1Cm6y8eDM0MpOzhVxLkNjBLIA1emtf8uMS_WbwRt4OyukL2abyrNKLa1w0r9BW_pvoSkbV28">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>지코 (ZICO) - 아무노래</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Villain(피처링: LeeHi, 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>아무노래</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  01/27/2021 18:03 Playing on YTMusic
+  01/27/2021 18:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
