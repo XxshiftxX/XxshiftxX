@@ -2,44 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnjEDJWYaIksia0vpqmF1_jPxZz4oYeNnPG6zs-IBw=s48-c-k-c0xffffffff-no-nd-rj-mo">
+  <a href="https://music.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA">
+    <img width="300" src="https://i.ytimg.com/vi/Y4nEEZwckuU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>
-  
-    BLACKPINK
-  
-  
-    
-
-    
-      
-    BLACKPINK
-  
-    
-
-
-
-  
-    
-    
-  
-    
-
-    
-      공식 아티스트 채널
-    
-
-
-
- - ROSÉ - COMING SOON TEASER</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요아소비 - 群青</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>조회수 1118만회</b>
   
   <br />
   <br />
-  01/27/2021 20:32 Playing on YouTube
+  01/27/2021 20:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
