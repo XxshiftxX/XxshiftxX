@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
-    <img width="300" src="https://i.ytimg.com/vi/ErkzyjiqP9c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://i.ytimg.com/vi/zOIshHfhwCI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - OKAY (feat. Simon Dominic, MUSHVENOM) (prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - BENTLEY 1.5</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 17만회</b>
+  on <b>조회수 67만회</b>
   
   <br />
   <br />
-  01/28/2021 17:44 Playing on YTMusic
+  01/28/2021 17:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
