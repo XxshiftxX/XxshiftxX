@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC80xT8WlQ5bvtMq7_MxfHIQ">
-    <img width="300" src="https://i.ytimg.com/vi/nEjkcP949Dg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
+    <img width="300" src="https://i.ytimg.com/vi/eELnb74_4vU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>메킷레인 - Owen Ovadoz - City [Official Music Video]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - BLAME MY CIRCLE (feat. JUSTHIS, Owen) (prod. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 22만회</b>
+  on <b>조회수 8.6만회</b>
   
   <br />
   <br />
-  01/28/2021 17:51 Playing on YTMusic
+  01/28/2021 17:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
