@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
-    <img width="300" src="https://i.ytimg.com/vi/eELnb74_4vU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCRKrBZq4oFRS6Kv1W8deNSw">
+    <img width="300" src="https://i.ytimg.com/vi/DI1BLBjwQHs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - BLAME MY CIRCLE (feat. JUSTHIS, Owen) (prod. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제네 더 질라 - ITX(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 8.6만회</b>
+  on <b>조회수 35만회</b>
   
   <br />
   <br />
-  01/28/2021 17:54 Playing on YTMusic
+  01/28/2021 17:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
