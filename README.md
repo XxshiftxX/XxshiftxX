@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lw5b3xEwQaI">
-    <img width="300" src="https://i.ytimg.com/vi/lw5b3xEwQaI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://i.ytimg.com/vi/4wVQH_tj4DU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>viceversa - LIT RED</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - pH-1, 윤비, 영비, 오왼, 안병웅 - 트루먼 쇼 MEGAMIX</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 1.5만회</b>
+  on <b>조회수 104만회</b>
   
   <br />
   <br />
-  01/28/2021 17:20 Playing on YTMusic
+  01/28/2021 17:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
