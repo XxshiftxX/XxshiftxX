@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/DsS8RvXWzoRPZfXaKVfZzosde8xtxqQ3-TP13mxwHiBhKSMwZRkvVFa6QdpFIxAq6XUgV0gzmYqI0UEqOA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - Acrobat 곡예사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - 무의미</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Acrobat 곡예사</b>
+  on <b>A Tribe Called Next</b>
   
   <br />
   <br />
-  02/01/2021 15:24 Playing on YTMusic
+  02/01/2021 15:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
