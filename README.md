@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
+  <a href="https://music.youtube.com/channel/UCO4p2LbFEEF1HKm4HnUVjfg">
+    <img width="300" src="https://lh3.googleusercontent.com/YLMSUhF_0SpFkIaNty9FcLw4jrH1QimQWS6H-Vd_3LZ1hDuSScGwu9kqNE3KiCLnra3Mqmu-5g3SKBrx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - 암순응</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Young B, Yunhway, Lil Tachi 및 Han Yo-han - 아퍼 (Band Ver.)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>암순응</b>
+  on <b>아퍼 (Band Ver.)</b>
   
   <br />
   <br />
-  02/01/2021 14:23 Playing on YTMusic
+  02/01/2021 14:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
