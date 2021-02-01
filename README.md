@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCK0qZAiCoEYzvgObG5lAqLA">
-    <img width="300" src="https://lh3.googleusercontent.com/DZddeaZ-mbQVNql0waa16hTbetQ6uQzYfReTrdSOEw8FkuZfK6MtCD3v4uCOrYlBu2kAtSF0B-_jPk4">
+  <a href="https://music.youtube.com/channel/UCpYf85Wiw52zuJs5BWqsodA">
+    <img width="300" src="https://lh3.googleusercontent.com/_CDCE9Ugg-OZbnQt9CmK3aHGUCxJ1XO01GQomCa432VEKN6LtnE8YdPh7WR5YIbuaKG1vgZRmeDzJzVG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Hersh 허시 - Falling Into You(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>그루비룸 - Unsigned Hype(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Falling Into You (Feat. JUSTHIS)</b>
+  on <b>EVERYWHERE</b>
   
   <br />
   <br />
-  02/01/2021 21:07 Playing on YTMusic
+  02/01/2021 21:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
