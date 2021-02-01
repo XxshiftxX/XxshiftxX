@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/MUdlyRfE_f1VEVOaB6LYlX7AUo7fpe8u6LRqmueZ8Ur-AaJz-X_DAj7jf-wIA8WiUBQ90c0cljdywT9KLw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 - Go(피처링: 사이먼 도미닉, 더 콰이엇(The Quiett))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Upgrade 2020(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>Show Me the Money 9 Episode 2</b>
   
   <br />
   <br />
-  02/01/2021 14:30 Playing on YTMusic
+  02/01/2021 14:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
