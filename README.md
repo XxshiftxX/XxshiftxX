@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
-    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
+  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
+    <img width="300" src="https://lh3.googleusercontent.com/AYkPq8BnP4i93P32WrpnsH0J8nZHzLzzx_ZI-Zk_d18An9Ui6JGGs-Mj4R0CSbcIqvOa-RY-la9RrGDf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 존시나(피처링: Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - Gone</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>살아숨셔 3</b>
+  on <b>Re: Tired.</b>
   
   <br />
   <br />
-  02/01/2021 13:35 Playing on YTMusic
+  02/01/2021 13:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
