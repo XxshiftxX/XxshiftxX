@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ">
-    <img width="300" src="https://lh3.googleusercontent.com/UYvUDadIT43Fbpx4PwrGUdMNbyFGnOkcu5BtGjUbI_wdd1cw74XFneSZhuNNZbu30WN8y3ZYXv7pHLMXFw">
+  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
+    <img width="300" src="https://lh3.googleusercontent.com/9VSAcxztH0xAI_Uqich4TNyOYoJuw3H0Kn0RgxLfuky9eKPn94rnYtMpoRH5MNvPvysaBL9cbGBq9Io">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>디보 - I Could Do Dead(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 저스디스 - Bro</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>I Could Do Dead</b>
+  on <b>4 the Youth</b>
   
   <br />
   <br />
-  02/01/2021 21:01 Playing on YTMusic
+  02/01/2021 21:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
