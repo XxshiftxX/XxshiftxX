@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC26_v5ZJhEnTuP1c8ikHB_g">
-    <img width="300" src="https://lh3.googleusercontent.com/pGjY8k3vMDZbgLgfuaVtXScMYgA53dxdn3VXfM0kUQ7SUqBbYeUruVHz0B6JrWh1fDFQnT9oScq83DY">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>원슈타인 - X (Butterfly)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - 호랑이소굴(피처링: Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>X (Butterfly)</b>
+  on <b>호랑이소굴</b>
   
   <br />
   <br />
-  02/01/2021 14:16 Playing on YTMusic
+  02/01/2021 14:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
