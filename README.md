@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
-    <img width="300" src="https://lh3.googleusercontent.com/9VSAcxztH0xAI_Uqich4TNyOYoJuw3H0Kn0RgxLfuky9eKPn94rnYtMpoRH5MNvPvysaBL9cbGBq9Io">
+  <a href="https://music.youtube.com/channel/UCK0qZAiCoEYzvgObG5lAqLA">
+    <img width="300" src="https://lh3.googleusercontent.com/DZddeaZ-mbQVNql0waa16hTbetQ6uQzYfReTrdSOEw8FkuZfK6MtCD3v4uCOrYlBu2kAtSF0B-_jPk4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 저스디스 - Bro</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Hersh 허시 - Falling Into You(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>4 the Youth</b>
+  on <b>Falling Into You (Feat. JUSTHIS)</b>
   
   <br />
   <br />
-  02/01/2021 21:04 Playing on YTMusic
+  02/01/2021 21:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
