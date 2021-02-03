@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
-    <img width="300" src="https://lh3.googleusercontent.com/sxZJ_NnljAKrwe3yw2LooM-G3QSw0Vk8uux2mxP07GHrH9wp5IggieTn2ZNtamjySyNU4Bb5IP1lhP_W">
+  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, 쿠기(Coogie), 팔로알토(Paloalto) 및 더 콰이엇(The Quiett) - Fadeaway</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Fadeaway</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  02/03/2021 17:35 Playing on YTMusic
+  02/03/2021 17:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
