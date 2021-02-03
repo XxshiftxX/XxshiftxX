@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ">
-    <img width="300" src="https://lh3.googleusercontent.com/UYvUDadIT43Fbpx4PwrGUdMNbyFGnOkcu5BtGjUbI_wdd1cw74XFneSZhuNNZbu30WN8y3ZYXv7pHLMXFw">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/xCo2s3t7D--mu1PJYifAzhmSbxoLYlFgDM2WxE-U9P9JQbBp06Tp1UnccRM91oXkiW6TpApbSBGxp-6y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>디보 - I Could Do Dead(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - +82 Bars</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>I Could Do Dead</b>
+  on <b>1집 : Rap Legend</b>
   
   <br />
   <br />
-  02/03/2021 17:14 Playing on YTMusic
+  02/03/2021 17:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
