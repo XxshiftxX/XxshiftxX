@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
-    <img width="300" src="https://lh3.googleusercontent.com/MUdlyRfE_f1VEVOaB6LYlX7AUo7fpe8u6LRqmueZ8Ur-AaJz-X_DAj7jf-wIA8WiUBQ90c0cljdywT9KLw">
+  <a href="https://music.youtube.com/channel/UC3WMXaoZIR0TO8cXVSSb9tQ">
+    <img width="300" src="https://lh3.googleusercontent.com/UYvUDadIT43Fbpx4PwrGUdMNbyFGnOkcu5BtGjUbI_wdd1cw74XFneSZhuNNZbu30WN8y3ZYXv7pHLMXFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Upgrade 2020(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>디보 - I Could Do Dead(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 2</b>
+  on <b>I Could Do Dead</b>
   
   <br />
   <br />
-  02/03/2021 17:09 Playing on YTMusic
+  02/03/2021 17:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
