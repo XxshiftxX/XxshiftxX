@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">
+  <a href="https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnjNO5GGAZ85LJKNAHlUscnVf3z_CDdTVCuI6ynB4Q=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - Sell The Soul</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ずっと真夜中でいいのに。 - ずっと真夜中でいいのに。『暗く黒く』MV（ZUTOMAYO - DARKEN）</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>2 MANY HOMES 4 1 KID</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  02/01/2021 21:18 Playing on YTMusic
+  02/03/2021 11:08 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
