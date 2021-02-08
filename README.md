@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
+    <img width="300" src="https://lh3.googleusercontent.com/sMXRQlSOzL-W9sdqkw3g7gm0GNv87RR8iBmgK6sB7XPfGnkm2Z44ug7L_196YFDYqd-0cS4kmW_5tWll">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - WHY DO FUCKBOIS HANG OUT ON THE NET</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Instagrammer Girl</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>AI, THE PLAYLIST</b>
+  on <b>BEIGE 0.5</b>
   
   <br />
   <br />
-  02/08/2021 14:58 Playing on YTMusic
+  02/08/2021 15:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
