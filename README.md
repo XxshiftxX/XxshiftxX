@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/JTKrs5_o9lfQnJkbe5GB3yWgzveStdIgtAJbd72fJ2I5GNtNrleB8qCyZIDyK1VG6s_Iah1LioS2CJNP">
+    <img width="300" src="https://lh3.googleusercontent.com/zgMUBhJrrK-CUX3nMKbQKLdXBIYMjdOgLOjRb-0RE1RnTomyhGfX0H8hQ7lwR3m10eTs5llZO9kt_9g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Muddy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - HITS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Maiden Voyage Ⅱ</b>
+  on <b>L I F E</b>
   
   <br />
   <br />
-  02/08/2021 15:09 Playing on YTMusic
+  02/08/2021 15:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
