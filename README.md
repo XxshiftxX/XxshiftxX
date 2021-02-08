@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
+  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
+    <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - WHY DO FUCKBOIS HANG OUT ON THE NET</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>IM</b>
+  on <b>AI, THE PLAYLIST</b>
   
   <br />
   <br />
-  02/03/2021 18:04 Playing on YTMusic
+  02/08/2021 14:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
