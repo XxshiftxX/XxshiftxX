@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/PqJdpkMFJ1SE_zydvgwnQy5PeZhxLWh4DJipQRC6hIxqThT563fkVaDuwSSboA9sIqZA2dfC3UJ4LJs">
+    <img width="300" src="https://lh3.googleusercontent.com/rxAyDE6imsWwyTEaRFqRhs8iYs5tB-pMOmHv2o8UZq-Krg_SbdkJbpvQMRtROUbgGfkm0W8Drm1zflcF">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - 999 <3</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kid Milli - Levitate</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BOY</b>
+  on <b>Maiden Voyage</b>
   
   <br />
   <br />
-  02/08/2021 15:04 Playing on YTMusic
+  02/08/2021 15:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
