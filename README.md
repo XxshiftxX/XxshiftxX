@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA">
+    <img width="300" src="https://lh3.googleusercontent.com/YBJ7JNalqdVwdESAj47fYcYXTYu1iWZHVAAmee37W9XFQt48c_N9eKUkIJWQxcC3-WLFabKlcnMg1QB7bg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(피처링: 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>(G)I-DLE (여자)아이들 - HWAA (화(火花) )</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>I burn</b>
   
   <br />
   <br />
-  02/10/2021 16:09 Playing on YTMusic
+  02/10/2021 16:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
