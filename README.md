@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCxRzttecSPff9NTGIw-TPHA">
-    <img width="300" src="https://lh3.googleusercontent.com/YUfVmYGVba-5cs5Yu7CRonWHLMwJG9teqkfMYs1_msGrSz9FWczr9hmEY0rJP3QWQ8BwA5lamtdOppIj">
+  <a href="https://music.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA">
+    <img width="300" src="https://lh3.googleusercontent.com/SsQwNgjPDTTPUcs_wDWWHYn9rasYYBRqsDQ-fZ4bcil-Gzub6yzd_ftH2XJVs9LOQ_HmZIrfHeXBw5lN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이프릴 (APRIL) - LALALILALA</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>(여자)아이들 - 한(一)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>APRIL 7th Mini Album <Da Capo></b>
+  on <b>한(一)</b>
   
   <br />
   <br />
-  02/10/2021 16:29 Playing on YTMusic
+  02/10/2021 16:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
