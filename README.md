@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA">
-    <img width="300" src="https://lh3.googleusercontent.com/D-7AjZeLlzSxu5afmcPtFlfE2mmTWMj83Ktu3XaYU9QAIOorlYAvlPlRGiAo9QF8xSvLSx-w8mfJVd4">
+    <img width="300" src="https://lh3.googleusercontent.com/u9dxuq4RyfdrjEjsb7y8FP-RH5r2RCgOBA1kAZxFX9HQLE6XLpD1dpo1Jz75Ia_STmzRH47TMVG7JL-NKQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>(여자)아이들 (G)I-DLE - 덤디덤디 (DUMDi DUMDi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>(여자)아이들 - LATATA</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>덤디덤디 (DUMDi DUMDi)</b>
+  on <b>I Am</b>
   
   <br />
   <br />
-  02/10/2021 16:16 Playing on YTMusic
+  02/10/2021 16:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
