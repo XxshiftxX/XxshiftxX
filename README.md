@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA">
-    <img width="300" src="https://lh3.googleusercontent.com/u9dxuq4RyfdrjEjsb7y8FP-RH5r2RCgOBA1kAZxFX9HQLE6XLpD1dpo1Jz75Ia_STmzRH47TMVG7JL-NKQ">
+  <a href="https://music.youtube.com/channel/UCArTAXmvvTohDgCsegudy4w">
+    <img width="300" src="https://lh3.googleusercontent.com/C-tzB3wnaPBaIBM6KZUzfgVM-hIQeHF5PbRmV1IytmLvP8DQa_ja18Np42OsmazUV4VbJH1MYtT5_fsP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>(여자)아이들 - LATATA</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오마이걸(OH MY GIRL) - 살짝 설렜어 (Nonstop)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>I Am</b>
+  on <b>NONSTOP</b>
   
   <br />
   <br />
-  02/10/2021 16:19 Playing on YTMusic
+  02/10/2021 16:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
