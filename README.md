@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA">
-    <img width="300" src="https://lh3.googleusercontent.com/1LbFilj3Xzn-fCt28S2zqP2BxkejvBMcKD_-TFbzx1SgvKAxB4m3yya9GI_qhta6NRykIe6BBuF-uNrL">
+  <a href="https://music.youtube.com/channel/UCpUChkP-KE20GRsyfjU83_g">
+    <img width="300" src="https://lh3.googleusercontent.com/WEgqjuasXU9zOgQnejKndtMPG1veEFljehOSretfNRcUw6yRGII3eujlGHbo7cleZRGEx0EmYLdmHy4v">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>(여자)아이들 - Oh my god</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>청하 - PLAY(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>I Trust</b>
+  on <b>PLAY</b>
   
   <br />
   <br />
-  02/10/2021 16:43 Playing on YTMusic
+  02/10/2021 16:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
