@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA">
-    <img width="300" src="https://lh3.googleusercontent.com/SsQwNgjPDTTPUcs_wDWWHYn9rasYYBRqsDQ-fZ4bcil-Gzub6yzd_ftH2XJVs9LOQ_HmZIrfHeXBw5lN">
+  <a href="https://music.youtube.com/channel/UCG81UKNsFg9Perf0uPQOsQw">
+    <img width="300" src="https://lh3.googleusercontent.com/GYsOVggS6_ppVI6fYFoycdUfN1LKeSsslXOb_6b8HfBmvJARhHPGHAGt7dOV7o18qOIhz_zJBv0kvXK8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>(여자)아이들 - 한(一)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아이즈원 - FIESTA</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>한(一)</b>
+  on <b>BLOOM*IZ</b>
   
   <br />
   <br />
-  02/10/2021 16:33 Playing on YTMusic
+  02/10/2021 16:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
