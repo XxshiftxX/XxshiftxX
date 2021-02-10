@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/YBJ7JNalqdVwdESAj47fYcYXTYu1iWZHVAAmee37W9XFQt48c_N9eKUkIJWQxcC3-WLFabKlcnMg1QB7bg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>(G)I-DLE (여자)아이들 - HWAA (화(火花) )</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>(G)I-DLE (여자)아이들 - HANN(Alone in winter) (한(寒) )</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>I burn</b>
   
   <br />
   <br />
-  02/10/2021 16:12 Playing on YTMusic
+  02/10/2021 16:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
