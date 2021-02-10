@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/GgZJ9kjn4vl9gjMvtR0w4eVt1YIFFoZtvHc_REASZT9XCmryuIkb3s6dXGh0OM542kfoMkPlFesGC5SzGw">
+  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
+    <img width="300" src="https://lh3.googleusercontent.com/4oFdHFlQLwsjA2igs-wRMEYrkzKlGcp19MZE3yIPhIGyN0jq3-aO_fAZ8CorXh1Vam9FnvmXrmYpwv27">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - 2018.01.21</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴보이 - 기도(피처링: 테일러, 버벌진트, Hoody (후디))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>IMNOTSPECIAL</b>
+  on <b>기도</b>
   
   <br />
   <br />
-  02/08/2021 15:51 Playing on YTMusic
+  02/10/2021 16:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
