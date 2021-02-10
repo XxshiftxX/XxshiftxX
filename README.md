@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCWT2ZfW7d8YI-HinHEVhyCA">
-    <img width="300" src="https://lh3.googleusercontent.com/YBJ7JNalqdVwdESAj47fYcYXTYu1iWZHVAAmee37W9XFQt48c_N9eKUkIJWQxcC3-WLFabKlcnMg1QB7bg">
+    <img width="300" src="https://lh3.googleusercontent.com/D-7AjZeLlzSxu5afmcPtFlfE2mmTWMj83Ktu3XaYU9QAIOorlYAvlPlRGiAo9QF8xSvLSx-w8mfJVd4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>(G)I-DLE (여자)아이들 - HANN(Alone in winter) (한(寒) )</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>(여자)아이들 (G)I-DLE - 덤디덤디 (DUMDi DUMDi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>I burn</b>
+  on <b>덤디덤디 (DUMDi DUMDi)</b>
   
   <br />
   <br />
-  02/10/2021 16:15 Playing on YTMusic
+  02/10/2021 16:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
