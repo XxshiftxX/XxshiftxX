@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCpUChkP-KE20GRsyfjU83_g">
-    <img width="300" src="https://lh3.googleusercontent.com/WEgqjuasXU9zOgQnejKndtMPG1veEFljehOSretfNRcUw6yRGII3eujlGHbo7cleZRGEx0EmYLdmHy4v">
+  <a href="https://www.youtube.com/channel/UCrhgVHA_uAiT9BoGV9qRKvg">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnhN5DjFJppF-sriCumhmgdEUVx_SbLH-FHFdWqUag=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>청하 - PLAY(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>San E - 평생 써먹는 장어 먹는 법</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>PLAY</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  02/10/2021 16:46 Playing on YTMusic
+  02/10/2021 17:38 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
