@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCrhgVHA_uAiT9BoGV9qRKvg">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnhN5DjFJppF-sriCumhmgdEUVx_SbLH-FHFdWqUag=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
+    <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>San E - 평생 써먹는 장어 먹는 법</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - WHY DO FUCKBOIS HANG OUT ON THE NET</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>AI, THE PLAYLIST</b>
   
   <br />
   <br />
-  02/10/2021 17:38 Playing on YouTube
+  02/12/2021 19:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
