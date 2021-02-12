@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/zgMUBhJrrK-CUX3nMKbQKLdXBIYMjdOgLOjRb-0RE1RnTomyhGfX0H8hQ7lwR3m10eTs5llZO9kt_9g">
+  <a href="https://music.youtube.com/channel/UCMRvw9TUJB5m32YPrxLu7ag">
+    <img width="300" src="https://lh3.googleusercontent.com/frm4vvKo5ZYQ-_baOhw7knVxOrCCG2haueTaJQMZt09-tANP-e79ZwcP2G9G10ABFiJ6iJL2b34FFjYu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - sydney, hongkong(피처링: 따마)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 옛날거 (Prod. By 기리보이, MISU)(피처링: 키드밀리)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>L I F E</b>
+  on <b>hightechnology : 3곡 & Instrumentals</b>
   
   <br />
   <br />
-  02/13/2021 03:11 Playing on YTMusic
+  02/13/2021 03:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
