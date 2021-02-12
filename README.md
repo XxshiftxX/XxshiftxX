@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/sMXRQlSOzL-W9sdqkw3g7gm0GNv87RR8iBmgK6sB7XPfGnkm2Z44ug7L_196YFDYqd-0cS4kmW_5tWll">
+    <img width="300" src="https://lh3.googleusercontent.com/zgMUBhJrrK-CUX3nMKbQKLdXBIYMjdOgLOjRb-0RE1RnTomyhGfX0H8hQ7lwR3m10eTs5llZO9kt_9g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - To You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - 473</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BEIGE 0.5</b>
+  on <b>L I F E</b>
   
   <br />
   <br />
-  02/12/2021 19:52 Playing on YTMusic
+  02/12/2021 19:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
