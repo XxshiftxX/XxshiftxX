@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
+    <img width="300" src="https://lh3.googleusercontent.com/JTKrs5_o9lfQnJkbe5GB3yWgzveStdIgtAJbd72fJ2I5GNtNrleB8qCyZIDyK1VG6s_Iah1LioS2CJNP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - CLOSE!</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - DSEL Interlude</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Maiden Voyage III</b>
+  on <b>Maiden Voyage Ⅱ</b>
   
   <br />
   <br />
-  02/13/2021 04:13 Playing on YTMusic
+  02/13/2021 04:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
