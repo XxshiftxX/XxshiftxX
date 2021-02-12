@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/J-qDdNAmGtG0mn4dZgqcDP6ogBZWRTYA-EsoFwChQOoLmZSNFsKWRD8f5w794-zUxBWdDXx2N7ILW3ez">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli - 내 음악은 내 음악</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kid Milli - 새벽(피처링: 죠지라이프)</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>TN</b>
   
   <br />
   <br />
-  02/12/2021 20:37 Playing on YTMusic
+  02/12/2021 20:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
