@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/GgZJ9kjn4vl9gjMvtR0w4eVt1YIFFoZtvHc_REASZT9XCmryuIkb3s6dXGh0OM542kfoMkPlFesGC5SzGw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - by the way</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - 2018.01.21</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>IMNOTSPECIAL</b>
   
   <br />
   <br />
-  02/12/2021 20:03 Playing on YTMusic
+  02/12/2021 20:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
