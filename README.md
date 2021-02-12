@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/L095GLXgIkWLBZW5b3GHBOROx9gq83ltstCK-pqHROqOUkY3Rtg1w5hBsWu_Y37rpUchJgND6n3MPrrC">
+    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Time Looping(피처링: 비와이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - CLOSE!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>TR</b>
+  on <b>Maiden Voyage III</b>
   
   <br />
   <br />
-  02/13/2021 04:09 Playing on YTMusic
+  02/13/2021 04:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
