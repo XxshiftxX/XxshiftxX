@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/UTCPepxSgPjImsszrUJNywCQyPQtZx_tRM2vCW-9WfR8zM3lrsAW__joO9XQckqSKP1c-7UMyWCRGgQ">
+    <img width="300" src="https://lh3.googleusercontent.com/L095GLXgIkWLBZW5b3GHBOROx9gq83ltstCK-pqHROqOUkY3Rtg1w5hBsWu_Y37rpUchJgND6n3MPrrC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli 및 dress - Face & Mask(피처링: ron)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Alive</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Face & Mask</b>
+  on <b>TR</b>
   
   <br />
   <br />
-  02/12/2021 20:29 Playing on YTMusic
+  02/12/2021 20:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
