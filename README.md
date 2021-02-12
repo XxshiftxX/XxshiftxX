@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
+    <img width="300" src="https://lh3.googleusercontent.com/L095GLXgIkWLBZW5b3GHBOROx9gq83ltstCK-pqHROqOUkY3Rtg1w5hBsWu_Y37rpUchJgND6n3MPrrC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - WAIT ON ME (Remix)(피처링: slez)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Time Looping(피처링: 비와이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>AI, THE PLAYLIST</b>
+  on <b>TR</b>
   
   <br />
   <br />
-  02/13/2021 04:06 Playing on YTMusic
+  02/13/2021 04:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
