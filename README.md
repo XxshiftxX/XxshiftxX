@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/J-qDdNAmGtG0mn4dZgqcDP6ogBZWRTYA-EsoFwChQOoLmZSNFsKWRD8f5w794-zUxBWdDXx2N7ILW3ez">
+    <img width="300" src="https://lh3.googleusercontent.com/zgMUBhJrrK-CUX3nMKbQKLdXBIYMjdOgLOjRb-0RE1RnTomyhGfX0H8hQ7lwR3m10eTs5llZO9kt_9g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli - 새벽(피처링: 죠지라이프)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - sydney, hongkong(피처링: 따마)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>TN</b>
+  on <b>L I F E</b>
   
   <br />
   <br />
-  02/12/2021 20:41 Playing on YTMusic
+  02/13/2021 03:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
