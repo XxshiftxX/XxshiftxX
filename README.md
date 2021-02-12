@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - BLUE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - WAIT ON ME (Remix)(피처링: slez)</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>AI, THE PLAYLIST</b>
   
   <br />
   <br />
-  02/13/2021 04:02 Playing on YTMusic
+  02/13/2021 04:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
