@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/J-qDdNAmGtG0mn4dZgqcDP6ogBZWRTYA-EsoFwChQOoLmZSNFsKWRD8f5w794-zUxBWdDXx2N7ILW3ez">
+    <img width="300" src="https://lh3.googleusercontent.com/GgZJ9kjn4vl9gjMvtR0w4eVt1YIFFoZtvHc_REASZT9XCmryuIkb3s6dXGh0OM542kfoMkPlFesGC5SzGw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli - 10시41분(피처링: DSEL)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - beingrich</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>TN</b>
+  on <b>IMNOTSPECIAL</b>
   
   <br />
   <br />
-  02/12/2021 20:09 Playing on YTMusic
+  02/12/2021 20:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
