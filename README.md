@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/zgMUBhJrrK-CUX3nMKbQKLdXBIYMjdOgLOjRb-0RE1RnTomyhGfX0H8hQ7lwR3m10eTs5llZO9kt_9g">
+    <img width="300" src="https://lh3.googleusercontent.com/GgZJ9kjn4vl9gjMvtR0w4eVt1YIFFoZtvHc_REASZT9XCmryuIkb3s6dXGh0OM542kfoMkPlFesGC5SzGw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - life(피처링: 더 콰이엇(The Quiett))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - NONDISCLOTH(피처링: slez)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>L I F E</b>
+  on <b>IMNOTSPECIAL</b>
   
   <br />
   <br />
-  02/13/2021 21:41 Playing on YTMusic
+  02/13/2021 21:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
