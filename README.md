@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCYzWVpdZqtp6Ihtzy4_9M3g">
-    <img width="300" src="https://lh3.googleusercontent.com/rxAyDE6imsWwyTEaRFqRhs8iYs5tB-pMOmHv2o8UZq-Krg_SbdkJbpvQMRtROUbgGfkm0W8Drm1zflcF">
+  <a href="https://www.youtube.com/channel/UCkYFO5qHctUX_lsVF46t9Sg">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnhmQdi5XmDe-jdkXV9IzbYAWAs6Tqa0Y4QzVD_f=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli - MARUHAN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Basick TV - 사실 베이식 TV는 팔로알토님 덕분에 생겼습니다.</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Maiden Voyage</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  02/13/2021 22:02 Playing on YTMusic
+  02/15/2021 15:03 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
