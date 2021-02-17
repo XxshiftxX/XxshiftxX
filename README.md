@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngBdxJTAgTFbZkt4pzjmuvVkQKxLV0EqJtkl_0OBw=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
+    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fujii Kaze - 藤井 風(Fujii Kaze) - "青春病(Seishun Sick)" Official Video</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - 곡예사 Remix(피처링: 마이노스, 식보이(Sikboy), 올티(Olltii), 브라운티거)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>암순응</b>
   
   <br />
   <br />
-  02/17/2021 16:34 Playing on YouTube
+  02/18/2021 08:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
