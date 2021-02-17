@@ -6,13 +6,13 @@
     <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngBdxJTAgTFbZkt4pzjmuvVkQKxLV0EqJtkl_0OBw=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fujii Kaze - 藤井風(Fujii Kaze) - “何なんw”(Nan-Nan) Official Video</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fujii Kaze - 藤井 風(Fujii Kaze) - "青春病(Seishun Sick)" Official Video</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>undefined</b>
   
   <br />
   <br />
-  02/17/2021 16:31 Playing on YouTube
+  02/17/2021 16:34 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
