@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
-    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
+  <a href="https://music.youtube.com/browse/MPREb_VIhHEFUVgzo">
+    <img width="300" src="https://lh3.googleusercontent.com/SoME0iiMszNLUPxP451EfAp1u710rXeI3OEibsce6OSAIxF71LDEHTsYxdUMVpDwyhfObmgleaoUmhzjIg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(피처링: 에이 부기 윗 다 후디)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>365LIT, 토이고 (toigo) - 다리 밑에서 주워온 놈(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Q Day Remixes</b>
+  on <b>UNDER SEONGSU BRIDGE</b>
   
   <br />
   <br />
-  02/18/2021 16:31 Playing on YTMusic
+  02/18/2021 16:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
