@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoNq-kohNtB6l7ChNheqW0g">
-    <img width="300" src="https://lh3.googleusercontent.com/Evc_b3GLoy9mMyPVMslXznZQMQUXajC8mKFqIRL8iLnKAkrxhWZefXCWod3faSiICuTZsEkbNS_dWzA">
+  <a href="https://www.youtube.com/channel/UCC4HG1lttnvXMSyRtokDV7g">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnhI4KM1KfxnvxqHVSivrKwEtjPWreLCNrBpNOG39w=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>EPIK HIGH - Born Hater(피처링: B.I)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Zekk - MAHOROBA [from Arcaea / Official Audio]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>신발장</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  02/18/2021 09:46 Playing on YTMusic
+  02/18/2021 11:43 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
