@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
-    <img width="300" src="https://lh3.googleusercontent.com/lq7q4EF84zItG4jRq7v-8-7NyUTThD3Ba7QazX4m7AtOzhIuyyjRU9EpYIB5OYLsyFOIf74zTxsdXkM">
+  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
+    <img width="300" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - 5 Gawd 2 (Warrior Flow)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - Acrobat 곡예사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>5 Gawd 2</b>
+  on <b>Acrobat 곡예사</b>
   
   <br />
   <br />
-  02/18/2021 09:40 Playing on YTMusic
+  02/18/2021 09:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
