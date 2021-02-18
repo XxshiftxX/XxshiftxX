@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7AU8_wW7JntcqiHtmW3eEQ">
-    <img width="300" src="https://lh3.googleusercontent.com/WyhClG3Bp7QWJGA235C2FSw-qJug46PTsL7W5CKJbLr3exPJBhoVafxlRAXxKH9WHADqXy5OZQZ8Lfo">
+  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 Young Soul - Grand Master Theory</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Palo Got Young Soul</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  02/18/2021 09:08 Playing on YTMusic
+  02/18/2021 09:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
