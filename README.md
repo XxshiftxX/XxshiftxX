@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCfXo9-l8ZFFCM29zu7SQ96w">
-    <img width="300" src="https://lh3.googleusercontent.com/9uX57TF7kvpgRwKpK0VpcrWXFpVVbiBE_5ATFCtu23-TPTLA-J_QxaA6UqtqH_6vi4WQQ4LP5H12wfYq">
+  <a href="https://music.youtube.com/channel/UCUSEX4zhRyAOYF1yYzf2klw">
+    <img width="300" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - DAx4</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 400km(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>DAx4</b>
+  on <b>원기옥</b>
   
   <br />
   <br />
-  02/18/2021 09:01 Playing on YTMusic
+  02/18/2021 09:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
