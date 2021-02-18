@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/channel/UCuUKf4-6frCQLaLsDIqRDnQ">
+    <img width="300" src="https://lh3.googleusercontent.com/0fwxWy4PhaIpGje7n3umflSZx3pk2inzix-RKOPix4SV9v37FEfaCx8Je0gQs1FqyJZI5K8Sg0pxKyA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>비와이(BewhY) - The Time Goes On</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 1</b>
+  on <b>Time Travel</b>
   
   <br />
   <br />
-  02/18/2021 09:10 Playing on YTMusic
+  02/18/2021 09:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
