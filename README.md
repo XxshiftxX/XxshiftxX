@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
-    <img width="300" src="https://lh3.googleusercontent.com/tUNZ57vAPKygLyIhL6VON2E42U2YHFMDPNrZz6AAdDIA8QqdCoTEfBOcaf9iEQ2EMVlIaEFuXObLtXc">
+  <a href="https://music.youtube.com/channel/UCfXo9-l8ZFFCM29zu7SQ96w">
+    <img width="300" src="https://lh3.googleusercontent.com/9uX57TF7kvpgRwKpK0VpcrWXFpVVbiBE_5ATFCtu23-TPTLA-J_QxaA6UqtqH_6vi4WQQ4LP5H12wfYq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE 및 Uneducated Kid - 문제아 (Full Version)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - DAx4</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Catch Me If You Can</b>
+  on <b>DAx4</b>
   
   <br />
   <br />
-  02/18/2021 08:58 Playing on YTMusic
+  02/18/2021 09:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
