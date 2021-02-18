@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_VIhHEFUVgzo">
-    <img width="300" src="https://lh3.googleusercontent.com/SoME0iiMszNLUPxP451EfAp1u710rXeI3OEibsce6OSAIxF71LDEHTsYxdUMVpDwyhfObmgleaoUmhzjIg">
+  <a href="https://music.youtube.com/channel/UCnjYjwzLQ66kRDikH0YVlpw">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>365LIT, 토이고 (toigo) - 다리 밑에서 주워온 놈(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>UNDER SEONGSU BRIDGE</b>
+  on <b>Show Me the Money 9 Episode 3</b>
   
   <br />
   <br />
-  02/18/2021 16:36 Playing on YTMusic
+  02/18/2021 16:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
