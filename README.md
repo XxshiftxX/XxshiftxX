@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/channel/UCmB08K6m8Ul790rOSefqU-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/lq7q4EF84zItG4jRq7v-8-7NyUTThD3Ba7QazX4m7AtOzhIuyyjRU9EpYIB5OYLsyFOIf74zTxsdXkM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Bad News Cypher vol.2(피처링: TakeOne)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - 5 Gawd 2 (Warrior Flow)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Semi Final</b>
+  on <b>5 Gawd 2</b>
   
   <br />
   <br />
-  02/18/2021 09:36 Playing on YTMusic
+  02/18/2021 09:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
