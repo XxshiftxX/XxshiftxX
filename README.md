@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCoMEDhoTikktzNMiHypJVEg">
-    <img width="300" src="https://lh3.googleusercontent.com/oQ2m7Qir9Q7_sq_LNUmf3SoSdG8NG3sGRM64eEbxEGkAcYqs7pdfPnYUdkBvqU91PFJQKcWcugv0Vfs">
+  <a href="https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg">
+    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Uneducated Kid - Work Work(피처링: The Quiett)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범, pH-1, Sik-K(식케이) 및 빅나티 - How We Rock</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>HOODSTAR 2</b>
+  on <b>H1GHR : RED TAPE</b>
   
   <br />
   <br />
-  02/18/2021 09:23 Playing on YTMusic
+  02/18/2021 09:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
