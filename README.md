@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCwPpkv2G2jCAI7bFv7dADWg">
-    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
+  <a href="https://music.youtube.com/channel/UCoMEDhoTikktzNMiHypJVEg">
+    <img width="300" src="https://lh3.googleusercontent.com/oQ2m7Qir9Q7_sq_LNUmf3SoSdG8NG3sGRM64eEbxEGkAcYqs7pdfPnYUdkBvqU91PFJQKcWcugv0Vfs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Uneducated Kid - Work Work(피처링: The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Swoosh Flow (Remix)</b>
+  on <b>HOODSTAR 2</b>
   
   <br />
   <br />
-  02/18/2021 09:20 Playing on YTMusic
+  02/18/2021 09:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
