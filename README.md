@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg">
-    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
+  <a href="https://music.youtube.com/channel/UCxz7gLC1-zY1l20C4fQKrRA">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범, pH-1, Sik-K(식케이) 및 빅나티 - How We Rock</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>H1GHR : RED TAPE</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  02/18/2021 09:27 Playing on YTMusic
+  02/18/2021 09:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
