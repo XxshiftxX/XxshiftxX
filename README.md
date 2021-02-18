@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCffP6jI_WwWpYOJt6d8tPvQ">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnht8hHUhixa2FnwSRibn-ZkwDdSvej1oxJEihMxjA=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/channel/UC8UpjJOF1-iDw04kGk3liSw">
+    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yunomi - Yunomix vol. 4</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(피처링: 에이 부기 윗 다 후디)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>undefined</b>
+  on <b>Q Day Remixes</b>
   
   <br />
   <br />
-  02/18/2021 11:45 Playing on YouTube
+  02/18/2021 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
