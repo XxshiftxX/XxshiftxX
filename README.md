@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCgPgDMjQay1KRjobwA_L22w">
-    <img width="300" src="https://i.ytimg.com/vi/1hkVykBQrLA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UC0YWzdRJBYRMWPmzx-EKHzQ">
+    <img width="300" src="https://i.ytimg.com/vi/UA90vMrZ5sY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>챙스타 - 27RING - 원기옥 RMX (feat Asol, Changstarr*, Basick, niahn, viceversa, QM, Jiho Givenchy) [CYPHER VER.]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, 더 콰이엇(The Quiett), 쿠기(Coogie) 및 팔로알토(Paloalto) - Fadeaway</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 15만회</b>
+  on <b>조회수 471만회</b>
   
   <br />
   <br />
-  02/19/2021 12:05 Playing on YTMusic
+  02/19/2021 12:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
