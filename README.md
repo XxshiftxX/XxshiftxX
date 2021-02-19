@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCgPgDMjQay1KRjobwA_L22w">
-    <img width="300" src="https://i.ytimg.com/vi/MuLChReG20s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+    <img width="300" src="https://i.ytimg.com/vi/1hkVykBQrLA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>챙스타 - 27RING - 원기옥Genkidama RMX (feat Asol, Changstarr*, Basick, niahn, viceversa, QM, Jiho Givenchy) [MV]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>챙스타 - 27RING - 원기옥 RMX (feat Asol, Changstarr*, Basick, niahn, viceversa, QM, Jiho Givenchy) [CYPHER VER.]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 129만회</b>
+  on <b>조회수 15만회</b>
   
   <br />
   <br />
-  02/19/2021 11:58 Playing on YTMusic
+  02/19/2021 12:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
