@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
-    <img width="300" src="https://lh3.googleusercontent.com/zzlbfQ4ADEbiBpOef4Sr7Rej2CB918A8wbxgOwqc_JfzNfFuyZyxzD8kpbwp4SYucJ8QIgclQuoAVR8">
+  <a href="https://music.youtube.com/channel/UCBeXuLfTU8vI-BQKImvEK3Q">
+    <img width="300" src="https://lh3.googleusercontent.com/eRY2JonYPO2AgGQU34t1lPn_AdtXNz7LA4_qiu3o--71dXEHuP_fCJ6VWeOtqy0V2eRo8UjscucaPGRpBQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Camellia - Honey♡trap(피처링: Nanahira)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Polo G 및 Stunna 4 Vegas - Go Stupid(피처링: NLE 차파, Mike WiLL Made-It (마이크 윌 메이드 잇))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Confetti-Box</b>
+  on <b>Go Stupid</b>
   
   <br />
   <br />
-  02/22/2021 16:11 Playing on YTMusic
+  02/22/2021 16:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
