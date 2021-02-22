@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCX96jqD98Tgg5pbz1k3ReGA">
-    <img width="300" src="https://i.ytimg.com/vi/i2jBxW9GUh0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/channel/UCRjVmUQ3CW1kH6vP1VGskWA">
+    <img width="300" src="https://lh3.googleusercontent.com/zzlbfQ4ADEbiBpOef4Sr7Rej2CB918A8wbxgOwqc_JfzNfFuyZyxzD8kpbwp4SYucJ8QIgclQuoAVR8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>브라운티거 - Gwangil Jo(조광일) - KOREA(한국) 【Official M/V】</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Camellia - Honey♡trap(피처링: Nanahira)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 326만회</b>
+  on <b>Confetti-Box</b>
   
   <br />
   <br />
-  02/22/2021 16:09 Playing on YTMusic
+  02/22/2021 16:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
