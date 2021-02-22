@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyAy_NeCwbW4IaJ6EbjDKQA">
-    <img width="300" src="https://lh3.googleusercontent.com/UGS-Qn9LdM8wfyNMowAdB8_L4PsFnTAiXy-Nu7jIjwLffq2_-Vk1c1ijUZ8QYjEUVwqym1US7g_doEOd">
+  <a href="https://music.youtube.com/browse/MPREb_WiWxNauEFAx">
+    <img width="300" src="https://lh3.googleusercontent.com/Vr5775LB7AFxmrV_L9E1oaRVWOb5sHFchGged2dEXPC_pByu7LAoIwD2Z_OMHSSriP3Ol0KN2oRdqqc8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나나히라, Nakuru Aitsuki 및 Mii - DAI*TAN SENSATION</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>兎田ぺこら - ぺこらんだむぶれいん!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Souichi Sakagami / Trial & Error Royalty-free Japanese anime / game song collection 2021 vol.1</b>
+  on <b>ぺこらんだむぶれいん!</b>
   
   <br />
   <br />
-  02/22/2021 16:18 Playing on YTMusic
+  02/22/2021 16:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
