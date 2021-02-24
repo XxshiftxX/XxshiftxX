@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCyAy_NeCwbW4IaJ6EbjDKQA">
-    <img width="300" src="https://lh3.googleusercontent.com/zzlbfQ4ADEbiBpOef4Sr7Rej2CB918A8wbxgOwqc_JfzNfFuyZyxzD8kpbwp4SYucJ8QIgclQuoAVR8">
+  <a href="https://www.youtube.com/channel/UCcvLSRIWJIAGFDyWtzkbiHA">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwnj6EZBiZQUrSEPDDunia2z-0nyRcAUdE7a6XBQl=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Nanahira - ラリリレル、リリロ、リラロ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>marasy8 - 【ピアノ】プロセカ39曲メドレーを弾いてみた（ProSeka 39 Songs Medley）</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Confetti-Box</b>
+  on <b>undefined</b>
   
   <br />
   <br />
-  02/22/2021 16:24 Playing on YTMusic
+  02/24/2021 10:42 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
