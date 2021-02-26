@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC7zZzWH3Dammxn0IL9_Z-ew">
-    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
+  <a href="https://music.youtube.com/channel/UCyWbSZQ0_rtsU9ZZ-u74GdA">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - 곡예사 Remix(피처링: 마이노스, 식보이(Sikboy), 올티(Olltii), 브라운티거)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(피처링: 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>암순응</b>
+  on <b>Show Me the Money 9 Final</b>
   
   <br />
   <br />
-  02/26/2021 19:16 Playing on YTMusic
+  02/26/2021 19:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
