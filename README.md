@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCKaF7agbJ4Vp0-ggt8TXMzg">
-    <img width="300" src="https://lh3.googleusercontent.com/AkehRocN66EQuMNSEMjG54PKajNKlAMmQgBnJb3bFj6AGRgK797xLnOebDj0vpXJ1FmLg47JHwmQggpi">
+  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
+    <img width="300" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh! - uh-uh(피처링: Kid Milli, Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>uh-uh</b>
+  on <b>느린심장박동</b>
   
   <br />
   <br />
-  02/26/2021 18:28 Playing on YTMusic
+  02/26/2021 18:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
