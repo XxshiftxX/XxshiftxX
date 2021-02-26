@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCmpIV45msPJWMOBaPMmufSg">
-    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
+  <a href="https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ">
+    <img width="300" src="https://lh3.googleusercontent.com/DP_fOOsoXNgNwvVCrkzhTluh_Va4w-En43Q5qvufCAIWSSEVEPjOkpQ4xOIXOycNCpcuFhFUUGkMZ9mOYA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범, pH-1, Sik-K(식케이) 및 빅나티 - How We Rock</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 악몽</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>H1GHR : RED TAPE</b>
+  on <b>MORE ASH</b>
   
   <br />
   <br />
-  02/26/2021 18:38 Playing on YTMusic
+  02/26/2021 18:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
