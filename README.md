@@ -6,13 +6,13 @@
     <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Frank Ocean (Prod. Cosmic Boy)(피처링: SOLE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 커피가게 아가씨(피처링: 원슈타인)</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>Bucket List</b>
   
   <br />
   <br />
-  02/26/2021 17:52 Playing on YTMusic
+  02/26/2021 17:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
