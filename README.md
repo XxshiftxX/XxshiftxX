@@ -3,16 +3,16 @@
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
   <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">
+    <img width="300" src="https://lh3.googleusercontent.com/Rf1vntHgCGAnlvtdL8Tjh8nBCSk_JymszNw0XYfFcGwG1gQuqsm5nmpO19VUNRbGSOrTKV-kksZBe6E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - 아뜰리에</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - THISISJUSTHIS, Pt. II</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>2 MANY HOMES 4 1 KID</b>
+  on <b>THISISJUSTHIS, Pt. II</b>
   
   <br />
   <br />
-  02/27/2021 16:27 Playing on YTMusic
+  02/27/2021 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
