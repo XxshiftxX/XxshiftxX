@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">
+  <a href="https://music.youtube.com/channel/UCfXj9asBtiIIVlbp0wXWXdQ">
+    <img width="300" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 널만나러가는길이야</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Foxiboy</b>
+  on <b>ASH</b>
   
   <br />
   <br />
-  03/02/2021 11:30 Playing on YTMusic
+  03/02/2021 11:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
