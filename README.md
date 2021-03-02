@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_QhPy4gh6diU">
-    <img width="300" src="https://lh3.googleusercontent.com/XTCJZU8hIdcJdQWne9NVGQsFEr_yOu-9IzrSzP8XX_fqxrftPIHi6tn7C18mBxuEEJROeMeHAWo7alU">
+  <a href="https://music.youtube.com/channel/UCyS1jT2cQS4JOMk6e6UIWHQ">
+    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett, Simon Dominic, Nucksal, Jay Park, Loco, pH-1, CHANGMO, YUMDDA, Way Ched, WOOGIE - 멘토스 (Mentors)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 존시나(피처링: Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>고등래퍼4 Episode 0</b>
+  on <b>살아숨셔 3</b>
   
   <br />
   <br />
-  03/02/2021 15:53 Playing on YTMusic
+  03/02/2021 15:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
