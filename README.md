@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/browse/MPREb_E9goo9pzacO">
-    <img width="300" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">
+  <a href="https://music.youtube.com/channel/UC9dIQRHQwB6cvfymHRvJ7mA">
+    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI , Wonstein - LASER (Prod. by PEEJAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Bucket List (Prod. DPR CREAM)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>FRIENDS</b>
+  on <b>Bucket List</b>
   
   <br />
   <br />
-  03/02/2021 15:00 Playing on YTMusic
+  03/02/2021 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
