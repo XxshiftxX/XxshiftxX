@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCQ35pW9P3Fe6fB8_Gt_LUgw">
-    <img width="300" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">
+  <a href="https://music.youtube.com/channel/UCfakw2KHYZknK38BaVgf0Ug">
+    <img width="300" src="https://lh3.googleusercontent.com/46CmWYJQw6WSOj8HqvYgBXzaE0O3r-p9z6cqbLFeh2NArSR1RlKfwJSYuGMkaIYNq6i8-h69l8FpBiZg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - 씹새끼, Pt. 2</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Northfacegawd - murder dance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>2 MANY HOMES 4 1 KID</b>
+  on <b>northfacegawd</b>
   
   <br />
   <br />
-  02/27/2021 16:39 Playing on YTMusic
+  03/02/2021 10:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
