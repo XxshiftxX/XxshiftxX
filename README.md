@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC9dIQRHQwB6cvfymHRvJ7mA">
-    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
+    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Joker(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 및 저스디스 - Take It (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Bucket List</b>
+  on <b>굴젓 (G＋Jus)</b>
   
   <br />
   <br />
-  03/02/2021 15:31 Playing on YTMusic
+  03/02/2021 15:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
