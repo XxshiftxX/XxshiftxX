@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCnjYjwzLQ66kRDikH0YVlpw">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/channel/UCC_zFTNVhf6A-z9OSn5St4g">
+    <img width="300" src="https://lh3.googleusercontent.com/SVMhF7tn1KsFPTCiCKEt4Lh65HZnkZt7ZULGKY7Sa2bKIzDHMRlHQC_7OL4KFADjcjry7XD34Hm9-Xy9ww">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이, 먼치맨, 쿤디판다 및 머쉬베놈 - VVS(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1, Kid Milli 및 Loopy - Good Day(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 1</b>
+  on <b>Show Me the Money 777 (Episode 1)</b>
   
   <br />
   <br />
-  03/02/2021 11:48 Playing on YTMusic
+  03/02/2021 11:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
