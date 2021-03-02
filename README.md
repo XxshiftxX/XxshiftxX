@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UCTZm5Qd4-nqUjYTAEnj645Q">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/channel/UCzRqmBwzm49T75hJn0C3KbQ">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 - Godok(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>Show Me the Money 9 Semi Final</b>
   
   <br />
   <br />
-  03/02/2021 11:36 Playing on YTMusic
+  03/02/2021 11:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
