@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/channel/UC9dIQRHQwB6cvfymHRvJ7mA">
-    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
+  <a href="https://music.youtube.com/channel/UCnjYjwzLQ66kRDikH0YVlpw">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 멋진 신세계 (Prod. PEEJAY)(피처링: Rohann)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Bucket List</b>
+  on <b>Show Me the Money 9 Episode 3</b>
   
   <br />
   <br />
-  03/02/2021 15:38 Playing on YTMusic
+  03/02/2021 15:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
