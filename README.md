@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KAVyW4d2WoI">
-    <img width="300" src="https://lh3.googleusercontent.com/iJfqifptFeh2m0l1BWF9crRpAxABz3GVLI6YfHVNdUa3Awh1_-znUVi8fpGsSR-c6gT4GBfsOEJ1GDI">
+  <a href="https://music.youtube.com/watch?v=Fr0tFpHZ5BU">
+    <img width="300" src="https://lh3.googleusercontent.com/XC2z9ANLD1CWVuYB4iTZE1LgkdGd_ujx4XKi6__hF3VKxLaX_4duwXtjsbC12m1qZmSFsjxwQ2X02E4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lauv(라우브) - I Like Me Better</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Cosmo's Midnight 및 루엘 - Down for You</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>~PARTY VIBES~</b>
+  on <b>Down for You</b>
   
   <br />
   <br />
-  03/04/2021 08:25 Playing on YTMusic
+  03/04/2021 08:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
