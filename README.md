@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IT5Uq2K05C0">
-    <img width="300" src="https://lh3.googleusercontent.com/OoTuvItTpQ_skv2ecjf9yj4bzuGy0JqrW161reBDfsd3CMJw8-lmqp9GNo53JDpQdAx00JvE8IpU9po">
+  <a href="https://music.youtube.com/watch?v=Oe36L423l9Q">
+    <img width="300" src="https://lh3.googleusercontent.com/r7aoJaLigDBIde4ZeCieyAO1kDBMCw-E46aAjDfYyon2e-XJ7JXIh1-MeyCti6XxR545pYmHpKCP4ey-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sam Kim - It's You(피처링: ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에담 - Running Out (Stripped)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Sun And Moon</b>
+  on <b>Running Out (Stripped)</b>
   
   <br />
   <br />
-  03/04/2021 08:34 Playing on YTMusic
+  03/04/2021 08:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
