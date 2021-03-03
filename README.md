@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=nHk4EMFt5GQ">
-    <img width="300" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">
+  <a href="https://music.youtube.com/watch?v=r4vB3ogUwe0">
+    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - Motherfucker</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Til I Die(피처링: Jay Park)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>2 MANY HOMES 4 1 KID</b>
+  on <b>HALO</b>
   
   <br />
   <br />
-  03/03/2021 17:41 Playing on YTMusic
+  03/04/2021 08:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
