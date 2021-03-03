@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sWGLvE2vZeM">
-    <img width="300" src="https://lh3.googleusercontent.com/LoZg3E9eQC1EtYm3UcD9zLav_iSSaLT_hSsy0tzc6qXbAaaUbtcImyqNuH9NAQHme6yDtECrO4HJPWSg">
+  <a href="https://music.youtube.com/watch?v=PK02_Q5hHKo">
+    <img width="300" src="https://lh3.googleusercontent.com/j4FCnfqLXk_N6yg47XvQEbZP-lZrkF-9wJ_f_oc6gumNIzJM__pWppvjEKw5L9r5o21vxSKQEpRclDhw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미노이 - DA DA!(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>파테코 - Rainy day(피처링: 스키니 브라운, 윤진영)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>DA DA!</b>
+  on <b>Rainy day</b>
   
   <br />
   <br />
-  03/03/2021 13:49 Playing on YTMusic
+  03/03/2021 13:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
