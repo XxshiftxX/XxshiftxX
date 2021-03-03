@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bUBXMaeFBZU">
-    <img width="300" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">
+  <a href="https://music.youtube.com/watch?v=Qvh9vLfWTR8">
+    <img width="300" src="https://lh3.googleusercontent.com/bEOpWIe3QXhvfKlDJsp6knqoKTxphQAoAEZxqE6ym0tcrfh9AhJ49R9qQB6tDik9nZTci3aKd1u5NF1R">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Just Music(스윙스, VASCO(바스코), 천재노창, 씨잼) - More(더)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - if i die(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Ripple Effect(파급효과)</b>
+  on <b>Fix you</b>
   
   <br />
   <br />
-  03/03/2021 13:42 Playing on YTMusic
+  03/03/2021 13:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
