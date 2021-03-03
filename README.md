@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZmZPwQGorT8">
-    <img width="300" src="https://lh3.googleusercontent.com/eiNVIeTj7OUcTPrb_ZHgKo180tE-rOCLomM3cwOC6SOacXJfo62FIx0VdmofLVXx288udGdWda-9-k8">
+  <a href="https://music.youtube.com/watch?v=IT5Uq2K05C0">
+    <img width="300" src="https://lh3.googleusercontent.com/OoTuvItTpQ_skv2ecjf9yj4bzuGy0JqrW161reBDfsd3CMJw8-lmqp9GNo53JDpQdAx00JvE8IpU9po">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이제이 미첼 - Like Strangers Do</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sam Kim - It's You(피처링: ZICO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Like Strangers Do</b>
+  on <b>Sun And Moon</b>
   
   <br />
   <br />
-  03/04/2021 08:32 Playing on YTMusic
+  03/04/2021 08:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
