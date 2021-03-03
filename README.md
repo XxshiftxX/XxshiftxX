@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pQDxuyAQGSo">
-    <img width="300" src="https://lh3.googleusercontent.com/Efu32mqbNKn_q_cGFH_MDI09VlamRGX4lLSLulreLbgPnnstnWfPtJD5kgEdVeeCyG8-sd7EZUGbeQFe">
+  <a href="https://music.youtube.com/watch?v=01gSmheqUCE">
+    <img width="300" src="https://lh3.googleusercontent.com/kFKofMcAisGI8de4zFX_yGmSC2I88gukMW0G-EFSSBleJ3KeefUgj7J9_CFI_XBCaggyxU_fyR8dhft5">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴타치 - Back To The S₩AG(피처링: 텐도)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Futuristic Swaver - NISEKOI(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Back To The S₩AG</b>
+  on <b>Futuristic Love</b>
   
   <br />
   <br />
-  03/03/2021 13:56 Playing on YTMusic
+  03/03/2021 13:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
