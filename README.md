@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=r4vB3ogUwe0">
-    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
+  <a href="https://music.youtube.com/watch?v=KAVyW4d2WoI">
+    <img width="300" src="https://lh3.googleusercontent.com/iJfqifptFeh2m0l1BWF9crRpAxABz3GVLI6YfHVNdUa3Awh1_-znUVi8fpGsSR-c6gT4GBfsOEJ1GDI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Til I Die(피처링: Jay Park)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Lauv(라우브) - I Like Me Better</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>HALO</b>
+  on <b>~PARTY VIBES~</b>
   
   <br />
   <br />
-  03/04/2021 08:21 Playing on YTMusic
+  03/04/2021 08:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
