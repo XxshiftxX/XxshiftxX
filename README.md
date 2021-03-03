@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cJtlLS6LPEc">
-    <img width="300" src="https://lh3.googleusercontent.com/AkehRocN66EQuMNSEMjG54PKajNKlAMmQgBnJb3bFj6AGRgK797xLnOebDj0vpXJ1FmLg47JHwmQggpi">
+  <a href="https://music.youtube.com/watch?v=bUBXMaeFBZU">
+    <img width="300" src="https://lh3.googleusercontent.com/6WNr3_L-dNiYjNwZuY8fCSwXM7Sglzgy59IKyk9ksrdEeD97cWBqydtdjuNogXffZcjYb1ZQ61JfHXcu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh! - uh-uh(피처링: Kid Milli, Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Just Music(스윙스, VASCO(바스코), 천재노창, 씨잼) - More(더)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>uh-uh</b>
+  on <b>Ripple Effect(파급효과)</b>
   
   <br />
   <br />
-  03/03/2021 13:39 Playing on YTMusic
+  03/03/2021 13:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
