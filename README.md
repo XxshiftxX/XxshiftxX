@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MSYq3MzTLGA">
-    <img width="300" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">
+  <a href="https://music.youtube.com/watch?v=xKRYKEUwS0E">
+    <img width="300" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇 - Hangang gang (Megamix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손 - 사랑은 (Remaster)(피처링: Wonstein)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Hangang gang (Megamix)</b>
+  on <b>나의슬픔(My Sadness)(Remaster)</b>
   
   <br />
   <br />
-  03/08/2021 20:51 Playing on YTMusic
+  03/08/2021 20:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
