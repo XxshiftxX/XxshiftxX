@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qSIaAXWAauo">
+  <a href="https://music.youtube.com/watch?v=HjYl3D7Wjfo">
     <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Error(피처링: Loopy)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Beautiful(피처링: Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>ISLAND</b>
   
   <br />
   <br />
-  03/08/2021 18:04 Playing on YTMusic
+  03/08/2021 18:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
