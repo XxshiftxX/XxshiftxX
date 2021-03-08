@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=K7o4nYV0ns4">
-    <img width="300" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">
+  <a href="https://music.youtube.com/watch?v=2WhHrXon6Bg">
+    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - 야망(피처링: ASH ISLAND, 김효은, 해쉬 스완(Hash Swan), 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이영지 Lee Young Ji - GO HIGH</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>MARZ 2 AMBITION</b>
+  on <b>School Rapper3 Final</b>
   
   <br />
   <br />
-  03/08/2021 20:41 Playing on YTMusic
+  03/08/2021 20:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
