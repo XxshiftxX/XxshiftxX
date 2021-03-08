@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DjzhP1darn8">
-    <img width="300" src="https://lh3.googleusercontent.com/icm4G5vNGKkf8Tf73jrSImztf6lvBlsB_8Pkl3a3JfxLbcQbYGLLGCzaEpVn6JgoahLf3Wd8q1e8dpJ-">
+  <a href="https://music.youtube.com/watch?v=rybXSV15ofY">
+    <img width="300" src="https://lh3.googleusercontent.com/sxZJ_NnljAKrwe3yw2LooM-G3QSw0Vk8uux2mxP07GHrH9wp5IggieTn2ZNtamjySyNU4Bb5IP1lhP_W">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - DEADSTAR(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, 쿠기(Coogie), 팔로알토(Paloalto) 및 더 콰이엇(The Quiett) - Fadeaway</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>DEADSTAR</b>
+  on <b>Fadeaway</b>
   
   <br />
   <br />
-  03/08/2021 20:19 Playing on YTMusic
+  03/08/2021 20:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
