@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6uL1flLDAC4">
-    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
+  <a href="https://music.youtube.com/watch?v=DjzhP1darn8">
+    <img width="300" src="https://lh3.googleusercontent.com/icm4G5vNGKkf8Tf73jrSImztf6lvBlsB_8Pkl3a3JfxLbcQbYGLLGCzaEpVn6JgoahLf3Wd8q1e8dpJ-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 부라보 (Prod. GRAY)(피처링: Coogie, GSoul)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - DEADSTAR(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Bucket List</b>
+  on <b>DEADSTAR</b>
   
   <br />
   <br />
-  03/08/2021 20:15 Playing on YTMusic
+  03/08/2021 20:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
