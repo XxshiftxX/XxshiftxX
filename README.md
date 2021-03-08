@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Qvh9vLfWTR8">
-    <img width="300" src="https://lh3.googleusercontent.com/bEOpWIe3QXhvfKlDJsp6knqoKTxphQAoAEZxqE6ym0tcrfh9AhJ49R9qQB6tDik9nZTci3aKd1u5NF1R">
+  <a href="https://music.youtube.com/watch?v=MSYq3MzTLGA">
+    <img width="300" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - if i die(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>더 콰이엇 - Hangang gang (Megamix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Fix you</b>
+  on <b>Hangang gang (Megamix)</b>
   
   <br />
   <br />
-  03/08/2021 18:33 Playing on YTMusic
+  03/08/2021 18:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
