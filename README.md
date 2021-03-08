@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xKRYKEUwS0E">
-    <img width="300" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">
+  <a href="https://music.youtube.com/watch?v=6VQJViW_h30">
+    <img width="300" src="https://lh3.googleusercontent.com/wSaCVGFPFZoiOU2zWu-9epNWqFlsMlMbL9qGWNOVqAFR61Ol8U-2Igw00GFKyjSCCCHhb2anT9vPp98">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마미손 - 사랑은 (Remaster)(피처링: Wonstein)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김효은 - Come Back(피처링: 릴러말즈(Leellamarz), 해쉬 스완(Hash Swan), 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>나의슬픔(My Sadness)(Remaster)</b>
+  on <b>LOVE-HATE</b>
   
   <br />
   <br />
-  03/08/2021 18:45 Playing on YTMusic
+  03/08/2021 18:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
