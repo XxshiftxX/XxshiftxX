@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6VQJViW_h30">
-    <img width="300" src="https://lh3.googleusercontent.com/wSaCVGFPFZoiOU2zWu-9epNWqFlsMlMbL9qGWNOVqAFR61Ol8U-2Igw00GFKyjSCCCHhb2anT9vPp98">
+  <a href="https://music.youtube.com/watch?v=qALVCXbYeYE">
+    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김효은 - Come Back(피처링: 릴러말즈(Leellamarz), 해쉬 스완(Hash Swan), 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Homies - 300(prod. Cashbanger)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>LOVE-HATE</b>
+  on <b>Ghetto Superstars</b>
   
   <br />
   <br />
-  03/08/2021 18:48 Playing on YTMusic
+  03/08/2021 18:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
