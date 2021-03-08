@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=K7o4nYV0ns4">
-    <img width="300" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">
+  <a href="https://music.youtube.com/watch?v=oYf__2c1Yug">
+    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - 야망(피처링: ASH ISLAND, 김효은, 해쉬 스완(Hash Swan), 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 보릿고개</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>MARZ 2 AMBITION</b>
+  on <b>Ghetto Kids</b>
   
   <br />
   <br />
-  03/08/2021 19:11 Playing on YTMusic
+  03/08/2021 19:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
