@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9Unrl9Yi55s">
-    <img width="300" src="https://lh3.googleusercontent.com/dP_vI0XXlNl3JKI4x-K3KvFhttkKeOA3H9LJ7E5rWzCmXwG5wPZySFYQ7soDeoXx6lckdpiOkTkU6p-L">
+  <a href="https://music.youtube.com/watch?v=_qP14y6kMHU">
+    <img width="300" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>파테코 및 디핵 - OHAYO MY NIGHT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모, 해쉬 스완, ASH ISLAND 및 김효은 - 비워</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>OHAYO MY NIGHT</b>
+  on <b>비워</b>
   
   <br />
   <br />
-  03/08/2021 18:21 Playing on YTMusic
+  03/08/2021 18:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
