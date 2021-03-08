@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4sdN33l2WTw">
-    <img width="300" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">
+  <a href="https://music.youtube.com/watch?v=rKS6hNta8zg">
+    <img width="300" src="https://lh3.googleusercontent.com/FCXpg3jSdvRDR1iNm-U8Scc55JKqMBZIavvRRTQoloC01K8105ekWBSj7Ci6X6gVPqMcRcASdMjLLuA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>양홍원 - ROSE(피처링: 스키니 브라운, 홈보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김승민 - 10°0' 0° N 118°50 0° E(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Stranger</b>
+  on <b>Rio Loves Tokyo Part.1</b>
   
   <br />
   <br />
-  03/08/2021 21:26 Playing on YTMusic
+  03/08/2021 22:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
