@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7S-Mpq3sNWg">
+  <a href="https://music.youtube.com/watch?v=9JUtUpCtWHU">
     <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - A STAR IS BORN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 그랑프리(피처링: Beenzino)</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>ISLAND</b>
   
   <br />
   <br />
-  03/08/2021 10:52 Playing on YTMusic
+  03/08/2021 10:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
