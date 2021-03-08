@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EjpnDnUR1KM">
-    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
+  <a href="https://music.youtube.com/watch?v=oYf__2c1Yug">
+    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - GONE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 보릿고개</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>TOYSTORY2</b>
+  on <b>Ghetto Kids</b>
   
   <br />
   <br />
-  03/08/2021 21:12 Playing on YTMusic
+  03/08/2021 21:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
