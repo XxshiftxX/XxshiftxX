@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DjzhP1darn8">
-    <img width="300" src="https://lh3.googleusercontent.com/icm4G5vNGKkf8Tf73jrSImztf6lvBlsB_8Pkl3a3JfxLbcQbYGLLGCzaEpVn6JgoahLf3Wd8q1e8dpJ-">
+  <a href="https://music.youtube.com/watch?v=2WhHrXon6Bg">
+    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - DEADSTAR(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이영지 Lee Young Ji - GO HIGH</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>DEADSTAR</b>
+  on <b>School Rapper3 Final</b>
   
   <br />
   <br />
-  03/08/2021 19:03 Playing on YTMusic
+  03/08/2021 19:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
