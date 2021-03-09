@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=62fRQxs1w48">
-    <img width="300" src="https://lh3.googleusercontent.com/XTCJZU8hIdcJdQWne9NVGQsFEr_yOu-9IzrSzP8XX_fqxrftPIHi6tn7C18mBxuEEJROeMeHAWo7alU">
+  <a href="https://music.youtube.com/watch?v=ZK3rg-k6J6U">
+    <img width="300" src="https://lh3.googleusercontent.com/vC68Vv4n8vDkAciBQac3Xt6T1uZB4yHKP1TCaVqbAGexT_ts4V-k7BZkQgxU2f9KAXDz0YGj-MvqqQra">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett, Simon Dominic, Nucksal, Jay Park, Loco, pH-1, CHANGMO, YUMDDA, Way Ched, WOOGIE - 멘토스 (Mentors)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - Dear mom</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>고등래퍼4 Episode 0</b>
+  on <b>B.F.A.M(Brother from another mom)</b>
   
   <br />
   <br />
-  03/09/2021 16:30 Playing on YTMusic
+  03/09/2021 16:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
