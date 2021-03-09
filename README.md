@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=M7Es4vCrd7Y">
+    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Homies - 내 머리속의 지우개(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 3</b>
+  on <b>Ghetto Superstars</b>
   
   <br />
   <br />
-  03/09/2021 16:56 Playing on YTMusic
+  03/09/2021 17:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
