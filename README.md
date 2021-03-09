@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m4475p3gLrc">
-    <img width="300" src="https://lh3.googleusercontent.com/g58eZ2S6HpcBSq-MvzpHG7-i9kB8s_W7VFnAtUVx1-JBrOOOFXg89bp6i9F00c6lcBDHe6-5cyinyHmB">
+  <a href="https://music.youtube.com/watch?v=1fAGyOu7xeE">
+    <img width="300" src="https://lh3.googleusercontent.com/JZF4Y9aEX6m4FptTS_japPrAoM0IshfJISJwI57cuWLs3Ii4Whyo-LU7O9ExENJN4ee7E_RBvsGn_lI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 (homieduel) - 골리앗 (Goliath)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 우리서로사랑하지는말자</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Goliath</b>
+  on <b>영화같게</b>
   
   <br />
   <br />
-  03/09/2021 16:43 Playing on YTMusic
+  03/09/2021 16:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
