@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vfd19eHnwQo">
+  <a href="https://music.youtube.com/watch?v=tSFJO-8nlGQ">
     <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - hoodkids</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 백반 청국장</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>Ghetto Kids</b>
   
   <br />
   <br />
-  03/08/2021 22:51 Playing on YTMusic
+  03/09/2021 15:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
