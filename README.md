@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/watch?v=m4475p3gLrc">
+    <img width="300" src="https://lh3.googleusercontent.com/g58eZ2S6HpcBSq-MvzpHG7-i9kB8s_W7VFnAtUVx1-JBrOOOFXg89bp6i9F00c6lcBDHe6-5cyinyHmB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 (homieduel) - 골리앗 (Goliath)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Gettin Money Moment</b>
+  on <b>Goliath</b>
   
   <br />
   <br />
-  03/09/2021 16:39 Playing on YTMusic
+  03/09/2021 16:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
