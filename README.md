@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=62fRQxs1w48">
-    <img width="300" src="https://lh3.googleusercontent.com/XTCJZU8hIdcJdQWne9NVGQsFEr_yOu-9IzrSzP8XX_fqxrftPIHi6tn7C18mBxuEEJROeMeHAWo7alU">
+  <a href="https://music.youtube.com/watch?v=rKS6hNta8zg">
+    <img width="300" src="https://lh3.googleusercontent.com/FCXpg3jSdvRDR1iNm-U8Scc55JKqMBZIavvRRTQoloC01K8105ekWBSj7Ci6X6gVPqMcRcASdMjLLuA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett, Simon Dominic, Nucksal, Jay Park, Loco, pH-1, CHANGMO, YUMDDA, Way Ched, WOOGIE - 멘토스 (Mentors)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김승민 - 10°0' 0° N 118°50 0° E(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>고등래퍼4 Episode 0</b>
+  on <b>Rio Loves Tokyo Part.1</b>
   
   <br />
   <br />
-  03/11/2021 18:41 Playing on YTMusic
+  03/11/2021 18:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
