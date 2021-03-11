@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xU24i_P5KjY">
+  <a href="https://music.youtube.com/watch?v=R5f-IpCkU4o">
     <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - eclipse</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Lonely</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>ISLAND</b>
   
   <br />
   <br />
-  03/11/2021 18:27 Playing on YTMusic
+  03/11/2021 18:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
