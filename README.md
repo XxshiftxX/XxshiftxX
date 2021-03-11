@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DpTck784NIw">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=62fRQxs1w48">
+    <img width="300" src="https://lh3.googleusercontent.com/XTCJZU8hIdcJdQWne9NVGQsFEr_yOu-9IzrSzP8XX_fqxrftPIHi6tn7C18mBxuEEJROeMeHAWo7alU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - One More Night(피처링: Lil Boi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Quiett, Simon Dominic, Nucksal, Jay Park, Loco, pH-1, CHANGMO, YUMDDA, Way Ched, WOOGIE - 멘토스 (Mentors)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ISLAND</b>
+  on <b>고등래퍼4 Episode 0</b>
   
   <br />
   <br />
-  03/11/2021 18:38 Playing on YTMusic
+  03/11/2021 18:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
