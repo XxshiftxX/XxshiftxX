@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7t-iZc3Psvw">
-    <img width="300" src="https://lh3.googleusercontent.com/s4UFG4c2mZLNQnmeGNINibpbTMkkmYeeXFdHnUtR0RD-wYAy2WifXKTWhqwpMqDBcE8CeGweiKCydO4">
+  <a href="https://music.youtube.com/watch?v=m8L2OLu6JZo">
+    <img width="300" src="https://lh3.googleusercontent.com/IxWUdU7at6TvGHc0OAvJocszK88uz4RHk3gq4ps7M4DUqraOJoScgt697L-bIkuvk4SI0v0Hka_eJTnN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 진인사대천명</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 멜로디</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>진인사대천명</b>
+  on <b>멜로디</b>
   
   <br />
   <br />
-  03/11/2021 16:35 Playing on YTMusic
+  03/11/2021 16:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
