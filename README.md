@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NA_Bx_7YYAU">
-    <img width="300" src="https://lh3.googleusercontent.com/Q5T_Y8OucvzaqViVoVBwHFd8fxOBLv5e6c-alU0oIv6TVWEwFc5jKDOam-XSFnycyBze4XlE73VW3YWQ">
+  <a href="https://music.youtube.com/watch?v=_50jtkDnObw">
+    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 커피가게 아가씨(피처링: 원슈타인)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - METEOR</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>커피가게 아가씨</b>
+  on <b>Boyhood</b>
   
   <br />
   <br />
-  03/15/2021 15:47 Playing on YTMusic
+  03/15/2021 15:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
