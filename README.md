@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6uL1flLDAC4">
-    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
+  <a href="https://music.youtube.com/watch?v=1kyTd8kEgp0">
+    <img width="300" src="https://lh3.googleusercontent.com/2K7Nc8tN5PHw5nCMp9gV1hsr9DhEFTDUPNALeDzPGVePPOym0FpXQ1qHyhTg0IzY71AFAXpaNlH7Dbs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 부라보 (Prod. GRAY)(피처링: Coogie, GSoul)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR IAN - Nerves</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Bucket List</b>
+  on <b>Moodswings in This Order</b>
   
   <br />
   <br />
-  03/15/2021 16:59 Playing on YTMusic
+  03/15/2021 17:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
