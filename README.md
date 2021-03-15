@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xJ7glUKjd1U">
-    <img width="300" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">
+  <a href="https://music.youtube.com/watch?v=R2c5v0iJbgk">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>퓨처리스틱 스웨버 - Too Late(피처링: 제네 더 질라, 릴러말즈(Leellamarz))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿤디판다 - The Roots(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>YFGOD</b>
+  on <b>Show Me the Money 9 Episode 3</b>
   
   <br />
   <br />
-  03/15/2021 16:50 Playing on YTMusic
+  03/15/2021 16:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
