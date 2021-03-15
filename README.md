@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P2ICs5maFM0">
-    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
+  <a href="https://music.youtube.com/watch?v=rGVqQVMtaUo">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그루비룸 및 저스디스 - Achoo (Remix)(피처링: Mirani, pH-1, Muchman, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>굴젓 (G＋Jus)</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  03/15/2021 15:03 Playing on YTMusic
+  03/15/2021 15:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
