@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P2w7AojKwlg">
-    <img width="300" src="https://lh3.googleusercontent.com/BFCD6Jj70jcqb7ZAwyqGmfqARdU54zms61T88OR1qUCbiSvSF_jwMGKnF555suugJV_XgbAweo2KI619">
+  <a href="https://music.youtube.com/watch?v=IuaFrq224mk">
+    <img width="300" src="https://lh3.googleusercontent.com/hPXKZB6YMSB3H7DeMlUe7B7ErlAkBhTUTFaaCojemT5L5Xj21o5O1-j2-NwehvnzEMqGmo_HoWC5GWoR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 너무해(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 - 버스야 돌고 돌아 다시 내게 오라</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>[L] (DELUXE)</b>
+  on <b>Chamelayone</b>
   
   <br />
   <br />
-  03/15/2021 17:13 Playing on YTMusic
+  03/15/2021 17:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
