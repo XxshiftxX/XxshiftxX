@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4FSm6flcYjU">
-    <img width="300" src="https://lh3.googleusercontent.com/lD4A9ROO2GH9BUvnckKKVjuLT0-d2DihS9qKgpk-4sOg6Tz6Vl71XBXFEBo70YbpI8Hj6lWbwdoK6LNf">
+  <a href="https://music.youtube.com/watch?v=NV2Dlbg_F_E">
+    <img width="300" src="https://lh3.googleusercontent.com/M21Tzzxp57ziZMaRI_G9vNjwFyyqbG6928DzT_DPvcbutGQGHLIMt3xJWHnGLx9UbIgAOE2fm1fqqNO0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - WON(₩) & ONLY (feat. Jay Park(박재범))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - 사랑해줄래(피처링: MELOH)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>₩ & ONLY</b>
+  on <b>사랑해줄래</b>
   
   <br />
   <br />
-  03/15/2021 16:17 Playing on YTMusic
+  03/15/2021 16:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
