@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XeR5lk8pPRU">
-    <img width="300" src="https://lh3.googleusercontent.com/h7bs8nxW8A8jBxljxrVRWmtfk6F_3HEpLbHf5yajs9_yz-a-56Hu26Mpu-r4Vx4iub9JEcG0zZdUwoAM">
+  <a href="https://music.youtube.com/watch?v=xJ7glUKjd1U">
+    <img width="300" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CODE KUNST, CHOI JUNG HOON of JANNABI, Simon Dominic - 사라진 모든 것들에게(with ELLE KOREA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>퓨처리스틱 스웨버 - Too Late(피처링: 제네 더 질라, 릴러말즈(Leellamarz))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>RECONNECT</b>
+  on <b>YFGOD</b>
   
   <br />
   <br />
-  03/15/2021 16:46 Playing on YTMusic
+  03/15/2021 16:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
