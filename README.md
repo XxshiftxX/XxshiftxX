@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zt1zcLJbftw">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=mVIGPuRscLo">
+    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 10년 후 (Prod. Minit)(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 3</b>
+  on <b>Bucket List</b>
   
   <br />
   <br />
-  03/15/2021 15:27 Playing on YTMusic
+  03/15/2021 15:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
