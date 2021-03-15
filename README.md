@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_50jtkDnObw">
-    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
+  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - METEOR</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Boyhood</b>
+  on <b>Show Me the Money 9 Episode 3</b>
   
   <br />
   <br />
-  03/15/2021 15:50 Playing on YTMusic
+  03/15/2021 15:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
