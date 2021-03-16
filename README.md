@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lCNDcqDYFS4">
-    <img width="300" src="https://lh3.googleusercontent.com/Ez85RnZTwo991VmLILk7i4mUHZs9RihLIgzXrO7KLwjDdJiNmLVfhYMvlvcfN2Mh2vFDm-DI4eckqXs">
+  <a href="https://music.youtube.com/watch?v=mBbkpoaapeQ">
+    <img width="300" src="https://lh3.googleusercontent.com/dgtk2Lh54DuGlNxWnzZQrHfDhmbOQM5ZXn1Z7zee6xdFOJvMvgSgo3lhZjE0hv6i_y4VLECvQ76X8EY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MELOH - IDNY(피처링: 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kid wine - Don't Love(피처링: YongYong, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>MELOH</b>
+  on <b>DECANTING</b>
   
   <br />
   <br />
-  03/16/2021 14:06 Playing on YTMusic
+  03/16/2021 14:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
