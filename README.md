@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wZKg1wh0CgE">
-    <img width="300" src="https://lh3.googleusercontent.com/JbauQGv0oklnKJr6JBUJz27kXy4T2Hd3Tk8-XAXo77zk6_clLQ2A9BUO7szMPOTNfga_yN1FRj1d-0KwhQ">
+  <a href="https://music.youtube.com/watch?v=lCNDcqDYFS4">
+    <img width="300" src="https://lh3.googleusercontent.com/Ez85RnZTwo991VmLILk7i4mUHZs9RihLIgzXrO7KLwjDdJiNmLVfhYMvlvcfN2Mh2vFDm-DI4eckqXs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GEMINI, Jay Park - Trip</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MELOH - IDNY(피처링: 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Trip</b>
+  on <b>MELOH</b>
   
   <br />
   <br />
-  03/16/2021 14:03 Playing on YTMusic
+  03/16/2021 14:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
