@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IabVAAbTIro">
-    <img width="300" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">
+  <a href="https://music.youtube.com/watch?v=DpTck784NIw">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI , Wonstein - FRIENDS (Prod. by Slom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - One More Night(피처링: Lil Boi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>FRIENDS</b>
+  on <b>ISLAND</b>
   
   <br />
   <br />
-  03/16/2021 15:58 Playing on YTMusic
+  03/16/2021 16:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
