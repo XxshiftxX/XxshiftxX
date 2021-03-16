@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I-MSIqTVi6s">
-    <img width="300" src="https://lh3.googleusercontent.com/R8Fsd-4l0DMzHNP7YnzG09INuSxzHC3flxyq1ciYHXBnLdmx-b_R4gRSGI_VAr4g7nH-s4WtunSQAkg">
+  <a href="https://music.youtube.com/watch?v=NZcnHur9PDw">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE, Uneducated Kid, Chin, CK - 사임쌓임</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>The Money Team</b>
+  on <b>Show Me the Money 9 Final</b>
   
   <br />
   <br />
-  03/16/2021 20:47 Playing on YTMusic
+  03/16/2021 20:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
