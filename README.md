@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NZcnHur9PDw">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=TBiNR9yhnaQ">
+    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - Trip(피처링: 한나)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>Violinist</b>
   
   <br />
   <br />
-  03/16/2021 20:51 Playing on YTMusic
+  03/16/2021 20:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
