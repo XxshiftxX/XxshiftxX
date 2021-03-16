@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m8L2OLu6JZo">
-    <img width="300" src="https://lh3.googleusercontent.com/IxWUdU7at6TvGHc0OAvJocszK88uz4RHk3gq4ps7M4DUqraOJoScgt697L-bIkuvk4SI0v0Hka_eJTnN">
+  <a href="https://music.youtube.com/watch?v=F50yfwMmAAc">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 멜로디</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - CREDIT(피처링: 염따, 기리보이(Giriboy), Zion.T)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>멜로디</b>
+  on <b>Show Me the Money 9 Final</b>
   
   <br />
   <br />
-  03/16/2021 15:40 Playing on YTMusic
+  03/16/2021 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
