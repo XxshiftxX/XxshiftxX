@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Oz11JJSITl0">
-    <img width="300" src="https://lh3.googleusercontent.com/dgtk2Lh54DuGlNxWnzZQrHfDhmbOQM5ZXn1Z7zee6xdFOJvMvgSgo3lhZjE0hv6i_y4VLECvQ76X8EY">
+  <a href="https://music.youtube.com/watch?v=BPFybmHoT4g">
+    <img width="300" src="https://lh3.googleusercontent.com/aOGFUVuH28fmD2SMgbnXx0A8unXW1u6cnb3foKSvXSkW2gxAtj3LkuAP5MXtZ7XZP6y8BvwdoYZVYPQG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid wine - Shout(피처링: Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>베이빌론 - Empty Canvas(피처링: 래원, 이영지)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>DECANTING</b>
+  on <b>Hardy</b>
   
   <br />
   <br />
-  03/15/2021 17:29 Playing on YTMusic
+  03/16/2021 14:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
