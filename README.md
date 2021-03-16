@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-PEwrXZApPI">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/watch?v=NV2Dlbg_F_E">
+    <img width="300" src="https://lh3.googleusercontent.com/M21Tzzxp57ziZMaRI_G9vNjwFyyqbG6928DzT_DPvcbutGQGHLIMt3xJWHnGLx9UbIgAOE2fm1fqqNO0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Rose de Penny), Dsel, 가오가이 및 Untell - Win Win(피처링: BewhY(비와이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - 사랑해줄래(피처링: MELOH)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Episode 1</b>
+  on <b>사랑해줄래</b>
   
   <br />
   <br />
-  03/16/2021 17:03 Playing on YTMusic
+  03/16/2021 20:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
