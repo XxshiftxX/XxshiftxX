@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XFCBJZBflmI">
-    <img width="300" src="https://lh3.googleusercontent.com/RVPOcR4-VuiUF8Z3qShi-pY0U3YknU_6rz4Fe0IXgzBz7FpvE-xnKfmU8aNxSdC5m-8spZtEmoERNg0">
+  <a href="https://music.youtube.com/watch?v=m8L2OLu6JZo">
+    <img width="300" src="https://lh3.googleusercontent.com/IxWUdU7at6TvGHc0OAvJocszK88uz4RHk3gq4ps7M4DUqraOJoScgt697L-bIkuvk4SI0v0Hka_eJTnN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CAMO - Wifey</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 멜로디</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Wifey</b>
+  on <b>멜로디</b>
   
   <br />
   <br />
-  03/16/2021 15:38 Playing on YTMusic
+  03/16/2021 15:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
