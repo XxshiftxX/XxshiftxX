@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=R5f-IpCkU4o">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=XFCBJZBflmI">
+    <img width="300" src="https://lh3.googleusercontent.com/RVPOcR4-VuiUF8Z3qShi-pY0U3YknU_6rz4Fe0IXgzBz7FpvE-xnKfmU8aNxSdC5m-8spZtEmoERNg0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Lonely</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CAMO - Wifey</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ISLAND</b>
+  on <b>Wifey</b>
   
   <br />
   <br />
-  03/16/2021 15:36 Playing on YTMusic
+  03/16/2021 15:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
