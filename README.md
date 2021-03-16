@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7S-Mpq3sNWg">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=udMmblVwwuo">
+    <img width="300" src="https://lh3.googleusercontent.com/72MTiZOTW7h9ZIQPybjbsuC1mk7mkf_7UFdXPE_1dAAu1MKJLqdnbwsWJd35Z6H1adP4ihnI5VmlLJnjOg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - A STAR IS BORN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>빈첸(VINXEN) - 소나기</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ISLAND</b>
+  on <b>FLYING HIGH WITH U</b>
   
   <br />
   <br />
-  03/16/2021 16:08 Playing on YTMusic
+  03/16/2021 16:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
