@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mBbkpoaapeQ">
-    <img width="300" src="https://lh3.googleusercontent.com/dgtk2Lh54DuGlNxWnzZQrHfDhmbOQM5ZXn1Z7zee6xdFOJvMvgSgo3lhZjE0hv6i_y4VLECvQ76X8EY">
+  <a href="https://music.youtube.com/watch?v=wGWdK_334-8">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid wine - Don't Love(피처링: YongYong, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Checks(피처링: SUPERBEE, Jay Park, The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>DECANTING</b>
+  on <b>ISLAND</b>
   
   <br />
   <br />
-  03/16/2021 14:10 Playing on YTMusic
+  03/16/2021 14:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
