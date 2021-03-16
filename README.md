@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=udMmblVwwuo">
-    <img width="300" src="https://lh3.googleusercontent.com/72MTiZOTW7h9ZIQPybjbsuC1mk7mkf_7UFdXPE_1dAAu1MKJLqdnbwsWJd35Z6H1adP4ihnI5VmlLJnjOg">
+  <a href="https://music.youtube.com/watch?v=KMvxAH-bRmw">
+    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>빈첸(VINXEN) - 소나기</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Joker(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>FLYING HIGH WITH U</b>
+  on <b>Bucket List</b>
   
   <br />
   <br />
-  03/16/2021 16:10 Playing on YTMusic
+  03/16/2021 16:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
