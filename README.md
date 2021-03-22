@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5H8Yt46pTXk">
-    <img width="300" src="https://lh3.googleusercontent.com/tg3ziUahOHogshdiCuLUNNLqWoIMIPCrxXLDQSEZOoYdiSC4UVBapuCDxH4xRHIlELvlR-tmxzw7B9sKXA">
+  <a href="https://music.youtube.com/watch?v=Ucnfcqd4KxQ">
+    <img width="300" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - School Record</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>퓨처리스틱 스웨버 - Seasons(피처링: Uneducated Kid, 염따)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>생기부(생활기록부)</b>
+  on <b>YFGOD</b>
   
   <br />
   <br />
-  03/22/2021 15:47 Playing on YTMusic
+  03/22/2021 15:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
