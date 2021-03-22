@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4PK2n52X-4I">
-    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
+  <a href="https://music.youtube.com/watch?v=dH8ajWpq0AE">
+    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - 방에 혼자 있을 때(피처링: 창모(CHANGMO), ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Homies - 도파민</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Violinist</b>
+  on <b>Ghetto Superstars</b>
   
   <br />
   <br />
-  03/22/2021 15:00 Playing on YTMusic
+  03/22/2021 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
