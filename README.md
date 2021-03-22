@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tykUZSCxx4A">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=P2w7AojKwlg">
+    <img width="300" src="https://lh3.googleusercontent.com/BFCD6Jj70jcqb7ZAwyqGmfqARdU54zms61T88OR1qUCbiSvSF_jwMGKnF555suugJV_XgbAweo2KI619">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Over</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 너무해(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ISLAND</b>
+  on <b>[L] (DELUXE)</b>
   
   <br />
   <br />
-  03/22/2021 14:31 Playing on YTMusic
+  03/22/2021 14:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
