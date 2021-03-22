@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=M8iqGyHJuWc">
-    <img width="300" src="https://lh3.googleusercontent.com/hPXKZB6YMSB3H7DeMlUe7B7ErlAkBhTUTFaaCojemT5L5Xj21o5O1-j2-NwehvnzEMqGmo_HoWC5GWoR">
+  <a href="https://music.youtube.com/watch?v=Bbl3qPS9x4o">
+    <img width="300" src="https://lh3.googleusercontent.com/u1-D0Add6pNt41wb36bsbefo6WMWCpiWW-du918-KW1vO7r4A1k8RpgHecgGz87BxqmiRnkdMzQ4gItXcw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 - !!! (Prod. Lnb)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌 Remix(피처링: UNEDUCATED KID, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Chamelayone</b>
+  on <b>사이렌 Remix</b>
   
   <br />
   <br />
-  03/17/2021 11:18 Playing on YTMusic
+  03/22/2021 14:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
