@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ucnfcqd4KxQ">
-    <img width="300" src="https://lh3.googleusercontent.com/gLW8V7RZCYl55_q78vp_G6vOmSknnpeJn6Ju-dfNOvMEXKpnAgFzsX4c_2z_MCgyGifwzxzha0yoJhGQ">
+  <a href="https://music.youtube.com/watch?v=rGVqQVMtaUo">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>퓨처리스틱 스웨버 - Seasons(피처링: Uneducated Kid, 염따)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>YFGOD</b>
+  on <b>Show Me the Money 9 Episode 1</b>
   
   <br />
   <br />
-  03/22/2021 15:50 Playing on YTMusic
+  03/22/2021 15:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
