@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=M7Es4vCrd7Y">
-    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
+  <a href="https://music.youtube.com/watch?v=_-ZAQ5yRuzI">
+    <img width="300" src="https://lh3.googleusercontent.com/U2cvF1TkmoXnkPLmlnViZWs4Rll3NvgbLA0nWvMc78ilkbcRUxK98dgpArJne8dJcGHK9tkqqfPbo_5E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Homies - 내 머리속의 지우개(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Error(피처링: 루피)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Ghetto Superstars</b>
+  on <b>Error</b>
   
   <br />
   <br />
-  03/22/2021 15:24 Playing on YTMusic
+  03/22/2021 15:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
