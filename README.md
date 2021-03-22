@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kk-dwdwnqgI">
-    <img width="300" src="https://lh3.googleusercontent.com/4DASBhIRAgCFRte_In6V714gASXB4H8BMXvH-Os0xfNZZqOLwGJXHD3uVyXiGp3JLQNVQg4HUZoBJLY61A">
+  <a href="https://music.youtube.com/watch?v=9JUtUpCtWHU">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - Drama (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 그랑프리(피처링: Beenzino)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>절대</b>
+  on <b>ISLAND</b>
   
   <br />
   <br />
-  03/22/2021 14:40 Playing on YTMusic
+  03/22/2021 14:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
