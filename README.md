@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=oYf__2c1Yug">
-    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
+  <a href="https://music.youtube.com/watch?v=tE0v6NYb-iM">
+    <img width="300" src="https://lh3.googleusercontent.com/dr35H-saqK8lgzfqHZrOGmDgFhpJdZfBDx-bx0sR2Kl1V-EvEYNu70HqYHyMx_H6PV7HJto8NQJeCRg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 보릿고개</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던밀스 - 대박인생(피처링: Northfacegawd, Uneducated Kid)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Ghetto Kids</b>
+  on <b>F.O.B.</b>
   
   <br />
   <br />
-  03/22/2021 15:39 Playing on YTMusic
+  03/22/2021 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
