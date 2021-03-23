@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZK3rg-k6J6U">
-    <img width="300" src="https://lh3.googleusercontent.com/vC68Vv4n8vDkAciBQac3Xt6T1uZB4yHKP1TCaVqbAGexT_ts4V-k7BZkQgxU2f9KAXDz0YGj-MvqqQra">
+  <a href="https://music.youtube.com/watch?v=qmFyFmHI3rc">
+    <img width="300" src="https://lh3.googleusercontent.com/OtJ0OGPG0GQ_R8krgtqPiw9DIuqZYiZBOqHbp62CyeXPRavIBeNmTdIxBJ49vGRCRvl6tWEqRLKI3k5nxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - Dear mom</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - R.Y.G (red, yellow, green)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>B.F.A.M(Brother from another mom)</b>
+  on <b>Marz 2 Mercury</b>
   
   <br />
   <br />
-  03/23/2021 14:58 Playing on YTMusic
+  03/23/2021 15:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
