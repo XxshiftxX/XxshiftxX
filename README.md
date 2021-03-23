@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I_ZYMsT7Tow">
-    <img width="300" src="https://lh3.googleusercontent.com/s4UFG4c2mZLNQnmeGNINibpbTMkkmYeeXFdHnUtR0RD-wYAy2WifXKTWhqwpMqDBcE8CeGweiKCydO4">
+  <a href="https://music.youtube.com/watch?v=Q_MfswxOgmQ">
+    <img width="300" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - REDZONE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 널만나러가는길이야</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>진인사대천명</b>
+  on <b>Foxiboy</b>
   
   <br />
   <br />
-  03/23/2021 15:14 Playing on YTMusic
+  03/23/2021 15:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
