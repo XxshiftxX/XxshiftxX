@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hqvH9uinjVM">
-    <img width="300" src="https://lh3.googleusercontent.com/7W4z9ckaL0-2Pl5WiePrvS1BI91-3Gn61v3zspjHVX4AVlNB4Scjdn667FfWzP3KH6uDAswxzXTNCdjY">
+  <a href="https://music.youtube.com/watch?v=33eUSJxMR1Y">
+    <img width="300" src="https://lh3.googleusercontent.com/T9bAT2bb34D41tPOYm5fcn_6jZGPjbxk_E3NkDKjX_VG6pvP7vy6aCn6wtTGeAbf3req5NFl-Je6tCHn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Exit This Earth's Atomosphere</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - GHOST</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>PLANET / / SHAPER</b>
+  on <b>Cyphisonia E.P.</b>
   
   <br />
   <br />
-  03/23/2021 10:38 Playing on YTMusic
+  03/23/2021 10:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
