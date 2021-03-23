@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lciUDR8wWKg">
-    <img width="300" src="https://lh3.googleusercontent.com/d0vAbOaxY1wfEVCuquYNCqyTTnx9TOedFyDTABT_JudAygnfOTp4UeH-nCuJTsX_7mNQFblL8rcySSQ">
+  <a href="https://music.youtube.com/watch?v=-9RpEdGk7P4">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Fire(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Daydreamin(피처링: sogumm, 우원재)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Fire</b>
+  on <b>Show Me the Money 9 Final</b>
   
   <br />
   <br />
-  03/23/2021 15:21 Playing on YTMusic
+  03/23/2021 15:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
