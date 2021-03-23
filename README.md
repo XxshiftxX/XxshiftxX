@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fvm3cwzGe5Q">
-    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
+  <a href="https://music.youtube.com/watch?v=oTth_Tm-LaQ">
+    <img width="300" src="https://lh3.googleusercontent.com/SeDzBretGLyPpmaKKgwQVAsIW9JV3KWQHOCZtPXGCrPIf5Kn7t-WUgYiI1s24qhNYCxR0uoUmZ_dD0f1-w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 꽉 쥔 주먹속의 라이터</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 TOIL - Don't Flex on me(피처링: 제이씨 유카, 김효은)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Ghetto Kids</b>
+  on <b>토끼니브라운</b>
   
   <br />
   <br />
-  03/23/2021 13:55 Playing on YTMusic
+  03/23/2021 13:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
