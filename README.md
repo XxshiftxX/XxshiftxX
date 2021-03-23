@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=waO1ooPmKHE">
-    <img width="300" src="https://lh3.googleusercontent.com/g58eZ2S6HpcBSq-MvzpHG7-i9kB8s_W7VFnAtUVx1-JBrOOOFXg89bp6i9F00c6lcBDHe6-5cyinyHmB">
+  <a href="https://music.youtube.com/watch?v=zt1zcLJbftw">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 (homieduel) - 상하차 (daily laborer)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Goliath</b>
+  on <b>Show Me the Money 9 Episode 3</b>
   
   <br />
   <br />
-  03/23/2021 14:23 Playing on YTMusic
+  03/23/2021 14:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
