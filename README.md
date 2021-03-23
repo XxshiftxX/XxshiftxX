@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-9RpEdGk7P4">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=3D9ehtpRl5c">
+    <img width="300" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Daydreamin(피처링: sogumm, 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 9 Final</b>
+  on <b>ASH</b>
   
   <br />
   <br />
-  03/23/2021 15:25 Playing on YTMusic
+  03/23/2021 15:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
