@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Q0sZX07H2Ew">
-    <img width="300" src="https://lh3.googleusercontent.com/DP_fOOsoXNgNwvVCrkzhTluh_Va4w-En43Q5qvufCAIWSSEVEPjOkpQ4xOIXOycNCpcuFhFUUGkMZ9mOYA">
+  <a href="https://music.youtube.com/watch?v=1x2izJEN9p0">
+    <img width="300" src="https://lh3.googleusercontent.com/aZ-_8r6xRWZlakfphDX31Dx26NvrzSW71wTbSkXFJMOVSLWiBvF_x_oXrsiU0NVYmpUtFQwxZV5rHuw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 악몽</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nanahira 및 Camellia - ベースラインやってる？笑</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>MORE ASH</b>
+  on <b>ふぉーす！</b>
   
   <br />
   <br />
-  03/22/2021 16:21 Playing on YTMusic
+  03/23/2021 10:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
