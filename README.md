@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qmFyFmHI3rc">
-    <img width="300" src="https://lh3.googleusercontent.com/OtJ0OGPG0GQ_R8krgtqPiw9DIuqZYiZBOqHbp62CyeXPRavIBeNmTdIxBJ49vGRCRvl6tWEqRLKI3k5nxQ">
+  <a href="https://music.youtube.com/watch?v=OcvLH6SDa18">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - R.Y.G (red, yellow, green)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Marz 2 Mercury</b>
+  on <b>Swoosh Flow (Remix)</b>
   
   <br />
   <br />
-  03/23/2021 15:01 Playing on YTMusic
+  03/23/2021 15:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
