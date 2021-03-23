@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1x2izJEN9p0">
-    <img width="300" src="https://lh3.googleusercontent.com/aZ-_8r6xRWZlakfphDX31Dx26NvrzSW71wTbSkXFJMOVSLWiBvF_x_oXrsiU0NVYmpUtFQwxZV5rHuw">
+  <a href="https://music.youtube.com/watch?v=kNa91r8nQ-o">
+    <img width="300" src="https://lh3.googleusercontent.com/MoU1qBCf-dpY7WDIvM5JUU2MNrq8UGm56UPVcAmf9dvrgvD1Fk4_XOmL7-hLSDBbfx_QKzgDJE8khIiD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Nanahira 및 Camellia - ベースラインやってる？笑</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Light it up</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ふぉーす！</b>
+  on <b>crystallized</b>
   
   <br />
   <br />
-  03/23/2021 10:27 Playing on YTMusic
+  03/23/2021 10:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
