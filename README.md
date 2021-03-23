@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PeW-xrCc2cU">
-    <img width="300" src="https://lh3.googleusercontent.com/oUjCncoU4L0PvGiHmOxlBAHMgJLsp6kvHBl5ckQ-3-I7nUoCH-_Ln1pG-e7hwTyG5cinW_1tpUZm3BjIYA">
+  <a href="https://music.youtube.com/watch?v=yQyR4IiEKbk">
+    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스, 키드밀리 및 매드 클라운 - Not Enough(피처링: 염따, pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 및 머쉬베놈 - Take It (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Show Me the Money 8 Episode 1</b>
+  on <b>굴젓 (G＋Jus)</b>
   
   <br />
   <br />
-  03/23/2021 15:34 Playing on YTMusic
+  03/23/2021 15:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
