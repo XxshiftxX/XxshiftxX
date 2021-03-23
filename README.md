@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qMCYw3lSYhQ">
+  <a href="https://music.youtube.com/watch?v=Rp8uQzSXXRc">
     <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - NIGHTMARE CITY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - We Could Get More Machinegun Psystyle! -And More Genre Switches-</b> &nbsp&nbsp&nbsp🎵
   <br>
   on <b>Blackmagik Blazing</b>
   
   <br />
   <br />
-  03/23/2021 11:06 Playing on YTMusic
+  03/23/2021 13:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
