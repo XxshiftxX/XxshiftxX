@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCCEi5ralZRJcHShhKBcRtxA">
-    <img width="300" src="https://yt3.ggpht.com/cqfZbputItRPEPfOGPvLlT1MGzULemhiB_OtK0eugp7xDGgPfSgsEzOImAIHHUXn1p97Dwe8qg=s48-c-k-c0x00ffffff-no-nd-rj">
+  <a href="https://music.youtube.com/watch?v=bvLKtK2QSMk">
+    <img width="300" src="https://i.ytimg.com/vi/bvLKtK2QSMk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>D_Ark Official - D.Ark - 'GENIUS (Feat. 창모)' MV Teaser</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>황세현 - 황세현 (h3hyeon) - I DESERVE IT (Feat. Lil Nekh) (Official Visualizer)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Not supported</b>
+  on <b>조회수 6천회</b>
   
   <br />
   <br />
-  05/12/2021 18:34 Playing on YouTube
+  05/20/2021 12:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
