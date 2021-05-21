@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4q5qhPOzhC0">
-    <img width="300" src="https://lh3.googleusercontent.com/jng5f7gh6tQtpaVWFsraN-Nk3uM0yTh_yX5DQS0tFuvz9L3fUUn15_zbe9jtvdVUbt2rnvr1k6cnAhyN">
+  <a href="https://music.youtube.com/watch?v=M-RbhHE2CiY">
+    <img width="300" src="https://lh3.googleusercontent.com/DdIIFqGiV45yg6zsoXZb3hUltt9OVb2hyHvBpNdKXl8l9apAb-6Sxi5W9273TtivbBcJ24o_5kmFO8M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>범키 - 하늘로 쓰는 편지(피처링: NONE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범(Jay Park) - Dank</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>LOST</b>
+  on <b>V</b>
   
   <br />
   <br />
-  05/21/2021 16:14 Playing on YTMusic
+  05/21/2021 16:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
