@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bvLKtK2QSMk">
-    <img width="300" src="https://i.ytimg.com/vi/bvLKtK2QSMk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=Fg4i-2P3DjA">
+    <img width="300" src="https://lh3.googleusercontent.com/5HFvTdm0pnSpn9AMmO9peP-tl8slF023tatjKF-3FjFw-LkR4whSYS4ImmInN5-iQu_TYJ2QtqmP_DRX">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>황세현 - 황세현 (h3hyeon) - I DESERVE IT (Feat. Lil Nekh) (Official Visualizer)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>윤비, 김승민, 윤훼이 및 도넛맨(Donutman) - 덜어(피처링: 키드밀리, 스윙스(Swings))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 6천회</b>
+  on <b>쇼미더머니 8 Episode 2</b>
   
   <br />
   <br />
-  05/20/2021 12:34 Playing on YTMusic
+  05/21/2021 11:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
