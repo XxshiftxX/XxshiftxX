@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AgPNfAsmc8M">
-    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
+  <a href="https://music.youtube.com/watch?v=RmUk7skUIRM">
+    <img width="300" src="https://lh3.googleusercontent.com/HQYs9-EeEOGVrmAxyVdh1EvbdJ_ocQs8l665VJk43vJSCZGtZqUJVAQ88kGzE9eSVac5tgtBW53jdl8AAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Donut(피처링: Jay Park)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>EunBii - Good Morning(피처링: Ryan Do)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>The Island Kid</b>
+  on <b>Good Morning</b>
   
   <br />
   <br />
-  05/21/2021 11:22 Playing on YTMusic
+  05/21/2021 16:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
