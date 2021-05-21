@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Fg4i-2P3DjA">
-    <img width="300" src="https://lh3.googleusercontent.com/5HFvTdm0pnSpn9AMmO9peP-tl8slF023tatjKF-3FjFw-LkR4whSYS4ImmInN5-iQu_TYJ2QtqmP_DRX">
+  <a href="https://music.youtube.com/watch?v=HhWAQDZX-Vg">
+    <img width="300" src="https://lh3.googleusercontent.com/SVMhF7tn1KsFPTCiCKEt4Lh65HZnkZt7ZULGKY7Sa2bKIzDHMRlHQC_7OL4KFADjcjry7XD34Hm9-Xy9ww">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>윤비, 김승민, 윤훼이 및 도넛맨(Donutman) - 덜어(피처링: 키드밀리, 스윙스(Swings))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1, Kid Milli 및 Loopy - Good Day(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>쇼미더머니 8 Episode 2</b>
+  on <b>Show Me the Money 777 (Episode 1)</b>
   
   <br />
   <br />
-  05/21/2021 11:04 Playing on YTMusic
+  05/21/2021 11:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
