@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PK02_Q5hHKo">
-    <img width="300" src="https://lh3.googleusercontent.com/j4FCnfqLXk_N6yg47XvQEbZP-lZrkF-9wJ_f_oc6gumNIzJM__pWppvjEKw5L9r5o21vxSKQEpRclDhw">
+  <a href="https://music.youtube.com/watch?v=4q5qhPOzhC0">
+    <img width="300" src="https://lh3.googleusercontent.com/jng5f7gh6tQtpaVWFsraN-Nk3uM0yTh_yX5DQS0tFuvz9L3fUUn15_zbe9jtvdVUbt2rnvr1k6cnAhyN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>파테코 - Rainy day(피처링: 스키니 브라운, 윤진영)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>범키 - 하늘로 쓰는 편지(피처링: NONE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Rainy day</b>
+  on <b>LOST</b>
   
   <br />
   <br />
-  05/21/2021 16:11 Playing on YTMusic
+  05/21/2021 16:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
