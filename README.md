@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ji8raPOfWrY">
-    <img width="300" src="https://lh3.googleusercontent.com/fEQOxczaHZ-1uM1SSG2at3r2ZlK7WmPqPppvFPz2N6kqkalpexbE44c3tBZ66SFCAoyw0kTG3dFkLX5b">
+  <a href="https://music.youtube.com/watch?v=AgPNfAsmc8M">
+    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND, 릴러말즈(Leellamarz), zene the zilla 및 더 콰이엇(The Quiett) - BITION WAY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Donut(피처링: Jay Park)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>BITION WAY</b>
+  on <b>The Island Kid</b>
   
   <br />
   <br />
-  05/21/2021 11:17 Playing on YTMusic
+  05/21/2021 11:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
