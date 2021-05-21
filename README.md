@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ler_Zl49UjQ">
-    <img width="300" src="https://lh3.googleusercontent.com/d1HvIpN1_ezCCaPyF3a9lNXziugiVj_Ow_s5QdhyEhcwUWZIfiU9RANmHJ4zE0kLGPcaqKKhSxsjHwIE">
+  <a href="https://music.youtube.com/watch?v=ji8raPOfWrY">
+    <img width="300" src="https://lh3.googleusercontent.com/fEQOxczaHZ-1uM1SSG2at3r2ZlK7WmPqPppvFPz2N6kqkalpexbE44c3tBZ66SFCAoyw0kTG3dFkLX5b">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jam & Butterfly(피처링: Crush, Eaj)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND, 릴러말즈(Leellamarz), zene the zilla 및 더 콰이엇(The Quiett) - BITION WAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Jam & Butterfly</b>
+  on <b>BITION WAY</b>
   
   <br />
   <br />
-  05/21/2021 11:13 Playing on YTMusic
+  05/21/2021 11:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
