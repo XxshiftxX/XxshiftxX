@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=M-RbhHE2CiY">
-    <img width="300" src="https://lh3.googleusercontent.com/DdIIFqGiV45yg6zsoXZb3hUltt9OVb2hyHvBpNdKXl8l9apAb-6Sxi5W9273TtivbBcJ24o_5kmFO8M">
+  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwng517eYWWUKfMc6TdBi_6gh5KQ-jGHTb443SxjuOQ=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범(Jay Park) - Dank</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 1000만원 짜리 의자 FLEX(구경하기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>V</b>
+  on <b>Not supported</b>
   
   <br />
   <br />
-  05/21/2021 16:18 Playing on YTMusic
+  05/24/2021 15:10 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
