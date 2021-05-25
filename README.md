@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NDeL0PKdKVo">
-    <img width="300" src="https://i.ytimg.com/vi/NDeL0PKdKVo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=Rp8uQzSXXRc">
+    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>cold kiss sound - 「Electro Swing/Bass House」[Camellia] Nasty * Nasty * Spell</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - We Could Get More Machinegun Psystyle! -And More Genre Switches-</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 106만회 ]</b>
+  included in <b>[ Blackmagik Blazing ]</b>
   
   <br />
   <br />
-  05/25/2021 15:31 Playing on YTMusic
+  05/25/2021 15:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
