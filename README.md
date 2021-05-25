@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FdUw6l-0GAQ">
-    <img width="300" src="https://lh3.googleusercontent.com/AItSrJBMDMdYmwF5h1aRAw_i1hjztwIpmfGYwU7YdIy18Y3MmoSzjvwYZqz3fEw7bYrB96ugqc6nFPI">
+  <a href="https://music.youtube.com/watch?v=0h0Qa-6BVKI">
+    <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Nacreous Snowmelt</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - +ERABY+E CONNEC+10N</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Nacreous Snowmelt ]</b>
+  included in <b>[ Tera I / O ]</b>
   
   <br />
   <br />
-  05/25/2021 11:26 Playing on YTMusic
+  05/25/2021 11:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
