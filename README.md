@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MbGlLsZlg9Q">
-    <img width="300" src="https://lh3.googleusercontent.com/vtWxQlsrjtNWlbXRjeOZyFGygdbGBR7961JS7Co6r3wAsKxHk0jqdNOBd_34H0tFRp_Wjarbtu1Kyzg">
+  <a href="https://music.youtube.com/watch?v=HM2tGXZquyk">
+    <img width="300" src="https://lh3.googleusercontent.com/MoU1qBCf-dpY7WDIvM5JUU2MNrq8UGm56UPVcAmf9dvrgvD1Fk4_XOmL7-hLSDBbfx_QKzgDJE8khIiD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스탠딩 에그 - 너는 알고 있을까 (Piano ver.)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - NUCLEAR-STAR</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Letters from my old friend</b>
+  on <b>crystallized</b>
   
   <br />
   <br />
-  05/25/2021 10:37 Playing on YTMusic
+  05/25/2021 10:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
