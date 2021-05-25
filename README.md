@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KT5nEChOISs">
-    <img width="300" src="https://i.ytimg.com/vi/KT5nEChOISs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=nlRyRrs27iY">
+    <img width="300" src="https://i.ytimg.com/vi/nlRyRrs27iY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 존시나(피처링: Northfacegawd, 저스디스, 래원 (Layone))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh!) - uh-uh(피처링: Kid Milli, 개코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 485만회</b>
+  on <b>조회수 73만회</b>
   
   <br />
   <br />
-  05/25/2021 09:46 Playing on YTMusic
+  05/25/2021 09:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
