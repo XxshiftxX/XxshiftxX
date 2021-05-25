@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tRO13C97d-E">
-    <img width="300" src="https://i.ytimg.com/vi/tRO13C97d-E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=zaz74AUtBp4">
+    <img width="300" src="https://i.ytimg.com/vi/zaz74AUtBp4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Amoeba Culture (아메바컬쳐) - 허성현(Huh!) - 'business boy (Feat. 김농밀, BLOO)' M/V [ENG/JPN/CHN]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>양승호 (sokodomo) - MM</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 19만회</b>
+  on <b>조회수 53만회</b>
   
   <br />
   <br />
-  05/25/2021 09:38 Playing on YTMusic
+  05/25/2021 09:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
