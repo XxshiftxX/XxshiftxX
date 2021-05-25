@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zaz74AUtBp4">
-    <img width="300" src="https://i.ytimg.com/vi/zaz74AUtBp4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=KT5nEChOISs">
+    <img width="300" src="https://i.ytimg.com/vi/KT5nEChOISs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>양승호 (sokodomo) - MM</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 존시나(피처링: Northfacegawd, 저스디스, 래원 (Layone))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 53만회</b>
+  on <b>조회수 485만회</b>
   
   <br />
   <br />
-  05/25/2021 09:42 Playing on YTMusic
+  05/25/2021 09:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
