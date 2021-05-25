@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tWWj8UBGs_0">
-    <img width="300" src="https://lh3.googleusercontent.com/O-hsA08SAsnJwirqf3RAnI-gonN-nCv7zRBYsZVeiu23_JUuWKa9Lql6LRmpCTknUFhcZr5446iOwOg">
+  <a href="https://music.youtube.com/watch?v=En7VsFvB5pE">
+    <img width="300" src="https://lh3.googleusercontent.com/GKhOD9_kO9DyzvAjyX1pxkvdoj2rUYwqSCTXkyy4RPriIQiwgNqUIXvYcDqgPgJhuCxda3NLO1a8oQoWAQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따, 더 콰이엇(The Quiett), 팔로알토 및 사이먼 도미닉 - Forever 84 (Inst.)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 아침</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Forever 84</b>
+  on <b>기계적인 앨범</b>
   
   <br />
   <br />
-  05/25/2021 10:45 Playing on YTMusic
+  05/25/2021 10:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
