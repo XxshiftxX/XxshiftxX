@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sHgccQQVVHo">
-    <img width="300" src="https://lh3.googleusercontent.com/Eukw6itGkS_bkqF3grTTsowhjbXE02v-qmtCy-rEpgXICdXNC6Ri-wg8jkISopc59QwrII9UYBES8-2W">
+  <a href="https://music.youtube.com/watch?v=LBsUpB3JoBY">
+    <img width="300" src="https://lh3.googleusercontent.com/q84SSiNPkTnBAUa2WrfQmDFr4x4LZNBO8aft2fM4B8xSL-QiI3YqLK6aQ6PWH414s2IlY7Ndw6_imZmX">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ramin Djawadi - Wicked Games</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Swings - Pool Party(피처링: Yoon Jong Shin, Lim Seul-ong, G.NA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Westworld: Season 3 (Music From The HBO Series)</b>
+  on <b>Pool Party</b>
   
   <br />
   <br />
-  05/25/2021 10:49 Playing on YTMusic
+  05/25/2021 10:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
