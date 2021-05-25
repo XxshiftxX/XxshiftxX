@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=En7VsFvB5pE">
-    <img width="300" src="https://lh3.googleusercontent.com/GKhOD9_kO9DyzvAjyX1pxkvdoj2rUYwqSCTXkyy4RPriIQiwgNqUIXvYcDqgPgJhuCxda3NLO1a8oQoWAQ">
+  <a href="https://music.youtube.com/watch?v=29BtNd5ly48">
+    <img width="300" src="https://lh3.googleusercontent.com/I6bZmohQxx9TOfDXl322XX6lZzeBey_i3UY6j4TkwTDINXClYpAKtyUfzEVm-eMRbL1Ox9GSdhsknERt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 아침</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Audiomachine - We Are Gods</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>기계적인 앨범</b>
+  on <b>We Are Gods</b>
   
   <br />
   <br />
-  05/25/2021 10:47 Playing on YTMusic
+  05/25/2021 10:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
