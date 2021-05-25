@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=o_7dm6Swoeg">
-    <img width="300" src="https://lh3.googleusercontent.com/2iGgCEGZovKwHhjdYl7aHQjauuIXCmASMA5YZ6p1xUdu_Rawvcb3bnlCxo7XAxy1Of6oi5zntwiSQQU">
+  <a href="https://music.youtube.com/watch?v=fDhTGFedC28">
+    <img width="300" src="https://lh3.googleusercontent.com/kD-Ih7itkK-j6C-lDMkqzDODd5N9kWsmNStst5C_5nUFe8et5-Z46Mz2gPo_Ip5yG48zHVZ1Ro-EpVAk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR CREAM - billboard uwu</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Alone intelligence</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>DPR ARCHIVES</b>
+  on <b>heart of android</b>
   
   <br />
   <br />
-  05/25/2021 10:54 Playing on YTMusic
+  05/25/2021 10:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
