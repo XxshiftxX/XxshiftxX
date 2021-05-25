@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AoV1EIxj4B8">
-    <img width="300" src="https://lh3.googleusercontent.com/uxX71eWbNSSg5O1L6NJ6u99qbuqKJEVL_9akXflzcLBp_MLU_FxEkiGU-h4rBwM2mA8LmbVu7R-CXRxCzA">
+  <a href="https://music.youtube.com/watch?v=3z6isNGS6aI">
+    <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Camellia - ΩΩPARTS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - M1LLI0N PP</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>ΩΩPARTS</b>
+  on <b>Tera I / O</b>
   
   <br />
   <br />
-  05/25/2021 10:57 Playing on YTMusic
+  05/25/2021 11:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
