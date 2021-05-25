@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VrHoizWt464">
-    <img width="300" src="https://lh3.googleusercontent.com/sUZyoa6JomGF5FpPkJeJTgjlIpIY1xzgchggSc1AWmGj0_YG-Pm9fzC8BK1UiTKSOnoKTy3cp4CU78M">
+  <a href="https://music.youtube.com/watch?v=_fE7WR6OkLE">
+    <img width="300" src="https://lh3.googleusercontent.com/0ypuVz8iK_LMfjVkCWf6D2QmwgTZ55DijoQsPhoaCwIGf0XpSmnxO2uvxBkc8dbcV3r7SwCMb1zOsvTU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Qyoh -Nine Stars-</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Camellia - 雲散霧消</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Qyoh -Nine Stars- ]</b>
+  included in <b>[ 雲散霧消 ]</b>
   
   <br />
   <br />
-  05/25/2021 14:20 Playing on YTMusic
+  05/25/2021 15:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
