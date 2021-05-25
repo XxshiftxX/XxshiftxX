@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=29BtNd5ly48">
-    <img width="300" src="https://lh3.googleusercontent.com/I6bZmohQxx9TOfDXl322XX6lZzeBey_i3UY6j4TkwTDINXClYpAKtyUfzEVm-eMRbL1Ox9GSdhsknERt">
+  <a href="https://music.youtube.com/watch?v=sHgccQQVVHo">
+    <img width="300" src="https://lh3.googleusercontent.com/Eukw6itGkS_bkqF3grTTsowhjbXE02v-qmtCy-rEpgXICdXNC6Ri-wg8jkISopc59QwrII9UYBES8-2W">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Audiomachine - We Are Gods</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ramin Djawadi - Wicked Games</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>We Are Gods</b>
+  on <b>Westworld: Season 3 (Music From The HBO Series)</b>
   
   <br />
   <br />
-  05/25/2021 10:48 Playing on YTMusic
+  05/25/2021 10:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
