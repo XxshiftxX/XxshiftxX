@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AJCXUEn9FgA">
+  <a href="https://music.youtube.com/watch?v=-z9qdY0hEAM">
     <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - Compute It With Some Devilish Alcoholic Steampunk Engines</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - Fly Wit Me</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Tera I / O ]</b>
   
   <br />
   <br />
-  05/25/2021 11:44 Playing on YTMusic
+  05/25/2021 11:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
