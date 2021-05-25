@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fDhTGFedC28">
-    <img width="300" src="https://lh3.googleusercontent.com/kD-Ih7itkK-j6C-lDMkqzDODd5N9kWsmNStst5C_5nUFe8et5-Z46Mz2gPo_Ip5yG48zHVZ1Ro-EpVAk">
+  <a href="https://music.youtube.com/watch?v=AoV1EIxj4B8">
+    <img width="300" src="https://lh3.googleusercontent.com/uxX71eWbNSSg5O1L6NJ6u99qbuqKJEVL_9akXflzcLBp_MLU_FxEkiGU-h4rBwM2mA8LmbVu7R-CXRxCzA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - Alone intelligence</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Camellia - ΩΩPARTS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>heart of android</b>
+  on <b>ΩΩPARTS</b>
   
   <br />
   <br />
-  05/25/2021 10:56 Playing on YTMusic
+  05/25/2021 10:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
