@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hdpMTQEZEV8">
-    <img width="300" src="https://i.ytimg.com/vi/hdpMTQEZEV8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=BSD9W1kOCJ0">
+    <img width="300" src="https://i.ytimg.com/vi/BSD9W1kOCJ0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>D.Ark - GENIUS(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>dingo freestyle - [4K] 미란이 - Daisy (Feat. pH-1) + Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom) | [DF LIVE] Mirani</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>조회수 100만회</b>
+  on <b>조회수 103만회</b>
   
   <br />
   <br />
-  05/25/2021 09:55 Playing on YTMusic
+  05/25/2021 09:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
