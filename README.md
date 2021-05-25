@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KMvxAH-bRmw">
-    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
+  <a href="https://music.youtube.com/watch?v=MbGlLsZlg9Q">
+    <img width="300" src="https://lh3.googleusercontent.com/vtWxQlsrjtNWlbXRjeOZyFGygdbGBR7961JS7Co6r3wAsKxHk0jqdNOBd_34H0tFRp_Wjarbtu1Kyzg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Joker(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스탠딩 에그 - 너는 알고 있을까 (Piano ver.)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Bucket List</b>
+  on <b>Letters from my old friend</b>
   
   <br />
   <br />
-  05/25/2021 10:34 Playing on YTMusic
+  05/25/2021 10:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
