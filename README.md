@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LBsUpB3JoBY">
-    <img width="300" src="https://lh3.googleusercontent.com/q84SSiNPkTnBAUa2WrfQmDFr4x4LZNBO8aft2fM4B8xSL-QiI3YqLK6aQ6PWH414s2IlY7Ndw6_imZmX">
+  <a href="https://music.youtube.com/watch?v=o_7dm6Swoeg">
+    <img width="300" src="https://lh3.googleusercontent.com/2iGgCEGZovKwHhjdYl7aHQjauuIXCmASMA5YZ6p1xUdu_Rawvcb3bnlCxo7XAxy1Of6oi5zntwiSQQU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Swings - Pool Party(피처링: Yoon Jong Shin, Lim Seul-ong, G.NA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR CREAM - billboard uwu</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>Pool Party</b>
+  on <b>DPR ARCHIVES</b>
   
   <br />
   <br />
-  05/25/2021 10:51 Playing on YTMusic
+  05/25/2021 10:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
