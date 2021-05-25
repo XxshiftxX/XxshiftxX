@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QSsP8IY5t5I">
-    <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
+  <a href="https://music.youtube.com/watch?v=VrHoizWt464">
+    <img width="300" src="https://lh3.googleusercontent.com/sUZyoa6JomGF5FpPkJeJTgjlIpIY1xzgchggSc1AWmGj0_YG-Pm9fzC8BK1UiTKSOnoKTy3cp4CU78M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - BAD ACCESS (FROM A MOE MAID)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Qyoh -Nine Stars-</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Tera I / O ]</b>
+  included in <b>[ Qyoh -Nine Stars- ]</b>
   
   <br />
   <br />
-  05/25/2021 11:56 Playing on YTMusic
+  05/25/2021 14:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
