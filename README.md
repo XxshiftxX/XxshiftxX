@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vWF20sKubpE">
-    <img width="300" src="https://lh3.googleusercontent.com/xObXLGworl0SoHSNpfqaPlXfCv-3cV3uAlavvLjMHlITZjayUWWYaq7BBPQTb2hYZhUsIfqc_1YjU2A">
+  <a href="https://music.youtube.com/watch?v=HjYl3D7Wjfo">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lil Nekh - Red Light (Prod. by 코드 쿤스트)(피처링: BIG Naughty)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Beautiful(피처링: Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  on <b>고등래퍼4 Semi Final 2</b>
+  on <b>ISLAND</b>
   
   <br />
   <br />
-  05/25/2021 10:15 Playing on YTMusic
+  05/25/2021 10:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
