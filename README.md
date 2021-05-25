@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-z9qdY0hEAM">
-    <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
+  <a href="https://music.youtube.com/watch?v=20Sl9KYtqR8">
+    <img width="300" src="https://lh3.googleusercontent.com/VtKknzUalH2st6FBxDS32EZHGtDtOte9WCy1YsVHICVLnKpd1b0PP1wZTAHDge8iOiQ6bLVX5KUu00L4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - Fly Wit Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - #1f1e33</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Tera I / O ]</b>
+  included in <b>[ #1f1e33 ]</b>
   
   <br />
   <br />
-  05/25/2021 11:48 Playing on YTMusic
+  05/25/2021 11:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
