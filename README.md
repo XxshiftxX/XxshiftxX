@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Rp8uQzSXXRc">
-    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
+  <a href="https://music.youtube.com/watch?v=3z6isNGS6aI">
+    <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - We Could Get More Machinegun Psystyle! -And More Genre Switches-</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - M1LLI0N PP</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Blackmagik Blazing ]</b>
+  included in <b>[ Tera I / O ]</b>
   
   <br />
   <br />
-  05/25/2021 15:42 Playing on YTMusic
+  05/27/2021 17:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
