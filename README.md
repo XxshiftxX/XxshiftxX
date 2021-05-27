@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QXeaLw2s-Wo">
-    <img width="300" src="https://lh3.googleusercontent.com/PZBogdn6ZlXhEvMkEHdNYxhr5sxDrnS17uO0TmivyQgmhZ6WWCZV6A11RfMvNsBVdW254Uatqn12uqQ">
+  <a href="https://music.youtube.com/watch?v=KBzi8Na1Zjw">
+    <img width="300" src="https://lh3.googleusercontent.com/rudARRSSfUO2NZHiLD0HfgssfiTutHWq4iMy3aurlkGO7xI0MEYqRFOPxxkIjpqw-JJeuI26fofbpouS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팀 그리모어 및 Laur - Grievous Lady (from Arcaea)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>INTX Rec. - So Cute, So Cool</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UMBRA MORTIS ]</b>
+  included in <b>[ Super Stronger Icicle Dance ]</b>
   
   <br />
   <br />
-  05/27/2021 18:21 Playing on YTMusic
+  05/27/2021 18:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
