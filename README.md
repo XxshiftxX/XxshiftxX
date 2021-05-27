@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ik_A7Mqepe0">
-    <img width="300" src="https://lh3.googleusercontent.com/L3X5DxD-4Vl1K0Go-Mm4GJ3UAL4EWOZGAq6We8ylMDmKuDn2pKsyQ6c0iBkf73_Xj0SqQNy8Ate-xPpp">
+  <a href="https://music.youtube.com/watch?v=FdUw6l-0GAQ">
+    <img width="300" src="https://lh3.googleusercontent.com/AItSrJBMDMdYmwF5h1aRAw_i1hjztwIpmfGYwU7YdIy18Y3MmoSzjvwYZqz3fEw7bYrB96ugqc6nFPI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팀 그리모어 - Grievous Lady -nothing is but what is not-</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카메리아 - Nacreous Snowmelt</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Arcaea Sound Collection: Memories of Conflict ]</b>
+  included in <b>[ Nacreous Snowmelt ]</b>
   
   <br />
   <br />
-  05/27/2021 18:29 Playing on YTMusic
+  05/27/2021 18:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
