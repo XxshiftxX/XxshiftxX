@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DIGAvNcBO1Y">
-    <img width="300" src="https://lh3.googleusercontent.com/-41iE77nnj6FbS1K0OYktLbH9vIoxMfN4osNuMcXcvmsBCEQNjmVNZ5IUbz6ZWdfST8DY6dyIKwWDrKc">
+  <a href="https://music.youtube.com/watch?v=p8jGE1r6IXo">
+    <img width="300" src="https://lh3.googleusercontent.com/yeyy77nReDug52xR9cPzxqVrtXSONp6FSzkazkNF1kkpsIIILiz_BoBBxLJP9iymcXTqmo5oAJBH_qKr">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>sokodomo - MM(피처링: 박재범)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - 이겨(피처링: Leellamarz)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ...---... ]</b>
+  included in <b>[ More Mood ]</b>
   
   <br />
   <br />
-  05/31/2021 14:50 Playing on YTMusic
+  05/31/2021 14:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
