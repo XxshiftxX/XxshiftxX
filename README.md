@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4IRBsQYY5QY">
-    <img width="300" src="https://lh3.googleusercontent.com/jgsMWqIQmxoS2GqJiSHeA9H5sKIdvoA2uMO4Wi_w7vRMQrWO7g7O4I4-GRfWxOimEq9WuFsElcGxlJNn">
+  <a href="https://music.youtube.com/watch?v=QMWg5KwSj78">
+    <img width="300" src="https://lh3.googleusercontent.com/5fcoPLx6m5sG_NSSF3yphHfwjqMxEUrR-7LfziupehjLDO8OrxjBjXb4947pkm8dNBmkjwoB5mb0xG4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Daisy(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - A STAR IS BORN Remix(피처링: MELOH, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Daisy ]</b>
+  included in <b>[ More ISLAND ]</b>
   
   <br />
   <br />
-  05/31/2021 14:35 Playing on YTMusic
+  05/31/2021 14:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
