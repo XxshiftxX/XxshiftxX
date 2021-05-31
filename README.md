@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cJtlLS6LPEc">
-    <img width="300" src="https://lh3.googleusercontent.com/AkehRocN66EQuMNSEMjG54PKajNKlAMmQgBnJb3bFj6AGRgK797xLnOebDj0vpXJ1FmLg47JHwmQggpi">
+  <a href="https://music.youtube.com/watch?v=Cs1BUII8Amk">
+    <img width="300" src="https://lh3.googleusercontent.com/5fcoPLx6m5sG_NSSF3yphHfwjqMxEUrR-7LfziupehjLDO8OrxjBjXb4947pkm8dNBmkjwoB5mb0xG4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh! - uh-uh(피처링: Kid Milli, Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 신경꺼</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ uh-uh ]</b>
+  included in <b>[ More ISLAND ]</b>
   
   <br />
   <br />
-  05/31/2021 14:41 Playing on YTMusic
+  05/31/2021 14:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
