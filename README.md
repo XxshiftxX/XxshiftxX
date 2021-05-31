@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9Unrl9Yi55s">
-    <img width="300" src="https://lh3.googleusercontent.com/dP_vI0XXlNl3JKI4x-K3KvFhttkKeOA3H9LJ7E5rWzCmXwG5wPZySFYQ7soDeoXx6lckdpiOkTkU6p-L">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>파테코 및 디핵 - OHAYO MY NIGHT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(피처링: nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OHAYO MY NIGHT ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  05/31/2021 14:04 Playing on YTMusic
+  05/31/2021 14:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
