@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9JUtUpCtWHU">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=4IRBsQYY5QY">
+    <img width="300" src="https://lh3.googleusercontent.com/jgsMWqIQmxoS2GqJiSHeA9H5sKIdvoA2uMO4Wi_w7vRMQrWO7g7O4I4-GRfWxOimEq9WuFsElcGxlJNn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 그랑프리(피처링: Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Daisy(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ISLAND ]</b>
+  included in <b>[ Daisy ]</b>
   
   <br />
   <br />
-  05/31/2021 14:32 Playing on YTMusic
+  05/31/2021 14:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
