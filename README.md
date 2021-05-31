@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7LXYtI00iBM">
-    <img width="300" src="https://lh3.googleusercontent.com/4Ikp4UywKVmqkDiM-I92NKDb1rNyscyrVkv4aIFb-2R04RMPxuKPFMfW2YBdUMZ5_668eZnhVYglS9Gc">
+  <a href="https://music.youtube.com/watch?v=DCe4_5pkwxM">
+    <img width="300" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>D.Ark - GENIUS(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - BLAME MY CIRCLE(피처링: 저스디스, 오왼(Owen))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EP1 GENIUS ]</b>
+  included in <b>[ X ]</b>
   
   <br />
   <br />
-  05/31/2021 14:57 Playing on YTMusic
+  05/31/2021 15:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
