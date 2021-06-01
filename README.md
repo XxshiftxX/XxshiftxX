@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
-    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
+  <a href="https://music.youtube.com/watch?v=SzF0H-bF7Kk">
+    <img width="300" src="https://lh3.googleusercontent.com/SeDzBretGLyPpmaKKgwQVAsIW9JV3KWQHOCZtPXGCrPIf5Kn7t-WUgYiI1s24qhNYCxR0uoUmZ_dD0f1-w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(피처링: Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 TOIL - SOS(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RIDERS ]</b>
+  included in <b>[ 토끼니브라운 ]</b>
   
   <br />
   <br />
-  06/01/2021 16:24 Playing on YTMusic
+  06/01/2021 16:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
