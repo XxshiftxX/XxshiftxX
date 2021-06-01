@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I-MSIqTVi6s">
-    <img width="300" src="https://lh3.googleusercontent.com/R8Fsd-4l0DMzHNP7YnzG09INuSxzHC3flxyq1ciYHXBnLdmx-b_R4gRSGI_VAr4g7nH-s4WtunSQAkg">
+  <a href="https://music.youtube.com/watch?v=7S-Mpq3sNWg">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE, Uneducated Kid, Chin, CK - 사임쌓임</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - A STAR IS BORN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Money Team ]</b>
+  included in <b>[ ISLAND ]</b>
   
   <br />
   <br />
-  06/01/2021 16:58 Playing on YTMusic
+  06/01/2021 17:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
