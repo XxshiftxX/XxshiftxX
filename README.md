@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rzVXbeWuzR8">
-    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
+  <a href="https://music.youtube.com/watch?v=R5f-IpCkU4o">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Titanium</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Lonely</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Berry Loves My Mood ]</b>
+  included in <b>[ ISLAND ]</b>
   
   <br />
   <br />
-  06/01/2021 15:55 Playing on YTMusic
+  06/01/2021 15:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
