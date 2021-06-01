@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jKmib7okBdY">
-    <img width="300" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">
+  <a href="https://music.youtube.com/watch?v=bxWoi_txmNw">
+    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EVERYTHING ]</b>
+  included in <b>[ Ghetto Kids ]</b>
   
   <br />
   <br />
-  06/01/2021 17:31 Playing on YTMusic
+  06/01/2021 17:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
