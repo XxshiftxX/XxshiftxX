@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Zjzjtbos8N4">
-    <img width="300" src="https://lh3.googleusercontent.com/MQWvU5t-SWFEj_i-pCJczB3jJ8uLB50cBxDn1sxTa2trR6SnUkdyKsOuQMoeLDwHaqDVNqXCwVaptNxeaQ">
+  <a href="https://music.youtube.com/watch?v=HjYl3D7Wjfo">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>D.Ark - Do My Best (Prod. Way Ched)(피처링: Jessi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Beautiful(피처링: Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고등래퍼4 Final ]</b>
+  included in <b>[ ISLAND ]</b>
   
   <br />
   <br />
-  06/01/2021 16:17 Playing on YTMusic
+  06/01/2021 16:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
