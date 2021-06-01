@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DIGAvNcBO1Y">
-    <img width="300" src="https://lh3.googleusercontent.com/-41iE77nnj6FbS1K0OYktLbH9vIoxMfN4osNuMcXcvmsBCEQNjmVNZ5IUbz6ZWdfST8DY6dyIKwWDrKc">
+  <a href="https://music.youtube.com/watch?v=VhjHsHHfri0">
+    <img width="300" src="https://lh3.googleusercontent.com/aSWohpsHED7ZqHmJU34MXWbrHxp5H2qcGj9uAK1HltPI6LRvaeW5Eex3MY5KYsOuvm5r_KYFd0qVQkYO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>sokodomo - MM(피처링: 박재범)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>숀 - 닫힌엔딩</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ...---... ]</b>
+  included in <b>[ #0055b7 ]</b>
   
   <br />
   <br />
-  06/01/2021 23:27 Playing on YTMusic
+  06/01/2021 23:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
