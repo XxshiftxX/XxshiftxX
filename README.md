@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
-    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
+  <a href="https://music.youtube.com/watch?v=ji8raPOfWrY">
+    <img width="300" src="https://lh3.googleusercontent.com/fEQOxczaHZ-1uM1SSG2at3r2ZlK7WmPqPppvFPz2N6kqkalpexbE44c3tBZ66SFCAoyw0kTG3dFkLX5b">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(피처링: Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND, 릴러말즈(Leellamarz), zene the zilla 및 더 콰이엇(The Quiett) - BITION WAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RIDERS ]</b>
+  included in <b>[ BITION WAY ]</b>
   
   <br />
   <br />
-  06/01/2021 22:29 Playing on YTMusic
+  06/01/2021 22:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
