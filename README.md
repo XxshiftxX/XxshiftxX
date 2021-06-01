@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lciUDR8wWKg">
-    <img width="300" src="https://lh3.googleusercontent.com/d0vAbOaxY1wfEVCuquYNCqyTTnx9TOedFyDTABT_JudAygnfOTp4UeH-nCuJTsX_7mNQFblL8rcySSQ">
+  <a href="https://music.youtube.com/watch?v=Zjzjtbos8N4">
+    <img width="300" src="https://lh3.googleusercontent.com/MQWvU5t-SWFEj_i-pCJczB3jJ8uLB50cBxDn1sxTa2trR6SnUkdyKsOuQMoeLDwHaqDVNqXCwVaptNxeaQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Fire(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>D.Ark - Do My Best (Prod. Way Ched)(피처링: Jessi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fire ]</b>
+  included in <b>[ 고등래퍼4 Final ]</b>
   
   <br />
   <br />
-  06/01/2021 16:14 Playing on YTMusic
+  06/01/2021 16:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
