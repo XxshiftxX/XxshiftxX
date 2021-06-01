@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SRgRY3yII4c">
-    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
+  <a href="https://music.youtube.com/watch?v=I-MSIqTVi6s">
+    <img width="300" src="https://lh3.googleusercontent.com/R8Fsd-4l0DMzHNP7YnzG09INuSxzHC3flxyq1ciYHXBnLdmx-b_R4gRSGI_VAr4g7nH-s4WtunSQAkg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 봄(피처링: ASH ISLAND, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE, Uneducated Kid, Chin, CK - 사임쌓임</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Curtain Call ]</b>
+  included in <b>[ The Money Team ]</b>
   
   <br />
   <br />
-  06/01/2021 16:54 Playing on YTMusic
+  06/01/2021 16:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
