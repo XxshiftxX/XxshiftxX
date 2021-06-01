@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hqbjKXfo0Zw">
-    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
+  <a href="https://music.youtube.com/watch?v=F7Eqh-fsWOE">
+    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 너 포에버(피처링: YUMDDA, MUSHVENOM, Uneducated Kid)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Angel</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Curtain Call ]</b>
+  included in <b>[ Berry Loves My Mood ]</b>
   
   <br />
   <br />
-  06/01/2021 17:03 Playing on YTMusic
+  06/01/2021 17:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
