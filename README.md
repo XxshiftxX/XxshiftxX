@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OANQHtZeOhc">
-    <img width="300" src="https://lh3.googleusercontent.com/IemGu9kQ1DMSiCcv5bh-XgxQ_9550lliH5u56T4X_o1MHqxlUhTY6vobL8tXKYXhEz6bzsQgjWhXuQw">
+  <a href="https://music.youtube.com/watch?v=y1QdN8_ttXc">
+    <img width="300" src="https://lh3.googleusercontent.com/ze-1jHf_4WNfEkv7-MR2VTKO4LRGn4ZFbzdegzlAEAMwlnqzSN-yDYR3wlp1AMFNGITRnxTd0xERBeY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>루이 (긱스) - Mama(피처링: 이난)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NOAH - D Flight(피처링: Boi B, Untell)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HWANG MOON SEOP ]</b>
+  included in <b>[ D Flight ]</b>
   
   <br />
   <br />
-  06/01/2021 23:10 Playing on YTMusic
+  06/01/2021 23:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
