@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QHQjoIJ4ZL0">
-    <img width="300" src="https://lh3.googleusercontent.com/11Re51KsMvaVO1LrvsqZMEArFx_4fFmr0RAIDHLgBJcKzmvg-KMo_u8bhUed74uvBKeNYjzTFnlTqqM">
+  <a href="https://music.youtube.com/watch?v=xHK_mUd4JTw">
+    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - Stupid Dumb Lovin(피처링: Cloudybay)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - Hungry (prod. Kidstone)(피처링: Ourealgoat, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Sing Alone ]</b>
+  included in <b>[ Family Business ]</b>
   
   <br />
   <br />
-  06/01/2021 15:47 Playing on YTMusic
+  06/01/2021 15:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
