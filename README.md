@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qn-oT0oBjvE">
-    <img width="300" src="https://lh3.googleusercontent.com/fdoE2MVBUdKKCLNWIn8W3V4u9gMh79D14yHC9Jz5eRWe8z5fHdANOsA01Gm9HOWp83k-U81NAlqN3EyD">
+  <a href="https://music.youtube.com/watch?v=SRgRY3yII4c">
+    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>비비(BIBI) - BAD SAD AND MAD</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 봄(피처링: ASH ISLAND, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 인생은 나쁜X ]</b>
+  included in <b>[ Curtain Call ]</b>
   
   <br />
   <br />
-  06/01/2021 16:52 Playing on YTMusic
+  06/01/2021 16:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
