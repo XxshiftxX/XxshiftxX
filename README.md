@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=iDCwc_bwidg">
-    <img width="300" src="https://lh3.googleusercontent.com/lwF-BgmmlQ_QmS7p_0OJM0PzwGjE1OOYeUMapwybtpb9YrFbg94_KAvXBLxje2hSQfZD-a_a8YBq2-Io">
+  <a href="https://music.youtube.com/watch?v=zR1AUcmfzdw">
+    <img width="300" src="https://lh3.googleusercontent.com/7vgDRyzycOhSoeuj6aPKIhC1d4_gn9BFxt7DO03E8p0Bg8RY9Y2HZpYMNnn9hnaOHvpIV7-KgVbeRD_a">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>오케이션 - 막지못해</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - G+Jus Freestyle (From "Show Me The Money 9 Special")</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 막지못해 ]</b>
+  included in <b>[ G+Jus Freestyle (From "Show Me The Money 9 Special") ]</b>
   
   <br />
   <br />
-  06/01/2021 23:20 Playing on YTMusic
+  06/01/2021 23:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
