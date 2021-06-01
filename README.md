@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xHK_mUd4JTw">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=rzVXbeWuzR8">
+    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - Hungry (prod. Kidstone)(피처링: Ourealgoat, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Titanium</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ Berry Loves My Mood ]</b>
   
   <br />
   <br />
-  06/01/2021 15:50 Playing on YTMusic
+  06/01/2021 15:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
