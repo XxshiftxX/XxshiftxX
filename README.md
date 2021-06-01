@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xU24i_P5KjY">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=7BCNh8umDO0">
+    <img width="300" src="https://lh3.googleusercontent.com/11Re51KsMvaVO1LrvsqZMEArFx_4fFmr0RAIDHLgBJcKzmvg-KMo_u8bhUed74uvBKeNYjzTFnlTqqM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - eclipse</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - Sing Alone</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ISLAND ]</b>
+  included in <b>[ Sing Alone ]</b>
   
   <br />
   <br />
-  06/01/2021 16:04 Playing on YTMusic
+  06/01/2021 16:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
