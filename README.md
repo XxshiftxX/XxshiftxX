@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fGWtxkcX3Ig">
-    <img width="300" src="https://lh3.googleusercontent.com/yeyy77nReDug52xR9cPzxqVrtXSONp6FSzkazkNF1kkpsIIILiz_BoBBxLJP9iymcXTqmo5oAJBH_qKr">
+  <a href="https://music.youtube.com/watch?v=VLUQBp5eAdM">
+    <img width="300" src="https://lh3.googleusercontent.com/KjwRQEPhdOUFZ3gmjujsP0WLYLtyxB2ARxNggjP9bX2Ft9ygEE8bsOV6ZSAeTA70oW0ULycQHud0-_pb">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - UP(피처링: Yumdda)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - 365&7(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ More Mood ]</b>
+  included in <b>[ 365&7 ]</b>
   
   <br />
   <br />
-  06/01/2021 15:41 Playing on YTMusic
+  06/01/2021 15:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
