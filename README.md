@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vWF20sKubpE">
-    <img width="300" src="https://lh3.googleusercontent.com/xObXLGworl0SoHSNpfqaPlXfCv-3cV3uAlavvLjMHlITZjayUWWYaq7BBPQTb2hYZhUsIfqc_1YjU2A">
+  <a href="https://music.youtube.com/watch?v=FtbdYigAnIU">
+    <img width="300" src="https://lh3.googleusercontent.com/vC68Vv4n8vDkAciBQac3Xt6T1uZB4yHKP1TCaVqbAGexT_ts4V-k7BZkQgxU2f9KAXDz0YGj-MvqqQra">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lil Nekh - Red Light (Prod. by 코드 쿤스트)(피처링: BIG Naughty)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - we need more</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고등래퍼4 Semi Final 2 ]</b>
+  included in <b>[ B.F.A.M(Brother from another mom) ]</b>
   
   <br />
   <br />
-  06/01/2021 22:51 Playing on YTMusic
+  06/01/2021 22:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
