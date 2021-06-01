@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7BCNh8umDO0">
-    <img width="300" src="https://lh3.googleusercontent.com/11Re51KsMvaVO1LrvsqZMEArFx_4fFmr0RAIDHLgBJcKzmvg-KMo_u8bhUed74uvBKeNYjzTFnlTqqM">
+  <a href="https://music.youtube.com/watch?v=qjlPUNPt2uw">
+    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - Sing Alone</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 시한부(피처링: Leellamarz, Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Sing Alone ]</b>
+  included in <b>[ Curtain Call ]</b>
   
   <br />
   <br />
-  06/01/2021 16:07 Playing on YTMusic
+  06/01/2021 16:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
