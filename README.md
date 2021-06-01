@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SzF0H-bF7Kk">
-    <img width="300" src="https://lh3.googleusercontent.com/SeDzBretGLyPpmaKKgwQVAsIW9JV3KWQHOCZtPXGCrPIf5Kn7t-WUgYiI1s24qhNYCxR0uoUmZ_dD0f1-w">
+  <a href="https://music.youtube.com/watch?v=IabVAAbTIro">
+    <img width="300" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 TOIL - SOS(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI 및 Wonstein - FRIENDS (Prod. by Slom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 토끼니브라운 ]</b>
+  included in <b>[ FRIENDS ]</b>
   
   <br />
   <br />
-  06/01/2021 16:28 Playing on YTMusic
+  06/01/2021 16:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
