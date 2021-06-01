@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=k1BWMZ7TlSU">
-    <img width="300" src="https://lh3.googleusercontent.com/PqVezN63pCueWqEtP4FlwMHPl0UdZMbULnf0cQ-qBrCLJdF82N5JjvgMS0wPRnDmmCs26pf-cIQjjBWjHg">
+  <a href="https://music.youtube.com/watch?v=-PhMSxb5f7A">
+    <img width="300" src="https://lh3.googleusercontent.com/Ah2EqZ34m61KiAwWj0LgKqTDdl4A6IZgDKbFIBicogMGBrS0yaVvMe9DWmbmn6y5rA0NX-Hy9DPLpeze0Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴보이 - Watch Out (영화 '성난 변호사' 스페셜 OST)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이루펀트 - Superstar(피처링: 셀마)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 베이식 X 릴보이 ]</b>
+  included in <b>[ The Best ]</b>
   
   <br />
   <br />
-  06/01/2021 23:34 Playing on YTMusic
+  06/01/2021 23:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
