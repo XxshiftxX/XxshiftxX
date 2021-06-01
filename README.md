@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gTtlMp6D3JU">
-    <img width="300" src="https://lh3.googleusercontent.com/Dmx3WnOMrYaX2pxbNnYdZKr6JTsuSyJ-yyqvJErdSdYyyS6mtyNjiFPJhZ0XSkKLAssizUCzq6Xi_j9E">
+  <a href="https://music.youtube.com/watch?v=4fDKPcftvio">
+    <img width="300" src="https://lh3.googleusercontent.com/ZlEXs0anIOPRD_tEkMZ2jQSY_pjPvq0QhupyW0AbCensCSvt-vRDkBCTztDxV-gmM-7wtNdgS8xnfcNG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쌔끈보이즈 (박재범, Don Mills, 로꼬, 넉살) - Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>프리든 - 어때</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY) ]</b>
+  included in <b>[ PEACE FUNK ]</b>
   
   <br />
   <br />
-  06/01/2021 23:41 Playing on YTMusic
+  06/01/2021 23:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
