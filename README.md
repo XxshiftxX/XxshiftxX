@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FnN0YStP05I">
-    <img width="300" src="https://lh3.googleusercontent.com/BFCD6Jj70jcqb7ZAwyqGmfqARdU54zms61T88OR1qUCbiSvSF_jwMGKnF555suugJV_XgbAweo2KI619">
+  <a href="https://music.youtube.com/watch?v=iDCwc_bwidg">
+    <img width="300" src="https://lh3.googleusercontent.com/lwF-BgmmlQ_QmS7p_0OJM0PzwGjE1OOYeUMapwybtpb9YrFbg94_KAvXBLxje2hSQfZD-a_a8YBq2-Io">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 않아</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오케이션 - 막지못해</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [L] (DELUXE) ]</b>
+  included in <b>[ 막지못해 ]</b>
   
   <br />
   <br />
-  06/01/2021 23:17 Playing on YTMusic
+  06/01/2021 23:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
