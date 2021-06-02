@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P7MmjEbgMZA">
-    <img width="300" src="https://lh3.googleusercontent.com/JG4HTNF0WgnZP73cjV9rSa2ruli3wlLDTfeRdAEyJ5ppsm9yW6oGj2Ws1AyO7KCMizuOKnCTlZMM_GWEvA">
+  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
+    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>버벌진트 - 나는 하수다(피처링: curv moon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(피처링: Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 변곡점 ]</b>
+  included in <b>[ RIDERS ]</b>
   
   <br />
   <br />
-  06/02/2021 14:29 Playing on YTMusic
+  06/02/2021 14:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
