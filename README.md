@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
-    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
+  <a href="https://music.youtube.com/watch?v=IabVAAbTIro">
+    <img width="300" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(피처링: Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI 및 Wonstein - FRIENDS (Prod. by Slom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RIDERS ]</b>
+  included in <b>[ FRIENDS ]</b>
   
   <br />
   <br />
-  06/02/2021 14:30 Playing on YTMusic
+  06/02/2021 14:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
