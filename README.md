@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yUnyZQYwGAc">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/watch?v=Zjzjtbos8N4">
+    <img width="300" src="https://lh3.googleusercontent.com/MQWvU5t-SWFEj_i-pCJczB3jJ8uLB50cBxDn1sxTa2trR6SnUkdyKsOuQMoeLDwHaqDVNqXCwVaptNxeaQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>D.Ark - Do My Best (Prod. Way Ched)(피처링: Jessi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
+  included in <b>[ 고등래퍼4 Final ]</b>
   
   <br />
   <br />
-  06/02/2021 14:51 Playing on YTMusic
+  06/02/2021 14:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
