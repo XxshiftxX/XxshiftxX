@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9JUtUpCtWHU">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=k1BWMZ7TlSU">
+    <img width="300" src="https://lh3.googleusercontent.com/PqVezN63pCueWqEtP4FlwMHPl0UdZMbULnf0cQ-qBrCLJdF82N5JjvgMS0wPRnDmmCs26pf-cIQjjBWjHg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 그랑프리(피처링: Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴보이 - Watch Out (영화 '성난 변호사' 스페셜 OST)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ISLAND ]</b>
+  included in <b>[ 베이식 X 릴보이 ]</b>
   
   <br />
   <br />
-  06/03/2021 16:54 Playing on YTMusic
+  06/03/2021 16:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
