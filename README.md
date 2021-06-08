@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qjlPUNPt2uw">
-    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
+  <a href="https://music.youtube.com/watch?v=xU24i_P5KjY">
+    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 시한부(피처링: Leellamarz, Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - eclipse</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Curtain Call ]</b>
+  included in <b>[ ISLAND ]</b>
   
   <br />
   <br />
-  06/08/2021 14:37 Playing on YTMusic
+  06/08/2021 14:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
