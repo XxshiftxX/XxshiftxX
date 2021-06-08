@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7BCNh8umDO0">
-    <img width="300" src="https://lh3.googleusercontent.com/11Re51KsMvaVO1LrvsqZMEArFx_4fFmr0RAIDHLgBJcKzmvg-KMo_u8bhUed74uvBKeNYjzTFnlTqqM">
+  <a href="https://music.youtube.com/watch?v=MSYq3MzTLGA">
+    <img width="300" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - Sing Alone</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>더 콰이엇 - Hangang gang (Megamix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Sing Alone ]</b>
+  included in <b>[ Hangang gang (Megamix) ]</b>
   
   <br />
   <br />
-  06/08/2021 11:22 Playing on YTMusic
+  06/08/2021 11:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
