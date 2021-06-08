@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fvm3cwzGe5Q">
-    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
+  <a href="https://music.youtube.com/watch?v=jLJrCAOCLZs">
+    <img width="300" src="https://lh3.googleusercontent.com/kUwgu2HKDV8zsEejZsQ7eG0IeoVH-NyBjsn9TcFlg-fpnYTYK-G1QKafy1AjoqbNEQoFUt1x5jZ8Apo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 꽉 쥔 주먹속의 라이터</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YUMDDA, The Quiett, Deepflow 및 Simon Dominic - I'MMA DO 아마두(피처링: Huckleberry P, Keem Hyo-Eun, Paloalto, Woo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ghetto Kids ]</b>
+  included in <b>[ Dingo X DAMOIM (Part 2) ]</b>
   
   <br />
   <br />
-  06/08/2021 11:06 Playing on YTMusic
+  06/08/2021 11:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
