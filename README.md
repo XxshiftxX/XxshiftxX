@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7t-iZc3Psvw">
-    <img width="300" src="https://lh3.googleusercontent.com/s4UFG4c2mZLNQnmeGNINibpbTMkkmYeeXFdHnUtR0RD-wYAy2WifXKTWhqwpMqDBcE8CeGweiKCydO4">
+  <a href="https://music.youtube.com/watch?v=uwy5hGT6i7Q">
+    <img width="300" src="https://lh3.googleusercontent.com/GMXEG4isA1AO-uCNz8jeOtNdU2hfCeKuP7BBGV5G9P0DT8GitgZKuwJbDhPQxWOPXGzfcwL4p21S-poI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 진인사대천명</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 진인사대천명 ]</b>
+  included in <b>[ IMJMWDP ]</b>
   
   <br />
   <br />
-  06/08/2021 10:57 Playing on YTMusic
+  06/08/2021 11:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
