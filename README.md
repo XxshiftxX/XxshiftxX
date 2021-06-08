@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bxWoi_txmNw">
-    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
+  <a href="https://music.youtube.com/watch?v=dHZy0_olYSs">
+    <img width="300" src="https://lh3.googleusercontent.com/Dcm8gtuoVAwLbDhPISK4UkBhIA45yOb1XRZNOjndvW45JeeNYSXYIW56vTASjzLKV5TFOQ4WxPZ31wi6eg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>D.Ark - Cold(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ghetto Kids ]</b>
+  included in <b>[ 고등래퍼4 Semi Final 1 ]</b>
   
   <br />
   <br />
-  06/08/2021 13:43 Playing on YTMusic
+  06/08/2021 13:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
