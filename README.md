@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VLUQBp5eAdM">
-    <img width="300" src="https://lh3.googleusercontent.com/KjwRQEPhdOUFZ3gmjujsP0WLYLtyxB2ARxNggjP9bX2Ft9ygEE8bsOV6ZSAeTA70oW0ULycQHud0-_pb">
+  <a href="https://music.youtube.com/watch?v=9Jvx_O6P-ko">
+    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - 365&7(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 끝 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 365&7 ]</b>
+  included in <b>[ Family Business ]</b>
   
   <br />
   <br />
-  06/08/2021 14:08 Playing on YTMusic
+  06/08/2021 14:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
