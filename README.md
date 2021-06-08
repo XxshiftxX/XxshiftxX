@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_nHCmGQGfgI">
-    <img width="300" src="https://lh3.googleusercontent.com/K5qvuzstaqGez2xLKEQqjoGnt-AXLpVyjyhSOVpw2jZGqgMyQJiA_cz6UYNs-Z68fukWNvvO2n99oSc">
+  <a href="https://music.youtube.com/watch?v=7t-iZc3Psvw">
+    <img width="300" src="https://lh3.googleusercontent.com/s4UFG4c2mZLNQnmeGNINibpbTMkkmYeeXFdHnUtR0RD-wYAy2WifXKTWhqwpMqDBcE8CeGweiKCydO4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스키니 브라운, 제이씨 유카, TOIL - 2020 Let's Go(피처링: M1NU, HOON)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 진인사대천명</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Tocca Brown : Highteen Rockstars ]</b>
+  included in <b>[ 진인사대천명 ]</b>
   
   <br />
   <br />
-  06/08/2021 10:52 Playing on YTMusic
+  06/08/2021 10:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
