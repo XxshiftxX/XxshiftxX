@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yUnyZQYwGAc">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/watch?v=ccEXonZ-XtI">
+    <img width="300" src="https://lh3.googleusercontent.com/X4LCLRS0OEIWLl8B-9uDZIbRGscYSkYmeMGAFrI2TLrjQRqNWofckgAbT2HaHUWWi76wlCx0SQmiEic">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kang Seo Bin (YUNG CHENS) , Trade L , Park Gang Bag (Baegie) , D.Ark - BACKPACK (Prod. by Way Ched)(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
+  included in <b>[ 고등래퍼4 - 팀대항:단체전 ]</b>
   
   <br />
   <br />
-  06/09/2021 15:37 Playing on YTMusic
+  06/09/2021 15:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
