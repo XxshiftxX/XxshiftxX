@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCO5IQ70V7l-XpHW40HwaGsw">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwng5E7bKaRtgiB-yXGfsockCQ6SV68ltuLZ6Ub_U=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
+    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SZA - Love Galore (Official Video) ft. Travis Scott</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(피처링: Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ RIDERS ]</b>
   
   <br />
   <br />
-  06/09/2021 13:54 Playing on YouTube
+  06/09/2021 14:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
