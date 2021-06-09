@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Zjzjtbos8N4">
-    <img width="300" src="https://lh3.googleusercontent.com/MQWvU5t-SWFEj_i-pCJczB3jJ8uLB50cBxDn1sxTa2trR6SnUkdyKsOuQMoeLDwHaqDVNqXCwVaptNxeaQ">
+  <a href="https://music.youtube.com/watch?v=50PszJgTQ1c">
+    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>D.Ark - Do My Best (Prod. Way Ched)(피처링: Jessi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - 네비(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고등래퍼4 Final ]</b>
+  included in <b>[ Berry Loves My Mood ]</b>
   
   <br />
   <br />
-  06/09/2021 15:13 Playing on YTMusic
+  06/09/2021 15:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
