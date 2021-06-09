@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dI3GK5wMZzU">
-    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
+  <a href="https://www.youtube.com/channel/UCO5IQ70V7l-XpHW40HwaGsw">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwng5E7bKaRtgiB-yXGfsockCQ6SV68ltuLZ6Ub_U=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Misfits(피처링: MELOH, Kid Wine)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SZA - Love Galore (Official Video) ft. Travis Scott</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Berry Loves My Mood ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  06/08/2021 14:57 Playing on YTMusic
+  06/09/2021 13:54 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
