@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ccEXonZ-XtI">
-    <img width="300" src="https://lh3.googleusercontent.com/X4LCLRS0OEIWLl8B-9uDZIbRGscYSkYmeMGAFrI2TLrjQRqNWofckgAbT2HaHUWWi76wlCx0SQmiEic">
+  <a href="https://music.youtube.com/watch?v=PjLMkI9lt2c">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kang Seo Bin (YUNG CHENS) , Trade L , Park Gang Bag (Baegie) , D.Ark - BACKPACK (Prod. by Way Ched)(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(피처링: 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고등래퍼4 - 팀대항:단체전 ]</b>
+  included in <b>[ Show Me the Money 9 Final ]</b>
   
   <br />
   <br />
-  06/09/2021 15:42 Playing on YTMusic
+  06/09/2021 15:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
