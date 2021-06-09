@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/watch?v=eRfUoZPeFHs">
+    <img width="300" src="https://lh3.googleusercontent.com/x7INWwbHjPS-DVLCOC-8VKdTR5ABpt-rmI1HGjgo-IznTAAQ_HjxuFicntKfQK6dYqc-0OVIVuNV0EDY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - JOKE!(피처링: 사이먼 도미닉, 씨잼(C Jamm))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gettin Money Moment ]</b>
+  included in <b>[ PEOPLE ]</b>
   
   <br />
   <br />
-  06/09/2021 15:51 Playing on YTMusic
+  06/09/2021 15:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
