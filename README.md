@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eRfUoZPeFHs">
-    <img width="300" src="https://lh3.googleusercontent.com/x7INWwbHjPS-DVLCOC-8VKdTR5ABpt-rmI1HGjgo-IznTAAQ_HjxuFicntKfQK6dYqc-0OVIVuNV0EDY">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - JOKE!(피처링: 사이먼 도미닉, 씨잼(C Jamm))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(피처링: nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PEOPLE ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  06/09/2021 15:54 Playing on YTMusic
+  06/09/2021 16:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
