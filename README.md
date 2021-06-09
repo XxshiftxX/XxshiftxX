@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
-    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
+  <a href="https://music.youtube.com/watch?v=ZK3rg-k6J6U">
+    <img width="300" src="https://lh3.googleusercontent.com/vC68Vv4n8vDkAciBQac3Xt6T1uZB4yHKP1TCaVqbAGexT_ts4V-k7BZkQgxU2f9KAXDz0YGj-MvqqQra">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(피처링: Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - Dear mom</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RIDERS ]</b>
+  included in <b>[ B.F.A.M(Brother from another mom) ]</b>
   
   <br />
   <br />
-  06/09/2021 14:46 Playing on YTMusic
+  06/09/2021 14:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
