@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9CUVDHZjhps">
-    <img width="300" src="https://lh3.googleusercontent.com/5qe_JAj8gVu4h9tqKPoSTz0u8NhbI-B-871uuuk5CKKtvbJCwnk_wwAId43D0OEa0lwvb1VOk354I7UhTw">
+  <a href="https://music.youtube.com/watch?v=vmwzKDv71as">
+    <img width="300" src="https://lh3.googleusercontent.com/0hQ0JXGBTEfhPZobmIuE0q-58fpPP1UhO6ORI5AJIIrxNsrJDA3ZHg1d-Ds5d4N2IbXUdV703zuVq8CF">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Nhato - Gekka (Original Mix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lapix - Core Signal(피처링: Kanata.N)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Rinne EP ]</b>
+  included in <b>[ Core Signal ]</b>
   
   <br />
   <br />
-  06/10/2021 14:28 Playing on YTMusic
+  06/10/2021 14:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
