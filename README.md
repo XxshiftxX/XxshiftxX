@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qMCYw3lSYhQ">
-    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
+  <a href="https://music.youtube.com/watch?v=oTLJcv50pT4">
+    <img width="300" src="https://lh3.googleusercontent.com/zu7n5iX6CP-smiXpqa6fnxS0U4m5xUEyfxlWLAYKRqfe3lthDd-rw8qysFpmcnhdqIwbbfIVwrXuNrl2">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - NIGHTMARE CITY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>siqlo - Deep in sea</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Blackmagik Blazing ]</b>
+  included in <b>[ PSY DUBSTEP XPERIA 01 ]</b>
   
   <br />
   <br />
-  06/10/2021 14:09 Playing on YTMusic
+  06/10/2021 14:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
