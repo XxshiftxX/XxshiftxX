@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fi3OIKRc5h0">
-    <img width="300" src="https://lh3.googleusercontent.com/qjYvI5hhvvTssgm3cb3BQ9js79w4t5xBb-phcZCBv7neqs0GUl27XX7NzPUuIW48BgbhvwHquc1FtlbRJA">
+  <a href="https://music.youtube.com/watch?v=uF_EOiMuMho">
+    <img width="300" src="https://lh3.googleusercontent.com/tS97J6RtGEErvzY-W6F4xromZG2eChY0-gUrVgS32lbeJfSpNlanZWEB4loNVbK8-xCumFvzYQaW3ISj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>게티 - FLVSH OUT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>토파조라이트 - Ultrasonic Anthem (Kobaryo's FTN-Remix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ FLVSH ØUT ]</b>
+  included in <b>[ The Best of tpz 2 the Best!!! ]</b>
   
   <br />
   <br />
-  06/10/2021 17:03 Playing on YTMusic
+  06/10/2021 17:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
