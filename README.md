@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=oTLJcv50pT4">
-    <img width="300" src="https://lh3.googleusercontent.com/zu7n5iX6CP-smiXpqa6fnxS0U4m5xUEyfxlWLAYKRqfe3lthDd-rw8qysFpmcnhdqIwbbfIVwrXuNrl2">
+  <a href="https://music.youtube.com/watch?v=ZtqdCbC1VVc">
+    <img width="300" src="https://lh3.googleusercontent.com/YkujMB2qZSG4Y_z0Ky9S6wsCmaeZg5h08XbohN9ni7jVRq_oLJjUfQDBc_dUq9hBJ_kuWE9cns_F4wA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>siqlo - Deep in sea</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nanahira - Petals</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PSY DUBSTEP XPERIA 01 ]</b>
+  included in <b>[ Secretale ]</b>
   
   <br />
   <br />
-  06/10/2021 14:16 Playing on YTMusic
+  06/10/2021 14:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
