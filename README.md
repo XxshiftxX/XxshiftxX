@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uF_EOiMuMho">
-    <img width="300" src="https://lh3.googleusercontent.com/tS97J6RtGEErvzY-W6F4xromZG2eChY0-gUrVgS32lbeJfSpNlanZWEB4loNVbK8-xCumFvzYQaW3ISj">
+  <a href="https://music.youtube.com/watch?v=5jJU-pLjdzc">
+    <img width="300" src="https://lh3.googleusercontent.com/Damg11FsGi3Bugbvsh46iRxA6ewM9JDY4G6zoe7laOzCr1MzZnN-o3PCbF8AOeTv733-eaLgY44ac5TG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>토파조라이트 - Ultrasonic Anthem (Kobaryo's FTN-Remix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>사이 - Halcyon</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Best of tpz 2 the Best!!! ]</b>
+  included in <b>[ Parousia ]</b>
   
   <br />
   <br />
-  06/10/2021 17:07 Playing on YTMusic
+  06/10/2021 17:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
