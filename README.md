@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZtqdCbC1VVc">
-    <img width="300" src="https://lh3.googleusercontent.com/YkujMB2qZSG4Y_z0Ky9S6wsCmaeZg5h08XbohN9ni7jVRq_oLJjUfQDBc_dUq9hBJ_kuWE9cns_F4wA">
+  <a href="https://music.youtube.com/watch?v=9CUVDHZjhps">
+    <img width="300" src="https://lh3.googleusercontent.com/5qe_JAj8gVu4h9tqKPoSTz0u8NhbI-B-871uuuk5CKKtvbJCwnk_wwAId43D0OEa0lwvb1VOk354I7UhTw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Nanahira - Petals</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nhato - Gekka (Original Mix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Secretale ]</b>
+  included in <b>[ Rinne EP ]</b>
   
   <br />
   <br />
-  06/10/2021 14:22 Playing on YTMusic
+  06/10/2021 14:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
