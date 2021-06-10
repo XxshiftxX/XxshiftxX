@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BE05mKyjehg">
-    <img width="300" src="https://lh3.googleusercontent.com/z_lrxgzmfh4aqBzFpdWXtmD8frd63tXShAP5SZDQcC74oG1LL3jQN13u5VthohKvgU7lnjWJiqRDm3QtAQ">
+  <a href="https://music.youtube.com/watch?v=kQZDaNxcAgo">
+    <img width="300" src="https://lh3.googleusercontent.com/_GDrr_qpoBnI6rGOEH73-HSOOV6oOEtGr3kGMEXyuBGpslKp1TfgIla8gtv-ZDbMneEO4ssZT-5gaePm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>카메리아 - SECRET BOSS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>모리모리아츠시 - PUPA</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Blackmagik Blazing ]</b>
+  included in <b>[ Time Capsule ]</b>
   
   <br />
   <br />
-  06/10/2021 16:56 Playing on YTMusic
+  06/10/2021 17:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
