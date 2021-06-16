@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qALVCXbYeYE">
-    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
+  <a href="https://music.youtube.com/watch?v=SnuJ-xHCORI">
+    <img width="300" src="https://lh3.googleusercontent.com/xCFxD60MSpFFmvsBXIRCny6b187TQJWC8_v2Z_d3kkgUCY9FYzr2ChEOnnKWPh4iUkpvDmdhu5Soj0Spig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Homies - 300(prod. Cashbanger)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - 곡예사 Remix(피처링: 마이노스, 식보이(Sikboy), 올티(Olltii), 브라운티거)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ghetto Superstars ]</b>
+  included in <b>[ 암순응 ]</b>
   
   <br />
   <br />
-  06/16/2021 16:35 Playing on YTMusic
+  06/16/2021 16:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
