@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_Gfil7LM4a0">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=VLUQBp5eAdM">
+    <img width="300" src="https://lh3.googleusercontent.com/KjwRQEPhdOUFZ3gmjujsP0WLYLtyxB2ARxNggjP9bX2Ft9ygEE8bsOV6ZSAeTA70oW0ULycQHud0-_pb">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 루이비똥 허리 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - 365&7(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ 365&7 ]</b>
   
   <br />
   <br />
-  06/16/2021 14:30 Playing on YTMusic
+  06/16/2021 14:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
