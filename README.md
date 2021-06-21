@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZOner0e0Owo">
-    <img width="300" src="https://lh3.googleusercontent.com/eW8G5ASsDUuAF7IlbbcYnGXZfOl2QESHeBxC2rAUbF0R_y8H3mosuODyCG6TFIyfo2OUticrYQry1Wzo1w">
+  <a href="https://music.youtube.com/watch?v=ht5DtmEyZiY">
+    <img width="300" src="https://lh3.googleusercontent.com/EN6MppEhywxNeUjcI_39OJWyrGZzlfh0I6b-cmvRb3oJ_ZxeLqhjPwc7_z0AD6Zj9lsBREUoB7DnDhYO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HYOLYN 및 창모 - BLUE MOON</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - 그의 바다</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLUE MOON ]</b>
+  included in <b>[ Bye bye my blue ]</b>
   
   <br />
   <br />
-  06/21/2021 11:11 Playing on YTMusic
+  06/21/2021 11:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
