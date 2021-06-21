@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ht5DtmEyZiY">
-    <img width="300" src="https://lh3.googleusercontent.com/EN6MppEhywxNeUjcI_39OJWyrGZzlfh0I6b-cmvRb3oJ_ZxeLqhjPwc7_z0AD6Zj9lsBREUoB7DnDhYO">
+  <a href="https://music.youtube.com/watch?v=uVuhV1VVeEI">
+    <img width="300" src="https://lh3.googleusercontent.com/AcD9yo3kDH9MdGbYZGgsSDZXSGgQs2uwN_JppINReN-aZEtQcry3PfLkYqJvxXL1srISjvpWNwl3aAE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - 그의 바다</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>태연(TAEYEON) - Happy</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bye bye my blue ]</b>
+  included in <b>[ Happy ]</b>
   
   <br />
   <br />
-  06/21/2021 11:15 Playing on YTMusic
+  06/21/2021 14:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
