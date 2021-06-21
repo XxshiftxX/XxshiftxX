@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bJ-B2BNdEFs">
-    <img width="300" src="https://lh3.googleusercontent.com/zCrVutTw1pDh1rRVrAzpW2gRfM8TIu0j4B7Ds1df5d3gf2MK4OwHEcuPC5KOWOHObYFdZTNf5rY9eJo">
+  <a href="https://music.youtube.com/watch?v=m8CyyxWgNd8">
+    <img width="300" src="https://lh3.googleusercontent.com/lmbgcqGRdQLWqjyPgk7239RFd7bB2CRxf4JpS4ndFkZZzcVt1Ia6FHs6Kd4mbWwZQx6DLwHJVDRz3UrZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Red Velvet - Ice Cream Cake</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TWICE - Alcohol-Free</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ice Cream Cake ]</b>
+  included in <b>[ Taste of Love ]</b>
   
   <br />
   <br />
-  06/21/2021 14:47 Playing on YTMusic
+  06/21/2021 14:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
