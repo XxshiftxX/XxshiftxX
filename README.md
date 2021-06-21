@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bX8t_fTzSLI">
-    <img width="300" src="https://lh3.googleusercontent.com/whX_ZBD7gcOaWvWhDSSVAg4wEeUpIgwNeDRddO3VOKPg22v5XcYSJUtCINv0l__8SVny5Bxolw3z7G-2">
+  <a href="https://music.youtube.com/watch?v=EMFOfCrXbi4">
+    <img width="300" src="https://lh3.googleusercontent.com/vk9IREQHLE5t-TGtutnL4tkAtVT3zPhESLiNpHYCVdngAnEF6MeimK_9pgJ4X-YRNWrFH2Su-cK6ek3t5A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>현아(HyunA) - Bubble Pop!</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Red Velvet - Rookie</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bubble Pop! ]</b>
+  included in <b>[ Rookie ]</b>
   
   <br />
   <br />
-  06/21/2021 15:13 Playing on YTMusic
+  06/21/2021 16:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
