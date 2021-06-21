@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LtsJTnP1Qwk">
-    <img width="300" src="https://lh3.googleusercontent.com/w5mfQM3P-E91ob86_6PwbhjfdtSRQiDGplV3TiGPtqAIEv_eJ6dRPyL1d-cnOzf0W53GAe_WAfJYrC1K">
+  <a href="https://music.youtube.com/watch?v=bJ-B2BNdEFs">
+    <img width="300" src="https://lh3.googleusercontent.com/zCrVutTw1pDh1rRVrAzpW2gRfM8TIu0j4B7Ds1df5d3gf2MK4OwHEcuPC5KOWOHObYFdZTNf5rY9eJo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Weeekly(위클리) - 텐션업</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Red Velvet - Ice Cream Cake</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 텐션업 ]</b>
+  included in <b>[ Ice Cream Cake ]</b>
   
   <br />
   <br />
-  06/21/2021 14:44 Playing on YTMusic
+  06/21/2021 14:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
