@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m8CyyxWgNd8">
-    <img width="300" src="https://lh3.googleusercontent.com/lmbgcqGRdQLWqjyPgk7239RFd7bB2CRxf4JpS4ndFkZZzcVt1Ia6FHs6Kd4mbWwZQx6DLwHJVDRz3UrZ">
+  <a href="https://music.youtube.com/watch?v=bAAoSRKykUA">
+    <img width="300" src="https://lh3.googleusercontent.com/b3xocxME0Mk8DoUFPAfZDBcLgNBuG7OCR4c-qujtY17B2qn5E8jDvNfEQAb8nyCYM75pXvtVUOl-nD55Cg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TWICE - Alcohol-Free</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SURAN - Surfin'</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Taste of Love ]</b>
+  included in <b>[ Surfin' ]</b>
   
   <br />
   <br />
-  06/21/2021 14:50 Playing on YTMusic
+  06/21/2021 14:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
