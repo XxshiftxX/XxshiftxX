@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FByscJG_xVU">
-    <img width="300" src="https://lh3.googleusercontent.com/QvJiZmDCsksKFBtBCSFzp43I7rPNvmk_NgPhdUpNNJ2d51p8Mo6gc24Bv1GtAOfc-h3EdV_uNazdy8Zd">
+  <a href="https://music.youtube.com/watch?v=fW1Cgv63naI">
+    <img width="300" src="https://lh3.googleusercontent.com/5VH6oY8UZgRU6uNDGPOcq3t4tG8t3GsEOA9J36nLBlMX145OmFCSDnuRRqwKXj1DDuNqKrSDREICKKWT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>소녀시대 - PARTY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TWICE(트와이스) - Dance the Night Away</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PARTY ]</b>
+  included in <b>[ Summer Nights ]</b>
   
   <br />
   <br />
-  06/21/2021 14:35 Playing on YTMusic
+  06/21/2021 14:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
