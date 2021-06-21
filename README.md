@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=o6k2pS-agVI">
-    <img width="300" src="https://lh3.googleusercontent.com/Sd7HoSb76Z-H-bkyz31mH6YWqA14v_b2of4i71O6FJAsZpCmykstYYVwcIdJeQR4LTL4odvDVYkh1My7">
+  <a href="https://music.youtube.com/watch?v=8JXc4idKS_c">
+    <img width="300" src="https://lh3.googleusercontent.com/k7XKTGhcPukWgnh4wIYC3kPKAT4iRww2jXl1ES9zq-0OvRCxeOz1g2dBgdT2Qo3lQZnDb3FuwSbFWRw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ITZY - 마.피.아. In the morning</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHUNGHA - Roller Coaster</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GUESS WHO ]</b>
+  included in <b>[ Offset ]</b>
   
   <br />
   <br />
-  06/21/2021 15:05 Playing on YTMusic
+  06/21/2021 15:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
