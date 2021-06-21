@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DMcRIihAq9Q">
-    <img width="300" src="https://lh3.googleusercontent.com/RE-3qVyOzjU1JuzuKHx0Knx5hVdaJwgpHZUVqJFSlvjX8Ygc1o3mX2R1Z7QTsjgs5Lr24i5RYq8qEDw">
+  <a href="https://music.youtube.com/watch?v=ZOner0e0Owo">
+    <img width="300" src="https://lh3.googleusercontent.com/eW8G5ASsDUuAF7IlbbcYnGXZfOl2QESHeBxC2rAUbF0R_y8H3mosuODyCG6TFIyfo2OUticrYQry1Wzo1w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>볼빨간사춘기 - 여행</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HYOLYN 및 창모 - BLUE MOON</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Red Diary, Page 2 ]</b>
+  included in <b>[ BLUE MOON ]</b>
   
   <br />
   <br />
-  06/21/2021 11:09 Playing on YTMusic
+  06/21/2021 11:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
