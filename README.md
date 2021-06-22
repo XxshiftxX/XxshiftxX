@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EMFOfCrXbi4">
-    <img width="300" src="https://lh3.googleusercontent.com/vk9IREQHLE5t-TGtutnL4tkAtVT3zPhESLiNpHYCVdngAnEF6MeimK_9pgJ4X-YRNWrFH2Su-cK6ek3t5A">
+  <a href="https://www.youtube.com/channel/UCatWJABafruCztNdBixj7xg">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngwSasi88v4lvisqfjfuvs5TK-mcq5O5nWLOJBqVg=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Red Velvet - Rookie</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YNL [윤일] - 에미넴 GODZILLA 역대급 빠른랩 커버!!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Rookie ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  06/21/2021 16:00 Playing on YTMusic
+  06/22/2021 18:02 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
