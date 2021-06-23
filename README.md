@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4zlALOZ-Y_A">
+  <a href="https://music.youtube.com/watch?v=7R7dSttciBY">
     <img width="300" src="https://lh3.googleusercontent.com/y1rk_ZwSkQwI3bpkOfDgNQGKbXCpNVixpFIPRg5YSmoAwLcB_uiKCUPxF0w2y0DiPYoPqh0mOnKUg9mT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Futuristic Swaver - Awful Things</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Futuristic Swaver - 2020 P. DIDDY</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ YFGOD (Deluxe) ]</b>
   
   <br />
   <br />
-  06/23/2021 11:04 Playing on YTMusic
+  06/23/2021 11:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
