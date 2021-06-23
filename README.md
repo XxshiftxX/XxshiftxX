@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fD1ZN5WixPI">
+  <a href="https://music.youtube.com/watch?v=HxoIEhgjeqA">
     <img width="300" src="https://lh3.googleusercontent.com/y1rk_ZwSkQwI3bpkOfDgNQGKbXCpNVixpFIPRg5YSmoAwLcB_uiKCUPxF0w2y0DiPYoPqh0mOnKUg9mT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Futuristic Swaver - Different(피처링: Effie, Yuzion)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Futuristic Swaver - Computer(피처링: Yungster Jack)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ YFGOD (Deluxe) ]</b>
   
   <br />
   <br />
-  06/23/2021 11:40 Playing on YTMusic
+  06/23/2021 11:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
