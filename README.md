@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCatWJABafruCztNdBixj7xg">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AAUvwngwSasi88v4lvisqfjfuvs5TK-mcq5O5nWLOJBqVg=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=eKZm7aXAGAc">
+    <img width="300" src="https://lh3.googleusercontent.com/lc6651IgcNpbNlPXlEtNh5I4z06bxAjd8mgtKM2qedFoXlF9_fR1zPkkYLmAMA9KzFTSBNBtAURRB03W">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YNL [윤일] - EMINEM - RAP GOD COVER, HARDER THAN GODZILLA?!</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>양홍원 - 실</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ 오보에 ]</b>
   
   <br />
   <br />
-  06/22/2021 18:07 Playing on YouTube
+  06/23/2021 10:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
