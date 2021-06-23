@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yQnLqQff-bQ">
+  <a href="https://music.youtube.com/watch?v=6OaD3K9v5dA">
     <img width="300" src="https://lh3.googleusercontent.com/y1rk_ZwSkQwI3bpkOfDgNQGKbXCpNVixpFIPRg5YSmoAwLcB_uiKCUPxF0w2y0DiPYoPqh0mOnKUg9mT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Futuristic Swaver - 빙빙</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Futuristic Swaver - Should I Do Care?(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ YFGOD (Deluxe) ]</b>
   
   <br />
   <br />
-  06/23/2021 10:39 Playing on YTMusic
+  06/23/2021 10:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
