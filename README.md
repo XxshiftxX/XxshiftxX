@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=l55r4bjX9ro">
-    <img width="300" src="https://lh3.googleusercontent.com/X7dV7btCjiCjfTpYxSorAs_RAryP4R_gxtHuLb_F6uRwha6Pc-Pzy_7TJBrMWebBTIyRkBrv6ZQ_V8Ef">
+  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLQu55mhNGbgy2h2veknVCwOceYcfUlmuyRBpooncg=s48-c-k-c0x00ffffff-no-rj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>펀치넬로(punchnello) - fine!(피처링: 키드밀리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - John Cena (feat. Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ fine! ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  06/23/2021 11:47 Playing on YTMusic
+  06/24/2021 14:04 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
