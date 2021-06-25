@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I-MSIqTVi6s">
-    <img width="300" src="https://lh3.googleusercontent.com/R8Fsd-4l0DMzHNP7YnzG09INuSxzHC3flxyq1ciYHXBnLdmx-b_R4gRSGI_VAr4g7nH-s4WtunSQAkg">
+  <a href="https://music.youtube.com/watch?v=qALVCXbYeYE">
+    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE, Uneducated Kid, Chin, CK - 사임쌓임</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Homies - 300(prod. Cashbanger)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Money Team ]</b>
+  included in <b>[ Ghetto Superstars ]</b>
   
   <br />
   <br />
-  06/25/2021 16:39 Playing on YTMusic
+  06/25/2021 17:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
