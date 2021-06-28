@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
-    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
+  <a href="https://music.youtube.com/watch?v=LBHVOiw274A">
+    <img width="300" src="https://lh3.googleusercontent.com/LdF89sQ57UQSU4_V8U5csBwLHKt_uWhI2lffcdpxbhmAuZBlFhNJdPptHBnLyBNICieGpYNYasEpO4s64A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(피처링: 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>빈지노(Beenzino) - Fashion Hoarder(피처링: zene the zilla)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
+  included in <b>[ Fashion Hoarder ]</b>
   
   <br />
   <br />
-  06/28/2021 20:10 Playing on YTMusic
+  06/28/2021 20:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
