@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SwgWFgdYyYk">
-    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
+  <a href="https://music.youtube.com/watch?v=_DSDiMolSpA">
+    <img width="300" src="https://lh3.googleusercontent.com/SoME0iiMszNLUPxP451EfAp1u710rXeI3OEibsce6OSAIxF71LDEHTsYxdUMVpDwyhfObmgleaoUmhzjIg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA - BENTLEY 1.5</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>365LIT, 토이고 (toigo) - 다리 밑에서 주워온 놈(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 살아숨셔 3 ]</b>
+  included in <b>[ UNDER SEONGSU BRIDGE ]</b>
   
   <br />
   <br />
-  06/28/2021 20:01 Playing on YTMusic
+  06/28/2021 20:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
