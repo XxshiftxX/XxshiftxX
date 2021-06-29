@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VLUQBp5eAdM">
-    <img width="300" src="https://lh3.googleusercontent.com/KjwRQEPhdOUFZ3gmjujsP0WLYLtyxB2ARxNggjP9bX2Ft9ygEE8bsOV6ZSAeTA70oW0ULycQHud0-_pb">
+  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
+    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - 365&7(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 365&7 ]</b>
+  included in <b>[ Gettin Money Moment ]</b>
   
   <br />
   <br />
-  06/29/2021 16:02 Playing on YTMusic
+  06/29/2021 16:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
