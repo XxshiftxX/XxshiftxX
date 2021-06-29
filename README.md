@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yUnyZQYwGAc">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/watch?v=6QLIQD99J-k">
+    <img width="300" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - ANYMORE(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
+  included in <b>[ X ]</b>
   
   <br />
   <br />
-  06/29/2021 16:25 Playing on YTMusic
+  06/29/2021 16:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
