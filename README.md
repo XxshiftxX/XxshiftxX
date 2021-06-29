@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zztIPi_h6XY">
-    <img width="300" src="https://lh3.googleusercontent.com/bS66mp-3rwukRIVoXaRQx3-NWOJZNuf7IIL5l2AH5eXOiAZ_FefKj68ti4gWaul6yELzHI9mXZd9VnskFg">
+  <a href="https://music.youtube.com/watch?v=FQEpqOkYric">
+    <img width="300" src="https://lh3.googleusercontent.com/gG96dZV3JAULCy1ZHXB-a3xb5ItXUwvISRTP9zedNydEhUuCaR8AaApVFg6WC28kjK5Vc7SVc88QVvrA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 GooseBumps - DON'T CARE(피처링: Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미노이 - Dingo X meenoi - DOOL</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PRISON BREAK ]</b>
+  included in <b>[ Dingo X meenoi - DOOL ]</b>
   
   <br />
   <br />
-  06/29/2021 17:15 Playing on YTMusic
+  06/29/2021 17:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
