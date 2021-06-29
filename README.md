@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yFcxPvkMBl8">
-    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
+  <a href="https://music.youtube.com/watch?v=9Jvx_O6P-ko">
+    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 존시나(피처링: Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 끝 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 살아숨셔 3 ]</b>
+  included in <b>[ Family Business ]</b>
   
   <br />
   <br />
-  06/29/2021 15:30 Playing on YTMusic
+  06/29/2021 15:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
