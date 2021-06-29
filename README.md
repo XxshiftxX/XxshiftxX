@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ji8raPOfWrY">
-    <img width="300" src="https://lh3.googleusercontent.com/fEQOxczaHZ-1uM1SSG2at3r2ZlK7WmPqPppvFPz2N6kqkalpexbE44c3tBZ66SFCAoyw0kTG3dFkLX5b">
+  <a href="https://music.youtube.com/watch?v=VyVNyaZcRbg">
+    <img width="300" src="https://lh3.googleusercontent.com/5iy5jcU5u3TQCCDqJ-9bIhVUO1_9531q9KUPukZiAtusaROSnLCPufqCI5S6ASLztliMqilGqscinoZe">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND, 릴러말즈(Leellamarz), zene the zilla 및 더 콰이엇(The Quiett) - BITION WAY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>수퍼비 - 24 HOURS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BITION WAY ]</b>
+  included in <b>[ 24 HOURS ]</b>
   
   <br />
   <br />
-  06/29/2021 17:34 Playing on YTMusic
+  06/29/2021 17:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
