@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9Unrl9Yi55s">
-    <img width="300" src="https://lh3.googleusercontent.com/dP_vI0XXlNl3JKI4x-K3KvFhttkKeOA3H9LJ7E5rWzCmXwG5wPZySFYQ7soDeoXx6lckdpiOkTkU6p-L">
+  <a href="https://music.youtube.com/watch?v=-PEwrXZApPI">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>파테코 및 디핵 - OHAYO MY NIGHT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Rose de Penny), Dsel, 가오가이 및 Untell - Win Win(피처링: BewhY(비와이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OHAYO MY NIGHT ]</b>
+  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
   
   <br />
   <br />
-  06/29/2021 16:16 Playing on YTMusic
+  06/29/2021 16:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
