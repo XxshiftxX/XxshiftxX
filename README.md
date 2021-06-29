@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/watch?v=jq58J5vopOo">
+    <img width="300" src="https://lh3.googleusercontent.com/6wtEqdF77OnuxhPHMmp2LZ2OPsyU2xjLd7KmX0DKtZYwLUCJgWSv4ZqP61S0qRAOUJE81McXh63F5D1b_Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Hate You(피처링: 우원재)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gettin Money Moment ]</b>
+  included in <b>[ Hate You (From "Show Me the Money 7, Episode 2") ]</b>
   
   <br />
   <br />
-  06/29/2021 16:05 Playing on YTMusic
+  06/29/2021 16:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
