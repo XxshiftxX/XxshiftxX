@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mY8PWmcUVnQ">
-    <img width="300" src="https://lh3.googleusercontent.com/GJQZ4pMRZOHXEn9gRy9qZM5jjvkNjjbrRelk25zPCtIKRJFnNmgRc2O_y3U9HwUQ4sHtI9kTR3Oyx8ku">
+  <a href="https://music.youtube.com/watch?v=rGVqQVMtaUo">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따, 더 콰이엇(The Quiett), 팔로알토 및 사이먼 도미닉 - 달려</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RUN ]</b>
+  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
   
   <br />
   <br />
-  06/29/2021 15:50 Playing on YTMusic
+  06/29/2021 15:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
