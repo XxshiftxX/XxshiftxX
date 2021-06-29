@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VyVNyaZcRbg">
-    <img width="300" src="https://lh3.googleusercontent.com/5iy5jcU5u3TQCCDqJ-9bIhVUO1_9531q9KUPukZiAtusaROSnLCPufqCI5S6ASLztliMqilGqscinoZe">
+  <a href="https://music.youtube.com/watch?v=TAinDuw4d3E">
+    <img width="300" src="https://lh3.googleusercontent.com/9dE4P-uMQrBf9WnZio_9ZNRiNTh8cwAwTDbbAdshVYILE1OhAb92r6_Xkcdj9_Qi7dINwhFRYaBUa9k">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>수퍼비 - 24 HOURS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jared Brady - Warm(피처링: Tru-Lee)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 24 HOURS ]</b>
+  included in <b>[ Warm (feat. Tru-Lee) ]</b>
   
   <br />
   <br />
-  06/29/2021 17:38 Playing on YTMusic
+  06/29/2021 17:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
