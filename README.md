@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jq58J5vopOo">
-    <img width="300" src="https://lh3.googleusercontent.com/6wtEqdF77OnuxhPHMmp2LZ2OPsyU2xjLd7KmX0DKtZYwLUCJgWSv4ZqP61S0qRAOUJE81McXh63F5D1b_Q">
+  <a href="https://music.youtube.com/watch?v=IabVAAbTIro">
+    <img width="300" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Hate You(피처링: 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI 및 Wonstein - FRIENDS (Prod. by Slom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hate You (From "Show Me the Money 7, Episode 2") ]</b>
+  included in <b>[ FRIENDS ]</b>
   
   <br />
   <br />
-  06/29/2021 16:09 Playing on YTMusic
+  06/29/2021 16:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
