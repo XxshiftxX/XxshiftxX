@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FQEpqOkYric">
-    <img width="300" src="https://lh3.googleusercontent.com/gG96dZV3JAULCy1ZHXB-a3xb5ItXUwvISRTP9zedNydEhUuCaR8AaApVFg6WC28kjK5Vc7SVc88QVvrA">
+  <a href="https://music.youtube.com/watch?v=I-MSIqTVi6s">
+    <img width="300" src="https://lh3.googleusercontent.com/R8Fsd-4l0DMzHNP7YnzG09INuSxzHC3flxyq1ciYHXBnLdmx-b_R4gRSGI_VAr4g7nH-s4WtunSQAkg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미노이 - Dingo X meenoi - DOOL</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE, Uneducated Kid, Chin, CK - 사임쌓임</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X meenoi - DOOL ]</b>
+  included in <b>[ The Money Team ]</b>
   
   <br />
   <br />
-  06/29/2021 17:20 Playing on YTMusic
+  06/29/2021 17:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
