@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Yjqa_8d2j3Q">
-    <img width="300" src="https://lh3.googleusercontent.com/DvLSYw9QioZEgJxwM6d2gOEsHWrLIx_ppmoVDVzs9e-KgPGh2UuNENbVKYH0sl3pGkL2ACVoD0b-Z58W">
+  <a href="https://music.youtube.com/watch?v=2WhHrXon6Bg">
+    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>양승호 - Freedumb</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이영지 Lee Young Ji - GO HIGH</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ School Rapper3 Semi Final ]</b>
+  included in <b>[ School Rapper3 Final ]</b>
   
   <br />
   <br />
-  06/29/2021 17:00 Playing on YTMusic
+  06/29/2021 17:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
