@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CH95g6DCFTo">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=etgNSJzOd5k">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 아하! (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - iii(피처링: 베이식, 키드밀리, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ Show Me the Money 9 Semi Final ]</b>
   
   <br />
   <br />
-  06/29/2021 16:53 Playing on YTMusic
+  06/29/2021 16:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
