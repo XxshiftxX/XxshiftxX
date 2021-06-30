@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IabVAAbTIro">
-    <img width="300" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">
+  <a href="https://music.youtube.com/watch?v=p8jGE1r6IXo">
+    <img width="300" src="https://lh3.googleusercontent.com/yeyy77nReDug52xR9cPzxqVrtXSONp6FSzkazkNF1kkpsIIILiz_BoBBxLJP9iymcXTqmo5oAJBH_qKr">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI 및 Wonstein - FRIENDS (Prod. by Slom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - 이겨(피처링: Leellamarz)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ FRIENDS ]</b>
+  included in <b>[ More Mood ]</b>
   
   <br />
   <br />
-  06/30/2021 10:27 Playing on YTMusic
+  06/30/2021 15:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
