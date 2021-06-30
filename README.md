@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eFLmPiWBC7s">
-    <img width="300" src="https://lh3.googleusercontent.com/yWpDA7aGtmwi03rN8YEo8t4hvfQjbbHYIQiUdQdh9_kk_Tp4Ubw_ya7da-KeXBZc0i_8TG96M8ap83XHPQ">
+  <a href="https://music.youtube.com/watch?v=JovVmrfLCTA">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>킬라그램 - 어디(피처링: DEAN, ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - 어버버버(피처링: Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 6 Ep. 2 ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  06/30/2021 16:25 Playing on YTMusic
+  06/30/2021 16:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
