@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZEMC0BwX3ag">
-    <img width="300" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">
+  <a href="https://music.youtube.com/watch?v=wVQ3MRv99gY">
+    <img width="300" src="https://lh3.googleusercontent.com/hxgUYH3J_VOaLyy9Z9CcOp44O7vcTi4WYVt0MuevtsUi4HAZES9tvHXYVM_N_jduzSSPNVg9hA4rFrqJfg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Selfmade Orange 2(피처링: 창모(CHANGMO), Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이) - h1ghr gang(피처링: pH-1, 박재범(Jay Park))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Rap Legend 2 ]</b>
+  included in <b>[ BOYCOLD ]</b>
   
   <br />
   <br />
-  06/30/2021 16:36 Playing on YTMusic
+  06/30/2021 16:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
