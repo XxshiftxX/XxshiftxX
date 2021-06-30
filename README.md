@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yFcxPvkMBl8">
-    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
+  <a href="https://music.youtube.com/watch?v=R_6GZYsBu30">
+    <img width="300" src="https://lh3.googleusercontent.com/5NjZiDy3KShHY_A0cC1vQeHcBZZZQOu_oJ-ubDAoHUgz6n-NfwbeM8F2Yai6x8gXrKdjkRKepOvzTOU9lw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 존시나(피처링: Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>KIM SEUNG MIN - Chase the Star</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 살아숨셔 3 ]</b>
+  included in <b>[ Chase the Star ]</b>
   
   <br />
   <br />
-  06/30/2021 16:59 Playing on YTMusic
+  06/30/2021 17:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
