@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bO541e4gfYU">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=RklZ_TD6m3s">
+    <img width="300" src="https://lh3.googleusercontent.com/MQWvU5t-SWFEj_i-pCJczB3jJ8uLB50cBxDn1sxTa2trR6SnUkdyKsOuQMoeLDwHaqDVNqXCwVaptNxeaQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 홍길동 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TRADE L - Ooh Wah (Prod. by Way Ched)(피처링: CHANGMO, Wonstein)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ 고등래퍼4 Final ]</b>
   
   <br />
   <br />
-  06/30/2021 17:06 Playing on YTMusic
+  06/30/2021 17:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
