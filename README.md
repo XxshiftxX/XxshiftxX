@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0nkDz1JZ7cA">
-    <img width="300" src="https://lh3.googleusercontent.com/J7j_iDYsKoZK-6K-9u_yPFdchAZ-mmxULra-uaDXGb-ncem8uRP7spoMn31GRmgdsT6jyPt7Iu_xSoVztA">
+  <a href="https://music.youtube.com/watch?v=waO1ooPmKHE">
+    <img width="300" src="https://lh3.googleusercontent.com/g58eZ2S6HpcBSq-MvzpHG7-i9kB8s_W7VFnAtUVx1-JBrOOOFXg89bp6i9F00c6lcBDHe6-5cyinyHmB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 (homieduel) - 상하차 (daily laborer)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RUN ]</b>
+  included in <b>[ Goliath ]</b>
   
   <br />
   <br />
-  06/30/2021 16:05 Playing on YTMusic
+  06/30/2021 16:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
