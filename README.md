@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uvFDPmjz_ds">
-    <img width="300" src="https://lh3.googleusercontent.com/c9XZBi3zJfeRgWl6JholxJikRyWDFkz8QZJDA3rp_kI3Uce7aqRO0ozbPM8KfiqVF0gW_d6XZlHw7ZA">
+  <a href="https://music.youtube.com/watch?v=_Gfil7LM4a0">
+    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BOYCOLD 및 1MILLION - Cruise(피처링: 쿠기)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 루이비똥 허리 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Cruise ]</b>
+  included in <b>[ Family Business ]</b>
   
   <br />
   <br />
-  06/30/2021 15:51 Playing on YTMusic
+  06/30/2021 15:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
