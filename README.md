@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gTtlMp6D3JU">
-    <img width="300" src="https://lh3.googleusercontent.com/Dmx3WnOMrYaX2pxbNnYdZKr6JTsuSyJ-yyqvJErdSdYyyS6mtyNjiFPJhZ0XSkKLAssizUCzq6Xi_j9E">
+  <a href="https://music.youtube.com/watch?v=bxWoi_txmNw">
+    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쌔끈보이즈 (박재범, Don Mills, 로꼬, 넉살) - Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY) ]</b>
+  included in <b>[ Ghetto Kids ]</b>
   
   <br />
   <br />
-  06/30/2021 15:57 Playing on YTMusic
+  06/30/2021 16:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
