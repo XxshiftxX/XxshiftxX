@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CH95g6DCFTo">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=xAQrGnCyFIU">
+    <img width="300" src="https://lh3.googleusercontent.com/mDQU4srEIdCMRMVrDZ_X6OeyK4L1nKcs-Rd8a9CRj-vWKBGdu6K79x29q287xCK5NCf_34sPUWAD5otV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 아하! (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 거지(피처링: 존오버, 윤훼이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ 치명적인 앨범 Ⅲ ]</b>
   
   <br />
   <br />
-  06/30/2021 16:49 Playing on YTMusic
+  06/30/2021 16:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
