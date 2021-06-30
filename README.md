@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qALVCXbYeYE">
-    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
+  <a href="https://music.youtube.com/watch?v=ZEMC0BwX3ag">
+    <img width="300" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Homies - 300(prod. Cashbanger)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Selfmade Orange 2(피처링: 창모(CHANGMO), Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ghetto Superstars ]</b>
+  included in <b>[ Rap Legend 2 ]</b>
   
   <br />
   <br />
-  06/30/2021 16:33 Playing on YTMusic
+  06/30/2021 16:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
