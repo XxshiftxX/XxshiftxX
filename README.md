@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P4gRnBDn3vo">
-    <img width="300" src="https://lh3.googleusercontent.com/4DASBhIRAgCFRte_In6V714gASXB4H8BMXvH-Os0xfNZZqOLwGJXHD3uVyXiGp3JLQNVQg4HUZoBJLY61A">
+  <a href="https://music.youtube.com/watch?v=hq9hcJIzB6w">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 절대 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이, 먼치맨, 쿤디판다 및 머쉬베놈 - VVS(피처링: 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 절대 ]</b>
+  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
   
   <br />
   <br />
-  06/30/2021 16:16 Playing on YTMusic
+  06/30/2021 16:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
