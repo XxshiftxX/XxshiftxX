@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9Unrl9Yi55s">
-    <img width="300" src="https://lh3.googleusercontent.com/dP_vI0XXlNl3JKI4x-K3KvFhttkKeOA3H9LJ7E5rWzCmXwG5wPZySFYQ7soDeoXx6lckdpiOkTkU6p-L">
+  <a href="https://music.youtube.com/watch?v=PjLMkI9lt2c">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>파테코 및 디핵 - OHAYO MY NIGHT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(피처링: 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OHAYO MY NIGHT ]</b>
+  included in <b>[ Show Me the Money 9 Final ]</b>
   
   <br />
   <br />
-  07/01/2021 14:57 Playing on YTMusic
+  07/01/2021 15:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
