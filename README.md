@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bbl3qPS9x4o">
-    <img width="300" src="https://lh3.googleusercontent.com/u1-D0Add6pNt41wb36bsbefo6WMWCpiWW-du918-KW1vO7r4A1k8RpgHecgGz87BxqmiRnkdMzQ4gItXcw">
+  <a href="https://www.youtube.com/channel/UCkWQFXmGKcsMNl4cdtK_9iQ">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLSJeSQhXuFSsly7sCC-gbY4dl9_N27xPDQRQVs5OQ=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌 Remix(피처링: UNEDUCATED KID, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Hanul Lee이한울 - 오늘 밤엔 (Feat. 크루셜스타) [Teaser]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 사이렌 (Remix) ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  06/30/2021 17:14 Playing on YTMusic
+  07/01/2021 13:06 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
