@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
-    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
+  <a href="https://music.youtube.com/watch?v=2WhHrXon6Bg">
+    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(피처링: 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이영지 Lee Young Ji - GO HIGH</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
+  included in <b>[ School Rapper3 Final ]</b>
   
   <br />
   <br />
-  07/01/2021 14:32 Playing on YTMusic
+  07/01/2021 14:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
