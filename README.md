@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2WhHrXon6Bg">
-    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
+  <a href="https://music.youtube.com/watch?v=Qvh9vLfWTR8">
+    <img width="300" src="https://lh3.googleusercontent.com/bEOpWIe3QXhvfKlDJsp6knqoKTxphQAoAEZxqE6ym0tcrfh9AhJ49R9qQB6tDik9nZTci3aKd1u5NF1R">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>이영지 Lee Young Ji - GO HIGH</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - if i die(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ School Rapper3 Final ]</b>
+  included in <b>[ Fix you ]</b>
   
   <br />
   <br />
-  07/01/2021 14:35 Playing on YTMusic
+  07/01/2021 14:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
