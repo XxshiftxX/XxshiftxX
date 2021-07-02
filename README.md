@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCkWQFXmGKcsMNl4cdtK_9iQ">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLSJeSQhXuFSsly7sCC-gbY4dl9_N27xPDQRQVs5OQ=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLQu55mhNGbgy2h2veknVCwOceYcfUlmuyRBpooncg=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Hanul Lee이한울 - EZ (feat. 손참치) Dir. by @neponay</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 올 인 ㅋ</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  07/02/2021 11:16 Playing on YouTube
+  07/02/2021 11:33 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
