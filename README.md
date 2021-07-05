@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DCe4_5pkwxM">
-    <img width="300" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">
+  <a href="https://music.youtube.com/watch?v=xmXHQUAWLA8">
+    <img width="300" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - BLAME MY CIRCLE(피처링: 저스디스, 오왼(Owen))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - 호랑이소굴(피처링: Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ X ]</b>
+  included in <b>[ 호랑이소굴 ]</b>
   
   <br />
   <br />
-  07/05/2021 11:39 Playing on YTMusic
+  07/05/2021 11:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
