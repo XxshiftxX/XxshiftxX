@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLQu55mhNGbgy2h2veknVCwOceYcfUlmuyRBpooncg=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=uJ388WQ8Mhs">
+    <img width="300" src="https://lh3.googleusercontent.com/MELkl81X94DK9-lFhI4Xgz2VdJZuwXi9erwQswPnA-KC2_cZxLtbtimhdlyYmgaCsX8yAr0oZSlpp-57">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 돈이 사라져 볼게 얍!</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Omega Sapien - POP THE TAG</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ POP THE TAG ]</b>
   
   <br />
   <br />
-  07/06/2021 13:59 Playing on YouTube
+  07/06/2021 15:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
