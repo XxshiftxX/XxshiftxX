@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FwNlJwYjNgY">
-    <img width="300" src="https://lh3.googleusercontent.com/QLqZPL_XzdZbF5AGMflXj1uaUofnA2j8RzE1NjQ2BJXdEm6lksRk_KeQc194VzkxtU4QnrcqzelFB7eg5A">
+  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLQu55mhNGbgy2h2veknVCwOceYcfUlmuyRBpooncg=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - 5 Gawd</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 돈이 사라져 볼게 얍!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ How to be A HappyBoy ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  07/05/2021 11:49 Playing on YTMusic
+  07/06/2021 13:59 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
