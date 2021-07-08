@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UX9oWXFCzLI">
-    <img width="300" src="https://lh3.googleusercontent.com/LEyCLgAsFx99t1DUrmHT5z7A45iqa8x4xff2pCEzdnfNW1n8BkQYgx1GHDp_B4AZSTyxRdr7fMjKPsQ">
+  <a href="https://music.youtube.com/watch?v=f0ina8aQ1Pg">
+    <img width="300" src="https://lh3.googleusercontent.com/jcC_nN8vCVQZhHF9PViqM-cn-wWqVaI2AlDNH-HbNy1frX1cabFOjNr_q0pKjVQ4gwiTNbmvv5fl0ts">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - LOVE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 아름다워</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [L] ]</b>
+  included in <b>[ 돈 벌 시간 2 ]</b>
   
   <br />
   <br />
-  07/08/2021 17:25 Playing on YTMusic
+  07/08/2021 17:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
