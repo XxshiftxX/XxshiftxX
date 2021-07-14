@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TU_CKhr59D8">
-    <img width="300" src="https://lh3.googleusercontent.com/8-JVvhnuYmPTTgsgoyWgZqfRJd3D9IqlF2yUZ_x3dKBC27eL3bUZEMDgVjeHjIfMJ-l01EU6E5QBEpdP">
+  <a href="https://music.youtube.com/watch?v=m8L2OLu6JZo">
+    <img width="300" src="https://lh3.googleusercontent.com/IxWUdU7at6TvGHc0OAvJocszK88uz4RHk3gq4ps7M4DUqraOJoScgt697L-bIkuvk4SI0v0Hka_eJTnN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Tank And The Bangas - Self Care(피처링: Tank And The Bangas, Jaime Woods, Orleans Big)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 멜로디</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Self Care ]</b>
+  included in <b>[ 멜로디 ]</b>
   
   <br />
   <br />
-  07/14/2021 17:50 Playing on YTMusic
+  07/14/2021 17:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
