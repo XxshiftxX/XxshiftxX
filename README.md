@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4IRBsQYY5QY">
-    <img width="300" src="https://lh3.googleusercontent.com/jgsMWqIQmxoS2GqJiSHeA9H5sKIdvoA2uMO4Wi_w7vRMQrWO7g7O4I4-GRfWxOimEq9WuFsElcGxlJNn">
+  <a href="https://music.youtube.com/watch?v=bsgBUM2Mnsw">
+    <img width="300" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Daisy(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO), 해쉬 스완(Hash Swan), ASH ISLAND 및 김효은 - BAND</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Daisy ]</b>
+  included in <b>[ BAND ]</b>
   
   <br />
   <br />
-  07/14/2021 16:52 Playing on YTMusic
+  07/14/2021 16:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
