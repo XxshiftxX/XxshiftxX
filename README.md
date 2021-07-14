@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6KGBMnOxZjs">
-    <img width="300" src="https://lh3.googleusercontent.com/1MSnAGIMFn8Rcm7rZQr84h9VO7EM5U1L9-gntMAPfcYyOJywtlbR0wOEsj7SwjVH0Sw2Hf2hL6vRsjP4TQ">
+  <a href="https://music.youtube.com/watch?v=jKmib7okBdY">
+    <img width="300" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai - 띵 (Prod. By 기리보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X Indigo Music ]</b>
+  included in <b>[ EVERYTHING ]</b>
   
   <br />
   <br />
-  07/14/2021 19:26 Playing on YTMusic
+  07/14/2021 19:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
