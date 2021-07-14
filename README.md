@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m70cmYJOGwo">
-    <img width="300" src="https://lh3.googleusercontent.com/U2cINuLcVYBSZ6HmeWu3W_879C4bD999buOye5KNcbxv0dPr_ROuxl3Hr6MLI_zDQpyLXBcTgcvnWIsa">
+  <a href="https://music.youtube.com/watch?v=vo_6-EvyAJI">
+    <img width="300" src="https://lh3.googleusercontent.com/_6WaIhLeZmxardKmXouaambi73tb1xIbKIUW9mVaH2fmntJRORtXT7dpcEIWc1uWQHmZ9e73FeYcnrk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>루피 및 나플라 - Ex (Alternate Version)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>D.L. Blando - LSD(피처링: KolomB)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ LooFla ]</b>
+  included in <b>[ LSD ]</b>
   
   <br />
   <br />
-  07/14/2021 19:20 Playing on YTMusic
+  07/14/2021 19:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
