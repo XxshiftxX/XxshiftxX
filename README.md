@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Z9aryDRTm0E">
-    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
+  <a href="https://music.youtube.com/watch?v=BjJW8VDR4jU">
+    <img width="300" src="https://lh3.googleusercontent.com/h_yaynKrPH3hT9Pn5iR_wgMKQApj9-QhWB1O2jz3PHu_uSucW0Zwz9uZ7j1ZZ_pZDlDTQz5XgE0UUvde">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - $$(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BewhY(비와이) - My Star</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ "SIKE"! ]</b>
+  included in <b>[ The blind star ]</b>
   
   <br />
   <br />
-  07/14/2021 18:57 Playing on YTMusic
+  07/14/2021 19:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
