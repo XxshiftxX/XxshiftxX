@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YuAPFHwKOhU">
-    <img width="300" src="https://lh3.googleusercontent.com/B9818xpMvQhDLUTN6L75pPCXouHn4aAR-MpOatH6cKQvzkCLWSTKm6DVmpOnjLBk1NeKbtyIs4Bof36_">
+  <a href="https://music.youtube.com/watch?v=5H8Yt46pTXk">
+    <img width="300" src="https://lh3.googleusercontent.com/aJIXEYHs4DOCQSOc71-i1qsfrq0DjgBhswGcwaduLAv767ChwebFZ3K-NtsauFQcyHhePCIwHT0mmq65">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 오태식</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - School Record</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 해바라기 ]</b>
+  included in <b>[ 생기부(생활기록부) ]</b>
   
   <br />
   <br />
-  07/14/2021 20:10 Playing on YTMusic
+  07/14/2021 20:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
