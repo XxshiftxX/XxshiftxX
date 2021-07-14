@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HhWAQDZX-Vg">
-    <img width="300" src="https://lh3.googleusercontent.com/SVMhF7tn1KsFPTCiCKEt4Lh65HZnkZt7ZULGKY7Sa2bKIzDHMRlHQC_7OL4KFADjcjry7XD34Hm9-Xy9ww">
+  <a href="https://music.youtube.com/watch?v=fvm3cwzGe5Q">
+    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1, Kid Milli 및 Loopy - Good Day(피처링: Paloalto)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 꽉 쥔 주먹속의 라이터</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 777 (Episode 1) ]</b>
+  included in <b>[ Ghetto Kids ]</b>
   
   <br />
   <br />
-  07/14/2021 15:04 Playing on YTMusic
+  07/14/2021 15:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
