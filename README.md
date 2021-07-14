@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5H8Yt46pTXk">
-    <img width="300" src="https://lh3.googleusercontent.com/aJIXEYHs4DOCQSOc71-i1qsfrq0DjgBhswGcwaduLAv767ChwebFZ3K-NtsauFQcyHhePCIwHT0mmq65">
+  <a href="https://music.youtube.com/watch?v=8iSRuY80agw">
+    <img width="300" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - School Record</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 생기부(생활기록부) ]</b>
+  included in <b>[ 느린심장박동 ]</b>
   
   <br />
   <br />
-  07/14/2021 20:12 Playing on YTMusic
+  07/14/2021 20:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
