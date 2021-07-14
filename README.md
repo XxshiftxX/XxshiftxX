@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=s6bx7MCEZ6Y">
-    <img width="300" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">
+  <a href="https://music.youtube.com/watch?v=Q_MfswxOgmQ">
+    <img width="300" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Selfmade Orange(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 널만나러가는길이야</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dnsg ]</b>
+  included in <b>[ Foxiboy ]</b>
   
   <br />
   <br />
-  07/14/2021 16:32 Playing on YTMusic
+  07/14/2021 16:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
