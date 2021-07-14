@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=d2Svr6j8OuI">
-    <img width="300" src="https://lh3.googleusercontent.com/kR_RBDwAIwlFZYbKElfaOWWW1Nu-y0fv4Td-yqw-8utVPLkDIRvGDjm6hXEYyUbwVP9UdA4qQbES_5eePw">
+  <a href="https://music.youtube.com/watch?v=B9ikMx99dv0">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - gui gam(피처링: zene the zilla)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Mask On(피처링: 팔로알토, 쿠기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ glow forever ]</b>
+  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
   
   <br />
   <br />
-  07/14/2021 19:59 Playing on YTMusic
+  07/14/2021 20:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
