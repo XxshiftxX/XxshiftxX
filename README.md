@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JnRgyry6rs0">
-    <img width="300" src="https://lh3.googleusercontent.com/NwwIRqvtvRWJx67UNOeko-xUH4GVRW5flUT-aHtnOBjVaKPcC6FJNxPQ8eFvz9ckZ5TiYEucpskSjmO2">
+  <a href="https://music.youtube.com/watch?v=FQEpqOkYric">
+    <img width="300" src="https://lh3.googleusercontent.com/gG96dZV3JAULCy1ZHXB-a3xb5ItXUwvISRTP9zedNydEhUuCaR8AaApVFg6WC28kjK5Vc7SVc88QVvrA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HAON (김하온) - FLOWER</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미노이 - Dingo X meenoi - DOOL</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Flower ]</b>
+  included in <b>[ Dingo X meenoi - DOOL ]</b>
   
   <br />
   <br />
-  07/14/2021 18:18 Playing on YTMusic
+  07/14/2021 18:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
