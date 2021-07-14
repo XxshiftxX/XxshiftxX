@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8iSRuY80agw">
-    <img width="300" src="https://lh3.googleusercontent.com/LkR1y6LIT43i7V_VCySP5RIfD36PBO-C7PbHqBt4HYvz0MrG9PtSqiaTQOuABytkr70WOxn4tarXiNXo">
+  <a href="https://music.youtube.com/watch?v=5nuz4ZEoBfw">
+    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 느린심장박동(피처링: Ja Mezz(자메즈))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - One More Rollie(피처링: 김효은, Hash Swan)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 느린심장박동 ]</b>
+  included in <b>[ Gettin Money Moment ]</b>
   
   <br />
   <br />
-  07/14/2021 20:16 Playing on YTMusic
+  07/14/2021 20:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
