@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2WhHrXon6Bg">
-    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
+  <a href="https://music.youtube.com/watch?v=qALVCXbYeYE">
+    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>이영지 Lee Young Ji - GO HIGH</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Homies - 300(prod. Cashbanger)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ School Rapper3 Final ]</b>
+  included in <b>[ Ghetto Superstars ]</b>
   
   <br />
   <br />
-  07/14/2021 16:13 Playing on YTMusic
+  07/14/2021 16:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
