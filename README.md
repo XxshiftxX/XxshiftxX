@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xHK_mUd4JTw">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=OuRONMY-e50">
+    <img width="300" src="https://lh3.googleusercontent.com/smGHaKk5affg8pwKcwivJjPNB801XE68rNkFp8ndJTxJvxvw1zITsStd43A5EkNkecu3q_sJn89kkEhe">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - Hungry (prod. Kidstone)(피처링: Ourealgoat, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>행주, 영비, 해쉬 스완 및 킬라그램 - 요즘것들(피처링: ZICO, DEAN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ Show Me the Money 6 Episode 1 ]</b>
   
   <br />
   <br />
-  07/14/2021 17:29 Playing on YTMusic
+  07/14/2021 17:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
