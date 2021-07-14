@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=u2vLF57TZCs">
-    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
+  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
+    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 하나두(피처링: Zion.T)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(피처링: M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 살아숨셔 3 ]</b>
+  included in <b>[ "SIKE"! ]</b>
   
   <br />
   <br />
-  07/14/2021 15:18 Playing on YTMusic
+  07/14/2021 15:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
