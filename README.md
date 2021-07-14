@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JPTunZy4Fl8">
-    <img width="300" src="https://lh3.googleusercontent.com/dv2l0hb_71e3geWHrcMkb6nAEhK5C-3pT9_ItGRwcaw7qXqPxmf9y8MbuSbcxTFl_hfwrJAPgBPl4GbN">
+  <a href="https://music.youtube.com/watch?v=s6bx7MCEZ6Y">
+    <img width="300" src="https://lh3.googleusercontent.com/S6eAG2QodcZ8ZlBa_HSE9dImEH7GyyBcf9Nb1TQtkokADqkoVBJDyMabytDASSnuSqY74iaTFIIVpDs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jay Park - All I Wanna Do (Korean Version)(피처링: Hoody, Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Selfmade Orange(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Everything You Wanted ]</b>
+  included in <b>[ Dnsg ]</b>
   
   <br />
   <br />
-  07/14/2021 16:29 Playing on YTMusic
+  07/14/2021 16:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
