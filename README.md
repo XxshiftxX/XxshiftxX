@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0z8lJzeq1u8">
-    <img width="300" src="https://lh3.googleusercontent.com/Ka-P1cu7Q_7xbay6mxOL3naEPDrCGlAr1rAkb5Th2d43J-6yAAYhnQZhOBb0xYG9oDJfqxiuEzD0nm9mLA">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - DIE DIE(피처링: 최엘비 (CHOILB))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(피처링: nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DIE DIE (Feat. 최엘비) (스터디그룹 X 기리보이) ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  07/14/2021 11:22 Playing on YTMusic
+  07/14/2021 11:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
