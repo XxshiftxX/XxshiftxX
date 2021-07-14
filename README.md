@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=D9QtiNBfy3Q">
-    <img width="300" src="https://lh3.googleusercontent.com/n3wpA8qDHqKXr6-U8Y9imiByQ5WSfWgKiE82NxBhIsbU52tnbnBONBcOv3qBSrle-61stbAGma-LB06nyw">
+  <a href="https://music.youtube.com/watch?v=uwy5hGT6i7Q">
+    <img width="300" src="https://lh3.googleusercontent.com/GMXEG4isA1AO-uCNz8jeOtNdU2hfCeKuP7BBGV5G9P0DT8GitgZKuwJbDhPQxWOPXGzfcwL4p21S-poI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K, pH-1 및 Jay Park - iffy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ iffy ]</b>
+  included in <b>[ IMJMWDP ]</b>
   
   <br />
   <br />
-  07/14/2021 18:33 Playing on YTMusic
+  07/14/2021 18:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
