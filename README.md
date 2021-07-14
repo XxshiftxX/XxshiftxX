@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=M2qpnwmpipI">
-    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
+  <a href="https://music.youtube.com/watch?v=4IRBsQYY5QY">
+    <img width="300" src="https://lh3.googleusercontent.com/jgsMWqIQmxoS2GqJiSHeA9H5sKIdvoA2uMO4Wi_w7vRMQrWO7g7O4I4-GRfWxOimEq9WuFsElcGxlJNn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - 빌었어</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Daisy(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Boyhood ]</b>
+  included in <b>[ Daisy ]</b>
   
   <br />
   <br />
-  07/14/2021 16:49 Playing on YTMusic
+  07/14/2021 16:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
