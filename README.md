@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mMZCrPBg9aU">
-    <img width="300" src="https://lh3.googleusercontent.com/lMV5cCg19pvkDYBVpSqTiq4A5ta-isoppLIiVOKGHfzlDq3Z6_Eeu2g3WtBHG3re6HQo8zaBJScqS1c">
+  <a href="https://music.youtube.com/watch?v=fdMiq-0mi3M">
+    <img width="300" src="https://lh3.googleusercontent.com/hOwTK2Y7Dy4twakFfgZGNRAXtgkp_UBqe7OK_sRDv0dGCZpoC8iWyJvoGk765LmwsaB-qynjpucFvQVd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>티에라 왝 - Peppers and Onions</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Homebody</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Peppers and Onions ]</b>
+  included in <b>[ staying ]</b>
   
   <br />
   <br />
-  07/14/2021 19:49 Playing on YTMusic
+  07/14/2021 19:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
