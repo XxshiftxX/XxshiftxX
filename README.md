@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OuRONMY-e50">
-    <img width="300" src="https://lh3.googleusercontent.com/smGHaKk5affg8pwKcwivJjPNB801XE68rNkFp8ndJTxJvxvw1zITsStd43A5EkNkecu3q_sJn89kkEhe">
+  <a href="https://music.youtube.com/watch?v=ZaPoHnVS3HM">
+    <img width="300" src="https://lh3.googleusercontent.com/qg3lxsH4hULcTR2IFp45VD4xPcpb7mz5hmqmbOW3yoXzSA8tcDUO20MV2J7b7EeeNCpLhcm07SrUmyly">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>행주, 영비, 해쉬 스완 및 킬라그램 - 요즘것들(피처링: ZICO, DEAN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 - Stutter(피처링: 테드 팍)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 6 Episode 1 ]</b>
+  included in <b>[ The Road Less Traveled ]</b>
   
   <br />
   <br />
-  07/14/2021 17:34 Playing on YTMusic
+  07/14/2021 17:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
