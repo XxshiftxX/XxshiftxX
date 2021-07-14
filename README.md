@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qS2bY29N7gM">
-    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
+  <a href="https://music.youtube.com/watch?v=7LXYtI00iBM">
+    <img width="300" src="https://lh3.googleusercontent.com/4Ikp4UywKVmqkDiM-I92NKDb1rNyscyrVkv4aIFb-2R04RMPxuKPFMfW2YBdUMZ5_668eZnhVYglS9Gc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>루피(Loopy) - NoNo(피처링: 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>D.Ark - GENIUS(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 777 Semi Final ]</b>
+  included in <b>[ EP1 GENIUS ]</b>
   
   <br />
   <br />
-  07/14/2021 16:02 Playing on YTMusic
+  07/14/2021 16:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
