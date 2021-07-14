@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=B9ikMx99dv0">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=uySFlzw052s">
+    <img width="300" src="https://lh3.googleusercontent.com/swvLkc09OeOW1H8qHHFnDFBfZnTI_6dLnehOy0IFb2rwtv6gxaL4cG0Xn3y0Rpyd0tpRsRTjOyZ_PAWsfQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Mask On(피처링: 팔로알토, 쿠기)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K - 30분</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ Officially OG ]</b>
   
   <br />
   <br />
-  07/14/2021 20:02 Playing on YTMusic
+  07/14/2021 20:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
