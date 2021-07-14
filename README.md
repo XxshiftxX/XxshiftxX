@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zt1zcLJbftw">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=htRPMV1mI-c">
+    <img width="300" src="https://lh3.googleusercontent.com/jxSh_82OTSDl4AVVOaU4B31SL8YE2p6UKAPMWHOO3b_kFWOxyTt6K6am3CO77XgmtCznVsHcooRW_9EM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>우디고차일드(Woodie Gochild)  - Muse(피처링: 박재범(Jay Park), Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ #GOCHILD ]</b>
   
   <br />
   <br />
-  07/14/2021 18:50 Playing on YTMusic
+  07/14/2021 18:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
