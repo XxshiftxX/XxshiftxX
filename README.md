@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=X6dMm4oVvQk">
-    <img width="300" src="https://lh3.googleusercontent.com/YM9hrOaDqUsl5KD08SU6SLWqKMSF1Y4z_IG4wzBzebrvtkiFo6WqhvIbn-8rc85el9tVM1lKhAl2EwVO">
+  <a href="https://music.youtube.com/watch?v=aZCfbL5oIeI">
+    <img width="300" src="https://lh3.googleusercontent.com/xYae6fkCp-dtyd69njrYn6ko1g4euKRz13JaJoiAt904hzWC1lOqqD2KY08Qczjp29mDu7-uxHvSFfFd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Tiffany Foxx - If I Do It</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 을</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ If I Do It ]</b>
+  included in <b>[ 치명적인 맛보기 2곡 ]</b>
   
   <br />
   <br />
-  07/14/2021 19:43 Playing on YTMusic
+  07/14/2021 19:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
