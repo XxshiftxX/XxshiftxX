@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9smDx7jBXMQ">
-    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
+  <a href="https://music.youtube.com/watch?v=oPxO8hGx1oU">
+    <img width="300" src="https://lh3.googleusercontent.com/L5S7oQBZFNsnVtLEIQqU7U0HlAY_-K3ljggqXXq_WGSlTlpT1xAaFmUMeWFgS_gijlnnLhrtHDH1eKY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Big Naughty - 문제 Problems(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Qveen Herby - Juice</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 8 Episode 4 ]</b>
+  included in <b>[ A Woman ]</b>
   
   <br />
   <br />
-  07/14/2021 18:04 Playing on YTMusic
+  07/14/2021 18:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
