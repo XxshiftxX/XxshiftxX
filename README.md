@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZEMC0BwX3ag">
-    <img width="300" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">
+  <a href="https://music.youtube.com/watch?v=S-6oQyf7oG8">
+    <img width="300" src="https://lh3.googleusercontent.com/PGMHym4bIQ9Nn_VxxMrVE4O7ZjaRbz6OXWs-umoYcTR7rj2_RYtEnm9gykOu-Rvm8b_8lyCf7mouYym_AA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Selfmade Orange 2(피처링: 창모(CHANGMO), Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>지코(ZICO) - 천둥벌거숭이(피처링: Jvcki Wai, 염따)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Rap Legend 2 ]</b>
+  included in <b>[ THINKING, Part 1 ]</b>
   
   <br />
   <br />
-  07/14/2021 17:42 Playing on YTMusic
+  07/14/2021 17:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
