@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=oPxO8hGx1oU">
-    <img width="300" src="https://lh3.googleusercontent.com/L5S7oQBZFNsnVtLEIQqU7U0HlAY_-K3ljggqXXq_WGSlTlpT1xAaFmUMeWFgS_gijlnnLhrtHDH1eKY">
+  <a href="https://music.youtube.com/watch?v=eRfUoZPeFHs">
+    <img width="300" src="https://lh3.googleusercontent.com/x7INWwbHjPS-DVLCOC-8VKdTR5ABpt-rmI1HGjgo-IznTAAQ_HjxuFicntKfQK6dYqc-0OVIVuNV0EDY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Qveen Herby - Juice</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - JOKE!(피처링: 사이먼 도미닉, 씨잼(C Jamm))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ A Woman ]</b>
+  included in <b>[ PEOPLE ]</b>
   
   <br />
   <br />
-  07/14/2021 18:07 Playing on YTMusic
+  07/14/2021 18:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
