@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gsLQpBEC7QA">
-    <img width="300" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">
+  <a href="https://music.youtube.com/watch?v=m70cmYJOGwo">
+    <img width="300" src="https://lh3.googleusercontent.com/U2cINuLcVYBSZ6HmeWu3W_879C4bD999buOye5KNcbxv0dPr_ROuxl3Hr6MLI_zDQpyLXBcTgcvnWIsa">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 파티피플(피처링: Uneducated Kid, 염따)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피 및 나플라 - Ex (Alternate Version)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 갑분기 ]</b>
+  included in <b>[ LooFla ]</b>
   
   <br />
   <br />
-  07/14/2021 19:17 Playing on YTMusic
+  07/14/2021 19:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
