@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OcvLH6SDa18">
-    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
+  <a href="https://music.youtube.com/watch?v=Ler_Zl49UjQ">
+    <img width="300" src="https://lh3.googleusercontent.com/d1HvIpN1_ezCCaPyF3a9lNXziugiVj_Ow_s5QdhyEhcwUWZIfiU9RANmHJ4zE0kLGPcaqKKhSxsjHwIE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jam & Butterfly(피처링: Crush, Eaj)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Swoosh Flow (Remix) ]</b>
+  included in <b>[ Jam & Butterfly ]</b>
   
   <br />
   <br />
-  07/14/2021 16:21 Playing on YTMusic
+  07/14/2021 16:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
