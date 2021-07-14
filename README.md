@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mNhjRXfSRC8">
-    <img width="300" src="https://lh3.googleusercontent.com/KuoEB8VDSONNXhjl5DjpA_yEqVlIA0UnPeoUysN5FB9yuQwimWC4AGhIT6fDbP95Rr6RlajtZ8G1r2M">
+  <a href="https://music.youtube.com/watch?v=MSYq3MzTLGA">
+    <img width="300" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>실키보이즈(SILKYBOIS) - BOMAYE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>더 콰이엇 - Hangang gang (Megamix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BOMAYE ]</b>
+  included in <b>[ Hangang gang (Megamix) ]</b>
   
   <br />
   <br />
-  07/14/2021 17:00 Playing on YTMusic
+  07/14/2021 17:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
