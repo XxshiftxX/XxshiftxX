@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=oC8dVkqHMGI">
-    <img width="300" src="https://lh3.googleusercontent.com/X50xtI-Ku0aLC5QkYHRwnjGHcV4yCXiAb76YJzegaTxK7XB97x-zJoxk34Wz4FMnLcFbtTSIRbxxwDSz">
+  <a href="https://music.youtube.com/watch?v=CUbdM0wPvxc">
+    <img width="300" src="https://lh3.googleusercontent.com/2zaVOZ9TDmDPfiYUAFEBbE-fMK6NpcQwLY9z1soU1Mx79uycAJ0F0MH2HqxyrtbLHy3wW0qCCzAdJST-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제네 더 질라 - ITX(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NO:EL - Ayy</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ITX ]</b>
+  included in <b>[ 21'S/S ]</b>
   
   <br />
   <br />
-  07/14/2021 20:28 Playing on YTMusic
+  07/14/2021 20:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
