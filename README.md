@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bxWoi_txmNw">
-    <img width="300" src="https://lh3.googleusercontent.com/hpoQzJXKEgmjThVtdpjX_C6MZ19pJ3Y60MweuxrhV5xV3DJnRAzNnh8daudwU_OgrHt54S4lJWcmaeQqNA">
+  <a href="https://music.youtube.com/watch?v=xAQrGnCyFIU">
+    <img width="300" src="https://lh3.googleusercontent.com/mDQU4srEIdCMRMVrDZ_X6OeyK4L1nKcs-Rd8a9CRj-vWKBGdu6K79x29q287xCK5NCf_34sPUWAD5otV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 거지(피처링: 존오버, 윤훼이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ghetto Kids ]</b>
+  included in <b>[ 치명적인 앨범 Ⅲ ]</b>
   
   <br />
   <br />
-  07/14/2021 10:50 Playing on YTMusic
+  07/14/2021 10:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
