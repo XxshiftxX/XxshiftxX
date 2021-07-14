@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KYmT7s6xG-E">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/watch?v=D9QtiNBfy3Q">
+    <img width="300" src="https://lh3.googleusercontent.com/n3wpA8qDHqKXr6-U8Y9imiByQ5WSfWgKiE82NxBhIsbU52tnbnBONBcOv3qBSrle-61stbAGma-LB06nyw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿤디판다 - Hero(피처링: 저스디스, Golden)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K, pH-1 및 Jay Park - iffy</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Semi Final ]</b>
+  included in <b>[ iffy ]</b>
   
   <br />
   <br />
-  07/14/2021 18:28 Playing on YTMusic
+  07/14/2021 18:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
