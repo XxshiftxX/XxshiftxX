@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m8L2OLu6JZo">
-    <img width="300" src="https://lh3.googleusercontent.com/IxWUdU7at6TvGHc0OAvJocszK88uz4RHk3gq4ps7M4DUqraOJoScgt697L-bIkuvk4SI0v0Hka_eJTnN">
+  <a href="https://music.youtube.com/watch?v=xLuwg23DmW0">
+    <img width="300" src="https://lh3.googleusercontent.com/L1RvFYc2v1gq9BUVu5kgG2AdaekuP22fBAydkTZH1a_WE-3nEAjoF66gMVWi6ANBfcByD-PB8CQNCRH9dA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 멜로디</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김하온(HAON) - 붕붕(피처링: Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 멜로디 ]</b>
+  included in <b>[ 고등래퍼2 Final ]</b>
   
   <br />
   <br />
-  07/14/2021 17:53 Playing on YTMusic
+  07/14/2021 17:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
