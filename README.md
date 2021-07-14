@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=R3Nhjx4x3BU">
-    <img width="300" src="https://lh3.googleusercontent.com/D7sze9JJ4uZF7HXidyw9NGeIniHjVP1Dg2OKaXxCM9sP2-ZuzyVPBs_e8cprZ9e7BSDuEM7rSZErGjl9">
+  <a href="https://music.youtube.com/watch?v=qS2bY29N7gM">
+    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Inayah - Levels</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피(Loopy) - NoNo(피처링: 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ S.O.L.A.R. ]</b>
+  included in <b>[ Show Me the Money 777 Semi Final ]</b>
   
   <br />
   <br />
-  07/14/2021 15:58 Playing on YTMusic
+  07/14/2021 16:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
