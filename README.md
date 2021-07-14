@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MSYq3MzTLGA">
-    <img width="300" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">
+  <a href="https://music.youtube.com/watch?v=JovVmrfLCTA">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇 - Hangang gang (Megamix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - 어버버버(피처링: Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hangang gang (Megamix) ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  07/14/2021 17:03 Playing on YTMusic
+  07/14/2021 17:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
