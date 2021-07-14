@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Y7F3VodW01o">
-    <img width="300" src="https://lh3.googleusercontent.com/2PY0hdZ0rxHuFxPDfoLwOIFwc_OoLWEbpIZKY6DL_qCiukBGechEpP3i2-f3hkJsOxVxEA7FfoRU6slG">
+  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
+    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Harry Nach - Overdose</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(피처링: 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Moods ]</b>
+  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
   
   <br />
   <br />
-  07/14/2021 19:10 Playing on YTMusic
+  07/14/2021 19:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
