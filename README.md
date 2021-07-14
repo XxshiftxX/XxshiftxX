@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fApInTv3LUA">
-    <img width="300" src="https://lh3.googleusercontent.com/dg_M9TEaqFO5wKTDSUgDq4Jg8Nhe5Mcvl2Pejm9tuG6aIRsXUonZGH88xf-Brm6xEhezBHIqbmDYE4jN0w">
+  <a href="https://music.youtube.com/watch?v=JnRgyry6rs0">
+    <img width="300" src="https://lh3.googleusercontent.com/NwwIRqvtvRWJx67UNOeko-xUH4GVRW5flUT-aHtnOBjVaKPcC6FJNxPQ8eFvz9ckZ5TiYEucpskSjmO2">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - acrnm(피처링: Goretexx)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HAON (김하온) - FLOWER</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 공상과학음악 ]</b>
+  included in <b>[ Flower ]</b>
   
   <br />
   <br />
-  07/14/2021 18:14 Playing on YTMusic
+  07/14/2021 18:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
