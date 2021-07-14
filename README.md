@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XlgwZqJbIdg">
-    <img width="300" src="https://lh3.googleusercontent.com/1I0xj3D_rWQa0V0a8CwokClrauqp-YgI7ClE-I1OC-TRzS5G8hjX5Jqk4dFU5cMfJ3oceghuLMDvtoIBYQ">
+  <a href="https://music.youtube.com/watch?v=8k821Tx_8cA">
+    <img width="300" src="https://lh3.googleusercontent.com/wcgeUaiVvoJHVxY0WcY1He_9QIWKrHoAkYSf3AQv14Q643vVWrS9kmT4Ev0HT9hbPAO_D63QtbxuwF0n">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HAON - NOAH(피처링: Jay Park, Hoody)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jay Park, YLN Foreign, D.Ark 및 365LIT - DNA Remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TRAVEL: NOAH ]</b>
+  included in <b>[ DNA Remix ]</b>
   
   <br />
   <br />
-  07/14/2021 20:34 Playing on YTMusic
+  07/14/2021 20:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
