@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FQEpqOkYric">
-    <img width="300" src="https://lh3.googleusercontent.com/gG96dZV3JAULCy1ZHXB-a3xb5ItXUwvISRTP9zedNydEhUuCaR8AaApVFg6WC28kjK5Vc7SVc88QVvrA">
+  <a href="https://music.youtube.com/watch?v=ji8raPOfWrY">
+    <img width="300" src="https://lh3.googleusercontent.com/fEQOxczaHZ-1uM1SSG2at3r2ZlK7WmPqPppvFPz2N6kqkalpexbE44c3tBZ66SFCAoyw0kTG3dFkLX5b">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미노이 - Dingo X meenoi - DOOL</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND, 릴러말즈(Leellamarz), zene the zilla 및 더 콰이엇(The Quiett) - BITION WAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X meenoi - DOOL ]</b>
+  included in <b>[ BITION WAY ]</b>
   
   <br />
   <br />
-  07/14/2021 18:22 Playing on YTMusic
+  07/14/2021 18:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
