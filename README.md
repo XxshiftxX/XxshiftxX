@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=etgNSJzOd5k">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/watch?v=7t-iZc3Psvw">
+    <img width="300" src="https://lh3.googleusercontent.com/s4UFG4c2mZLNQnmeGNINibpbTMkkmYeeXFdHnUtR0RD-wYAy2WifXKTWhqwpMqDBcE8CeGweiKCydO4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - iii(피처링: 베이식, 키드밀리, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 진인사대천명</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Semi Final ]</b>
+  included in <b>[ 진인사대천명 ]</b>
   
   <br />
   <br />
-  07/14/2021 17:17 Playing on YTMusic
+  07/14/2021 17:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
