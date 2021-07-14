@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
-    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
+  <a href="https://music.youtube.com/watch?v=gsLQpBEC7QA">
+    <img width="300" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(피처링: 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 파티피플(피처링: Uneducated Kid, 염따)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
+  included in <b>[ 갑분기 ]</b>
   
   <br />
   <br />
-  07/14/2021 19:13 Playing on YTMusic
+  07/14/2021 19:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
