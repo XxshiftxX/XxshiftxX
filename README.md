@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7LXYtI00iBM">
-    <img width="300" src="https://lh3.googleusercontent.com/4Ikp4UywKVmqkDiM-I92NKDb1rNyscyrVkv4aIFb-2R04RMPxuKPFMfW2YBdUMZ5_668eZnhVYglS9Gc">
+  <a href="https://music.youtube.com/watch?v=EoNdCrzokmI">
+    <img width="300" src="https://lh3.googleusercontent.com/uPgvrKaLgdIj78oZXXw3_c-icJ1ceJlgaZ32zmTKmTxb7BjWph44MO7B00Vk7ee1w1jRi35LAGTjwZABPw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>D.Ark - GENIUS(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 좋아한다니까</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EP1 GENIUS ]</b>
+  included in <b>[ 좋아한다니까 ]</b>
   
   <br />
   <br />
-  07/14/2021 16:07 Playing on YTMusic
+  07/14/2021 16:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
