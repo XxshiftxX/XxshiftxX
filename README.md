@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_qP14y6kMHU">
-    <img width="300" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">
+  <a href="https://music.youtube.com/watch?v=R3Nhjx4x3BU">
+    <img width="300" src="https://lh3.googleusercontent.com/D7sze9JJ4uZF7HXidyw9NGeIniHjVP1Dg2OKaXxCM9sP2-ZuzyVPBs_e8cprZ9e7BSDuEM7rSZErGjl9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모, 해쉬 스완, ASH ISLAND 및 김효은 - 비워</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Inayah - Levels</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 비워 ]</b>
+  included in <b>[ S.O.L.A.R. ]</b>
   
   <br />
   <br />
-  07/14/2021 15:54 Playing on YTMusic
+  07/14/2021 15:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
