@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=htRPMV1mI-c">
-    <img width="300" src="https://lh3.googleusercontent.com/jxSh_82OTSDl4AVVOaU4B31SL8YE2p6UKAPMWHOO3b_kFWOxyTt6K6am3CO77XgmtCznVsHcooRW_9EM">
+  <a href="https://music.youtube.com/watch?v=Z9aryDRTm0E">
+    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>우디고차일드(Woodie Gochild)  - Muse(피처링: 박재범(Jay Park), Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - $$(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ #GOCHILD ]</b>
+  included in <b>[ "SIKE"! ]</b>
   
   <br />
   <br />
-  07/14/2021 18:54 Playing on YTMusic
+  07/14/2021 18:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
