@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=brI6MAid2zA">
-    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
+  <a href="https://music.youtube.com/watch?v=jLJrCAOCLZs">
+    <img width="300" src="https://lh3.googleusercontent.com/kUwgu2HKDV8zsEejZsQ7eG0IeoVH-NyBjsn9TcFlg-fpnYTYK-G1QKafy1AjoqbNEQoFUt1x5jZ8Apo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Like Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YUMDDA, The Quiett, Deepflow 및 Simon Dominic - I'MMA DO 아마두(피처링: Huckleberry P, Keem Hyo-Eun, Paloalto, Woo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HALO ]</b>
+  included in <b>[ Dingo X DAMOIM (Part 2) ]</b>
   
   <br />
   <br />
-  07/14/2021 19:33 Playing on YTMusic
+  07/14/2021 19:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
