@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8k821Tx_8cA">
-    <img width="300" src="https://lh3.googleusercontent.com/wcgeUaiVvoJHVxY0WcY1He_9QIWKrHoAkYSf3AQv14Q643vVWrS9kmT4Ev0HT9hbPAO_D63QtbxuwF0n">
+  <a href="https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLSnU6SiJooMecPRP6XT7utSMMb-swf6VlMsF-cEZA=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jay Park, YLN Foreign, D.Ark 및 365LIT - DNA Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Official髭男dism - Pretender［Official Video］</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DNA Remix ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  07/14/2021 20:38 Playing on YTMusic
+  07/15/2021 18:31 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
