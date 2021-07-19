@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WHdL2vstvL8">
-    <img width="300" src="https://lh3.googleusercontent.com/y7jJKn2kx_HKMfSY4NmVnalSFZ3HKwYyJiLWA72--H-eqZ2Azlx51U-CsXS4tWO8Th5oL1JQS-24ZOfR">
+  <a href="https://music.youtube.com/watch?v=-QxMzUEJH4Q">
+    <img width="300" src="https://lh3.googleusercontent.com/Ih3l1ocpmGZEG_3VCLteBHbwt2mXXEfgACly-8ejrd1qyELIvx-GbOYclw1gX1gvoRPuv1V1hBLZPW75">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>요루시카 - 言って。</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Mrs. GREEN APPLE - Ao To Natsu</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 夏草が邪魔をする ]</b>
+  included in <b>[ Ao To Natsu ]</b>
   
   <br />
   <br />
-  07/19/2021 23:37 Playing on YTMusic
+  07/19/2021 23:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
