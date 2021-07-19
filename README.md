@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9if2rlTRY-0">
+  <a href="https://music.youtube.com/watch?v=OOcwQALr5Rw">
     <img width="300" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>One OK Rock(원오크락) - Re:make</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>One OK Rock(원오크락) - C.h.a.o.s.m.y.t.h.</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 残響リファレンス ]</b>
   
   <br />
   <br />
-  07/19/2021 15:14 Playing on YTMusic
+  07/19/2021 15:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
