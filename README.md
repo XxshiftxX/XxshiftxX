@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XifmeRdJCjo">
-    <img width="300" src="https://lh3.googleusercontent.com/bDUpPIK_5mbGUojOUZbKlRp2AsYWds2G3_2PtFDPzY3vGUGDXpPMyJ3cSU70I0PWsu8UxJkrxomReQM">
+  <a href="https://music.youtube.com/watch?v=saDmN2f3HI0">
+    <img width="300" src="https://lh3.googleusercontent.com/oesPpZgxatxCd9XA3Kbz0ZrvB9tR7tPIWha3mMfsQAWMC5X9n3HGtZzeDOHkz7KZSf5asi-8q8KGArkC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>요루시카 - Bomber (Re-Recording)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>RADWIMPS(래드윔프스) - Grand Escape(피처링: 미우라 토코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Plagiarism ]</b>
+  included in <b>[ Weathering With You -Complete Version- ]</b>
   
   <br />
   <br />
-  07/19/2021 23:00 Playing on YTMusic
+  07/19/2021 23:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
