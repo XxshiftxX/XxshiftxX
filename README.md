@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=saDmN2f3HI0">
-    <img width="300" src="https://lh3.googleusercontent.com/oesPpZgxatxCd9XA3Kbz0ZrvB9tR7tPIWha3mMfsQAWMC5X9n3HGtZzeDOHkz7KZSf5asi-8q8KGArkC">
+  <a href="https://music.youtube.com/watch?v=CMw9cdV3arA">
+    <img width="300" src="https://lh3.googleusercontent.com/bsIRjvDnnV1JyU66a0YwfbmLy0pwG-aTHGhzH0x0CQMz3AjDyBRvxsAcn95M633hZN2ClD7UnLAtSi-X">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>RADWIMPS(래드윔프스) - Grand Escape(피처링: 미우라 토코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - Pale Blue</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Weathering With You -Complete Version- ]</b>
+  included in <b>[ Pale Blue ]</b>
   
   <br />
   <br />
-  07/19/2021 23:04 Playing on YTMusic
+  07/19/2021 23:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
