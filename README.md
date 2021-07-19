@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=g3kChT7B3Us">
-    <img width="300" src="https://lh3.googleusercontent.com/fwxycHt8eVB7mnr-cv_L2aegyfIhtqx706FbbGDRLfw6-VdeRjGSpQipz7pGcI9nRbMJLWNi_YbyuGFIDw">
+  <a href="https://music.youtube.com/watch?v=eoQAnGx4Pss">
+    <img width="300" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>One OK Rock(원오크락) - Wasted Nights</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>One OK Rock(원오크락) - Wherever you are</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Eye of the Storm ]</b>
+  included in <b>[ Nicheシンドローム ]</b>
   
   <br />
   <br />
-  07/19/2021 15:05 Playing on YTMusic
+  07/19/2021 15:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
