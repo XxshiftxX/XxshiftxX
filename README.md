@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SGsbYfvfE6s">
-    <img width="300" src="https://lh3.googleusercontent.com/qbSPLKlLNr5W8qSMCH98o22YpSmQwb1RqsJyAw84mJGZNuNM3buDKVSSxLbwA2hx0cxIHD10LCvaUESJ">
+  <a href="https://music.youtube.com/watch?v=XifmeRdJCjo">
+    <img width="300" src="https://lh3.googleusercontent.com/bDUpPIK_5mbGUojOUZbKlRp2AsYWds2G3_2PtFDPzY3vGUGDXpPMyJ3cSU70I0PWsu8UxJkrxomReQM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Goose house - Hikarunara</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - Bomber (Re-Recording)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Milk ]</b>
+  included in <b>[ Plagiarism ]</b>
   
   <br />
   <br />
-  07/19/2021 15:26 Playing on YTMusic
+  07/19/2021 23:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
