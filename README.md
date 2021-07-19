@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ezOJEEZJtcY">
-    <img width="300" src="https://lh3.googleusercontent.com/mY1pbLC5-RmuQdu1SxP0J5Gm40ftatKs2GTchLZYKE2OgtNErgq5VDXnu_fWqFUpjjv_N6kiPQFQ9cQsOA">
+  <a href="https://music.youtube.com/watch?v=Xfi9h83lumU">
+    <img width="300" src="https://lh3.googleusercontent.com/bDUpPIK_5mbGUojOUZbKlRp2AsYWds2G3_2PtFDPzY3vGUGDXpPMyJ3cSU70I0PWsu8UxJkrxomReQM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>優里 - かくれんぼ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - Thoughtcrime</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ かくれんぼ ]</b>
+  included in <b>[ Plagiarism ]</b>
   
   <br />
   <br />
-  07/19/2021 23:23 Playing on YTMusic
+  07/19/2021 23:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
