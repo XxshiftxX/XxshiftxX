@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Zt8B82lpags">
-    <img width="300" src="https://lh3.googleusercontent.com/Bpk4LU1-0RyGeMI6FQiERWoR6EOg58Ou5S-kL-ru8hpIh5JAgpDdt8zbWk56-rm-ObO0bRS2PKNsc85e">
+  <a href="https://music.youtube.com/watch?v=ezOJEEZJtcY">
+    <img width="300" src="https://lh3.googleusercontent.com/mY1pbLC5-RmuQdu1SxP0J5Gm40ftatKs2GTchLZYKE2OgtNErgq5VDXnu_fWqFUpjjv_N6kiPQFQ9cQsOA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나나오 아카리 - Turing Love(피처링: Sou)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>優里 - かくれんぼ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Manga Mitaina Koibito Ga Hoshii ]</b>
+  included in <b>[ かくれんぼ ]</b>
   
   <br />
   <br />
-  07/19/2021 23:19 Playing on YTMusic
+  07/19/2021 23:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
