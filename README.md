@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLSnU6SiJooMecPRP6XT7utSMMb-swf6VlMsF-cEZA=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=4fC1M6MjtFM">
+    <img width="300" src="https://lh3.googleusercontent.com/NUyaeEKzF2M5SZQRV8LIw8vQ6-wEkrNFXWOd7QwtDRLxJqso_ucLIQjZ_7E8lhShuivsOinVny-8odJk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Official髭男dism - Pretender［Official Video］</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>One OK Rock(원오크락) - 完全感覚Dreamer</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ Nicheシンドローム ]</b>
   
   <br />
   <br />
-  07/15/2021 18:31 Playing on YouTube
+  07/19/2021 14:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
