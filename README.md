@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8DPaNJjI-8Y">
-    <img width="300" src="https://lh3.googleusercontent.com/b7JPxcOZEgzxik_802_3U3WzkyR9sjY4ju4Px08eNb7K2Dr_PvUwxK5JPJggbCIMlR9FwSL_WcLb2Iaa">
+  <a href="https://music.youtube.com/watch?v=OcvLH6SDa18">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HIRAIDAI - Stand by me, Stand by you.</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(피처링: 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Goes On ]</b>
+  included in <b>[ Swoosh Flow (Remix) ]</b>
   
   <br />
   <br />
-  07/20/2021 15:12 Playing on YTMusic
+  07/21/2021 11:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
