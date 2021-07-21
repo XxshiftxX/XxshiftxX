@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6QLIQD99J-k">
-    <img width="300" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">
+  <a href="https://music.youtube.com/watch?v=1fAGyOu7xeE">
+    <img width="300" src="https://lh3.googleusercontent.com/JZF4Y9aEX6m4FptTS_japPrAoM0IshfJISJwI57cuWLs3Ii4Whyo-LU7O9ExENJN4ee7E_RBvsGn_lI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - ANYMORE(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 우리서로사랑하지는말자</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ X ]</b>
+  included in <b>[ 영화같게 ]</b>
   
   <br />
   <br />
-  07/21/2021 11:25 Playing on YTMusic
+  07/21/2021 11:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
