@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jq58J5vopOo">
-    <img width="300" src="https://lh3.googleusercontent.com/6wtEqdF77OnuxhPHMmp2LZ2OPsyU2xjLd7KmX0DKtZYwLUCJgWSv4ZqP61S0qRAOUJE81McXh63F5D1b_Q">
+  <a href="https://music.youtube.com/watch?v=Z3gK2gReL5k">
+    <img width="300" src="https://lh3.googleusercontent.com/8pnkUGJbmJ3qNmTdDJ9KJsFJqbtiDwpEv6Q9vxNWles5uVzl4A3840A4RKGOljFsRakgyd0yeI5iDcd8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Hate You(피처링: 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - 원효대사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hate You (From "Show Me the Money 7, Episode 2") ]</b>
+  included in <b>[ 이태원 ]</b>
   
   <br />
   <br />
-  07/21/2021 11:32 Playing on YTMusic
+  07/21/2021 11:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
