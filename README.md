@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cP0vd5zwkQY">
-    <img width="300" src="https://lh3.googleusercontent.com/e0kaxY0gm0WcUCtDfLv1BfiX4P-iygIN4_bvu0b05wRavY2oO9MllrtbjmBawhjfLti6TnYfuR4-btpTpQ">
+  <a href="https://music.youtube.com/watch?v=3D9ehtpRl5c">
+    <img width="300" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Loopy - V(피처링: Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 777 Final ]</b>
+  included in <b>[ ASH ]</b>
   
   <br />
   <br />
-  07/21/2021 11:47 Playing on YTMusic
+  07/21/2021 11:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
