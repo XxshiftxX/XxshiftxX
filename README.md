@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1fAGyOu7xeE">
-    <img width="300" src="https://lh3.googleusercontent.com/JZF4Y9aEX6m4FptTS_japPrAoM0IshfJISJwI57cuWLs3Ii4Whyo-LU7O9ExENJN4ee7E_RBvsGn_lI">
+  <a href="https://music.youtube.com/watch?v=jq58J5vopOo">
+    <img width="300" src="https://lh3.googleusercontent.com/6wtEqdF77OnuxhPHMmp2LZ2OPsyU2xjLd7KmX0DKtZYwLUCJgWSv4ZqP61S0qRAOUJE81McXh63F5D1b_Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 우리서로사랑하지는말자</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Hate You(피처링: 우원재)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 영화같게 ]</b>
+  included in <b>[ Hate You (From "Show Me the Money 7, Episode 2") ]</b>
   
   <br />
   <br />
-  07/21/2021 11:28 Playing on YTMusic
+  07/21/2021 11:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
