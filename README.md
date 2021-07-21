@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3D9ehtpRl5c">
-    <img width="300" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">
+  <a href="https://music.youtube.com/watch?v=kOSsoCgsFvg">
+    <img width="300" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, Kid Milli, NO:EL 및 Swings - flex</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ASH ]</b>
+  included in <b>[ flex ]</b>
   
   <br />
   <br />
-  07/21/2021 11:51 Playing on YTMusic
+  07/21/2021 11:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
