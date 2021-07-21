@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hOvlw9XV-d8">
-    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
+  <a href="https://music.youtube.com/watch?v=xmXHQUAWLA8">
+    <img width="300" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1, BIG Naughty, TRADE L 및 Woodie Gochild - VVS (H1GHR Remix) [Prod. GroovyRoom]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - 호랑이소굴(피처링: Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 굴젓 (G＋Jus) ]</b>
+  included in <b>[ 호랑이소굴 ]</b>
   
   <br />
   <br />
-  07/21/2021 11:15 Playing on YTMusic
+  07/21/2021 11:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
