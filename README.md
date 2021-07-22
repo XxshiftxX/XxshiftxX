@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/watch?v=XIQnNLLZuPQ">
+    <img width="300" src="https://lh3.googleusercontent.com/S8bISlT1Wie2mpaGWUiBlPPjatEHXpfsONmZbOcT3ZlHIS1pLISO2UsgrKJPw2hj9LsxvrF5cxvnKlmH">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>수퍼비, Uneducated Kid 및 TWLV - 골프왕</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gettin Money Moment ]</b>
+  included in <b>[ Yng & Rich X Flex Zone ]</b>
   
   <br />
   <br />
-  07/22/2021 10:56 Playing on YTMusic
+  07/22/2021 11:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
