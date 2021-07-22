@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9srGcAw04-0">
-    <img width="300" src="https://lh3.googleusercontent.com/RT9vX4JHmb9PfkUsgqnnI975NImHKNRWOvT8m26oXYgOBDlznzj0ucte9H0qF9ra7a6NrQhZ9m-papI">
+  <a href="https://music.youtube.com/watch?v=sI7h10tnDbM">
+    <img width="300" src="https://lh3.googleusercontent.com/RwYPD9LHozxFrd9fO0uzRYSafqNeeiqXWwLzCJWn_ZGpFYULNqiVpIEMdrZyiymUfOP18rnQeq1JZnPE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>추서준 - Lately(피처링: 빅원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Junoflo & G2 - X&OZ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lately ]</b>
+  included in <b>[ X&OZ ]</b>
   
   <br />
   <br />
-  07/22/2021 11:34 Playing on YTMusic
+  07/22/2021 11:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
