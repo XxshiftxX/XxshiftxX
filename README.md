@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=iL4wSJs4C14">
-    <img width="300" src="https://lh3.googleusercontent.com/gkC45NFuuDnEKClLUFE3kjdyi1mDDmmGg_Une-t3FAm9ff1QtZEYEmiPsQenkiqIcCGRmHFxpjjq2kJ1">
+  <a href="https://music.youtube.com/watch?v=pQYb91mCUNA">
+    <img width="300" src="https://lh3.googleusercontent.com/idFWJ8AwL18qxvtamMIHWX1qYYHU3lYwBc39JfbtR0cs3J9YRtVGx6xEIrCHYj8srToGmOSjg5Gr3FeL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Junoflo & G2 - OUTLAWZ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크루셜스타 - humming</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OUTLAWZ ]</b>
+  included in <b>[ humming ]</b>
   
   <br />
   <br />
-  07/22/2021 11:57 Playing on YTMusic
+  07/22/2021 11:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
