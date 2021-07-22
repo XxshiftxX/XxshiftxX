@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GxzFIijL4hQ">
-    <img width="300" src="https://lh3.googleusercontent.com/fPJyT59tmf0jBbKjj7RF-E1dcoA6i8aMGgKW8jJiCKf_EmI-p4I_QceGq8aCM7a3-CI3POgkoe8rg40c">
+  <a href="https://music.youtube.com/watch?v=0xVlO64KUHI">
+    <img width="300" src="https://lh3.googleusercontent.com/Qgq_ALbmA9xZktmV9kwbTUd9tJHVxCjgEkWaLQ6Walw0m8JsusLtcqyzMGgSvRMahfNrLmb7SB8jEJi0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>h3hyeon - I DESERVE IT(피처링: Lil Nekh)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>산이(San E) 및 레이나 [애프터스쿨] - 한여름밤의 꿀 : 다시 여름</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 꼬리에 꼬리를 무는 이야기 ]</b>
+  included in <b>[ 한여름밤의 꿀 : 다시 여름 (TEN PROJECT Part.3) ]</b>
   
   <br />
   <br />
-  07/22/2021 11:40 Playing on YTMusic
+  07/22/2021 11:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
