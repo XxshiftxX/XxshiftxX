@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bbl3qPS9x4o">
-    <img width="300" src="https://lh3.googleusercontent.com/u1-D0Add6pNt41wb36bsbefo6WMWCpiWW-du918-KW1vO7r4A1k8RpgHecgGz87BxqmiRnkdMzQ4gItXcw">
+  <a href="https://music.youtube.com/watch?v=N4hl7AcFOrc">
+    <img width="300" src="https://lh3.googleusercontent.com/7nvATkmRe3dleM-1E8eGBrP1gR4XIK5BLFsrhElxe_LQm1bpV3_ftyyBmVERq7ownE8tdgrfJm6t8WQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌 Remix(피처링: UNEDUCATED KID, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 비 내리면 (Prod. by BOYCOLD)(피처링: sogumm)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 사이렌 (Remix) ]</b>
+  included in <b>[ 비 내리면 ]</b>
   
   <br />
   <br />
-  07/22/2021 11:25 Playing on YTMusic
+  07/22/2021 11:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
