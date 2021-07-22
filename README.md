@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZWqQXuLUaUg">
-    <img width="300" src="https://lh3.googleusercontent.com/rnNoWwlJRPQPPwifbpM1n5U--e7CFeEqL3ixnkJnMYhUAvaxNu89FGqyKcUJY8kjG9gg-IZcnvsIyVIilw">
+  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
+    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yumdda - 9ucci(피처링: DOGE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 9ucci ]</b>
+  included in <b>[ Gettin Money Moment ]</b>
   
   <br />
   <br />
-  07/22/2021 10:53 Playing on YTMusic
+  07/22/2021 10:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
