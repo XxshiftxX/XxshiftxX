@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HjYl3D7Wjfo">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=ZWqQXuLUaUg">
+    <img width="300" src="https://lh3.googleusercontent.com/rnNoWwlJRPQPPwifbpM1n5U--e7CFeEqL3ixnkJnMYhUAvaxNu89FGqyKcUJY8kjG9gg-IZcnvsIyVIilw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Beautiful(피처링: Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yumdda - 9ucci(피처링: DOGE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ISLAND ]</b>
+  included in <b>[ 9ucci ]</b>
   
   <br />
   <br />
-  07/22/2021 10:50 Playing on YTMusic
+  07/22/2021 10:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
