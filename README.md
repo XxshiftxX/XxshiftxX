@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Up4eikNIHC0">
-    <img width="300" src="https://lh3.googleusercontent.com/2DQFX8nosPDEBXLyhB6oT_6hcDy6XBqZ31Whs9ON3kOOft7TY6wLTnAskNB9Cu8oj92Jo5wnNcpuKxU-">
+  <a href="https://music.youtube.com/watch?v=9Jvx_O6P-ko">
+    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>도자캣 - Cookie Jar</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 끝 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Amala ]</b>
+  included in <b>[ Family Business ]</b>
   
   <br />
   <br />
-  07/27/2021 12:46 Playing on YTMusic
+  07/27/2021 12:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
