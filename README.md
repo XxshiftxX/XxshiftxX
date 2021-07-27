@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0rgEAz_GiSQ">
-    <img width="300" src="https://lh3.googleusercontent.com/DgeeO-bDv9k6JUSqsTzb775yStn4zDipgu6GD3oIzHNsipagTLC_zhiMpdt0hzWUi1ozI-gTHQsk-abK">
+  <a href="https://music.youtube.com/watch?v=qn47D2mX9yI">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 및 저스디스 (JUSTHIS) - 너랑 달라 (한림체육관 X 한요한, 저스디스 (JUSTHIS))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>원슈타인 - Infrared Camera</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 너랑 달라 (한림체육관 X 한요한, 저스디스 (JUSTHIS)) ]</b>
+  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
   
   <br />
   <br />
-  07/27/2021 12:28 Playing on YTMusic
+  07/27/2021 12:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
