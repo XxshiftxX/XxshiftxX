@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Cere6zvT2TY">
-    <img width="300" src="https://lh3.googleusercontent.com/Mn3IZJv23_Whg-TFBzOez9Twsmaa5y1t7bO8aBQeRXWP_I8s7_b5DmAGcdK5UJgVcVA1kt5yYVf09hCaYQ">
+  <a href="https://music.youtube.com/watch?v=gTtlMp6D3JU">
+    <img width="300" src="https://lh3.googleusercontent.com/Dmx3WnOMrYaX2pxbNnYdZKr6JTsuSyJ-yyqvJErdSdYyyS6mtyNjiFPJhZ0XSkKLAssizUCzq6Xi_j9E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>범키 - 여기저기거기(피처링: SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쌔끈보이즈 (박재범, Don Mills, 로꼬, 넉살) - Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 여기저기거기 ]</b>
+  included in <b>[ Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY) ]</b>
   
   <br />
   <br />
-  07/27/2021 12:03 Playing on YTMusic
+  07/27/2021 12:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
