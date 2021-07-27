@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9Jvx_O6P-ko">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=hkfkOC4vIS0">
+    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 끝 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 및 Jvcki Wai - KOCEAN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ Maiden Voyage III ]</b>
   
   <br />
   <br />
-  07/27/2021 12:49 Playing on YTMusic
+  07/27/2021 12:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
