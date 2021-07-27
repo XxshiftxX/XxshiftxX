@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0z8lJzeq1u8">
-    <img width="300" src="https://lh3.googleusercontent.com/Ka-P1cu7Q_7xbay6mxOL3naEPDrCGlAr1rAkb5Th2d43J-6yAAYhnQZhOBb0xYG9oDJfqxiuEzD0nm9mLA">
+  <a href="https://music.youtube.com/watch?v=ft4gS5EwOE8">
+    <img width="300" src="https://lh3.googleusercontent.com/t2i6Uai4wVSRhZ8Adgmos5FBOFTWU8-rmdidwr7kbxGWBivCQzwbY2FZ5053B1Qi7hJJjwne860kxp2LFg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - DIE DIE(피처링: 최엘비 (CHOILB))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND 및 그루비룸 (GroovyRoom) - 잡아줄게</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DIE DIE (Feat. 최엘비) (스터디그룹 X 기리보이) ]</b>
+  included in <b>[ 잡아줄게 ]</b>
   
   <br />
   <br />
-  07/27/2021 11:27 Playing on YTMusic
+  07/27/2021 11:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
