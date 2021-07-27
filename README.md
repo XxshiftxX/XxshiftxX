@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qjlPUNPt2uw">
-    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
+  <a href="https://music.youtube.com/watch?v=yUnyZQYwGAc">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 시한부(피처링: Leellamarz, Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Curtain Call ]</b>
+  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
   
   <br />
   <br />
-  07/27/2021 11:47 Playing on YTMusic
+  07/27/2021 11:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
