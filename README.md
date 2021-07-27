@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jkEJ9f6YrX4">
-    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
+  <a href="https://music.youtube.com/watch?v=ZubPLX7tz70">
+    <img width="300" src="https://lh3.googleusercontent.com/pd2nJbyEKVPw1T8sqog-0FCxukH8CDlRY9SC8UnzatZG1RoGf8jIF8DoC-ngFlqRKPdgjSAhhampIVs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 뭐(피처링: 원슈타인)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>AMY J - Me and Mine(피처링: Bambi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I Got A Feeling ]</b>
+  included in <b>[ Me and Mine (feat. Bambi) ]</b>
   
   <br />
   <br />
-  07/27/2021 12:39 Playing on YTMusic
+  07/27/2021 12:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
