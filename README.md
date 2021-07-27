@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=RHf6hF9PmA0">
-    <img width="300" src="https://lh3.googleusercontent.com/S9nLGLFQqxEbP8Y3xkFgm3Yn5YiT9qJ8AU3apAuflOzsTw67o_jOpdHiVjIUBHColXe3_5AkWoojUTxO">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 리버스(피처링: Khakii, 김모노 (Kim MONO), 안병웅)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(피처링: nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 리버스 ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  07/27/2021 12:11 Playing on YTMusic
+  07/27/2021 12:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
