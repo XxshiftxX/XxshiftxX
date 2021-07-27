@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gTtlMp6D3JU">
-    <img width="300" src="https://lh3.googleusercontent.com/Dmx3WnOMrYaX2pxbNnYdZKr6JTsuSyJ-yyqvJErdSdYyyS6mtyNjiFPJhZ0XSkKLAssizUCzq6Xi_j9E">
+  <a href="https://music.youtube.com/watch?v=RHf6hF9PmA0">
+    <img width="300" src="https://lh3.googleusercontent.com/S9nLGLFQqxEbP8Y3xkFgm3Yn5YiT9qJ8AU3apAuflOzsTw67o_jOpdHiVjIUBHColXe3_5AkWoojUTxO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쌔끈보이즈 (박재범, Don Mills, 로꼬, 넉살) - Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 리버스(피처링: Khakii, 김모노 (Kim MONO), 안병웅)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X 쌔끈보이즈 - 궁금해 (Prod. GRAY) ]</b>
+  included in <b>[ 리버스 ]</b>
   
   <br />
   <br />
-  07/27/2021 12:06 Playing on YTMusic
+  07/27/2021 12:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
