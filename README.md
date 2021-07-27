@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-9RpEdGk7P4">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=cJtlLS6LPEc">
+    <img width="300" src="https://lh3.googleusercontent.com/AkehRocN66EQuMNSEMjG54PKajNKlAMmQgBnJb3bFj6AGRgK797xLnOebDj0vpXJ1FmLg47JHwmQggpi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Daydreamin(피처링: sogumm, 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - uh-uh(피처링: Kid Milli, Gaeko)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ uh-uh ]</b>
   
   <br />
   <br />
-  07/27/2021 12:56 Playing on YTMusic
+  07/27/2021 13:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
