@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=veRIGU--tec">
-    <img width="300" src="https://lh3.googleusercontent.com/XAYtmYDUhTHP8OYsTCWcAP7Lc5ONv1s4wIciqhVIVm-fEmvvpdCv7ArLnGQ0ImXd77j-WW1WabCQsiAytA">
+  <a href="https://music.youtube.com/watch?v=JPTunZy4Fl8">
+    <img width="300" src="https://lh3.googleusercontent.com/dv2l0hb_71e3geWHrcMkb6nAEhK5C-3pT9_ItGRwcaw7qXqPxmf9y8MbuSbcxTFl_hfwrJAPgBPl4GbN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 아퍼(피처링: 릴타치, 씨잼(C Jamm), 김승민, 장용준)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jay Park - All I Wanna Do (Korean Version)(피처링: Hoody, Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 100년제전문대학 ]</b>
+  included in <b>[ Everything You Wanted ]</b>
   
   <br />
   <br />
-  07/27/2021 12:19 Playing on YTMusic
+  07/27/2021 12:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
