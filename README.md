@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
-    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
+  <a href="https://music.youtube.com/watch?v=QMWg5KwSj78">
+    <img width="300" src="https://lh3.googleusercontent.com/5fcoPLx6m5sG_NSSF3yphHfwjqMxEUrR-7LfziupehjLDO8OrxjBjXb4947pkm8dNBmkjwoB5mb0xG4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(피처링: M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - A STAR IS BORN Remix(피처링: MELOH, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ "SIKE"! ]</b>
+  included in <b>[ More ISLAND ]</b>
   
   <br />
   <br />
-  07/29/2021 18:43 Playing on YTMusic
+  07/29/2021 18:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
