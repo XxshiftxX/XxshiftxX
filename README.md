@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3D9ehtpRl5c">
-    <img width="300" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">
+  <a href="https://music.youtube.com/watch?v=jkEJ9f6YrX4">
+    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 뭐(피처링: 원슈타인)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ASH ]</b>
+  included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  07/29/2021 17:22 Playing on YTMusic
+  07/29/2021 17:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
