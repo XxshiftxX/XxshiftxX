@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NZcnHur9PDw">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=62fRQxs1w48">
+    <img width="300" src="https://lh3.googleusercontent.com/XTCJZU8hIdcJdQWne9NVGQsFEr_yOu-9IzrSzP8XX_fqxrftPIHi6tn7C18mBxuEEJROeMeHAWo7alU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Quiett, Simon Dominic, Nucksal, Jay Park, Loco, pH-1, CHANGMO, YUMDDA, Way Ched, WOOGIE - 멘토스 (Mentors)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ 고등래퍼4 Episode 0 ]</b>
   
   <br />
   <br />
-  07/29/2021 16:53 Playing on YTMusic
+  07/29/2021 16:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
