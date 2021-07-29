@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PU_StuNUkHs">
-    <img width="300" src="https://lh3.googleusercontent.com/ef6VKj-1mE43vOzGcosfohBLjzWgwXD35lP4Ta6XnoWeIGIdp5sWFK6eIM0DzwcCxJJqB5xzX5oCaIwT">
+  <a href="https://music.youtube.com/watch?v=m8L2OLu6JZo">
+    <img width="300" src="https://lh3.googleusercontent.com/IxWUdU7at6TvGHc0OAvJocszK88uz4RHk3gq4ps7M4DUqraOJoScgt697L-bIkuvk4SI0v0Hka_eJTnN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Hula Hoops(피처링: Beenzino, 화사, Hwa Sa)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 멜로디</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IITE COOL ]</b>
+  included in <b>[ 멜로디 ]</b>
   
   <br />
   <br />
-  07/29/2021 18:53 Playing on YTMusic
+  07/29/2021 18:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
