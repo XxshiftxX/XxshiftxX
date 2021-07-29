@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uwy5hGT6i7Q">
-    <img width="300" src="https://lh3.googleusercontent.com/GMXEG4isA1AO-uCNz8jeOtNdU2hfCeKuP7BBGV5G9P0DT8GitgZKuwJbDhPQxWOPXGzfcwL4p21S-poI">
+  <a href="https://music.youtube.com/watch?v=8k821Tx_8cA">
+    <img width="300" src="https://lh3.googleusercontent.com/wcgeUaiVvoJHVxY0WcY1He_9QIWKrHoAkYSf3AQv14Q643vVWrS9kmT4Ev0HT9hbPAO_D63QtbxuwF0n">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jay Park, YLN Foreign, D.Ark 및 365LIT - DNA Remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IMJMWDP ]</b>
+  included in <b>[ DNA Remix ]</b>
   
   <br />
   <br />
-  07/29/2021 16:28 Playing on YTMusic
+  07/29/2021 16:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
