@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QMWg5KwSj78">
-    <img width="300" src="https://lh3.googleusercontent.com/5fcoPLx6m5sG_NSSF3yphHfwjqMxEUrR-7LfziupehjLDO8OrxjBjXb4947pkm8dNBmkjwoB5mb0xG4">
+  <a href="https://music.youtube.com/watch?v=PU_StuNUkHs">
+    <img width="300" src="https://lh3.googleusercontent.com/ef6VKj-1mE43vOzGcosfohBLjzWgwXD35lP4Ta6XnoWeIGIdp5sWFK6eIM0DzwcCxJJqB5xzX5oCaIwT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - A STAR IS BORN Remix(피처링: MELOH, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Hula Hoops(피처링: Beenzino, 화사, Hwa Sa)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ More ISLAND ]</b>
+  included in <b>[ IITE COOL ]</b>
   
   <br />
   <br />
-  07/29/2021 18:50 Playing on YTMusic
+  07/29/2021 18:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
