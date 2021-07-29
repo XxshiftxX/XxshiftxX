@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uhb6vgDaSiM">
-    <img width="300" src="https://lh3.googleusercontent.com/IRaYAffVgeONy_6eG8_w-elapvI0oilQlv1-9iEFfIGu-i18r65-dnZuU712bDZCO0EYiopHV09DyfMn">
+  <a href="https://music.youtube.com/watch?v=gaJJPHP2_WQ">
+    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - 아뜰리에</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - I Got A Feeling</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2 MANY HOMES 4 1 KID ]</b>
+  included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  07/28/2021 16:52 Playing on YTMusic
+  07/29/2021 14:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
