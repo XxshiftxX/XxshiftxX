@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=etgNSJzOd5k">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/watch?v=bsgBUM2Mnsw">
+    <img width="300" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - iii(피처링: 베이식, 키드밀리, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO), 해쉬 스완(Hash Swan), ASH ISLAND 및 김효은 - BAND</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Semi Final ]</b>
+  included in <b>[ BAND ]</b>
   
   <br />
   <br />
-  07/29/2021 17:02 Playing on YTMusic
+  07/29/2021 17:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
