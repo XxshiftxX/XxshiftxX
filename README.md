@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gaJJPHP2_WQ">
+  <a href="https://music.youtube.com/watch?v=364y6lFfP1E">
     <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - I Got A Feeling</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 잠시</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  07/29/2021 14:13 Playing on YTMusic
+  07/29/2021 14:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
