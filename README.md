@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_3WPRHVM9FU">
+  <a href="https://music.youtube.com/watch?v=zqpMDHhDo4I">
     <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - SWIPE(피처링: Ourealgoat, Lil Nekh)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Kilo (Bonus Track)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  07/29/2021 16:18 Playing on YTMusic
+  07/29/2021 16:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
