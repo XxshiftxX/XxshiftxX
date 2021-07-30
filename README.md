@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zc4heSl9ctY">
-    <img width="300" src="https://lh3.googleusercontent.com/Vgx1ug4utIAR8pOe-5X6-z3T0AK8NUrlouAiADfc4icdwAMhsQYwlYTz7g3RagxFvTpkKP_zsauURLfF">
+  <a href="https://music.youtube.com/watch?v=ZhTAsP0YK5c">
+    <img width="300" src="https://lh3.googleusercontent.com/mFl5nY7q4oy2uncfxcBvJNUphaIxsXF_5mVFEzU9wkqLHuIJmo0dAsMPsENFC9JNFc5MW5bIev_bLGIALw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Simion Dominic - Stay Cool</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZICO - 오만과 편견(피처링: SURAN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 스테이 쿨 ]</b>
+  included in <b>[ GALLERY ]</b>
   
   <br />
   <br />
-  07/30/2021 11:13 Playing on YTMusic
+  07/30/2021 11:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
