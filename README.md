@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PjLMkI9lt2c">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=9M8_Tnt6GMU">
+    <img width="300" src="https://lh3.googleusercontent.com/MOfAxhoi3tOvzHvJJQgIZh5HBL-38ejKOHOIGhwmYX0BiF8ruf-AOJgit9Ep8WGbv_OHFi8_BxO6v0eG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(피처링: 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>케로 원 - In All the Wrong Places</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ Windmills of the Soul ]</b>
   
   <br />
   <br />
-  07/29/2021 19:06 Playing on YTMusic
+  07/30/2021 10:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
