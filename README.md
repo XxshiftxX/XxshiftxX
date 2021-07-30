@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9M8_Tnt6GMU">
-    <img width="300" src="https://lh3.googleusercontent.com/MOfAxhoi3tOvzHvJJQgIZh5HBL-38ejKOHOIGhwmYX0BiF8ruf-AOJgit9Ep8WGbv_OHFi8_BxO6v0eG">
+  <a href="https://music.youtube.com/watch?v=xb7qScMY__M">
+    <img width="300" src="https://lh3.googleusercontent.com/oy43V7V6zXyMMvC6R6rGt3zDcACMteV7o_JrGWwWbpN9egw4rszd1GGrim8kW0DB4YwXOCeXk7e66aY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>케로 원 - In All the Wrong Places</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty - 시발점 Remix(피처링: Verbal Jint, Beenzino)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Windmills of the Soul ]</b>
+  included in <b>[ 시발점 Remix ]</b>
   
   <br />
   <br />
-  07/30/2021 10:59 Playing on YTMusic
+  07/30/2021 11:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
