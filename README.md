@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HCefnNBtCd8">
-    <img width="300" src="https://lh3.googleusercontent.com/fO9W2zC5sHaTKFacWRb-AbJ3FOUiqjpo5DI64xbm9CzyCWFKWuykabZE2dikdCx3caoc2VbeqeNKTU75Uw">
+  <a href="https://music.youtube.com/watch?v=IZpVHj49PGs">
+    <img width="300" src="https://lh3.googleusercontent.com/qA6k8zy2bDJY7YRQNtoGL3-RP0xKNtKY0S-PF-utt4uNEPOIZHzKEQ925t-azabDdWhwRoCeRmXP-ZfZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PATEKO (파테코), 제이씨 유카 및 Kid Wine - 사라지나요</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>영비(YoungB) - BoY(피처링: 비와이(BewhY))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 어서와요 키카코 하우스 ]</b>
+  included in <b>[ Show Me the Money 8 Final ]</b>
   
   <br />
   <br />
-  08/02/2021 13:27 Playing on YTMusic
+  08/02/2021 17:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
