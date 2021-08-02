@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8g9MH0fOQJU">
+  <a href="https://music.youtube.com/watch?v=3jZP7aAZZ_E">
     <img width="300" src="https://lh3.googleusercontent.com/qA6k8zy2bDJY7YRQNtoGL3-RP0xKNtKY0S-PF-utt4uNEPOIZHzKEQ925t-azabDdWhwRoCeRmXP-ZfZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>펀치넬로 - JUNGLE(피처링: 페노메코(PENOMECO), 샘김(Sam Kim))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>타쿠와 - Far Away(피처링: 스윙스, 키드밀리)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Show Me the Money 8 Final ]</b>
   
   <br />
   <br />
-  08/02/2021 18:00 Playing on YTMusic
+  08/02/2021 18:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
