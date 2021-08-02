@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=p4fQG_ZTAEk">
-    <img width="300" src="https://lh3.googleusercontent.com/ELSIEtko0yMwgEu7Q48yVre63yeQ-OchtUhA6_CLCf2XAj_htocgRSNiNFUmrpESnssr8X38Yzmuwofc">
+  <a href="https://music.youtube.com/watch?v=HCefnNBtCd8">
+    <img width="300" src="https://lh3.googleusercontent.com/fO9W2zC5sHaTKFacWRb-AbJ3FOUiqjpo5DI64xbm9CzyCWFKWuykabZE2dikdCx3caoc2VbeqeNKTU75Uw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김민석 (멜로망스) - 나비가 날았습니다</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PATEKO (파테코), 제이씨 유카 및 Kid Wine - 사라지나요</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 너는 나의 봄 OST Part 4 ]</b>
+  included in <b>[ 어서와요 키카코 하우스 ]</b>
   
   <br />
   <br />
-  08/02/2021 13:23 Playing on YTMusic
+  08/02/2021 13:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
