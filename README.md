@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rQDiyAc_Mz8">
-    <img width="300" src="https://lh3.googleusercontent.com/Oe7gKtnckqLhdn0eaZO4qDWNKn5VEvidRxQf-wHmW62xmdiPjtoWABwCfIODGnxc2hDj7p5ovubvVbI">
+  <a href="https://music.youtube.com/watch?v=p4fQG_ZTAEk">
+    <img width="300" src="https://lh3.googleusercontent.com/ELSIEtko0yMwgEu7Q48yVre63yeQ-OchtUhA6_CLCf2XAj_htocgRSNiNFUmrpESnssr8X38Yzmuwofc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>경서예지 - 은하수를 닮은 너에게(피처링: 몰리디)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김민석 (멜로망스) - 나비가 날았습니다</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 은하수를 닮은 너에게 ]</b>
+  included in <b>[ 너는 나의 봄 OST Part 4 ]</b>
   
   <br />
   <br />
-  08/02/2021 13:19 Playing on YTMusic
+  08/02/2021 13:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
