@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P2w7AojKwlg">
-    <img width="300" src="https://lh3.googleusercontent.com/BFCD6Jj70jcqb7ZAwyqGmfqARdU54zms61T88OR1qUCbiSvSF_jwMGKnF555suugJV_XgbAweo2KI619">
+  <a href="https://music.youtube.com/watch?v=veRIGU--tec">
+    <img width="300" src="https://lh3.googleusercontent.com/XAYtmYDUhTHP8OYsTCWcAP7Lc5ONv1s4wIciqhVIVm-fEmvvpdCv7ArLnGQ0ImXd77j-WW1WabCQsiAytA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 너무해(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 아퍼(피처링: 릴타치, 씨잼(C Jamm), 김승민, 장용준)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [L] (DELUXE) ]</b>
+  included in <b>[ 100년제전문대학 ]</b>
   
   <br />
   <br />
-  08/03/2021 13:03 Playing on YTMusic
+  08/03/2021 13:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
