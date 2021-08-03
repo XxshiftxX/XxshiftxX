@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3jZP7aAZZ_E">
-    <img width="300" src="https://lh3.googleusercontent.com/qA6k8zy2bDJY7YRQNtoGL3-RP0xKNtKY0S-PF-utt4uNEPOIZHzKEQ925t-azabDdWhwRoCeRmXP-ZfZ">
+  <a href="https://music.youtube.com/watch?v=JPTunZy4Fl8">
+    <img width="300" src="https://lh3.googleusercontent.com/dv2l0hb_71e3geWHrcMkb6nAEhK5C-3pT9_ItGRwcaw7qXqPxmf9y8MbuSbcxTFl_hfwrJAPgBPl4GbN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>타쿠와 - Far Away(피처링: 스윙스, 키드밀리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jay Park - All I Wanna Do (Korean Version)(피처링: Hoody, Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 8 Final ]</b>
+  included in <b>[ Everything You Wanted ]</b>
   
   <br />
   <br />
-  08/02/2021 18:03 Playing on YTMusic
+  08/03/2021 12:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
