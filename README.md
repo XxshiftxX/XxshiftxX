@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=14SVhwqHuqo">
-    <img width="300" src="https://i.ytimg.com/vi/14SVhwqHuqo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=lCBF_XSFmng">
+    <img width="300" src="https://i.ytimg.com/vi/lCBF_XSFmng/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - 🌊 청량한 여름에는, 2021년 6월 VOCALOID 인기차트 TOP 50 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>피노키오P - モチべーションが死んでる</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 6.8만회 ]</b>
+  included in <b>[ 조회수 271만회 ]</b>
   
   <br />
   <br />
-  08/03/2021 14:59 Playing on YTMusic
+  08/03/2021 16:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
