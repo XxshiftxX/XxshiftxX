@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lCBF_XSFmng">
-    <img width="300" src="https://i.ytimg.com/vi/lCBF_XSFmng/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=L13gCEZJVRU">
+    <img width="300" src="https://i.ytimg.com/vi/L13gCEZJVRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>피노키오P - モチべーションが死んでる</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Orangestar - Henceforth (feat. IA) Official Video</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 271만회 ]</b>
+  included in <b>[ 조회수 967만회 ]</b>
   
   <br />
   <br />
-  08/03/2021 16:11 Playing on YTMusic
+  08/03/2021 16:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
