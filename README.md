@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LZi2wRdMdzM">
-    <img width="300" src="https://lh3.googleusercontent.com/KMoDDGXcSSgD_ln0xIAItgYQv3mz3P1KoRe0gv_q8n-AS1tmYe2eU4A1MPqFzaTpsL8HTn7LIEd4ZOCS">
+  <a href="https://music.youtube.com/watch?v=18taoPtL1-I">
+    <img width="300" src="https://lh3.googleusercontent.com/sOc1c8ksWJ_ASiZt9GNEJ3drvJ_snBGryob2pjqc2Ef66xdfJCGy7SCvVgg5ObDT1joxn7B1dDRmkhI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid (Remix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴보이, 로꼬 및 박재범 - ON IT + BO$</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Paranoid (Remix) ]</b>
+  included in <b>[ Show Me the Money 4 Episode 4 ]</b>
   
   <br />
   <br />
-  08/03/2021 13:14 Playing on YTMusic
+  08/03/2021 13:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
