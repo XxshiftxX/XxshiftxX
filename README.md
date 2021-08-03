@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xmXHQUAWLA8">
-    <img width="300" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">
+  <a href="https://music.youtube.com/watch?v=P2w7AojKwlg">
+    <img width="300" src="https://lh3.googleusercontent.com/BFCD6Jj70jcqb7ZAwyqGmfqARdU54zms61T88OR1qUCbiSvSF_jwMGKnF555suugJV_XgbAweo2KI619">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - 호랑이소굴(피처링: Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 너무해(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 호랑이소굴 ]</b>
+  included in <b>[ [L] (DELUXE) ]</b>
   
   <br />
   <br />
-  08/03/2021 13:00 Playing on YTMusic
+  08/03/2021 13:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
