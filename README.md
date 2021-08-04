@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3nB-JLxLrX0">
-    <img width="300" src="https://lh3.googleusercontent.com/xCo2s3t7D--mu1PJYifAzhmSbxoLYlFgDM2WxE-U9P9JQbBp06Tp1UnccRM91oXkiW6TpApbSBGxp-6y">
+  <a href="https://music.youtube.com/watch?v=d2Svr6j8OuI">
+    <img width="300" src="https://lh3.googleusercontent.com/kR_RBDwAIwlFZYbKElfaOWWW1Nu-y0fv4Td-yqw-8utVPLkDIRvGDjm6hXEYyUbwVP9UdA4qQbES_5eePw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Rap Legend</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - gui gam(피처링: zene the zilla)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 1집 : Rap Legend ]</b>
+  included in <b>[ glow forever ]</b>
   
   <br />
   <br />
-  08/04/2021 19:58 Playing on YTMusic
+  08/04/2021 20:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
