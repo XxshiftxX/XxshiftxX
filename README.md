@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8hTMXZ8hVd8">
-    <img width="300" src="https://lh3.googleusercontent.com/0fwxWy4PhaIpGje7n3umflSZx3pk2inzix-RKOPix4SV9v37FEfaCx8Je0gQs1FqyJZI5K8Sg0pxKyA">
+  <a href="https://music.youtube.com/watch?v=gDmNHke1rIM">
+    <img width="300" src="https://lh3.googleusercontent.com/tUNZ57vAPKygLyIhL6VON2E42U2YHFMDPNrZz6AAdDIA8QqdCoTEfBOcaf9iEQ2EMVlIaEFuXObLtXc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>비와이(BewhY) - The Time Goes On</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE(수퍼비), UNEDUCATED KID - Trouble Child(문제아) (Full Ver.)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Time Travel ]</b>
+  included in <b>[ Catch Me If You Can ]</b>
   
   <br />
   <br />
-  08/04/2021 20:03 Playing on YTMusic
+  08/04/2021 20:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
