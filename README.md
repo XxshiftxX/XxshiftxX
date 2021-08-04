@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5nuz4ZEoBfw">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/watch?v=3nB-JLxLrX0">
+    <img width="300" src="https://lh3.googleusercontent.com/xCo2s3t7D--mu1PJYifAzhmSbxoLYlFgDM2WxE-U9P9JQbBp06Tp1UnccRM91oXkiW6TpApbSBGxp-6y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - One More Rollie(피처링: 김효은, Hash Swan)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Rap Legend</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gettin Money Moment ]</b>
+  included in <b>[ 1집 : Rap Legend ]</b>
   
   <br />
   <br />
-  08/04/2021 19:53 Playing on YTMusic
+  08/04/2021 19:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
