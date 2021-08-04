@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=o1U7TewX-OA">
-    <img width="300" src="https://lh3.googleusercontent.com/jcC_nN8vCVQZhHF9PViqM-cn-wWqVaI2AlDNH-HbNy1frX1cabFOjNr_q0pKjVQ4gwiTNbmvv5fl0ts">
+  <a href="https://music.youtube.com/watch?v=P4gRnBDn3vo">
+    <img width="300" src="https://lh3.googleusercontent.com/4DASBhIRAgCFRte_In6V714gASXB4H8BMXvH-Os0xfNZZqOLwGJXHD3uVyXiGp3JLQNVQg4HUZoBJLY61A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 돈이 하게 했어</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 절대 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 돈 벌 시간 2 ]</b>
+  included in <b>[ 절대 ]</b>
   
   <br />
   <br />
-  08/04/2021 20:12 Playing on YTMusic
+  08/04/2021 20:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
