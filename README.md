@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=d2Svr6j8OuI">
-    <img width="300" src="https://lh3.googleusercontent.com/kR_RBDwAIwlFZYbKElfaOWWW1Nu-y0fv4Td-yqw-8utVPLkDIRvGDjm6hXEYyUbwVP9UdA4qQbES_5eePw">
+  <a href="https://music.youtube.com/watch?v=8hTMXZ8hVd8">
+    <img width="300" src="https://lh3.googleusercontent.com/0fwxWy4PhaIpGje7n3umflSZx3pk2inzix-RKOPix4SV9v37FEfaCx8Je0gQs1FqyJZI5K8Sg0pxKyA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - gui gam(피처링: zene the zilla)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>비와이(BewhY) - The Time Goes On</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ glow forever ]</b>
+  included in <b>[ Time Travel ]</b>
   
   <br />
   <br />
-  08/04/2021 20:00 Playing on YTMusic
+  08/04/2021 20:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
