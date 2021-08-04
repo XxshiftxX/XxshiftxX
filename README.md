@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vyKghlWeWUQ">
-    <img width="300" src="https://i.ytimg.com/vi/vyKghlWeWUQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://www.youtube.com/channel/UC9xMQ_6OyPBehAiNu_fo5wg">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLT3ahx378EKAtmZ3N9pJWRIhqw_RhfPQ_nu-i1uYw=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - ✈️ 작업속도 39배 ✈️ | 2021년 5월 VOCALOID 인기차트 TOP 50 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>WHO IS sokodomo - 쇼미더머니10 우승자 소코도모 지원영상</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 9.7만회 ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  08/03/2021 16:21 Playing on YTMusic
+  08/04/2021 12:58 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
