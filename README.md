@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AptiSxAOJD8">
-    <img width="300" src="https://lh3.googleusercontent.com/YsMEt5I7wypnjEJdsW9HjwfZ488V8ney-wORT_O7uuJmreaOvyj5bed55dQXCGG6guKjdI94eXBH4y3cSA">
+  <a href="https://music.youtube.com/watch?v=EoNdCrzokmI">
+    <img width="300" src="https://lh3.googleusercontent.com/uPgvrKaLgdIj78oZXXw3_c-icJ1ceJlgaZ32zmTKmTxb7BjWph44MO7B00Vk7ee1w1jRi35LAGTjwZABPw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Give No F(피처링: Juvie Train, Uneducated Kid)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 좋아한다니까</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Rap Legend 2 ]</b>
+  included in <b>[ 좋아한다니까 ]</b>
   
   <br />
   <br />
-  08/04/2021 19:46 Playing on YTMusic
+  08/04/2021 19:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
