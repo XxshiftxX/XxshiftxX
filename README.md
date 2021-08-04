@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EoNdCrzokmI">
-    <img width="300" src="https://lh3.googleusercontent.com/uPgvrKaLgdIj78oZXXw3_c-icJ1ceJlgaZ32zmTKmTxb7BjWph44MO7B00Vk7ee1w1jRi35LAGTjwZABPw">
+  <a href="https://music.youtube.com/watch?v=5nuz4ZEoBfw">
+    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 좋아한다니까</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - One More Rollie(피처링: 김효은, Hash Swan)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 좋아한다니까 ]</b>
+  included in <b>[ Gettin Money Moment ]</b>
   
   <br />
   <br />
-  08/04/2021 19:50 Playing on YTMusic
+  08/04/2021 19:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
