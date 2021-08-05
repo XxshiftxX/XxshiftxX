@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xb7qScMY__M">
-    <img width="300" src="https://lh3.googleusercontent.com/oy43V7V6zXyMMvC6R6rGt3zDcACMteV7o_JrGWwWbpN9egw4rszd1GGrim8kW0DB4YwXOCeXk7e66aY">
+  <a href="https://music.youtube.com/watch?v=LE1XskraNfI">
+    <img width="300" src="https://i.ytimg.com/vi/LE1XskraNfI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty - 시발점 Remix(피처링: Verbal Jint, Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - DECO*27 - ハートアラモード feat. 初音ミク</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 시발점 Remix ]</b>
+  included in <b>[ 조회수 583만회 ]</b>
   
   <br />
   <br />
-  08/05/2021 18:03 Playing on YTMusic
+  08/05/2021 18:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
