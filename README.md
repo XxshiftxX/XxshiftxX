@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Iq7j441JMbA">
-    <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
+  <a href="https://music.youtube.com/watch?v=vyKghlWeWUQ">
+    <img width="300" src="https://i.ytimg.com/vi/vyKghlWeWUQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - Flamewall</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - ✈️ 작업속도 39배 ✈️ | 2021년 5월 VOCALOID 인기차트 TOP 50 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Tera I / O ]</b>
+  included in <b>[ 조회수 9.8만회 ]</b>
   
   <br />
   <br />
-  08/05/2021 17:31 Playing on YTMusic
+  08/05/2021 17:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
