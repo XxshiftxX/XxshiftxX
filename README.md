@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9smDx7jBXMQ">
-    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
+  <a href="https://music.youtube.com/watch?v=4PK2n52X-4I">
+    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Big Naughty - 문제 Problems(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - 방에 혼자 있을 때(피처링: 창모(CHANGMO), ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 8 Episode 4 ]</b>
+  included in <b>[ Violinist ]</b>
   
   <br />
   <br />
-  08/05/2021 17:57 Playing on YTMusic
+  08/05/2021 17:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
