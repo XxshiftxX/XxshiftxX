@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bHT6-nWyhfM">
-    <img width="300" src="https://i.ytimg.com/vi/bHT6-nWyhfM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=vyKghlWeWUQ">
+    <img width="300" src="https://i.ytimg.com/vi/vyKghlWeWUQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jazz Cafe Bgm - Jazz Music 달콤한 재즈와 평화로운 레스토랑 공간 - 맛있고 행복한 식사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - ✈️ 작업속도 39배 ✈️ | 2021년 5월 VOCALOID 인기차트 TOP 50 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 17만회 ]</b>
+  included in <b>[ 조회수 9.8만회 ]</b>
   
   <br />
   <br />
-  08/05/2021 08:43 Playing on YTMusic
+  08/05/2021 12:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
