@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Yp_6H788zyY">
-    <img width="300" src="https://lh3.googleusercontent.com/Mceqf_xAksEhrHwFR90TLjRRW2D00teppM02jdjJcsqbglVoH_idaKpg2qYGOVaYCqr6v35HkQnay_QH">
+  <a href="https://music.youtube.com/watch?v=fVjelTeiSkc">
+    <img width="300" src="https://lh3.googleusercontent.com/Gy2sQgQaRayOfzOlxtO1fNFefwzSDNCKKcfDbw5HqjmEUCuMn5-Oh2xv-oCl1Rnh-DYe0Ffoe8MP0Og8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Mido and Falasol - 이젠 잊기로 해요 (Drama Ver.)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Solar 및 Moon Byul - Promise U</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 슬기로운 의사생활 시즌2 OST Special (tvN 목요드라마) ]</b>
+  included in <b>[ PROMISE U (REVIBE Vol.1) ]</b>
   
   <br />
   <br />
-  08/05/2021 13:29 Playing on YTMusic
+  08/05/2021 13:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
