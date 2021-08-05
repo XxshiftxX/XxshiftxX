@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0Remc4lR92o">
-    <img width="300" src="https://lh3.googleusercontent.com/xYae6fkCp-dtyd69njrYn6ko1g4euKRz13JaJoiAt904hzWC1lOqqD2KY08Qczjp29mDu7-uxHvSFfFd">
+  <a href="https://music.youtube.com/watch?v=hOvlw9XV-d8">
+    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 이혼서류</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1, BIG Naughty, TRADE L 및 Woodie Gochild - VVS (H1GHR Remix) [Prod. GroovyRoom]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 치명적인 맛보기 2곡 ]</b>
+  included in <b>[ 굴젓 (G＋Jus) ]</b>
   
   <br />
   <br />
-  08/05/2021 17:49 Playing on YTMusic
+  08/05/2021 17:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
