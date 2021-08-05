@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fVjelTeiSkc">
-    <img width="300" src="https://lh3.googleusercontent.com/Gy2sQgQaRayOfzOlxtO1fNFefwzSDNCKKcfDbw5HqjmEUCuMn5-Oh2xv-oCl1Rnh-DYe0Ffoe8MP0Og8">
+  <a href="https://music.youtube.com/watch?v=bRUXDIALBKE">
+    <img width="300" src="https://lh3.googleusercontent.com/ICK3kZG3cHbIcoWkUxRRUJT3IHnrIfAqVEK1_-A15ieN4UneKjmj-q93eTC9p_7DS2_-Swym6Ix3RwIx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Solar 및 Moon Byul - Promise U</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BTS (방탄소년단) - Permission to Dance (R&B Remix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROMISE U (REVIBE Vol.1) ]</b>
+  included in <b>[ Permission to Dance ]</b>
   
   <br />
   <br />
-  08/05/2021 13:30 Playing on YTMusic
+  08/05/2021 13:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
