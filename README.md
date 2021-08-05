@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rEnq16GZTX0">
-    <img width="300" src="https://i.ytimg.com/vi/rEnq16GZTX0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=i70ojl6VEUQ">
+    <img width="300" src="https://i.ytimg.com/vi/i70ojl6VEUQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>설레임 에디션 ♬ - [하나나X휴복] 춤춰라 오케스트라! (踊れオーケストラ) Korean Cover</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>카히라 - 혈계전선 1기 op 슈가송과 비터스텝</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 82만회 ]</b>
+  included in <b>[ 조회수 43만회 ]</b>
   
   <br />
   <br />
-  08/05/2021 13:07 Playing on YTMusic
+  08/05/2021 13:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
