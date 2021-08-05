@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=64ftDYJXcTo">
-    <img width="300" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">
+  <a href="https://www.youtube.com/channel/UCManvmyxmnrWcmlm8_VfiAA">
+    <img width="300" src="https://yt3.ggpht.com/F_Lp_j4xoJhYkfn0LeTo742K7z1jT0qpyVwPcKxjKwwPNs-5THEHWlMyFayfzIfVf1ilQJV2=s48-c-k-c0x00ffffff-no-nd-rj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>요루시카 - だから僕は音楽を辞めた</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BewhY - BewhY (비와이) - Celebration [Official Music Video]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ だから僕は音楽を辞めた ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  08/05/2021 18:11 Playing on YTMusic
+  08/06/2021 01:52 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
