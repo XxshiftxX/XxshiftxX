@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qufS-aS9aX4">
-    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
+  <a href="https://music.youtube.com/watch?v=Iq7j441JMbA">
+    <img width="300" src="https://lh3.googleusercontent.com/hSLiVOV0P68gVhj2CzZcrnKvH3i2MNIs4ZtMm-3JfvaKx-s5L5VXeZOTys2Lv9ojBCApm0ZcM2vijtr8EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - Please</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마사야 오야 - Flamewall</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Violinist ]</b>
+  included in <b>[ Tera I / O ]</b>
   
   <br />
   <br />
-  08/05/2021 13:48 Playing on YTMusic
+  08/05/2021 17:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
