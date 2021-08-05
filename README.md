@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ERo-sPa1a5g">
-    <img width="300" src="https://i.ytimg.com/vi/ERo-sPa1a5g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=L1KBaVHAdS8">
+    <img width="300" src="https://i.ytimg.com/vi/L1KBaVHAdS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GigaP(기가P) 및 하치오지P - Gimme×Gimme(피처링: 하츠네 미쿠, Rin Kagamine)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>강 지 - 【강지】 내가 죽으려고 생각 한것은 한국어 커버 (僕が死のうと思ったのは korean cover)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1470만회 ]</b>
+  included in <b>[ 조회수 994만회 ]</b>
   
   <br />
   <br />
-  08/05/2021 13:16 Playing on YTMusic
+  08/05/2021 13:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
