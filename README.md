@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NZcnHur9PDw">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=xb7qScMY__M">
+    <img width="300" src="https://lh3.googleusercontent.com/oy43V7V6zXyMMvC6R6rGt3zDcACMteV7o_JrGWwWbpN9egw4rszd1GGrim8kW0DB4YwXOCeXk7e66aY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Yay(피처링: Youngji Lee, 제이미, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty - 시발점 Remix(피처링: Verbal Jint, Beenzino)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ 시발점 Remix ]</b>
   
   <br />
   <br />
-  08/05/2021 18:01 Playing on YTMusic
+  08/05/2021 18:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
