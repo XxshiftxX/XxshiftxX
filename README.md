@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ds0vwgwxXRY">
-    <img width="300" src="https://lh3.googleusercontent.com/iGP5HeyZao8SD7kH7VC872iseyKldFaV1ceAxaUAGrWfe1M9fEu1SudK5YO3BPJjvHMTg1XZWsYWowODLQ">
+  <a href="https://music.youtube.com/watch?v=gsLQpBEC7QA">
+    <img width="300" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 아이야(피처링: Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 파티피플(피처링: Uneducated Kid, 염따)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 돈 벌 시간 3 ]</b>
+  included in <b>[ 갑분기 ]</b>
   
   <br />
   <br />
-  08/06/2021 13:50 Playing on YTMusic
+  08/06/2021 13:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
