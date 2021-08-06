@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tkzYyEp4zB4">
-    <img width="300" src="https://lh3.googleusercontent.com/KRU-LikB-YvAXaEeHgh_8ismnHXjT_GRgr3PKv2Hjcm7Y9TNyzb2cHRKv0B5MaySP9A1ifqSazQSwPd9">
+  <a href="https://music.youtube.com/watch?v=INLFlN-PZq4">
+    <img width="300" src="https://lh3.googleusercontent.com/Eb4F6fw9Q10ZXODpe4iFDSSn_AQgC3r19HkGT9B1FDOjxg-4vsAMUEqIrjTckWodpjMu4Wb48J1eig5J">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>aespa - Next Level</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>태연 (TAEYEON) - Weekend</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Next Level ]</b>
+  included in <b>[ Weekend ]</b>
   
   <br />
   <br />
-  08/06/2021 12:04 Playing on YTMusic
+  08/06/2021 12:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
