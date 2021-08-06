@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_3WPRHVM9FU">
-    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
+  <a href="https://music.youtube.com/watch?v=tkzYyEp4zB4">
+    <img width="300" src="https://lh3.googleusercontent.com/KRU-LikB-YvAXaEeHgh_8ismnHXjT_GRgr3PKv2Hjcm7Y9TNyzb2cHRKv0B5MaySP9A1ifqSazQSwPd9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - SWIPE(피처링: Ourealgoat, Lil Nekh)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>aespa - Next Level</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I Got A Feeling ]</b>
+  included in <b>[ Next Level ]</b>
   
   <br />
   <br />
-  08/06/2021 12:03 Playing on YTMusic
+  08/06/2021 12:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
