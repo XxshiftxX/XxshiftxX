@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wkVlb8rSies">
-    <img width="300" src="https://lh3.googleusercontent.com/px1h0zoo0hYxNDqJJBBRsuicTA48sqRyK7gTyvlEN-qZK5Pxbp9twP846C0JBbAMS5tvHStbhJt0UEM">
+  <a href="https://music.youtube.com/watch?v=HCefnNBtCd8">
+    <img width="300" src="https://lh3.googleusercontent.com/fO9W2zC5sHaTKFacWRb-AbJ3FOUiqjpo5DI64xbm9CzyCWFKWuykabZE2dikdCx3caoc2VbeqeNKTU75Uw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>OH MY GIRL - Dun Dun Dance</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PATEKO (파테코), 제이씨 유카 및 Kid Wine - 사라지나요</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dear OHMYGIRL ]</b>
+  included in <b>[ 어서와요 키카코 하우스 ]</b>
   
   <br />
   <br />
-  08/06/2021 12:10 Playing on YTMusic
+  08/06/2021 13:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
