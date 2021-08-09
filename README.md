@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MVVcWEsbXQw">
-    <img width="300" src="https://i.ytimg.com/vi/MVVcWEsbXQw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=pPDdcDSLHaI">
+    <img width="300" src="https://i.ytimg.com/vi/pPDdcDSLHaI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>구리리 Guriri - 【Han＆Guriri】로키/ROKI 한국어 커버 (ロキ Korean cover)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>강 지 - 【강지X너불】 ✿니아! (Near, ニア)✿ 「Korean Cover」</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 599만회 ]</b>
+  included in <b>[ 조회수 395만회 ]</b>
   
   <br />
   <br />
-  08/09/2021 17:08 Playing on YTMusic
+  08/09/2021 17:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
