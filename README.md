@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=B7AEoFvEcbA">
-    <img width="300" src="https://i.ytimg.com/vi/B7AEoFvEcbA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=NiIVTXTuQug">
+    <img width="300" src="https://i.ytimg.com/vi/NiIVTXTuQug/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>nukiki - 💛쿄누키💛 리그렛 메세지(リグレットメッセージ) -Ballad version- 【Original ＰＶ】</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>하치오지P - 八王子P「Twinkle World feat. 初音ミク」Music Video(피처링: 하츠네 미쿠)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 34만회 ]</b>
+  included in <b>[ 조회수 144만회 ]</b>
   
   <br />
   <br />
-  08/09/2021 17:16 Playing on YTMusic
+  08/09/2021 17:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
