@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UC_qla6FQwM">
-    <img width="300" src="https://i.ytimg.com/vi/UC_qla6FQwM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=TE7xFvtZ_ak">
+    <img width="300" src="https://i.ytimg.com/vi/TE7xFvtZ_ak/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Reol Official - ヒビカセ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>구리리 Guriri - 🧸️徒花の涙/도화의 눈물【COVER by Guriri】</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 3548만회 ]</b>
+  included in <b>[ 조회수 40만회 ]</b>
   
   <br />
   <br />
-  08/09/2021 18:13 Playing on YTMusic
+  08/09/2021 18:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
