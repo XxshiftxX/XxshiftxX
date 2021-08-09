@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KMTo2LmixqQ">
-    <img width="300" src="https://i.ytimg.com/vi/KMTo2LmixqQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=G4Z5G78viGc">
+    <img width="300" src="https://i.ytimg.com/vi/G4Z5G78viGc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>evening cinema 및 cinnamons - summertime</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>blacksaingrain - [Len Kaito Gakupo] The Immoral Memory, The Lost Memory (english & romaji sub) [lyrics in descri...]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1809만회 ]</b>
+  included in <b>[ 조회수 500만회 ]</b>
   
   <br />
   <br />
-  08/09/2021 17:52 Playing on YTMusic
+  08/09/2021 17:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
