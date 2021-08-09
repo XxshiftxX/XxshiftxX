@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vpjFTnnIp2I">
-    <img width="300" src="https://i.ytimg.com/vi/vpjFTnnIp2I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=lFNWUL9fqG8">
+    <img width="300" src="https://i.ytimg.com/vi/lFNWUL9fqG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>구리리 Guriri - 말딸/우마무스메 PRETTY DERBY 2기 OST - winning the soul 【COVER by Guriri】</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DAZBEE official - 忘れじの言の葉 (安次嶺希和子) ／ダズビー COVER</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 10만회 ]</b>
+  included in <b>[ 조회수 2531만회 ]</b>
   
   <br />
   <br />
-  08/09/2021 17:37 Playing on YTMusic
+  08/09/2021 17:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
