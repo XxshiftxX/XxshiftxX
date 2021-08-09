@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=q97aDjknwpo">
-    <img width="300" src="https://i.ytimg.com/vi/q97aDjknwpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=4rjEIzhErlA">
+    <img width="300" src="https://i.ytimg.com/vi/4rjEIzhErlA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한본어 하는 고양이 - 여름 밤, 너와, 「좋아해」 : YOASOBI - 저 꿈을 덧그리며(あの夢をなぞって) [가사/발음/한글 자막]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HUBOG - 砂の惑星 (cover) / ヒュボク</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 16만회 ]</b>
+  included in <b>[ 조회수 153만회 ]</b>
   
   <br />
   <br />
-  08/09/2021 17:30 Playing on YTMusic
+  08/09/2021 17:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
