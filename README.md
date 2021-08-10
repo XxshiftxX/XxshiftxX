@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TE7xFvtZ_ak">
-    <img width="300" src="https://i.ytimg.com/vi/TE7xFvtZ_ak/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLQu55mhNGbgy2h2veknVCwOceYcfUlmuyRBpooncg=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>구리리 Guriri - 🧸️徒花の涙/도화의 눈물【COVER by Guriri】</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>염따 - 올랐으니 Flex 좀 해야겠지 모얌 😉😇</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 40만회 ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  08/09/2021 18:17 Playing on YTMusic
+  08/10/2021 13:11 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
