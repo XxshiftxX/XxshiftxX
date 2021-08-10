@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UChg_sGDFk1qZf5N97GC8s6w">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLQu55mhNGbgy2h2veknVCwOceYcfUlmuyRBpooncg=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=14SVhwqHuqo">
+    <img width="300" src="https://i.ytimg.com/vi/14SVhwqHuqo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 올랐으니 Flex 좀 해야겠지 모얌 😉😇</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - 🌊 청량한 여름에는, 2021년 6월 VOCALOID 인기차트 TOP 50 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ 조회수 7만회 ]</b>
   
   <br />
   <br />
-  08/10/2021 13:11 Playing on YouTube
+  08/10/2021 15:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
