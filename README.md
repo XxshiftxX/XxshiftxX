@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OlKkYPJMEtE">
-    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
+  <a href="https://music.youtube.com/watch?v=dbCgebXQtBU">
+    <img width="300" src="https://lh3.googleusercontent.com/x7INWwbHjPS-DVLCOC-8VKdTR5ABpt-rmI1HGjgo-IznTAAQ_HjxuFicntKfQK6dYqc-0OVIVuNV0EDY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - 아가씨 (Feat. ZENE THE ZILLA & 머쉬베놈)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - PEOPLE(피처링: 더 콰이엇(The Quiett), Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOYSTORY2 ]</b>
+  included in <b>[ PEOPLE ]</b>
   
   <br />
   <br />
-  08/11/2021 09:49 Playing on YTMusic
+  08/11/2021 09:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
