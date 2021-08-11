@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_50jtkDnObw">
-    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
+  <a href="https://music.youtube.com/watch?v=IabVAAbTIro">
+    <img width="300" src="https://lh3.googleusercontent.com/vZtcMFRc4hKVb8_TIls6cL02d7e3Nhl64qk1zVrwO9apjIHUEV7snSd8YCl5uuO939P5tGRqsayM73gY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - METEOR</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI 및 Wonstein - FRIENDS (Prod. by Slom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Boyhood ]</b>
+  included in <b>[ FRIENDS ]</b>
   
   <br />
   <br />
-  08/11/2021 09:24 Playing on YTMusic
+  08/11/2021 09:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
