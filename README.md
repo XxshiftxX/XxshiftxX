@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9eyyhtOrKPI">
-    <img width="300" src="https://i.ytimg.com/vi/9eyyhtOrKPI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=lYoo3D04nro">
+    <img width="300" src="https://i.ytimg.com/vi/lYoo3D04nro/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GigaP(기가P) - drop pop candy(피처링: Reol)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>구리리 - 修羅ノ庭/수라의정원【COVER by Guriri】</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 3315만회 ]</b>
+  included in <b>[ 조회수 48만회 ]</b>
   
   <br />
   <br />
-  08/12/2021 14:38 Playing on YTMusic
+  08/12/2021 14:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
