@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MVVcWEsbXQw">
-    <img width="300" src="https://i.ytimg.com/vi/MVVcWEsbXQw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=zSfMHbogn00">
+    <img width="300" src="https://i.ytimg.com/vi/zSfMHbogn00/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>구리리 Guriri - 【Han＆Guriri】로키/ROKI 한국어 커버 (ロキ Korean cover)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - DECO*27 - ポジティブ・パレード feat. 初音ミク</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 601만회 ]</b>
+  included in <b>[ 조회수 374만회 ]</b>
   
   <br />
   <br />
-  08/12/2021 14:51 Playing on YTMusic
+  08/12/2021 14:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
