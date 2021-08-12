@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4Z1_44GUBq4">
-    <img width="300" src="https://i.ytimg.com/vi/4Z1_44GUBq4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=oqXOxfmnvK4">
+    <img width="300" src="https://i.ytimg.com/vi/oqXOxfmnvK4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Otetsu - Yokuatsu Sakurann Girl</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>구리리 Guriri - イドラのサーカス이돌라의 서커스/Idola Circus【COVER by Guriri】</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 5.4만회 ]</b>
+  included in <b>[ 조회수 19만회 ]</b>
   
   <br />
   <br />
-  08/12/2021 14:22 Playing on YTMusic
+  08/12/2021 14:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
