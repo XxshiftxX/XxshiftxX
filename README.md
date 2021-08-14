@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gcCqclvIcn4">
-    <img width="300" src="https://i.ytimg.com/vi/gcCqclvIcn4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=SYTVO-MYxFY">
+    <img width="300" src="https://i.ytimg.com/vi/SYTVO-MYxFY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>월피스 카터 - 【ウォルピス社】空奏列車を歌ってみました【提供】</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파큥. - 命に嫌われている。</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 166만회 ]</b>
+  included in <b>[ 조회수 259만회 ]</b>
   
   <br />
   <br />
-  08/14/2021 16:33 Playing on YTMusic
+  08/14/2021 16:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
