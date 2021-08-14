@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Hgd1CwlGVY4">
-    <img width="300" src="https://lh3.googleusercontent.com/3ZjKLGmIpXTqdZabOprZgchgl3TWV1zhB9tELxDgNZofk5mlVEsUzFJ7NF1ApkHMMCz1eJi_7X2ZdwOWJw">
+  <a href="https://music.youtube.com/watch?v=IgO3mMOR7G4">
+    <img width="300" src="https://lh3.googleusercontent.com/vLI-9-4s09efA2IJXH-bjsOsRXoSBkHB5Cm7-jqDNlrl_I8KERBWx9_DARilTZKgPdVvjX_mIvuayfw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>비와이, 쿤디판다, 손 심바 및 비앙 - 아마도 어제</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 아이(피처링: Jung Yup)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 아마도 어제 ]</b>
+  included in <b>[ 흑백영화 ]</b>
   
   <br />
   <br />
-  08/14/2021 14:14 Playing on YTMusic
+  08/14/2021 14:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
