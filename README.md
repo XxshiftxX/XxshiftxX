@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EjQlWCZ0IkE">
-    <img width="300" src="https://i.ytimg.com/vi/EjQlWCZ0IkE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=nROvY9uiYYk">
+    <img width="300" src="https://i.ytimg.com/vi/nROvY9uiYYk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHiCO with HoneyWorks - CHiCO with HoneyWorks 『イノコリ先生』</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Eve - お気に召すまま</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 232만회 ]</b>
+  included in <b>[ 조회수 7746만회 ]</b>
   
   <br />
   <br />
-  08/14/2021 16:46 Playing on YTMusic
+  08/14/2021 16:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
