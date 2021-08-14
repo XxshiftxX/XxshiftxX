@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=8RoSTTi7OXI">
+    <img width="300" src="https://i.ytimg.com/vi/8RoSTTi7OXI/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인 및 미란이 - HEAT</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ 조회수 42만회 ]</b>
   
   <br />
   <br />
-  08/14/2021 15:44 Playing on YTMusic
+  08/14/2021 15:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
