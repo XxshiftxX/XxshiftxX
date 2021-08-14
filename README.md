@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=prbWBPavTtA">
-    <img width="300" src="https://i.ytimg.com/vi/prbWBPavTtA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=RWJzu7RpnGE">
+    <img width="300" src="https://i.ytimg.com/vi/RWJzu7RpnGE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>KK - KK - なんでもないや／RADWIMPS (cover)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>월피스 카터 - 【ウォルピス社】サンクチュアリを歌ってみました【提供】</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 117만회 ]</b>
+  included in <b>[ 조회수 67만회 ]</b>
   
   <br />
   <br />
-  08/14/2021 16:20 Playing on YTMusic
+  08/14/2021 16:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
