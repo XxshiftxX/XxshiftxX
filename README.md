@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=nROvY9uiYYk">
-    <img width="300" src="https://i.ytimg.com/vi/nROvY9uiYYk/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=KhV57_EH3AA">
+    <img width="300" src="https://i.ytimg.com/vi/KhV57_EH3AA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve - お気に召すまま</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마후마후 - 猛独が襲う</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 7746만회 ]</b>
+  included in <b>[ 조회수 2849만회 ]</b>
   
   <br />
   <br />
-  08/14/2021 16:51 Playing on YTMusic
+  08/14/2021 16:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
