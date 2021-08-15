@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UA90vMrZ5sY">
-    <img width="300" src="https://i.ytimg.com/vi/UA90vMrZ5sY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=THRvS3lHIAo">
+    <img width="300" src="https://i.ytimg.com/vi/THRvS3lHIAo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, 더 콰이엇(The Quiett), 뱃사공(Bassagong) 및 쿠기(Coogie) - Fadeaway</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 및 저스디스 - 옜다</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 576만회 ]</b>
+  included in <b>[ 조회수 280만회 ]</b>
   
   <br />
   <br />
-  08/15/2021 23:12 Playing on YTMusic
+  08/15/2021 23:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
