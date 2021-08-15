@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=THRvS3lHIAo">
-    <img width="300" src="https://i.ytimg.com/vi/THRvS3lHIAo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=aGrRfAs1fz8">
+    <img width="300" src="https://i.ytimg.com/vi/aGrRfAs1fz8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 및 저스디스 - 옜다</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI 및 원슈타인 - FRIENDS (Prod. Slom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 280만회 ]</b>
+  included in <b>[ 조회수 239만회 ]</b>
   
   <br />
   <br />
-  08/15/2021 23:15 Playing on YTMusic
+  08/15/2021 23:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
