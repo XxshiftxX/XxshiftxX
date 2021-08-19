@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=aGrRfAs1fz8">
-    <img width="300" src="https://i.ytimg.com/vi/aGrRfAs1fz8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=qhQSEdJ0N80">
+    <img width="300" src="https://i.ytimg.com/vi/qhQSEdJ0N80/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI 및 원슈타인 - FRIENDS (Prod. Slom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - 💽 전설적인 명곡, VOCALOID 보컬로이드 유튜브 조회수 랭킹 TOP 100 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 239만회 ]</b>
+  included in <b>[ 조회수 4.9만회 ]</b>
   
   <br />
   <br />
-  08/15/2021 23:20 Playing on YTMusic
+  08/19/2021 14:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
