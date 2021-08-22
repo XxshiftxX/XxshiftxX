@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qhQSEdJ0N80">
-    <img width="300" src="https://i.ytimg.com/vi/qhQSEdJ0N80/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=mN3MEypzw2A">
+    <img width="300" src="https://lh3.googleusercontent.com/zZy89DQBNNe9nMoOeR-xiJKiINPI1Y1YzePRO2Fwt4pj20Tm_FkBHnQODMAoxapzaT_tiSacaKR3TiVb">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - 💽 전설적인 명곡, VOCALOID 보컬로이드 유튜브 조회수 랭킹 TOP 100 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Official髭男dism - Editorial</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 4.9만회 ]</b>
+  included in <b>[ Editorial ]</b>
   
   <br />
   <br />
-  08/19/2021 14:39 Playing on YTMusic
+  08/22/2021 10:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
