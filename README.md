@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=R9XE1n46ucM">
-    <img width="300" src="https://lh3.googleusercontent.com/zZy89DQBNNe9nMoOeR-xiJKiINPI1Y1YzePRO2Fwt4pj20Tm_FkBHnQODMAoxapzaT_tiSacaKR3TiVb">
+  <a href="https://music.youtube.com/watch?v=Jw4axoGKn9k">
+    <img width="300" src="https://i.ytimg.com/vi/Jw4axoGKn9k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Official髭男dism - フィラメント</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>우든체어 Wooden Chair - 🍲마음까지 따뜻해지는 포근한 재즈 음악</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Editorial ]</b>
+  included in <b>[ 조회수 76만회 ]</b>
   
   <br />
   <br />
-  08/22/2021 11:00 Playing on YTMusic
+  08/23/2021 11:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
