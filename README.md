@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qhQSEdJ0N80">
-    <img width="300" src="https://i.ytimg.com/vi/qhQSEdJ0N80/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - 💽 전설적인 명곡, VOCALOID 보컬로이드 유튜브 조회수 랭킹 TOP 100 | ▶PLAYLIST</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(피처링: nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 32만회 ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  09/08/2021 11:27 Playing on YTMusic
+  09/13/2021 12:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
