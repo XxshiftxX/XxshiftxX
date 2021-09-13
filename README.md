@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
-    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
+  <a href="https://music.youtube.com/watch?v=Ra1v2TN4v2w">
+    <img width="300" src="https://lh3.googleusercontent.com/Z-gJ4HjEhbIaRQL25jsWF_0JHvfaJGbqlx2xlAaTpEv_3XR2oV16Na0RAkKv17Axh2PRa2nsAyH103tUUA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(피처링: nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Oygli - BRAND NEW MIX</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ business boy ]</b>
+  included in <b>[ 더라이즈(THE:RISE) Season 4 ]</b>
   
   <br />
   <br />
-  09/13/2021 12:55 Playing on YTMusic
+  09/13/2021 17:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
