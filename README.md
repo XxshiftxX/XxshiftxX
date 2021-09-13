@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1EomF9wfIHw">
-    <img width="300" src="https://lh3.googleusercontent.com/exEi3oAcUvQW-J1NF0GUXrc5JTohDHnmPPanmeVnQf_gf831_jJsoa-TZAxsECEGw3RI5RXZJrwCxzTx">
+  <a href="https://music.youtube.com/watch?v=gaJJPHP2_WQ">
+    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>양홍원, unofficialboyy, gamma - 빛나</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - I Got A Feeling</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ drugonline gate ]</b>
+  included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  09/13/2021 17:52 Playing on YTMusic
+  09/13/2021 17:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
