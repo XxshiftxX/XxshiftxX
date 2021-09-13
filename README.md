@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
-    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
+  <a href="https://music.youtube.com/watch?v=1EomF9wfIHw">
+    <img width="300" src="https://lh3.googleusercontent.com/exEi3oAcUvQW-J1NF0GUXrc5JTohDHnmPPanmeVnQf_gf831_jJsoa-TZAxsECEGw3RI5RXZJrwCxzTx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(피처링: 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>양홍원, unofficialboyy, gamma - 빛나</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
+  included in <b>[ drugonline gate ]</b>
   
   <br />
   <br />
-  09/13/2021 17:49 Playing on YTMusic
+  09/13/2021 17:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
