@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LTJTTjl4ABY">
+  <a href="https://music.youtube.com/watch?v=q4IpZfyhnhQ">
     <img width="300" src="https://lh3.googleusercontent.com/Z-gJ4HjEhbIaRQL25jsWF_0JHvfaJGbqlx2xlAaTpEv_3XR2oV16Na0RAkKv17Axh2PRa2nsAyH103tUUA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Tabber - Adrenaline (Demo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>EXN - Amazing Facts</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 더라이즈(THE:RISE) Season 4 ]</b>
   
   <br />
   <br />
-  09/13/2021 17:42 Playing on YTMusic
+  09/13/2021 17:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
