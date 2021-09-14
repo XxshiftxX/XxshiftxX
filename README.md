@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eefC4-IHZoA">
-    <img width="300" src="https://lh3.googleusercontent.com/aTGgZTpNKpc4LCC2GYTy1QZx20wSnpMJiAw-bX6ZEfmB19Pk914mXev_AHwpzmQKAQRRke2y2i6a48NW">
+  <a href="https://music.youtube.com/watch?v=AODkpF2lw3g">
+    <img width="300" src="https://lh3.googleusercontent.com/Ig6qujqjjfKfvktrZmqGrAd7WhCLz8bIWesw3qFaX4vnFUEi_omtg96LwyeiIC1ZWtyoGFgABrEZI8h7">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 - 바빠서(피처링: 헤이즈(Heize))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 - 사진찍어 보내줘</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 바빠서 ]</b>
+  included in <b>[ 딴따라OST Part.5 ]</b>
   
   <br />
   <br />
-  09/14/2021 11:51 Playing on YTMusic
+  09/14/2021 11:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
