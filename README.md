@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i9tTgiTmwHs">
-    <img width="300" src="https://lh3.googleusercontent.com/AE9gEnIckTvSrGBti35UklRbhlHHcwA0dRJl-K8MA9lun4GicTj9jqnCSPwpviyW3eItW-OXZt-yXq-s9A">
+  <a href="https://music.youtube.com/watch?v=SfBZF10AwiE">
+    <img width="300" src="https://lh3.googleusercontent.com/VWVhonBopoXOqeYkSJvxeuHuGqQxsdJjcqLZoONGFO5LyJ824TiBsd5Nt9_Oc3itDjc1cCGrJIuqLu22">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 및 쿠기 (Coogie) - Fast (스터디그룹 X 개코, 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 Gaeko - 될 대로 되라고 해 (느낌 So Good)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fast (스터디그룹 X 개코, 쿠기 (Coogie)) ]</b>
+  included in <b>[ Gaeko Attic's 1st Piece ]</b>
   
   <br />
   <br />
-  09/14/2021 11:40 Playing on YTMusic
+  09/14/2021 11:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
