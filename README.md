@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=f0GCwaReGNM">
-    <img width="300" src="https://lh3.googleusercontent.com/6UVFv2UYkRBaZzALw9c_ZZTH2IyBJX_qMNiarkp3UNoEbjHlarEvEGkyH7dyBS9oxhafD82sAO7_esg">
+  <a href="https://music.youtube.com/watch?v=eefC4-IHZoA">
+    <img width="300" src="https://lh3.googleusercontent.com/aTGgZTpNKpc4LCC2GYTy1QZx20wSnpMJiAw-bX6ZEfmB19Pk914mXev_AHwpzmQKAQRRke2y2i6a48NW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마미손, 그레이, Geegooin 및 샘김(Sam Kim) - 놀면 뭐해?</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 - 바빠서(피처링: 헤이즈(Heize))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 유플래쉬 ]</b>
+  included in <b>[ 바빠서 ]</b>
   
   <br />
   <br />
-  09/14/2021 11:48 Playing on YTMusic
+  09/14/2021 11:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
