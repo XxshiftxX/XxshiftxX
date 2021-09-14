@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PJfZViVdOwM">
-    <img width="300" src="https://lh3.googleusercontent.com/3xwzhj22wZYiQGncyB8Ilz2yWO8bULPnTHjTj_NefepdTxAYzgH_bEdp5S1GIYB4qGFHpt1QdAOaqTS6">
+  <a href="https://music.youtube.com/watch?v=ua6rKmXZ6Gs">
+    <img width="300" src="https://lh3.googleusercontent.com/0wS_pftzPrTUPyjWPUTyuBT5MA3Gk1zaOILuMZvzSzRre8WyGeXxaq1aFMT95NgWFMLSxs6RMu0_bBeg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오(Dynamic Duo) - Guilty</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 Gaeko - 화장 지웠어 (No Make Up)(피처링: Zion.T, HA:TFELT)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Band of Dynamic Brothers ]</b>
+  included in <b>[ Redingray ]</b>
   
   <br />
   <br />
-  09/14/2021 11:35 Playing on YTMusic
+  09/14/2021 11:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
