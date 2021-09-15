@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-LRAow9UffY">
-    <img width="300" src="https://lh3.googleusercontent.com/0wS_pftzPrTUPyjWPUTyuBT5MA3Gk1zaOILuMZvzSzRre8WyGeXxaq1aFMT95NgWFMLSxs6RMu0_bBeg">
+  <a href="https://music.youtube.com/watch?v=i9tTgiTmwHs">
+    <img width="300" src="https://lh3.googleusercontent.com/AE9gEnIckTvSrGBti35UklRbhlHHcwA0dRJl-K8MA9lun4GicTj9jqnCSPwpviyW3eItW-OXZt-yXq-s9A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 Gaeko - 치명적인 비음 (Snapper Ending)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 및 쿠기 (Coogie) - Fast (스터디그룹 X 개코, 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Redingray ]</b>
+  included in <b>[ Fast (스터디그룹 X 개코, 쿠기 (Coogie)) ]</b>
   
   <br />
   <br />
-  09/15/2021 13:30 Playing on YTMusic
+  09/15/2021 13:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
