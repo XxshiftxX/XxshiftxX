@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wcmgQqeypaw">
-    <img width="300" src="https://lh3.googleusercontent.com/tmgjMbTu8MCbDUMXq8pWRU-k959vgN2vXRHTmb4RGi7EpeVhga7lmAmTzmtI2x_0gVDSbCwz_f_juMk">
+  <a href="https://music.youtube.com/watch?v=j_Nd6ABv3jU">
+    <img width="300" src="https://lh3.googleusercontent.com/laOM1YdHSrWJgGdxt9rC1jBUboKr8t_npO-IaMHJfy5PWRs-WfAYHu7V2qm_IMR0DhKhvExWdfVjp-5z6Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 Gaeko - 코끼리(피처링: Rap Monster)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nitti Gritti, 개코 및 Kaku - PASS OUT</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 코끼리 ]</b>
+  included in <b>[ PASS OUT ]</b>
   
   <br />
   <br />
-  09/15/2021 13:18 Playing on YTMusic
+  09/15/2021 13:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
