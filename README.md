@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fad2gLQbyog">
-    <img width="300" src="https://lh3.googleusercontent.com/MbaCroHfvayZhFeBlK0TvHnFtrc3PBVmokzHG9jWho7CNl2wZAi92TTwk7aIgq236I_k7HhFxnirfOaR2A">
+  <a href="https://music.youtube.com/watch?v=P1SlbW0ksNE">
+    <img width="300" src="https://lh3.googleusercontent.com/9j-dDo_Sgx4dk1pV5o3RgDlv9lYEH9dgb95UYQuYsgaBswpv-vXKjVPzLNFX5WXyHnxm73OXzc9bavs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 - Vacation(피처링: SOLE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 및 김나영 - Heart Break</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Vacation ]</b>
+  included in <b>[ The King: Eternal Monarch (Original Television Soundtrack), Pt. 9 ]</b>
   
   <br />
   <br />
-  09/14/2021 11:59 Playing on YTMusic
+  09/15/2021 13:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
