@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i9tTgiTmwHs">
-    <img width="300" src="https://lh3.googleusercontent.com/AE9gEnIckTvSrGBti35UklRbhlHHcwA0dRJl-K8MA9lun4GicTj9jqnCSPwpviyW3eItW-OXZt-yXq-s9A">
+  <a href="https://music.youtube.com/watch?v=HqhDpByOXoQ">
+    <img width="300" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 및 쿠기 (Coogie) - Fast (스터디그룹 X 개코, 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오 - 2040(피처링: myunDo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fast (스터디그룹 X 개코, 쿠기 (Coogie)) ]</b>
+  included in <b>[ OFF DUTY ]</b>
   
   <br />
   <br />
-  09/15/2021 13:32 Playing on YTMusic
+  09/15/2021 13:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
