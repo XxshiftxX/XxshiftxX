@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9DuRqJ2WvYg">
-    <img width="300" src="https://lh3.googleusercontent.com/Wq_G1Y2ZoszrLus9OE3uMzlzaN4v0ECwq9fq_8lD1hb3I29_8ffHp8bbsiiIZzJMHGVy6gSsqc3F9uor">
+  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
+    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SOLE - 왜(피처링: Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(피처링: 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 왜 ]</b>
+  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
   
   <br />
   <br />
-  09/23/2021 14:39 Playing on YTMusic
+  09/23/2021 14:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
