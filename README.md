@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=huFPgDg8eOs">
-    <img width="300" src="https://lh3.googleusercontent.com/0woXtg7ohqEwZRAOmxdd-VedPtUUTuIkHdVjcEKFLUWPrZXEC3e4jWp3f-nRW5jZzI338LqmRBPpqwcheg">
+  <a href="https://music.youtube.com/watch?v=9DuRqJ2WvYg">
+    <img width="300" src="https://lh3.googleusercontent.com/Wq_G1Y2ZoszrLus9OE3uMzlzaN4v0ECwq9fq_8lD1hb3I29_8ffHp8bbsiiIZzJMHGVy6gSsqc3F9uor">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Coogie 및 CHANGMO - Wifey(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SOLE - 왜(피처링: Gaeko)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Wifey (Feat. CHANGMO) ]</b>
+  included in <b>[ 왜 ]</b>
   
   <br />
   <br />
-  09/23/2021 14:36 Playing on YTMusic
+  09/23/2021 14:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
