@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ctrtBu3DpU8">
-    <img width="300" src="https://lh3.googleusercontent.com/jgjqiwxjqdd1Q6Gcey-o8tF70LP2mnOKJWZqNDOfJLInwxWpCYG0y2Rx_5geOORBiCo23DYMNVeCMrI">
+  <a href="https://music.youtube.com/watch?v=_Gfil7LM4a0">
+    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Coogie - Life Goes On(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 루이비똥 허리 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Goes On ]</b>
+  included in <b>[ Family Business ]</b>
   
   <br />
   <br />
-  09/23/2021 14:28 Playing on YTMusic
+  09/23/2021 14:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
