@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HqhDpByOXoQ">
-    <img width="300" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">
+  <a href="https://music.youtube.com/watch?v=jkEJ9f6YrX4">
+    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오 - 2040(피처링: myunDo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 뭐(피처링: 원슈타인)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OFF DUTY ]</b>
+  included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  09/15/2021 13:35 Playing on YTMusic
+  09/23/2021 13:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
