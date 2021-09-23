@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jKmib7okBdY">
-    <img width="300" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">
+  <a href="https://music.youtube.com/watch?v=XfEMj-z3TtA">
+    <img width="300" src="https://lh3.googleusercontent.com/_72AYxGc5r6U2SwbDvo8qLTx0wLp1bxRAQTSWNZfeZOdP2zf6yHjIAzTZCFILrbz3AvxHqHJdqde56Y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Kid LAROI 및 Justin Bieber - STAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EVERYTHING ]</b>
+  included in <b>[ STAY ]</b>
   
   <br />
   <br />
-  09/23/2021 15:10 Playing on YTMusic
+  09/23/2021 15:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
