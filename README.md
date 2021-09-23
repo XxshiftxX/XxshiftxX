@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9smDx7jBXMQ">
-    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
+  <a href="https://music.youtube.com/watch?v=i9tTgiTmwHs">
+    <img width="300" src="https://lh3.googleusercontent.com/AE9gEnIckTvSrGBti35UklRbhlHHcwA0dRJl-K8MA9lun4GicTj9jqnCSPwpviyW3eItW-OXZt-yXq-s9A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Big Naughty - 문제 Problems(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 및 쿠기 (Coogie) - Fast (스터디그룹 X 개코, 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 8 Episode 4 ]</b>
+  included in <b>[ Fast (스터디그룹 X 개코, 쿠기 (Coogie)) ]</b>
   
   <br />
   <br />
-  09/23/2021 13:41 Playing on YTMusic
+  09/23/2021 13:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
