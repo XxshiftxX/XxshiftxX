@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FopQkLq21mE">
-    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
+  <a href="https://music.youtube.com/watch?v=PFyLgEnjk_0">
+    <img width="300" src="https://lh3.googleusercontent.com/WWLJuu9PkI9pwVu7yHliJssZanWNirOAU93kW0n8Ha-RX1H1f0J0FLGGSxVMmAEPV0jzgbu6kFGw-UGe">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 헤벌레(피처링: 릴보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 했던 말 (Prod. CODE KUNST)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I Got A Feeling ]</b>
+  included in <b>[ HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 1 ]</b>
   
   <br />
   <br />
-  09/23/2021 14:03 Playing on YTMusic
+  09/23/2021 14:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
