@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MLIwrQXd6MA">
-    <img width="300" src="https://lh3.googleusercontent.com/F9dXLsfAYZV18GkTlm4CqDG9iOy7Wz6SB_uddlEC84Bh3Bkb9xReHcwIz1Vy1LyG9ldzSderoWrFOTZW">
+  <a href="https://music.youtube.com/watch?v=smKgVuSB18k">
+    <img width="300" src="https://lh3.googleusercontent.com/aqUChJrezGmTQ2x4_-Xj28XFlUVDIqEC2f_lEugI5EYRInPjlDyzBK1G5zwdlIEuBm3wDlJEu2O7F90Z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버), 24k골든, 이안 디올 및 J Balvin(제이 발빈) - Mood (Remix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Maroon 5(마룬 파이브) - Payphone(피처링: Wiz Khalifa(위즈 칼리파))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Mood (Remix) ]</b>
+  included in <b>[ Overexposed ]</b>
   
   <br />
   <br />
-  09/23/2021 15:20 Playing on YTMusic
+  09/23/2021 15:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
