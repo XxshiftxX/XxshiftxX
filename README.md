@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PjLMkI9lt2c">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=KeDZ1M8sJE8">
+    <img width="300" src="https://lh3.googleusercontent.com/UhvU_sQrfjHCrJUELEj4gf9yKFcmvO4agbiIMl8BEPDA0p2qu08lu2pFjUiNltTuoVeQD7QI9Q8S8EY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(피처링: 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie 및 pH-1 - Right away(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ Right away (Feat. pH-1) ]</b>
   
   <br />
   <br />
-  09/23/2021 14:46 Playing on YTMusic
+  09/23/2021 14:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
