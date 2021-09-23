@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KiM5I-rAmC0">
-    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
+  <a href="https://music.youtube.com/watch?v=rBpATSUmKEE">
+    <img width="300" src="https://lh3.googleusercontent.com/ZLUkw5TD1xNDqTcpv8pDTeWBJmcflAuWrp5vEgUgWqZRGIp5nUuY6_izf0SfWpvv8YWEdyxcDly6450Jdg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Out of my way(피처링: 더 콰이엇)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Connected</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I Got A Feeling ]</b>
+  included in <b>[ Connected ]</b>
   
   <br />
   <br />
-  09/23/2021 13:47 Playing on YTMusic
+  09/23/2021 13:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
