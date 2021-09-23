@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E7gg5sjEWd0">
-    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
+  <a href="https://music.youtube.com/watch?v=xj-uh2nqRxg">
+    <img width="300" src="https://lh3.googleusercontent.com/GwJ97tneuL8sdNzBmsbBJfmme-furQKvAR1V0SVDHcSR6_Pz-SRIO5vncT5Qmc-cltrb7oEmIfPXFIk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - 지켜야해(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오반 - 허리춤</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Berry Loves My Mood ]</b>
+  included in <b>[ 허리춤 ]</b>
   
   <br />
   <br />
-  09/23/2021 15:03 Playing on YTMusic
+  09/23/2021 15:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
