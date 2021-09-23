@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PFyLgEnjk_0">
-    <img width="300" src="https://lh3.googleusercontent.com/WWLJuu9PkI9pwVu7yHliJssZanWNirOAU93kW0n8Ha-RX1H1f0J0FLGGSxVMmAEPV0jzgbu6kFGw-UGe">
+  <a href="https://music.youtube.com/watch?v=mYKXHhGJSzw">
+    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 했던 말 (Prod. CODE KUNST)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - I Don't Love You(피처링: 쿠기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 1 ]</b>
+  included in <b>[ grayground. ]</b>
   
   <br />
   <br />
-  09/23/2021 14:06 Playing on YTMusic
+  09/23/2021 14:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
