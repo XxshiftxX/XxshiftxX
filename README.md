@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dT9-J_tDW5U">
-    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
+  <a href="https://music.youtube.com/watch?v=9smDx7jBXMQ">
+    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Baby Don't Cry(피처링: 염따)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Big Naughty - 문제 Problems(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ grayground. ]</b>
+  included in <b>[ Show Me the Money 8 Episode 4 ]</b>
   
   <br />
   <br />
-  09/23/2021 13:39 Playing on YTMusic
+  09/23/2021 13:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
