@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
-    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
+  <a href="https://music.youtube.com/watch?v=PjLMkI9lt2c">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(피처링: 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(피처링: 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
+  included in <b>[ Show Me the Money 9 Final ]</b>
   
   <br />
   <br />
-  09/23/2021 14:42 Playing on YTMusic
+  09/23/2021 14:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
