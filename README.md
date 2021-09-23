@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VLUQBp5eAdM">
-    <img width="300" src="https://lh3.googleusercontent.com/KjwRQEPhdOUFZ3gmjujsP0WLYLtyxB2ARxNggjP9bX2Ft9ygEE8bsOV6ZSAeTA70oW0ULycQHud0-_pb">
+  <a href="https://music.youtube.com/watch?v=E7gg5sjEWd0">
+    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - 365&7(피처링: JAMIE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - 지켜야해(피처링: Coogie)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 365&7 ]</b>
+  included in <b>[ Berry Loves My Mood ]</b>
   
   <br />
   <br />
-  09/23/2021 15:01 Playing on YTMusic
+  09/23/2021 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
