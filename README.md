@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=Dmy0CkieM6s">
+    <img width="300" src="https://lh3.googleusercontent.com/pC_9-quQA9xVrK_cndiZ3cA_J9p8jF0-QZ8BZDWXc3OZtX0mEbSaxwPMnsOQKd47xyGA-6-WkAfnGwxk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CAMO - Shawty(피처링: 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ Fragile ]</b>
   
   <br />
   <br />
-  09/23/2021 14:53 Playing on YTMusic
+  09/23/2021 14:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
