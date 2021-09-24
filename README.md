@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FO5LrcUS-Gw">
-    <img width="300" src="https://lh3.googleusercontent.com/IPrL9SOHmYrzPXa-qOUI6Ck6KpHWmoRuutgDuufJKHOwpXnRRlcZYdNiBd2vUo4kkXVyy31QG6vTPHE">
+  <a href="https://music.youtube.com/watch?v=XfEMj-z3TtA">
+    <img width="300" src="https://lh3.googleusercontent.com/_72AYxGc5r6U2SwbDvo8qLTx0wLp1bxRAQTSWNZfeZOdP2zf6yHjIAzTZCFILrbz3AvxHqHJdqde56Y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Halsey(할시) - Without Me(피처링: Juice Wrld(주스 월드))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Kid LAROI 및 Justin Bieber - STAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Manic ]</b>
+  included in <b>[ STAY ]</b>
   
   <br />
   <br />
-  09/23/2021 15:27 Playing on YTMusic
+  09/24/2021 14:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
