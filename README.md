@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MLIwrQXd6MA">
-    <img width="300" src="https://lh3.googleusercontent.com/F9dXLsfAYZV18GkTlm4CqDG9iOy7Wz6SB_uddlEC84Bh3Bkb9xReHcwIz1Vy1LyG9ldzSderoWrFOTZW">
+  <a href="https://music.youtube.com/watch?v=XfEMj-z3TtA">
+    <img width="300" src="https://lh3.googleusercontent.com/_72AYxGc5r6U2SwbDvo8qLTx0wLp1bxRAQTSWNZfeZOdP2zf6yHjIAzTZCFILrbz3AvxHqHJdqde56Y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버), 24k골든, 이안 디올 및 J Balvin(제이 발빈) - Mood (Remix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Kid LAROI 및 Justin Bieber - STAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Mood (Remix) ]</b>
+  included in <b>[ STAY ]</b>
   
   <br />
   <br />
-  09/24/2021 14:57 Playing on YTMusic
+  09/27/2021 14:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
