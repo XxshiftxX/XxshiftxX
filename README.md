@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kYaiRDshuk8">
-    <img width="300" src="https://lh3.googleusercontent.com/RWp6xYchtFg37DeLr-yxYOE6qWcPYApWuXkk3EYm_RLoqTtCTv-qPOyAy1F8wWjjiD1ZA99lmIrTAxs">
+  <a href="https://music.youtube.com/watch?v=vueo_qNqdGk">
+    <img width="300" src="https://lh3.googleusercontent.com/HN44_UYpxGu7crymv8qf721VRT0RvKHI2Ax-t-FmBZEeMa0l3cVQrned25NTzWg4bZwkwWuC6j4oBLqa">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Forever(피처링: Post Malone(포스트 말론), Clever)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Cheat Codes - Hate You + Love You(피처링: AJ Mitchell)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Changes ]</b>
+  included in <b>[ Hate You + Love You ]</b>
   
   <br />
   <br />
-  09/27/2021 15:40 Playing on YTMusic
+  09/27/2021 15:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
