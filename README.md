@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6v8BmMirkUk">
-    <img width="300" src="https://lh3.googleusercontent.com/mLYowfEczgSkvmg-dsOG20VbBR95_1gNnhPF5RYcaJLI8mS0ZOtaEd3l80r7KRsM2sAU8sxpIKaenZs">
+  <a href="https://music.youtube.com/watch?v=owTWCbq_nSk">
+    <img width="300" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Beautiful People(피처링: Khalid(칼리드))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) 및 Coldplay(콜드플레이) - Something Just Like This</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beautiful People ]</b>
+  included in <b>[ Something Just Like This ]</b>
   
   <br />
   <br />
-  09/27/2021 15:19 Playing on YTMusic
+  09/27/2021 15:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
