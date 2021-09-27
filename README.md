@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UMnJ6arAbZg">
-    <img width="300" src="https://lh3.googleusercontent.com/JvPL31CEZxDK1oRds0FY2gXB1RarepDDM472cZ4P08Eu8tRpq_x0j49cxbxBR9OIC8_WpM-0k11a6CUyqA">
+  <a href="https://music.youtube.com/watch?v=i_aWqxDn_Q0">
+    <img width="300" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Weeknd 및 Ariana Grande - Save Your Tears (Remix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Call You Mine(피처링: Bebe Rexha(비비 렉사))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Save Your Tears (Remix) ]</b>
+  included in <b>[ World War Joy...Takeaway ]</b>
   
   <br />
   <br />
-  09/27/2021 14:43 Playing on YTMusic
+  09/27/2021 14:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
