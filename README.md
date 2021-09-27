@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i_aWqxDn_Q0">
-    <img width="300" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">
+  <a href="https://music.youtube.com/watch?v=fdrjPRnTYC0">
+    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Call You Mine(피처링: Bebe Rexha(비비 렉사))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Doja Cat 및 The Weeknd - You Right</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ World War Joy...Takeaway ]</b>
+  included in <b>[ Planet Her ]</b>
   
   <br />
   <br />
-  09/27/2021 14:47 Playing on YTMusic
+  09/27/2021 14:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
