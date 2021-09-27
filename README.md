@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OYCcnJRlXwU">
-    <img width="300" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">
+  <a href="https://music.youtube.com/watch?v=lNilb-EaTOU">
+    <img width="300" src="https://lh3.googleusercontent.com/sP6s88dKenFXd9YsIUGjkAF9uaOKi6GB0f_O-g1NIv08Sv4Ae71nmXODj4C91vtvMNPvU3NfxsuYu2o">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Who Do You Love</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Maroon 5 - Memories</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ World War Joy...Takeaway ]</b>
+  included in <b>[ JORDI (Deluxe) ]</b>
   
   <br />
   <br />
-  09/27/2021 15:33 Playing on YTMusic
+  09/27/2021 15:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
