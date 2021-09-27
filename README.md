@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=USb5JBhZed0">
-    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
+  <a href="https://music.youtube.com/watch?v=p-IXgwqhfmg">
+    <img width="300" src="https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Doja Cat - Need to Know</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Love Yourself</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Planet Her ]</b>
+  included in <b>[ Purpose ]</b>
   
   <br />
   <br />
-  09/27/2021 15:11 Playing on YTMusic
+  09/27/2021 15:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
