@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2ribDxIju0c">
-    <img width="300" src="https://lh3.googleusercontent.com/v1BfyWromIq7C0Uz09OjIATcxhw_RVLBXf7aON-nzf-RHhb4_TWtSosRqHLwLAKc4sbDT8zDXa-T1Js">
+  <a href="https://music.youtube.com/watch?v=PuWywsfdaT4">
+    <img width="300" src="https://lh3.googleusercontent.com/1vHe5W_BsD0kgJG9ct0HZPghhtFgMoue3nsjlT4QY3R9JHykeuoDA9l3SGIQ8DmFztj2uYBGGNVTfoQx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gryffin - New Blood(피처링: Boy Matthews)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Peaches (Remix)(피처링: Ludacris, Usher, Snoop Dogg)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ New Blood ]</b>
+  included in <b>[ Peaches (Remix) ]</b>
   
   <br />
   <br />
-  09/27/2021 15:00 Playing on YTMusic
+  09/27/2021 15:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
