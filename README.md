@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=J7p4bzqLvCw">
-    <img width="300" src="https://lh3.googleusercontent.com/R_cjQK3wwLPEzri1jerx-79zgzGocoKvwGU3NMONaTsaMM0Idd641pfB8r5jgfpn6I8JAoFtf9RBIcI">
+  <a href="https://music.youtube.com/watch?v=USb5JBhZed0">
+    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Weeknd (위켄드) - Blinding Lights</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Doja Cat - Need to Know</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Blinding Lights ]</b>
+  included in <b>[ Planet Her ]</b>
   
   <br />
   <br />
-  09/27/2021 15:08 Playing on YTMusic
+  09/27/2021 15:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
