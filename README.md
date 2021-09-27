@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ui7M7j7caHA">
-    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
+  <a href="https://music.youtube.com/watch?v=2ribDxIju0c">
+    <img width="300" src="https://lh3.googleusercontent.com/v1BfyWromIq7C0Uz09OjIATcxhw_RVLBXf7aON-nzf-RHhb4_TWtSosRqHLwLAKc4sbDT8zDXa-T1Js">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Doja Cat - Kiss Me More(피처링: SZA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gryffin - New Blood(피처링: Boy Matthews)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Planet Her ]</b>
+  included in <b>[ New Blood ]</b>
   
   <br />
   <br />
-  09/27/2021 14:57 Playing on YTMusic
+  09/27/2021 15:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
