@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vueo_qNqdGk">
-    <img width="300" src="https://lh3.googleusercontent.com/HN44_UYpxGu7crymv8qf721VRT0RvKHI2Ax-t-FmBZEeMa0l3cVQrned25NTzWg4bZwkwWuC6j4oBLqa">
+  <a href="https://music.youtube.com/watch?v=2JDw5NrpIdw">
+    <img width="300" src="https://i.ytimg.com/vi/2JDw5NrpIdw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Cheat Codes - Hate You + Love You(피처링: AJ Mitchell)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에이드 【Artist. D】 - 2020 S/S 신상 보컬로이드 노동요 39곡 모음집 2탄 | FHD【1080p】</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hate You + Love You ]</b>
+  included in <b>[ 조회수 9.5만회 ]</b>
   
   <br />
   <br />
-  09/27/2021 15:44 Playing on YTMusic
+  09/28/2021 11:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
