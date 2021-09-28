@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bsgBUM2Mnsw">
-    <img width="300" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">
+  <a href="https://music.youtube.com/watch?v=pJ-IGZKyfpU">
+    <img width="300" src="https://lh3.googleusercontent.com/SrU1lqjYHirIZQuwSgx_6tap_qBAgWiRHJ0LgUa1m3cOZBmUPSqGU0aQAFH29_sgj0O4Bu5-esmX2Mg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO), 해쉬 스완(Hash Swan), ASH ISLAND 및 김효은 - BAND</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Woo - We Are(피처링: Loco, GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BAND ]</b>
+  included in <b>[ We Are ]</b>
   
   <br />
   <br />
-  09/28/2021 17:25 Playing on YTMusic
+  09/28/2021 17:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
