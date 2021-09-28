@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jKmib7okBdY">
-    <img width="300" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">
+  <a href="https://music.youtube.com/watch?v=huFPgDg8eOs">
+    <img width="300" src="https://lh3.googleusercontent.com/0woXtg7ohqEwZRAOmxdd-VedPtUUTuIkHdVjcEKFLUWPrZXEC3e4jWp3f-nRW5jZzI338LqmRBPpqwcheg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie 및 CHANGMO - Wifey(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EVERYTHING ]</b>
+  included in <b>[ Wifey (Feat. CHANGMO) ]</b>
   
   <br />
   <br />
-  09/28/2021 14:51 Playing on YTMusic
+  09/28/2021 14:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
