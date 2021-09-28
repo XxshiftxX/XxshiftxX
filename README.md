@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZjaYRMr1bz8">
-    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
+  <a href="https://music.youtube.com/watch?v=lciUDR8wWKg">
+    <img width="300" src="https://lh3.googleusercontent.com/d0vAbOaxY1wfEVCuquYNCqyTTnx9TOedFyDTABT_JudAygnfOTp4UeH-nCuJTsX_7mNQFblL8rcySSQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Selfish(피처링: 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Fire(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ grayground. ]</b>
+  included in <b>[ Fire ]</b>
   
   <br />
   <br />
-  09/28/2021 14:58 Playing on YTMusic
+  09/28/2021 15:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
