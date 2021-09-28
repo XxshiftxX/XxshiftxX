@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dZpiFlmtF1o">
-    <img width="300" src="https://lh3.googleusercontent.com/mNesVQeIz1FLPcmHOh9pio9Y6Sjx0_r9a-k96WU4W60o_mJWnPKCwaakvj0l5OhjCoSN5adE0CEoXULPgA">
+  <a href="https://music.youtube.com/watch?v=3D9ehtpRl5c">
+    <img width="300" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kid Milli, Jvcki Wai 및 스윙스 - Hyperreal</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hyperreal ]</b>
+  included in <b>[ ASH ]</b>
   
   <br />
   <br />
-  09/28/2021 15:40 Playing on YTMusic
+  09/28/2021 15:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
