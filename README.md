@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JeuZ5RCgvwM">
-    <img width="300" src="https://lh3.googleusercontent.com/phZuErLj7AwcFmh46wnIReYDCppbBGQEsF_rLP1SdZhvl-mLsvBYYkkJRtfzssYkb62ObGjMMueI48M_">
+  <a href="https://music.youtube.com/watch?v=FaWV8ElGuUo">
+    <img width="300" src="https://lh3.googleusercontent.com/UyA7eKZGkMV2LwpW0RdCA8DmI54B3lmZDgoIjcYVzAxNKyVuWdBn2vC2fWMFyDZlZhkvAlEkf0fSncmC8g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>비비(BIBI) - 비누</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Action!(피처링: GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 비누 ]</b>
+  included in <b>[ Action! ]</b>
   
   <br />
   <br />
-  09/28/2021 17:07 Playing on YTMusic
+  09/28/2021 17:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
