@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-pT3EMTTX9Q">
-    <img width="300" src="https://lh3.googleusercontent.com/2G3o-K8uFaMiyryk65O1x6WUJ5pgDKUy_QOwV4bx0yy-LvxJNOfuuItzl_bxTxqiKLqlxfbCst_DnvXh">
+  <a href="https://music.youtube.com/watch?v=t8ERhuId1h4">
+    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CAMO - Life is Wet</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Orange(피처링: 박재범(Jay Park))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life is Wet ]</b>
+  included in <b>[ Show Me the Money 777 Semi Final ]</b>
   
   <br />
   <br />
-  09/28/2021 16:19 Playing on YTMusic
+  09/28/2021 16:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
