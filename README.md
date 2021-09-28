@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jkEJ9f6YrX4">
-    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
+  <a href="https://music.youtube.com/watch?v=-pT3EMTTX9Q">
+    <img width="300" src="https://lh3.googleusercontent.com/2G3o-K8uFaMiyryk65O1x6WUJ5pgDKUy_QOwV4bx0yy-LvxJNOfuuItzl_bxTxqiKLqlxfbCst_DnvXh">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 뭐(피처링: 원슈타인)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CAMO - Life is Wet</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I Got A Feeling ]</b>
+  included in <b>[ Life is Wet ]</b>
   
   <br />
   <br />
-  09/28/2021 16:15 Playing on YTMusic
+  09/28/2021 16:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
