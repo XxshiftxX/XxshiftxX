@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mcfld7yLaHk">
-    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
+  <a href="https://music.youtube.com/watch?v=4sdN33l2WTw">
+    <img width="300" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1, Golden, 빅나티 및 박재범 - Oscar</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>양홍원 - ROSE(피처링: 스키니 브라운, 홈보이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ H1GHR : BLUE TAPE ]</b>
+  included in <b>[ Stranger ]</b>
   
   <br />
   <br />
-  09/28/2021 16:37 Playing on YTMusic
+  09/28/2021 16:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
