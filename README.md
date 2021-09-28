@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WzNtukIc2o4">
-    <img width="300" src="https://lh3.googleusercontent.com/TJ-YQhzn3wWgU4yMPqyc95TQ9SU1lZVU3WaOXc0EuD7gOEgR5AquA9GxR666VsNFUeVBzbeteBHlqgIR">
+  <a href="https://music.youtube.com/watch?v=jKmib7okBdY">
+    <img width="300" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Chillin Homie 및 성국 - DO THE MATH(피처링: dsel, Blase)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - EVERYTHING(피처링: 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ LOGIN ]</b>
+  included in <b>[ EVERYTHING ]</b>
   
   <br />
   <br />
-  09/28/2021 14:25 Playing on YTMusic
+  09/28/2021 14:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
