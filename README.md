@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=D9QtiNBfy3Q">
-    <img width="300" src="https://lh3.googleusercontent.com/n3wpA8qDHqKXr6-U8Y9imiByQ5WSfWgKiE82NxBhIsbU52tnbnBONBcOv3qBSrle-61stbAGma-LB06nyw">
+  <a href="https://music.youtube.com/watch?v=ji8raPOfWrY">
+    <img width="300" src="https://lh3.googleusercontent.com/fEQOxczaHZ-1uM1SSG2at3r2ZlK7WmPqPppvFPz2N6kqkalpexbE44c3tBZ66SFCAoyw0kTG3dFkLX5b">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K, pH-1 및 Jay Park - iffy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND, 릴러말즈(Leellamarz), zene the zilla 및 더 콰이엇(The Quiett) - BITION WAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ iffy ]</b>
+  included in <b>[ BITION WAY ]</b>
   
   <br />
   <br />
-  09/28/2021 16:29 Playing on YTMusic
+  09/28/2021 16:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
