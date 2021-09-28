@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4sdN33l2WTw">
-    <img width="300" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">
+  <a href="https://music.youtube.com/watch?v=etgNSJzOd5k">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>양홍원 - ROSE(피처링: 스키니 브라운, 홈보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - iii(피처링: 베이식, 키드밀리, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Stranger ]</b>
+  included in <b>[ Show Me the Money 9 Semi Final ]</b>
   
   <br />
   <br />
-  09/28/2021 16:40 Playing on YTMusic
+  09/28/2021 16:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
