@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FaWV8ElGuUo">
-    <img width="300" src="https://lh3.googleusercontent.com/UyA7eKZGkMV2LwpW0RdCA8DmI54B3lmZDgoIjcYVzAxNKyVuWdBn2vC2fWMFyDZlZhkvAlEkf0fSncmC8g">
+  <a href="https://music.youtube.com/watch?v=uo4zf2ElHgA">
+    <img width="300" src="https://lh3.googleusercontent.com/CwHKwswivu4yGFdE1ASvMMEnsquF43h4ZdgzirhsKr-VH1uecb1I7A-N3qTZyEoIEOrrWSl3n7HXYm26Dw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Action!(피처링: GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이) - 달링 (DARLING)(피처링: 크러쉬)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Action! ]</b>
+  included in <b>[ HEADLINER ]</b>
   
   <br />
   <br />
-  09/28/2021 17:10 Playing on YTMusic
+  09/28/2021 17:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
