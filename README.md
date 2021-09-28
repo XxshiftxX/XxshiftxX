@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cJtlLS6LPEc">
-    <img width="300" src="https://lh3.googleusercontent.com/AkehRocN66EQuMNSEMjG54PKajNKlAMmQgBnJb3bFj6AGRgK797xLnOebDj0vpXJ1FmLg47JHwmQggpi">
+  <a href="https://music.youtube.com/watch?v=I-MSIqTVi6s">
+    <img width="300" src="https://lh3.googleusercontent.com/R8Fsd-4l0DMzHNP7YnzG09INuSxzHC3flxyq1ciYHXBnLdmx-b_R4gRSGI_VAr4g7nH-s4WtunSQAkg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh! - uh-uh(피처링: Kid Milli, Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE, Uneducated Kid, Chin, CK - 사임쌓임</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ uh-uh ]</b>
+  included in <b>[ The Money Team ]</b>
   
   <br />
   <br />
-  09/28/2021 16:53 Playing on YTMusic
+  09/28/2021 16:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
