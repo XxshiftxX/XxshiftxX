@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uo4zf2ElHgA">
-    <img width="300" src="https://lh3.googleusercontent.com/CwHKwswivu4yGFdE1ASvMMEnsquF43h4ZdgzirhsKr-VH1uecb1I7A-N3qTZyEoIEOrrWSl3n7HXYm26Dw">
+  <a href="https://music.youtube.com/watch?v=oC8dVkqHMGI">
+    <img width="300" src="https://lh3.googleusercontent.com/X50xtI-Ku0aLC5QkYHRwnjGHcV4yCXiAb76YJzegaTxK7XB97x-zJoxk34Wz4FMnLcFbtTSIRbxxwDSz">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이) - 달링 (DARLING)(피처링: 크러쉬)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제네 더 질라 - ITX(피처링: 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HEADLINER ]</b>
+  included in <b>[ ITX ]</b>
   
   <br />
   <br />
-  09/28/2021 17:13 Playing on YTMusic
+  09/28/2021 17:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
