@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dnQYj8O5Akw">
+  <a href="https://music.youtube.com/watch?v=jmpq1vawcpc">
     <img width="300" src="https://lh3.googleusercontent.com/ElVy71gRYV7fS8hl4ei6a4o2VxsWYCjt0X1Yd0I0TE1yd-nwweRAXJS3SzEuOuMlDpzuAWzCKkeRSFxN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 Minit - YOUTH )(피처링: AVOKID)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 Minit - 21 레지스탕스(피처링: h3hyeon, JAEHA)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 미끼닛브라운 : Just For Fun ]</b>
   
   <br />
   <br />
-  09/28/2021 11:58 Playing on YTMusic
+  09/28/2021 12:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
