@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I-MSIqTVi6s">
-    <img width="300" src="https://lh3.googleusercontent.com/R8Fsd-4l0DMzHNP7YnzG09INuSxzHC3flxyq1ciYHXBnLdmx-b_R4gRSGI_VAr4g7nH-s4WtunSQAkg">
+  <a href="https://music.youtube.com/watch?v=f0ina8aQ1Pg">
+    <img width="300" src="https://lh3.googleusercontent.com/jcC_nN8vCVQZhHF9PViqM-cn-wWqVaI2AlDNH-HbNy1frX1cabFOjNr_q0pKjVQ4gwiTNbmvv5fl0ts">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE, Uneducated Kid, Chin, CK - 사임쌓임</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 아름다워</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Money Team ]</b>
+  included in <b>[ 돈 벌 시간 2 ]</b>
   
   <br />
   <br />
-  09/28/2021 16:57 Playing on YTMusic
+  09/28/2021 17:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
