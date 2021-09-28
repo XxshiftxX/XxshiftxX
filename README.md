@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7t-iZc3Psvw">
-    <img width="300" src="https://lh3.googleusercontent.com/s4UFG4c2mZLNQnmeGNINibpbTMkkmYeeXFdHnUtR0RD-wYAy2WifXKTWhqwpMqDBcE8CeGweiKCydO4">
+  <a href="https://music.youtube.com/watch?v=JeuZ5RCgvwM">
+    <img width="300" src="https://lh3.googleusercontent.com/phZuErLj7AwcFmh46wnIReYDCppbBGQEsF_rLP1SdZhvl-mLsvBYYkkJRtfzssYkb62ObGjMMueI48M_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 진인사대천명</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>비비(BIBI) - 비누</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 진인사대천명 ]</b>
+  included in <b>[ 비누 ]</b>
   
   <br />
   <br />
-  09/28/2021 17:04 Playing on YTMusic
+  09/28/2021 17:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
