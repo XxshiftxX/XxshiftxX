@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hOvlw9XV-d8">
-    <img width="300" src="https://lh3.googleusercontent.com/xS3nGTA7ChdFj8P1lJbWw17eiHnhq5oonWP8yttOocaIAIMMhstK3xt4LBRQ87ifm0hnmuiFMf528F4E">
+  <a href="https://music.youtube.com/watch?v=W2rvTgygYqk">
+    <img width="300" src="https://lh3.googleusercontent.com/UvLajZSCO_sk9m6VUOufTfnYynWdBwctT6ydHFei0iYa6y7lASUwgE4VouEzc4BCF7j5pN6SLFU2KJo8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1, BIG Naughty, TRADE L 및 Woodie Gochild - VVS (H1GHR Remix) [Prod. GroovyRoom]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>재하 - Loveache (feat. Layone) (끝이라고 말하지 마(피처링: 래원)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 굴젓 (G＋Jus) ]</b>
+  included in <b>[ Life Like Last 18 ]</b>
   
   <br />
   <br />
-  09/28/2021 15:47 Playing on YTMusic
+  09/28/2021 15:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
