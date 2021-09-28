@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qS2bY29N7gM">
-    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
+  <a href="https://music.youtube.com/watch?v=lCNDcqDYFS4">
+    <img width="300" src="https://lh3.googleusercontent.com/Ez85RnZTwo991VmLILk7i4mUHZs9RihLIgzXrO7KLwjDdJiNmLVfhYMvlvcfN2Mh2vFDm-DI4eckqXs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>루피(Loopy) - NoNo(피처링: 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MELOH - IDNY(피처링: 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 777 Semi Final ]</b>
+  included in <b>[ MELOH ]</b>
   
   <br />
   <br />
-  09/28/2021 16:00 Playing on YTMusic
+  09/28/2021 16:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
