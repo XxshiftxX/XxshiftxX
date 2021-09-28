@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=M7Es4vCrd7Y">
-    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
+  <a href="https://music.youtube.com/watch?v=qS2bY29N7gM">
+    <img width="300" src="https://lh3.googleusercontent.com/KOb7PUDjt3cLdA4TvOefSqs0yDZl-3PwyBkJUL51jYfAMU_q-FQiDKazW1KKAgQEH7DbqtRKb2mqIU1Wpw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Homies - 내 머리속의 지우개(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피(Loopy) - NoNo(피처링: 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ghetto Superstars ]</b>
+  included in <b>[ Show Me the Money 777 Semi Final ]</b>
   
   <br />
   <br />
-  09/28/2021 15:56 Playing on YTMusic
+  09/28/2021 16:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
