@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=W2rvTgygYqk">
-    <img width="300" src="https://lh3.googleusercontent.com/UvLajZSCO_sk9m6VUOufTfnYynWdBwctT6ydHFei0iYa6y7lASUwgE4VouEzc4BCF7j5pN6SLFU2KJo8">
+  <a href="https://music.youtube.com/watch?v=M7Es4vCrd7Y">
+    <img width="300" src="https://lh3.googleusercontent.com/FDWxQoWg-Cn-swzpQ3vLrG1tnlgEFmZS5GCo_Tp-P8U048PlrdOqBRLKYW987QwE-sJTiH262nGAuiFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>재하 - Loveache (feat. Layone) (끝이라고 말하지 마(피처링: 래원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Homies - 내 머리속의 지우개(피처링: CHANGMO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Like Last 18 ]</b>
+  included in <b>[ Ghetto Superstars ]</b>
   
   <br />
   <br />
-  09/28/2021 15:52 Playing on YTMusic
+  09/28/2021 15:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
