@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QvT5DL9TC1o">
-    <img width="300" src="https://lh3.googleusercontent.com/G22eoUkL4TQHxDRQZNftlZpfdbHzTwTiRY2U248WWRMix2nQ6_gQjQoJcCAkb_OQpsvqdte6Fj9gHe4">
+  <a href="https://music.youtube.com/watch?v=xKRYKEUwS0E">
+    <img width="300" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>APRO (아프로) - 고군분투(피처링: 개코, 페노메코 (PENOMECO), 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손 - 사랑은 (Remaster)(피처링: Wonstein)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고군분투 (Feat. 개코, 페노메코) ]</b>
+  included in <b>[ 나의슬픔(My Sadness)(Remaster) ]</b>
   
   <br />
   <br />
-  10/04/2021 23:16 Playing on YTMusic
+  10/04/2021 23:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
