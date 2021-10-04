@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xKRYKEUwS0E">
-    <img width="300" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">
+  <a href="https://music.youtube.com/watch?v=En3KKE89QRs">
+    <img width="300" src="https://lh3.googleusercontent.com/o_lEOyAwT9ztDCt573QkYe2m07MBC4J1crLJOR9_m8OxhsdgvmRZVdCiYKId6K-kbKV6Llg9CfrImQNv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마미손 - 사랑은 (Remaster)(피처링: Wonstein)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie - POW(피처링: GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 나의슬픔(My Sadness)(Remaster) ]</b>
+  included in <b>[ POW ]</b>
   
   <br />
   <br />
-  10/04/2021 23:19 Playing on YTMusic
+  10/04/2021 23:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
