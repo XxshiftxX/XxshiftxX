@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9Ibf10h9U0c">
-    <img width="300" src="https://lh3.googleusercontent.com/o4jX-7hnRDn_RQkrYITMnP91k99QXW8CPcOYGWN4H8kB01eP56F2OUwDeZ-ohCS2P2h6SxgHhjpiY2gJ">
+  <a href="https://music.youtube.com/watch?v=dI3GK5wMZzU">
+    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>이무진 - 신호등</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Misfits(피처링: MELOH, Kid Wine)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 신호등 ]</b>
+  included in <b>[ Berry Loves My Mood ]</b>
   
   <br />
   <br />
-  09/28/2021 18:15 Playing on YTMusic
+  10/04/2021 23:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
