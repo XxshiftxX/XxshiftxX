@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=n7opexf7qlY">
-    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
+  <a href="https://music.youtube.com/watch?v=kOSsoCgsFvg">
+    <img width="300" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - U</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, Kid Milli, NO:EL 및 Swings - flex</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ grayground. ]</b>
+  included in <b>[ flex ]</b>
   
   <br />
   <br />
-  10/05/2021 18:00 Playing on YTMusic
+  10/05/2021 18:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
