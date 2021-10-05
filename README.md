@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kOSsoCgsFvg">
-    <img width="300" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">
+  <a href="https://music.youtube.com/watch?v=TaZkqPK0sbw">
+    <img width="300" src="https://lh3.googleusercontent.com/HD2RXcgEO4uCgpe6_1TBEd8VviggmvWqqwuSbwMtIdqF2rGqOskUEtlrQZI0FoyYWCamApcMIn30yEMN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, Kid Milli, NO:EL 및 Swings - flex</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coldplay 및 BTS - My Universe</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ flex ]</b>
+  included in <b>[ My Universe ]</b>
   
   <br />
   <br />
-  10/05/2021 18:04 Playing on YTMusic
+  10/05/2021 18:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
