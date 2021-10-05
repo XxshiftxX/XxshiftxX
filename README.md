@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ywWKuk4Xv1w">
-    <img width="300" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">
+  <a href="https://music.youtube.com/watch?v=5DZK3eVfTgA">
+    <img width="300" src="https://lh3.googleusercontent.com/JTKrs5_o9lfQnJkbe5GB3yWgzveStdIgtAJbd72fJ2I5GNtNrleB8qCyZIDyK1VG6s_Iah1LioS2CJNP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오 - MSG(피처링: 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Birthday(피처링: 오르내림)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OFF DUTY ]</b>
+  included in <b>[ Maiden Voyage Ⅱ ]</b>
   
   <br />
   <br />
-  10/05/2021 19:01 Playing on YTMusic
+  10/05/2021 19:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
