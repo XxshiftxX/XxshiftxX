@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VD8-RhFipzk">
-    <img width="300" src="https://lh3.googleusercontent.com/EpDNXqFp4hl09Y6zn1nE9eEWKdRcTGgJ28_EExDDiqHiHaLs7i9IXI0i0PWbV-9paT9KlRqdvIyQp6Q">
+  <a href="https://music.youtube.com/watch?v=ZCpn_QeADUk">
+    <img width="300" src="https://lh3.googleusercontent.com/1CZh8rZr6_ZITS_Pl-iQjJ9GXv-TKCWKo1I3_DVFMLE_JpZVe_mLObTwoYlUczKwcGqrmTvIZRYZAwFf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PENOMECO - Shy (eh o)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BewhY - Celebration</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Organic ]</b>
+  included in <b>[ 032 Funk ]</b>
   
   <br />
   <br />
-  10/05/2021 18:54 Playing on YTMusic
+  10/05/2021 18:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
