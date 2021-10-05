@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I0pC-2pLEWY">
-    <img width="300" src="https://lh3.googleusercontent.com/PFGbCKZYxE8np4JYofGG1guhAFKYJbqlAaBwv7SSf8rfcgYTP721TGutFs8rj_XqmII_RcntcfMQVme2">
+  <a href="https://music.youtube.com/watch?v=PplViHGtOKQ">
+    <img width="300" src="https://lh3.googleusercontent.com/7WLxYp1T9hkFVI4iQFc7tAutKt9OSOp1EOxSXbIw7baN7rpVPXzl8XK0SWK1wl59M5YJOekW7dlJ0NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Red Velvet - Bad Boy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아프로(APRO) - Pills</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Perfect Red Velvet (Repackage) ]</b>
+  included in <b>[ ANIMAR SECOND EXHIBITION DOUBLE SIDEDNESS '양면성' pt. 01 ]</b>
   
   <br />
   <br />
-  10/06/2021 01:52 Playing on YTMusic
+  10/06/2021 01:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
