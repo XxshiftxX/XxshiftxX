@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=n0sLGh9xhbU">
-    <img width="300" src="https://lh3.googleusercontent.com/EpDNXqFp4hl09Y6zn1nE9eEWKdRcTGgJ28_EExDDiqHiHaLs7i9IXI0i0PWbV-9paT9KlRqdvIyQp6Q">
+  <a href="https://music.youtube.com/watch?v=uOysDunbDNs">
+    <img width="300" src="https://lh3.googleusercontent.com/ABSeQp7b7fP4FpY0MREQ3UciykB3xheXNX_NRi2CPjHfLEZKjbqiYZC2csN47T9fXC56lz4o7RTxuT7Yzw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PENOMECO - BOLO (Feat. YDG)(피처링: YDG)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BTS - 쩔어</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Organic ]</b>
+  included in <b>[ 화양연화, Pt. 1 ]</b>
   
   <br />
   <br />
-  10/05/2021 19:09 Playing on YTMusic
+  10/06/2021 01:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
