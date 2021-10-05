@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=T2UUTwvVoaM">
-    <img width="300" src="https://lh3.googleusercontent.com/4rMXhBF_R14WJuySr-lnNmkTrUvIqTclFr0sjdAxWM_91cF0Wgx07Jzd_IqB8ZdHIVPn-kBhDJuWnTU">
+  <a href="https://music.youtube.com/watch?v=D9QtiNBfy3Q">
+    <img width="300" src="https://lh3.googleusercontent.com/n3wpA8qDHqKXr6-U8Y9imiByQ5WSfWgKiE82NxBhIsbU52tnbnBONBcOv3qBSrle-61stbAGma-LB06nyw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>백예린 - 산책</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K, pH-1 및 Jay Park - iffy</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 선물 ]</b>
+  included in <b>[ iffy ]</b>
   
   <br />
   <br />
-  10/05/2021 18:18 Playing on YTMusic
+  10/05/2021 18:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
