@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KDwQpj9JBV8">
-    <img width="300" src="https://lh3.googleusercontent.com/ZGLUg7uQNr40WWF0y8AO9eFGOZEzfj4JUOkmPYTQ7AOu41pK-URzGME9b3VVoCr7Brzxb9W2rqELEmM">
+  <a href="https://music.youtube.com/watch?v=KltW7c7RUsI">
+    <img width="300" src="https://lh3.googleusercontent.com/-aB03JZvL8GfZ9gKAbMl6GvMKK43f6-ICu8EX2Pi7gB6s3L73SVzrAjeu3p0iEzmt6Lzi9jKo3NDa3P_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K - X발 (XIBAL)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DEAN - D (Half Moon)(피처링: Gaeko)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ FL1P ]</b>
+  included in <b>[ 130 Mood : TRBL ]</b>
   
   <br />
   <br />
-  10/06/2021 02:14 Playing on YTMusic
+  10/06/2021 02:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
