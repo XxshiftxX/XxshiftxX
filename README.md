@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NZ-Wz1CkGI0">
-    <img width="300" src="https://lh3.googleusercontent.com/CbhBYDcYGry_kkucWQRIX8Tj7e3PVkMaibWqW43GOI0WU4Wx9OTDEiTFg7WbcmL4IOfhTRV4F0-0dtlJ">
+  <a href="https://music.youtube.com/watch?v=MKonXeqbgz8">
+    <img width="300" src="https://lh3.googleusercontent.com/FSBVHx4JMt74comzMgtdrzeHWfbQjoRv9vq8ObuhT_e1uj2Wfb3Fj189Py1hVX3M7DXBOgZiau5MqF1x">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PENOMECO - Actually Pt.2 (걘 아니야 Pt.2)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>페레즈 - Smile</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dry Flower ]</b>
+  included in <b>[ Smile ]</b>
   
   <br />
   <br />
-  10/06/2021 01:59 Playing on YTMusic
+  10/06/2021 02:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
