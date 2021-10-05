@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m-fmHcHDIic">
-    <img width="300" src="https://lh3.googleusercontent.com/0wS_pftzPrTUPyjWPUTyuBT5MA3Gk1zaOILuMZvzSzRre8WyGeXxaq1aFMT95NgWFMLSxs6RMu0_bBeg">
+  <a href="https://music.youtube.com/watch?v=QdZjl60UMn8">
+    <img width="300" src="https://lh3.googleusercontent.com/CbhBYDcYGry_kkucWQRIX8Tj7e3PVkMaibWqW43GOI0WU4Wx9OTDEiTFg7WbcmL4IOfhTRV4F0-0dtlJ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 Gaeko - 장미꽃 (Rose)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PENOMECO - Insomnia (불면증)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Redingray ]</b>
+  included in <b>[ Dry Flower ]</b>
   
   <br />
   <br />
-  10/05/2021 18:36 Playing on YTMusic
+  10/05/2021 18:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
