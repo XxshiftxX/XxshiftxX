@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZCpn_QeADUk">
-    <img width="300" src="https://lh3.googleusercontent.com/1CZh8rZr6_ZITS_Pl-iQjJ9GXv-TKCWKo1I3_DVFMLE_JpZVe_mLObTwoYlUczKwcGqrmTvIZRYZAwFf">
+  <a href="https://music.youtube.com/watch?v=ywWKuk4Xv1w">
+    <img width="300" src="https://lh3.googleusercontent.com/RKoi61a6YT2TSM4f8eYsKN8AmK0lfTE9qkTzOgn8m7y3eYUK2gM2wUQXd2Y5EkGRPozL8UkhXr1rMWofIQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BewhY - Celebration</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>다이나믹 듀오 - MSG(피처링: 페노메코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 032 Funk ]</b>
+  included in <b>[ OFF DUTY ]</b>
   
   <br />
   <br />
-  10/05/2021 18:58 Playing on YTMusic
+  10/05/2021 19:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
