@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Nl7yzuhzRa8">
-    <img width="300" src="https://lh3.googleusercontent.com/h2G7KfMEST0J7Mo-zSwNQJLxuHtutpvV3AGsdLRiyWUtfeSyOHUZXACtIBCkTg4DfuLAEZD2fd6e5SNx">
+  <a href="https://music.youtube.com/watch?v=OOWeRIg8zOM">
+    <img width="300" src="https://lh3.googleusercontent.com/3CwjeP-S0GYWkDf-yi4YApsSkADNJkx8GKgYuFikr_utIk13zlq05TYdFxf8pZ1sgvFcm3iIhP5zCOVJ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>지코(ZICO) - another level(피처링: 페노메코(PENOMECO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Highlight(하이라이트) - Plz Don’t Be Sad(얼굴 찌푸리지 말아요)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ THINKING, Part 2 ]</b>
+  included in <b>[ CAN YOU FEEL IT? ]</b>
   
   <br />
   <br />
-  10/06/2021 01:38 Playing on YTMusic
+  10/06/2021 01:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
