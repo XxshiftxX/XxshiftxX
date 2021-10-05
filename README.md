@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lYRl_517yVc">
-    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
+  <a href="https://music.youtube.com/watch?v=GNv55Hyh14o">
+    <img width="300" src="https://lh3.googleusercontent.com/Y0A2-_Qjuk5F-xqTcdbHset5D7CgiCcI4TyWc_nrMZs3AxPou0Gke2-SJvB6SJyjT_c6AIlj3LxAYQs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Close 2 U(피처링: 펀치넬로)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 Minit - FLEX(피처링: ZENE THE ZILLA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ grayground. ]</b>
+  included in <b>[ 미끼닛브라운 0.5 ]</b>
   
   <br />
   <br />
-  10/06/2021 02:21 Playing on YTMusic
+  10/06/2021 02:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
