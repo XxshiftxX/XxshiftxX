@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Cs1BUII8Amk">
-    <img width="300" src="https://lh3.googleusercontent.com/5fcoPLx6m5sG_NSSF3yphHfwjqMxEUrR-7LfziupehjLDO8OrxjBjXb4947pkm8dNBmkjwoB5mb0xG4">
+  <a href="https://music.youtube.com/watch?v=DwBTeO_FIEg">
+    <img width="300" src="https://lh3.googleusercontent.com/OoTuvItTpQ_skv2ecjf9yj4bzuGy0JqrW161reBDfsd3CMJw8-lmqp9GNo53JDpQdAx00JvE8IpU9po">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 신경꺼</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sam Kim - Make Up(피처링: Crush)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ More ISLAND ]</b>
+  included in <b>[ Sun And Moon ]</b>
   
   <br />
   <br />
-  10/05/2021 18:27 Playing on YTMusic
+  10/05/2021 18:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
