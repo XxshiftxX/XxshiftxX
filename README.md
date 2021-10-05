@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PS7y36Kz84Y">
-    <img width="300" src="https://lh3.googleusercontent.com/fVhqJ_-ysN48G8zjc5vvWWYk3ZqxydWS5D-el5w3N2RDugut-OOxE0VSoyVP-2IBAq3sqlvWQvN3__0">
+  <a href="https://music.youtube.com/watch?v=7gU6lLvwAIY">
+    <img width="300" src="https://lh3.googleusercontent.com/fYbqgxZJIFzofORRTFvLZIRvkUrz3mPtB4G1TQj3tcZaepLjkOqFH2f7I6pxLjlZU3Zj70mmM55-V2dm9g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ZICO - Artist</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 APRO - VS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TELEVISION ]</b>
+  included in <b>[ [ LEELLAMARZ ] IS DIFFERENT. ]</b>
   
   <br />
   <br />
-  10/06/2021 01:44 Playing on YTMusic
+  10/06/2021 01:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
