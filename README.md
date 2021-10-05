@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GNv55Hyh14o">
-    <img width="300" src="https://lh3.googleusercontent.com/Y0A2-_Qjuk5F-xqTcdbHset5D7CgiCcI4TyWc_nrMZs3AxPou0Gke2-SJvB6SJyjT_c6AIlj3LxAYQs">
+  <a href="https://music.youtube.com/watch?v=n-bNGf6DjfE">
+    <img width="300" src="https://lh3.googleusercontent.com/dIyUM7JgWri6cCyhDnGKsqysmn27eg8BqySpUwkGTWGIwlzmwV8MP3u8pAIF9y0wGhj-JbfgHPLAyDk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 Minit - FLEX(피처링: ZENE THE ZILLA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>다비 - 날개 (Angel)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 미끼닛브라운 0.5 ]</b>
+  included in <b>[ CINEMA ]</b>
   
   <br />
   <br />
-  10/06/2021 02:25 Playing on YTMusic
+  10/06/2021 02:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
