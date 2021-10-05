@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=D9QtiNBfy3Q">
-    <img width="300" src="https://lh3.googleusercontent.com/n3wpA8qDHqKXr6-U8Y9imiByQ5WSfWgKiE82NxBhIsbU52tnbnBONBcOv3qBSrle-61stbAGma-LB06nyw">
+  <a href="https://music.youtube.com/watch?v=Cs1BUII8Amk">
+    <img width="300" src="https://lh3.googleusercontent.com/5fcoPLx6m5sG_NSSF3yphHfwjqMxEUrR-7LfziupehjLDO8OrxjBjXb4947pkm8dNBmkjwoB5mb0xG4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K, pH-1 및 Jay Park - iffy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - 신경꺼</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ iffy ]</b>
+  included in <b>[ More ISLAND ]</b>
   
   <br />
   <br />
-  10/05/2021 18:22 Playing on YTMusic
+  10/05/2021 18:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
