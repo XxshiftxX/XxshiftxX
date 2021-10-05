@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=n-bNGf6DjfE">
-    <img width="300" src="https://lh3.googleusercontent.com/dIyUM7JgWri6cCyhDnGKsqysmn27eg8BqySpUwkGTWGIwlzmwV8MP3u8pAIF9y0wGhj-JbfgHPLAyDk">
+  <a href="https://music.youtube.com/watch?v=pCeiiBL62W0">
+    <img width="300" src="https://lh3.googleusercontent.com/zEQJJ04Z8hFcDen6kBX-IlOxrY7UKgXhwCM8wRuRAAgBnkqSjfsYpzBQk77iMapSZEUV_XCmX1FLfMJi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다비 - 날개 (Angel)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>챙스타 (Changstarr*), Mckdaddy, Owen 및 Viceversa - DVLI MVRLEY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CINEMA ]</b>
+  included in <b>[ DVLI MVRLEY ]</b>
   
   <br />
   <br />
-  10/06/2021 02:27 Playing on YTMusic
+  10/06/2021 02:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
