@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KltW7c7RUsI">
-    <img width="300" src="https://lh3.googleusercontent.com/-aB03JZvL8GfZ9gKAbMl6GvMKK43f6-ICu8EX2Pi7gB6s3L73SVzrAjeu3p0iEzmt6Lzi9jKo3NDa3P_">
+  <a href="https://music.youtube.com/watch?v=lYRl_517yVc">
+    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DEAN - D (Half Moon)(피처링: Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Close 2 U(피처링: 펀치넬로)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 130 Mood : TRBL ]</b>
+  included in <b>[ grayground. ]</b>
   
   <br />
   <br />
-  10/06/2021 02:17 Playing on YTMusic
+  10/06/2021 02:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
