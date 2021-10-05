@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=RQ_cixrcXZ0">
-    <img width="300" src="https://lh3.googleusercontent.com/-aB03JZvL8GfZ9gKAbMl6GvMKK43f6-ICu8EX2Pi7gB6s3L73SVzrAjeu3p0iEzmt6Lzi9jKo3NDa3P_">
+  <a href="https://music.youtube.com/watch?v=Njvj38mvWnk">
+    <img width="300" src="https://lh3.googleusercontent.com/sRYOM9osrUfgkN-P5wlGeGEIWIzXFozCpGI5qeJ3kvd1sguHR7VxCPk8E18nTCMU4ljfHzinmODxAWJexg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DEAN - 풀어 (Pour up) (Feat. ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MINO - 아낙네(Fiancé)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 130 Mood : TRBL ]</b>
+  included in <b>[ XX ]</b>
   
   <br />
   <br />
-  10/06/2021 01:24 Playing on YTMusic
+  10/06/2021 01:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
