@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SRgRY3yII4c">
-    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
+  <a href="https://music.youtube.com/watch?v=VD8-RhFipzk">
+    <img width="300" src="https://lh3.googleusercontent.com/EpDNXqFp4hl09Y6zn1nE9eEWKdRcTGgJ28_EExDDiqHiHaLs7i9IXI0i0PWbV-9paT9KlRqdvIyQp6Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 봄(피처링: ASH ISLAND, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PENOMECO - Shy (eh o)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Curtain Call ]</b>
+  included in <b>[ Organic ]</b>
   
   <br />
   <br />
-  10/05/2021 18:51 Playing on YTMusic
+  10/05/2021 18:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
