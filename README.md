@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QvT5DL9TC1o">
-    <img width="300" src="https://lh3.googleusercontent.com/G22eoUkL4TQHxDRQZNftlZpfdbHzTwTiRY2U248WWRMix2nQ6_gQjQoJcCAkb_OQpsvqdte6Fj9gHe4">
+  <a href="https://music.youtube.com/watch?v=Ya9usB8DHw4">
+    <img width="300" src="https://lh3.googleusercontent.com/JM9Rw429lCYrsmgJvbeqWFyPDfgIQbVchtedNsZs_LcpuJOlye703n0GH83eYl5XlDjlDKT9sonfP53n">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>APRO (아프로) - 고군분투(피처링: 개코, 페노메코 (PENOMECO), 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - I'm Not Okay(피처링: NO:EL)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고군분투 (Feat. 개코, 페노메코) ]</b>
+  included in <b>[ 초희귀종 ]</b>
   
   <br />
   <br />
-  10/05/2021 17:34 Playing on YTMusic
+  10/05/2021 17:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
