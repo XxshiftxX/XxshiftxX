@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DwBTeO_FIEg">
-    <img width="300" src="https://lh3.googleusercontent.com/OoTuvItTpQ_skv2ecjf9yj4bzuGy0JqrW161reBDfsd3CMJw8-lmqp9GNo53JDpQdAx00JvE8IpU9po">
+  <a href="https://music.youtube.com/watch?v=eeUSXN83VQ4">
+    <img width="300" src="https://lh3.googleusercontent.com/WCFYRBaSe2rDgsUMb7JCrffKpvCr5ptvsfi9GDjMSGNBdYWfoRt1LzXexu7yYsrFWk-wl7tsuCLFx8c">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sam Kim - Make Up(피처링: Crush)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Colde (콜드) - Move</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Sun And Moon ]</b>
+  included in <b>[ Wave ]</b>
   
   <br />
   <br />
-  10/05/2021 18:29 Playing on YTMusic
+  10/05/2021 18:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
