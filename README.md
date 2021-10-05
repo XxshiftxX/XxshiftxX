@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Njvj38mvWnk">
-    <img width="300" src="https://lh3.googleusercontent.com/sRYOM9osrUfgkN-P5wlGeGEIWIzXFozCpGI5qeJ3kvd1sguHR7VxCPk8E18nTCMU4ljfHzinmODxAWJexg">
+  <a href="https://music.youtube.com/watch?v=VxWeZX4c4Jc">
+    <img width="300" src="https://lh3.googleusercontent.com/HcyhqEvi9YQXyvLsyIeB1fVxR1h2k9tXKyvZbwv_-b543wCQqW9RhsnXpwWt2hLKL1XwhZhae9qxvnDYRw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MINO - 아낙네(Fiancé)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZICO - SoulMate(피처링: IU)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ XX ]</b>
+  included in <b>[ SoulMate ]</b>
   
   <br />
   <br />
-  10/06/2021 01:28 Playing on YTMusic
+  10/06/2021 01:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
