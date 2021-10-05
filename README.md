@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eeUSXN83VQ4">
-    <img width="300" src="https://lh3.googleusercontent.com/WCFYRBaSe2rDgsUMb7JCrffKpvCr5ptvsfi9GDjMSGNBdYWfoRt1LzXexu7yYsrFWk-wl7tsuCLFx8c">
+  <a href="https://music.youtube.com/watch?v=m-fmHcHDIic">
+    <img width="300" src="https://lh3.googleusercontent.com/0wS_pftzPrTUPyjWPUTyuBT5MA3Gk1zaOILuMZvzSzRre8WyGeXxaq1aFMT95NgWFMLSxs6RMu0_bBeg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Colde (콜드) - Move</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 Gaeko - 장미꽃 (Rose)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Wave ]</b>
+  included in <b>[ Redingray ]</b>
   
   <br />
   <br />
-  10/05/2021 18:32 Playing on YTMusic
+  10/05/2021 18:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
