@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7gU6lLvwAIY">
-    <img width="300" src="https://lh3.googleusercontent.com/fYbqgxZJIFzofORRTFvLZIRvkUrz3mPtB4G1TQj3tcZaepLjkOqFH2f7I6pxLjlZU3Zj70mmM55-V2dm9g">
+  <a href="https://music.youtube.com/watch?v=4wUQVtSh17A">
+    <img width="300" src="https://lh3.googleusercontent.com/CbhBYDcYGry_kkucWQRIX8Tj7e3PVkMaibWqW43GOI0WU4Wx9OTDEiTFg7WbcmL4IOfhTRV4F0-0dtlJ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 APRO - VS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PENOMECO - Better ft. Kid Milli(피처링: Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [ LEELLAMARZ ] IS DIFFERENT. ]</b>
+  included in <b>[ Dry Flower ]</b>
   
   <br />
   <br />
-  10/06/2021 01:47 Playing on YTMusic
+  10/06/2021 01:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
