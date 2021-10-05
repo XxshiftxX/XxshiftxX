@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5DZK3eVfTgA">
-    <img width="300" src="https://lh3.googleusercontent.com/JTKrs5_o9lfQnJkbe5GB3yWgzveStdIgtAJbd72fJ2I5GNtNrleB8qCyZIDyK1VG6s_Iah1LioS2CJNP">
+  <a href="https://music.youtube.com/watch?v=n0sLGh9xhbU">
+    <img width="300" src="https://lh3.googleusercontent.com/EpDNXqFp4hl09Y6zn1nE9eEWKdRcTGgJ28_EExDDiqHiHaLs7i9IXI0i0PWbV-9paT9KlRqdvIyQp6Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - Birthday(피처링: 오르내림)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PENOMECO - BOLO (Feat. YDG)(피처링: YDG)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Maiden Voyage Ⅱ ]</b>
+  included in <b>[ Organic ]</b>
   
   <br />
   <br />
-  10/05/2021 19:05 Playing on YTMusic
+  10/05/2021 19:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
