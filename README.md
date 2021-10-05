@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ya9usB8DHw4">
-    <img width="300" src="https://lh3.googleusercontent.com/JM9Rw429lCYrsmgJvbeqWFyPDfgIQbVchtedNsZs_LcpuJOlye703n0GH83eYl5XlDjlDKT9sonfP53n">
+  <a href="https://music.youtube.com/watch?v=o5S9Mn7kl1Q">
+    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - I'm Not Okay(피처링: NO:EL)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Show Window(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 초희귀종 ]</b>
+  included in <b>[ grayground. ]</b>
   
   <br />
   <br />
-  10/05/2021 17:37 Playing on YTMusic
+  10/05/2021 17:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
