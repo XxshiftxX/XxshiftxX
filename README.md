@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZKfC9UqopX4">
-    <img width="300" src="https://lh3.googleusercontent.com/4aSvto3iM6dKm-npIGO1ypqZxkLfzx_awxzd-0r5q_dgVI5OKUY1RefMUuGw85IOB50GI9VUnU7ymoyF">
+  <a href="https://music.youtube.com/watch?v=n7opexf7qlY">
+    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>비비 (BIBI) - PADO</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - U</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PADO ]</b>
+  included in <b>[ grayground. ]</b>
   
   <br />
   <br />
-  10/05/2021 17:58 Playing on YTMusic
+  10/05/2021 18:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
