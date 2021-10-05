@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OOWeRIg8zOM">
-    <img width="300" src="https://lh3.googleusercontent.com/3CwjeP-S0GYWkDf-yi4YApsSkADNJkx8GKgYuFikr_utIk13zlq05TYdFxf8pZ1sgvFcm3iIhP5zCOVJ">
+  <a href="https://music.youtube.com/watch?v=PS7y36Kz84Y">
+    <img width="300" src="https://lh3.googleusercontent.com/fVhqJ_-ysN48G8zjc5vvWWYk3ZqxydWS5D-el5w3N2RDugut-OOxE0VSoyVP-2IBAq3sqlvWQvN3__0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Highlight(하이라이트) - Plz Don’t Be Sad(얼굴 찌푸리지 말아요)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZICO - Artist</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CAN YOU FEEL IT? ]</b>
+  included in <b>[ TELEVISION ]</b>
   
   <br />
   <br />
-  10/06/2021 01:40 Playing on YTMusic
+  10/06/2021 01:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
