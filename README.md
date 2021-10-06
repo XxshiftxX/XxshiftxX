@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Dt_q4qn91QM">
-    <img width="300" src="https://lh3.googleusercontent.com/NHC6cLIKCWldR6xe8xMpUDinhPjgi325oHWN8SismmreTbQm123SVpZ-Wtm7qIS4_AHLPYYvLSa31IvE">
+  <a href="https://music.youtube.com/watch?v=5OYNbCcqV2c">
+    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Maroon 5 - Beautiful Mistakes(피처링: Megan Thee Stallion)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Love You Different(피처링: BEAM)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beautiful Mistakes ]</b>
+  included in <b>[ Justice ]</b>
   
   <br />
   <br />
-  10/07/2021 00:28 Playing on YTMusic
+  10/07/2021 00:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
