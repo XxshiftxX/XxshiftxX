@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_qP14y6kMHU">
-    <img width="300" src="https://lh3.googleusercontent.com/tGwJmEAdR-9MnbVxd9TQYU-Vq2J4D7qix3aDNb62x3yAJdjc9rjD5wjB4lnP02r51HeLUQOfZ5TDLmtW">
+  <a href="https://music.youtube.com/watch?v=XfEMj-z3TtA">
+    <img width="300" src="https://lh3.googleusercontent.com/_72AYxGc5r6U2SwbDvo8qLTx0wLp1bxRAQTSWNZfeZOdP2zf6yHjIAzTZCFILrbz3AvxHqHJdqde56Y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모, 해쉬 스완, ASH ISLAND 및 김효은 - 비워</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Kid LAROI 및 Justin Bieber - STAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 비워 ]</b>
+  included in <b>[ STAY ]</b>
   
   <br />
   <br />
-  10/06/2021 02:34 Playing on YTMusic
+  10/06/2021 23:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
