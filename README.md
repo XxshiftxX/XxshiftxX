@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HaEYUJ2aRHs">
-    <img width="300" src="https://lh3.googleusercontent.com/n1-pqG9jYCHqxiSSq7DORgk10PCS7vyMX5VX0o0HoPwEEIZM5pamJAFIDOHqo7Hl27hJ9YvqTahya3Fg">
+  <a href="https://music.youtube.com/watch?v=Dt_q4qn91QM">
+    <img width="300" src="https://lh3.googleusercontent.com/NHC6cLIKCWldR6xe8xMpUDinhPjgi325oHWN8SismmreTbQm123SVpZ-Wtm7qIS4_AHLPYYvLSa31IvE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>방탄소년단 - Dynamite</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Maroon 5 - Beautiful Mistakes(피처링: Megan Thee Stallion)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BE ]</b>
+  included in <b>[ Beautiful Mistakes ]</b>
   
   <br />
   <br />
-  10/07/2021 00:25 Playing on YTMusic
+  10/07/2021 00:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
