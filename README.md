@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sIa40F9_CDI">
-    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
+  <a href="https://music.youtube.com/watch?v=td8ofu69z0E">
+    <img width="300" src="https://lh3.googleusercontent.com/6fLyvxj0CVF5DYfR_jNv4eI-u3ZFUf5LV0Ye2ERD205LqxjK6DM4iDiydx8IMjb3cE-eYeT3i2uF4O0C">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Deserve You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>딘 루이스 - Be Alright</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice ]</b>
+  included in <b>[ A Place We Knew ]</b>
   
   <br />
   <br />
-  10/07/2021 00:19 Playing on YTMusic
+  10/07/2021 00:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
