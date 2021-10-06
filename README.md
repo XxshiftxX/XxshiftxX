@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FO5LrcUS-Gw">
-    <img width="300" src="https://lh3.googleusercontent.com/IPrL9SOHmYrzPXa-qOUI6Ck6KpHWmoRuutgDuufJKHOwpXnRRlcZYdNiBd2vUo4kkXVyy31QG6vTPHE">
+  <a href="https://music.youtube.com/watch?v=sIa40F9_CDI">
+    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Halsey(할시) - Without Me(피처링: Juice Wrld(주스 월드))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Deserve You</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Manic ]</b>
+  included in <b>[ Justice ]</b>
   
   <br />
   <br />
-  10/07/2021 00:15 Playing on YTMusic
+  10/07/2021 00:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
