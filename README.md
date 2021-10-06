@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=owTWCbq_nSk">
-    <img width="300" src="https://lh3.googleusercontent.com/4EoLt224zwxiPt7RIL9HgXF2VTEpUxiJxOf3X6MBChiyN24z1fUCRgX6cBGKtlN6yTYdu885qref3X02">
+  <a href="https://music.youtube.com/watch?v=jcnV2cGzmC4">
+    <img width="300" src="https://lh3.googleusercontent.com/da5OzOJmdt1EA2jqDK_cootjRQcfzvfBUC9n_BRXRZDPDnJT3DuJPKknKB3c1XCR6hWRAZNc_DCpgMoedw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) 및 Coldplay(콜드플레이) - Something Just Like This</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블랙베어 - hot girl bummer</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Something Just Like This ]</b>
+  included in <b>[ everything means nothing ]</b>
   
   <br />
   <br />
-  10/07/2021 00:47 Playing on YTMusic
+  10/07/2021 00:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
