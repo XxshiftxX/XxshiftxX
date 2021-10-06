@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5OYNbCcqV2c">
-    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
+  <a href="https://music.youtube.com/watch?v=3_g2un5M350">
+    <img width="300" src="https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Love You Different(피처링: BEAM)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Weeknd - Starboy(피처링: Daft Punk)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice ]</b>
+  included in <b>[ Starboy ]</b>
   
   <br />
   <br />
-  10/07/2021 00:32 Playing on YTMusic
+  10/07/2021 00:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
