@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4j6ZYUXj24o">
-    <img width="300" src="https://lh3.googleusercontent.com/rhjGmaqXfkddHYKBb2_IknkG9wE5kSneviJ9y5dz0Uu3qO4Hb6tVGTgyPVmDmoQhFq1o-NJRUZ6Sw1wg">
+  <a href="https://music.youtube.com/watch?v=r7zTKRonHXM">
+    <img width="300" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Holy(피처링: Chance The Rapper)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Closer(피처링: Halsey(할시))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Holy ]</b>
+  included in <b>[ Collage ]</b>
   
   <br />
   <br />
-  10/06/2021 23:21 Playing on YTMusic
+  10/06/2021 23:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
