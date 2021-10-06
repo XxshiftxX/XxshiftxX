@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QDQYVFQGkkw">
-    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
+  <a href="https://music.youtube.com/watch?v=clXRl7LBjEU">
+    <img width="300" src="https://lh3.googleusercontent.com/uu92DkkST_zDuxPuA5EznkVlnJwjctwi9oPGIBGfXay1EQnHFpG_8kbpJrxqT7BoNU037fgwWBUusjM8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Hold On</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Dj jabato - Mood remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice ]</b>
+  included in <b>[ Hits remixes 2021 vol.1 ]</b>
   
   <br />
   <br />
-  10/06/2021 23:35 Playing on YTMusic
+  10/06/2021 23:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
