@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=r7zTKRonHXM">
-    <img width="300" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">
+  <a href="https://music.youtube.com/watch?v=RmYCOm4ehKs">
+    <img width="300" src="https://lh3.googleusercontent.com/JDKz3Anlyo49xBhFcFx13QD_Tk4-kqdiYTo15gtkL93nE8biWyZ7o0BPyW6RnXVxcXaJ5DgU5nJ_0NjJ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Closer(피처링: Halsey(할시))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Weeknd (위켄드) - Save Your Tears</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Collage ]</b>
+  included in <b>[ After Hours ]</b>
   
   <br />
   <br />
-  10/06/2021 23:24 Playing on YTMusic
+  10/06/2021 23:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
