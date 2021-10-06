@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3_g2un5M350">
-    <img width="300" src="https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ">
+  <a href="https://music.youtube.com/watch?v=xTvyyoF_LZY">
+    <img width="300" src="https://lh3.googleusercontent.com/TMbA3LImAL96nFkm5cI1x6LiEMvMbRg4IRxEeABd9qpXsfmwKhZHRD1MucnjG5QIsVEp0Vpn7h7M51FH3Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Weeknd - Starboy(피처링: Daft Punk)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Shape of You</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Starboy ]</b>
+  included in <b>[ Shape of You ]</b>
   
   <br />
   <br />
-  10/07/2021 00:35 Playing on YTMusic
+  10/07/2021 00:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
