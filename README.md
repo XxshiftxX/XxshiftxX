@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JQIEb0nXDS0">
-    <img width="300" src="https://lh3.googleusercontent.com/G4BB5rVQrjGcBx7jAOdFtTE8Z07nqQkuQ5P9F-cCCkTYHH23H9RXSRKlTS3pIyCXDGLta_menJQsq-E4">
+  <a href="https://music.youtube.com/watch?v=rQ_wrpnBID0">
+    <img width="300" src="https://lh3.googleusercontent.com/-NEGt5niEIc2b1uU3-LEuJD6SgXnJ5_aqOQvamBxoLOOLBey0wVbcMagPHxYFeYz0uXOpESfyBvC2YYhIQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Maroon 5(마룬 파이브) - Cold(피처링: Future(퓨처))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Wish You Would(피처링: Quavo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Red Pill Blues (Deluxe) ]</b>
+  included in <b>[ Justice (Triple Chucks Deluxe) ]</b>
   
   <br />
   <br />
-  10/06/2021 23:46 Playing on YTMusic
+  10/06/2021 23:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
