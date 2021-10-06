@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lLwuuLIs-H0">
-    <img width="300" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">
+  <a href="https://music.youtube.com/watch?v=USb5JBhZed0">
+    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Takeaway(피처링: 레논 스텔라)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Doja Cat - Need to Know</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ World War Joy...Takeaway ]</b>
+  included in <b>[ Planet Her ]</b>
   
   <br />
   <br />
-  10/06/2021 23:10 Playing on YTMusic
+  10/06/2021 23:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
