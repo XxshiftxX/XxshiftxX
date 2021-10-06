@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LCpjdohpuEE">
-    <img width="300" src="https://lh3.googleusercontent.com/DZLnUlmagZUyAJPBvh1Jlf_ER26uxSDwzv2-SXzU3JZAyrWVeRTVE4GEKFsmCIKk8E2ISKmsghaaCSw3">
+  <a href="https://music.youtube.com/watch?v=RcSX0hOWcQ0">
+    <img width="300" src="https://lh3.googleusercontent.com/RWp6xYchtFg37DeLr-yxYOE6qWcPYApWuXkk3EYm_RLoqTtCTv-qPOyAy1F8wWjjiD1ZA99lmIrTAxs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BTS (방탄소년단) - Permission to Dance</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Intentions(피처링: 퀘이보)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Butter / Permission to Dance ]</b>
+  included in <b>[ Changes ]</b>
   
   <br />
   <br />
-  10/07/2021 00:04 Playing on YTMusic
+  10/07/2021 00:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
