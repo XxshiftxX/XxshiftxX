@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Jogk8G_4btw">
-    <img width="300" src="https://lh3.googleusercontent.com/-NEGt5niEIc2b1uU3-LEuJD6SgXnJ5_aqOQvamBxoLOOLBey0wVbcMagPHxYFeYz0uXOpESfyBvC2YYhIQ">
+  <a href="https://music.youtube.com/watch?v=CpTr4USXjQw">
+    <img width="300" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - There She Go(피처링: Lil Uzi Vert)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Don't Let Me Down(피처링: Daya)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice (Triple Chucks Deluxe) ]</b>
+  included in <b>[ Collage ]</b>
   
   <br />
   <br />
-  10/06/2021 23:57 Playing on YTMusic
+  10/07/2021 00:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
