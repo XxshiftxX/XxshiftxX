@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=td8ofu69z0E">
-    <img width="300" src="https://lh3.googleusercontent.com/6fLyvxj0CVF5DYfR_jNv4eI-u3ZFUf5LV0Ye2ERD205LqxjK6DM4iDiydx8IMjb3cE-eYeT3i2uF4O0C">
+  <a href="https://music.youtube.com/watch?v=HaEYUJ2aRHs">
+    <img width="300" src="https://lh3.googleusercontent.com/n1-pqG9jYCHqxiSSq7DORgk10PCS7vyMX5VX0o0HoPwEEIZM5pamJAFIDOHqo7Hl27hJ9YvqTahya3Fg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>딘 루이스 - Be Alright</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>방탄소년단 - Dynamite</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ A Place We Knew ]</b>
+  included in <b>[ BE ]</b>
   
   <br />
   <br />
-  10/07/2021 00:22 Playing on YTMusic
+  10/07/2021 00:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
