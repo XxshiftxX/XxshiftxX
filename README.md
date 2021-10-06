@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xTvyyoF_LZY">
-    <img width="300" src="https://lh3.googleusercontent.com/TMbA3LImAL96nFkm5cI1x6LiEMvMbRg4IRxEeABd9qpXsfmwKhZHRD1MucnjG5QIsVEp0Vpn7h7M51FH3Q">
+  <a href="https://music.youtube.com/watch?v=DcDbKDAb7go">
+    <img width="300" src="https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Shape of You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - What Do You Mean?</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Shape of You ]</b>
+  included in <b>[ Purpose ]</b>
   
   <br />
   <br />
-  10/07/2021 00:39 Playing on YTMusic
+  10/07/2021 00:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
