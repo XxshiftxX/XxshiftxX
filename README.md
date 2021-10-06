@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ui7M7j7caHA">
-    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
+  <a href="https://music.youtube.com/watch?v=QDQYVFQGkkw">
+    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Doja Cat - Kiss Me More(피처링: SZA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Hold On</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Planet Her ]</b>
+  included in <b>[ Justice ]</b>
   
   <br />
   <br />
-  10/06/2021 23:32 Playing on YTMusic
+  10/06/2021 23:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
