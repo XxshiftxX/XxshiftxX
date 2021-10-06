@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yEA3qaB0dH8">
-    <img width="300" src="https://lh3.googleusercontent.com/01h_mqhBieUtbt2J_3ypc-0uIwP8CFScDXbjJauYwbJeLJWwHGf7l1Wc_jPtUb97uYXaCVFnuXJtfS1p">
+  <a href="https://music.youtube.com/watch?v=JQIEb0nXDS0">
+    <img width="300" src="https://lh3.googleusercontent.com/G4BB5rVQrjGcBx7jAOdFtTE8Z07nqQkuQ5P9F-cCCkTYHH23H9RXSRKlTS3pIyCXDGLta_menJQsq-E4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) 및 Ariana Grande(아리아나 그란데) - Stuck with U</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Maroon 5(마룬 파이브) - Cold(피처링: Future(퓨처))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Stuck with U ]</b>
+  included in <b>[ Red Pill Blues (Deluxe) ]</b>
   
   <br />
   <br />
-  10/06/2021 23:42 Playing on YTMusic
+  10/06/2021 23:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
