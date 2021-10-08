@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dT9-J_tDW5U">
-    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
+  <a href="https://music.youtube.com/watch?v=Rw04iH0vnw4">
+    <img width="300" src="https://lh3.googleusercontent.com/CbhBYDcYGry_kkucWQRIX8Tj7e3PVkMaibWqW43GOI0WU4Wx9OTDEiTFg7WbcmL4IOfhTRV4F0-0dtlJ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Baby Don't Cry(피처링: 염따)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PENOMECO - Change ft. sogumm(피처링: sogumm)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ grayground. ]</b>
+  included in <b>[ Dry Flower ]</b>
   
   <br />
   <br />
-  10/08/2021 15:55 Playing on YTMusic
+  10/08/2021 15:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
