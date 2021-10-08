@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GxzFIijL4hQ">
-    <img width="300" src="https://lh3.googleusercontent.com/fPJyT59tmf0jBbKjj7RF-E1dcoA6i8aMGgKW8jJiCKf_EmI-p4I_QceGq8aCM7a3-CI3POgkoe8rg40c">
+  <a href="https://music.youtube.com/watch?v=dT9-J_tDW5U">
+    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>h3hyeon - I DESERVE IT(피처링: Lil Nekh)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Baby Don't Cry(피처링: 염따)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 꼬리에 꼬리를 무는 이야기 ]</b>
+  included in <b>[ grayground. ]</b>
   
   <br />
   <br />
-  10/08/2021 15:51 Playing on YTMusic
+  10/08/2021 15:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
