@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=p8jGE1r6IXo">
-    <img width="300" src="https://lh3.googleusercontent.com/yeyy77nReDug52xR9cPzxqVrtXSONp6FSzkazkNF1kkpsIIILiz_BoBBxLJP9iymcXTqmo5oAJBH_qKr">
+  <a href="https://music.youtube.com/watch?v=ft4gS5EwOE8">
+    <img width="300" src="https://lh3.googleusercontent.com/t2i6Uai4wVSRhZ8Adgmos5FBOFTWU8-rmdidwr7kbxGWBivCQzwbY2FZ5053B1Qi7hJJjwne860kxp2LFg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - 이겨(피처링: Leellamarz)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND 및 그루비룸 (GroovyRoom) - 잡아줄게</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ More Mood ]</b>
+  included in <b>[ 잡아줄게 ]</b>
   
   <br />
   <br />
-  10/08/2021 14:28 Playing on YTMusic
+  10/08/2021 15:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
