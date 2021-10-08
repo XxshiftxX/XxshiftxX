@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CmpPaDwNYhA">
-    <img width="300" src="https://lh3.googleusercontent.com/ou5ffJL3t1BJyizawfstKbh-QBQgjAiaejcy8iHxBq-Ny9M0jsfSfxNndRLZXACFDMUGvK2b0nYb5SOL">
+  <a href="https://music.youtube.com/watch?v=lCNDcqDYFS4">
+    <img width="300" src="https://lh3.googleusercontent.com/Ez85RnZTwo991VmLILk7i4mUHZs9RihLIgzXrO7KLwjDdJiNmLVfhYMvlvcfN2Mh2vFDm-DI4eckqXs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI), 원슈타인 및 미란이 (Mirani) - HEAT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MELOH - IDNY(피처링: 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HEAT ]</b>
+  included in <b>[ MELOH ]</b>
   
   <br />
   <br />
-  10/08/2021 16:24 Playing on YTMusic
+  10/08/2021 16:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
