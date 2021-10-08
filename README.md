@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ft4gS5EwOE8">
-    <img width="300" src="https://lh3.googleusercontent.com/t2i6Uai4wVSRhZ8Adgmos5FBOFTWU8-rmdidwr7kbxGWBivCQzwbY2FZ5053B1Qi7hJJjwne860kxp2LFg">
+  <a href="https://music.youtube.com/watch?v=GxzFIijL4hQ">
+    <img width="300" src="https://lh3.googleusercontent.com/fPJyT59tmf0jBbKjj7RF-E1dcoA6i8aMGgKW8jJiCKf_EmI-p4I_QceGq8aCM7a3-CI3POgkoe8rg40c">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND 및 그루비룸 (GroovyRoom) - 잡아줄게</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>h3hyeon - I DESERVE IT(피처링: Lil Nekh)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 잡아줄게 ]</b>
+  included in <b>[ 꼬리에 꼬리를 무는 이야기 ]</b>
   
   <br />
   <br />
-  10/08/2021 15:49 Playing on YTMusic
+  10/08/2021 15:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
