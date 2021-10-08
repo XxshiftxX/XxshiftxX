@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6d-ygS1tKuU">
-    <img width="300" src="https://lh3.googleusercontent.com/_A2CLQOvHF4faDt0iIvoV7os6ED2H2g1q_QKktHH5EzWIxyFfEL25dZ1QqBsxppV3ekIYtVweA5AGhAByA">
+  <a href="https://music.youtube.com/watch?v=brI6MAid2zA">
+    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jasmine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Like Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Jasmine ]</b>
+  included in <b>[ HALO ]</b>
   
   <br />
   <br />
-  10/08/2021 16:03 Playing on YTMusic
+  10/08/2021 16:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
