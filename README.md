@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jcnV2cGzmC4">
-    <img width="300" src="https://lh3.googleusercontent.com/da5OzOJmdt1EA2jqDK_cootjRQcfzvfBUC9n_BRXRZDPDnJT3DuJPKknKB3c1XCR6hWRAZNc_DCpgMoedw">
+  <a href="https://music.youtube.com/watch?v=jmpq1vawcpc">
+    <img width="300" src="https://lh3.googleusercontent.com/ElVy71gRYV7fS8hl4ei6a4o2VxsWYCjt0X1Yd0I0TE1yd-nwweRAXJS3SzEuOuMlDpzuAWzCKkeRSFxN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블랙베어 - hot girl bummer</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 Minit - 21 레지스탕스(피처링: h3hyeon, JAEHA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ everything means nothing ]</b>
+  included in <b>[ 미끼닛브라운 : Just For Fun ]</b>
   
   <br />
   <br />
-  10/07/2021 00:51 Playing on YTMusic
+  10/08/2021 14:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
