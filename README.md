@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ler_Zl49UjQ">
-    <img width="300" src="https://lh3.googleusercontent.com/d1HvIpN1_ezCCaPyF3a9lNXziugiVj_Ow_s5QdhyEhcwUWZIfiU9RANmHJ4zE0kLGPcaqKKhSxsjHwIE">
+  <a href="https://music.youtube.com/watch?v=PFyLgEnjk_0">
+    <img width="300" src="https://lh3.googleusercontent.com/WWLJuu9PkI9pwVu7yHliJssZanWNirOAU93kW0n8Ha-RX1H1f0J0FLGGSxVMmAEPV0jzgbu6kFGw-UGe">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jam & Butterfly(피처링: Crush, Eaj)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 했던 말 (Prod. CODE KUNST)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Jam & Butterfly ]</b>
+  included in <b>[ HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 1 ]</b>
   
   <br />
   <br />
-  10/08/2021 16:13 Playing on YTMusic
+  10/08/2021 16:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
