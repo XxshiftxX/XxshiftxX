@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ymh6NfP5OU4">
-    <img width="300" src="https://lh3.googleusercontent.com/ElVy71gRYV7fS8hl4ei6a4o2VxsWYCjt0X1Yd0I0TE1yd-nwweRAXJS3SzEuOuMlDpzuAWzCKkeRSFxN">
+  <a href="https://music.youtube.com/watch?v=9BNu9w37A7g">
+    <img width="300" src="https://lh3.googleusercontent.com/VxRtIDPXYQzAO2rn1AyBKvrDYDAsvtFLbTEOK687pmBskPAnc90dw-nPaX4ju-CEQVKXrNnbs19ExFl3ag">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 Minit - Need Me Too(피처링: Holynn)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>그리오 - Forward(피처링: 그리오, GI$T)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 미끼닛브라운 : Just For Fun ]</b>
+  included in <b>[ Forward ]</b>
   
   <br />
   <br />
-  10/08/2021 14:18 Playing on YTMusic
+  10/08/2021 14:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
