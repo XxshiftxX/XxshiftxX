@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XDbW5bXrm7I">
-    <img width="300" src="https://lh3.googleusercontent.com/ukH2eUwVN4dgJR_xTGjFuPUp0NkLnUINgEBHDGglldxDEor4GAXiC_Ssln8x6-BBsnjsu-hH149u_ao">
+  <a href="https://music.youtube.com/watch?v=81oCkIJko5s">
+    <img width="300" src="https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Maroon 5(마룬 파이브) - Girls Like You(피처링: Cardi B(카디 비))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Company</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Red Pill Blues (Deluxe) ]</b>
+  included in <b>[ Purpose ]</b>
   
   <br />
   <br />
-  10/09/2021 16:53 Playing on YTMusic
+  10/09/2021 16:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
