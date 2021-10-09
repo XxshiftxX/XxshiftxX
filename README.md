@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cqF5DnmeN08">
-    <img width="300" src="https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D">
+  <a href="https://music.youtube.com/watch?v=ORrFJ63nlcA">
+    <img width="300" src="https://lh3.googleusercontent.com/xpDEOr2TeqEn1QpXosXhqtj149FzNnTgAG3oqPnpTxTbQk-oceO90Sz4Axq0s4Jp_QLGQha_um6_EG3WGQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - The Feeling(피처링: Halsey(할시))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Perfect</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Purpose ]</b>
+  included in <b>[ ÷ (Deluxe) ]</b>
   
   <br />
   <br />
-  10/09/2021 17:09 Playing on YTMusic
+  10/09/2021 17:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
