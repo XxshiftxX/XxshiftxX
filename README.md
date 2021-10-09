@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VcNFJE6k2_Q">
-    <img width="300" src="https://lh3.googleusercontent.com/jYaw700nkHXLaxYum9S3eAYeIDjKyEpx62OymE8PFSQHL0QMq7RwSSjHLH3K3TEam81Ixq7NWtPAr5P1">
+  <a href="https://music.youtube.com/watch?v=E2yTpcYbz8Y">
+    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Weeknd - Take My Breath</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Loved By You(피처링: Burna Boy)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Take My Breath ]</b>
+  included in <b>[ Justice ]</b>
   
   <br />
   <br />
-  10/09/2021 16:00 Playing on YTMusic
+  10/09/2021 16:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
