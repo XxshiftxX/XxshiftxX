@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=G1MsSCnvVE8">
-    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
+  <a href="https://music.youtube.com/watch?v=q1TGtm6-cnc">
+    <img width="300" src="https://lh3.googleusercontent.com/Y4jw1MNQ0qwKqJW5pw5PFYCos8sf-dxH6IH8ooHFDl_P8LHVTa9_jnvNslDDGbDQDHjQIAXO1O2teTKVmg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Off My Face</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MAX 및 Ali Gatie - Butterflies</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice ]</b>
+  included in <b>[ Butterflies ]</b>
   
   <br />
   <br />
-  10/09/2021 16:24 Playing on YTMusic
+  10/09/2021 16:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
