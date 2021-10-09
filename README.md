@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=q1TGtm6-cnc">
-    <img width="300" src="https://lh3.googleusercontent.com/Y4jw1MNQ0qwKqJW5pw5PFYCos8sf-dxH6IH8ooHFDl_P8LHVTa9_jnvNslDDGbDQDHjQIAXO1O2teTKVmg">
+  <a href="https://music.youtube.com/watch?v=CpTr4USXjQw">
+    <img width="300" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MAX 및 Ali Gatie - Butterflies</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Don't Let Me Down(피처링: Daya)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Butterflies ]</b>
+  included in <b>[ Collage ]</b>
   
   <br />
   <br />
-  10/09/2021 16:27 Playing on YTMusic
+  10/09/2021 16:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
