@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=D_s4gEk_Fbs">
-    <img width="300" src="https://lh3.googleusercontent.com/RWp6xYchtFg37DeLr-yxYOE6qWcPYApWuXkk3EYm_RLoqTtCTv-qPOyAy1F8wWjjiD1ZA99lmIrTAxs">
+  <a href="https://music.youtube.com/watch?v=UMnJ6arAbZg">
+    <img width="300" src="https://lh3.googleusercontent.com/JvPL31CEZxDK1oRds0FY2gXB1RarepDDM472cZ4P08Eu8tRpq_x0j49cxbxBR9OIC8_WpM-0k11a6CUyqA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Confirmation</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Weeknd 및 Ariana Grande - Save Your Tears (Remix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Changes ]</b>
+  included in <b>[ Save Your Tears (Remix) ]</b>
   
   <br />
   <br />
-  10/09/2021 15:51 Playing on YTMusic
+  10/09/2021 15:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
