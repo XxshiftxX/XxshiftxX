@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hJWSZDJb-W4">
-    <img width="300" src="https://lh3.googleusercontent.com/3xN5Rqah_iSMqbl3ZMCr9MjnEBVyBLmLng0f-MCvFFdfPNhK619ikGwAD0iOBkzCOXIlucWE0lLLXJA">
+  <a href="https://music.youtube.com/watch?v=D_s4gEk_Fbs">
+    <img width="300" src="https://lh3.googleusercontent.com/RWp6xYchtFg37DeLr-yxYOE6qWcPYApWuXkk3EYm_RLoqTtCTv-qPOyAy1F8wWjjiD1ZA99lmIrTAxs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Bad Habits</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Confirmation</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bad Habits ]</b>
+  included in <b>[ Changes ]</b>
   
   <br />
   <br />
-  10/09/2021 15:47 Playing on YTMusic
+  10/09/2021 15:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
