@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AwisGA1TcYM">
-    <img width="300" src="https://lh3.googleusercontent.com/LfVpelMNLY0dF7AFjGI3Vw2GviZ298LLtgTtOBamO8aBh1q5cYfzCCisl4KTc9cx_rxYKlF79815V8T9">
+  <a href="https://music.youtube.com/watch?v=cqF5DnmeN08">
+    <img width="300" src="https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>blackbear - cheers</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - The Feeling(피처링: Halsey(할시))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ cheers ]</b>
+  included in <b>[ Purpose ]</b>
   
   <br />
   <br />
-  10/09/2021 17:06 Playing on YTMusic
+  10/09/2021 17:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
