@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CpTr4USXjQw">
-    <img width="300" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">
+  <a href="https://music.youtube.com/watch?v=NiZErygnITo">
+    <img width="300" src="https://lh3.googleusercontent.com/sP6s88dKenFXd9YsIUGjkAF9uaOKi6GB0f_O-g1NIv08Sv4Ae71nmXODj4C91vtvMNPvU3NfxsuYu2o">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Don't Let Me Down(피처링: Daya)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Maroon 5 - Lost</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Collage ]</b>
+  included in <b>[ JORDI (Deluxe) ]</b>
   
   <br />
   <br />
-  10/09/2021 16:30 Playing on YTMusic
+  10/09/2021 16:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
