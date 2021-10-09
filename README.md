@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=81oCkIJko5s">
-    <img width="300" src="https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D">
+  <a href="https://music.youtube.com/watch?v=clXRl7LBjEU">
+    <img width="300" src="https://lh3.googleusercontent.com/uu92DkkST_zDuxPuA5EznkVlnJwjctwi9oPGIBGfXay1EQnHFpG_8kbpJrxqT7BoNU037fgwWBUusjM8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber(저스틴 비버) - Company</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Dj jabato - Mood remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Purpose ]</b>
+  included in <b>[ Hits remixes 2021 vol.1 ]</b>
   
   <br />
   <br />
-  10/09/2021 16:56 Playing on YTMusic
+  10/09/2021 17:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
