@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E2yTpcYbz8Y">
-    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
+  <a href="https://music.youtube.com/watch?v=LCpjdohpuEE">
+    <img width="300" src="https://lh3.googleusercontent.com/DZLnUlmagZUyAJPBvh1Jlf_ER26uxSDwzv2-SXzU3JZAyrWVeRTVE4GEKFsmCIKk8E2ISKmsghaaCSw3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Loved By You(피처링: Burna Boy)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BTS (방탄소년단) - Permission to Dance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice ]</b>
+  included in <b>[ Butter / Permission to Dance ]</b>
   
   <br />
   <br />
-  10/09/2021 16:04 Playing on YTMusic
+  10/09/2021 16:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
