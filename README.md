@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=r7zTKRonHXM">
-    <img width="300" src="https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY">
+  <a href="https://music.youtube.com/watch?v=NNCBq0JHXsU">
+    <img width="300" src="https://lh3.googleusercontent.com/DZLnUlmagZUyAJPBvh1Jlf_ER26uxSDwzv2-SXzU3JZAyrWVeRTVE4GEKFsmCIKk8E2ISKmsghaaCSw3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Closer(피처링: Halsey(할시))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BTS (방탄소년단) - Butter</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Collage ]</b>
+  included in <b>[ Butter / Permission to Dance ]</b>
   
   <br />
   <br />
-  10/09/2021 15:40 Playing on YTMusic
+  10/09/2021 15:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
