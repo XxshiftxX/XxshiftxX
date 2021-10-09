@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NNCBq0JHXsU">
-    <img width="300" src="https://lh3.googleusercontent.com/DZLnUlmagZUyAJPBvh1Jlf_ER26uxSDwzv2-SXzU3JZAyrWVeRTVE4GEKFsmCIKk8E2ISKmsghaaCSw3">
+  <a href="https://music.youtube.com/watch?v=hJWSZDJb-W4">
+    <img width="300" src="https://lh3.googleusercontent.com/3xN5Rqah_iSMqbl3ZMCr9MjnEBVyBLmLng0f-MCvFFdfPNhK619ikGwAD0iOBkzCOXIlucWE0lLLXJA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BTS (방탄소년단) - Butter</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Bad Habits</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Butter / Permission to Dance ]</b>
+  included in <b>[ Bad Habits ]</b>
   
   <br />
   <br />
-  10/09/2021 15:44 Playing on YTMusic
+  10/09/2021 15:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
