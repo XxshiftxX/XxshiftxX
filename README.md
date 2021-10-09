@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=u6fQ9q9j-Qk">
-    <img width="300" src="https://lh3.googleusercontent.com/4igiWMyX-TCOC4EwsL4hGJz4Z1QVSSLCrqAySMivS_UHkAjGQA7BqCf7iaaDQPSciW1T8xfDeDqP7iLzEA">
+  <a href="https://music.youtube.com/watch?v=G1ej5up7JG0">
+    <img width="300" src="https://lh3.googleusercontent.com/LDjFD-70y9c3aYL3-2zTUXkmlWfNlryJllQpHZLxZgi0i73pGx9JaJkNzDTo2LO9cGBDJx7E4eWdytMA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Maroon 5(마룬 파이브) - Maps</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Shivers</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ V (Asia Tour Edition) ]</b>
+  included in <b>[ Shivers ]</b>
   
   <br />
   <br />
-  10/09/2021 16:40 Playing on YTMusic
+  10/09/2021 16:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
