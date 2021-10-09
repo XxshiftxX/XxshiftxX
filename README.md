@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ui7M7j7caHA">
-    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
+  <a href="https://music.youtube.com/watch?v=FO5LrcUS-Gw">
+    <img width="300" src="https://lh3.googleusercontent.com/IPrL9SOHmYrzPXa-qOUI6Ck6KpHWmoRuutgDuufJKHOwpXnRRlcZYdNiBd2vUo4kkXVyy31QG6vTPHE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Doja Cat - Kiss Me More(피처링: SZA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Halsey(할시) - Without Me(피처링: Juice Wrld(주스 월드))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Planet Her ]</b>
+  included in <b>[ Manic ]</b>
   
   <br />
   <br />
-  10/09/2021 15:23 Playing on YTMusic
+  10/09/2021 15:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
