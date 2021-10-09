@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3yFV9U4qwSw">
-    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
+  <a href="https://music.youtube.com/watch?v=lLwuuLIs-H0">
+    <img width="300" src="https://lh3.googleusercontent.com/KnDvWEPnD3H0UgidJUxFJUi1h8mxCVcaBKGcQsaNj8shB_EZd3rBzBx-NleH1uOtOxIoAM9Zj4f2q5w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Somebody</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Chainsmokers(체인스모커스) - Takeaway(피처링: 레논 스텔라)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice ]</b>
+  included in <b>[ World War Joy...Takeaway ]</b>
   
   <br />
   <br />
-  10/09/2021 15:31 Playing on YTMusic
+  10/09/2021 15:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
