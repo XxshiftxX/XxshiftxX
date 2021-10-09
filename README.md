@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=clXRl7LBjEU">
-    <img width="300" src="https://lh3.googleusercontent.com/uu92DkkST_zDuxPuA5EznkVlnJwjctwi9oPGIBGfXay1EQnHFpG_8kbpJrxqT7BoNU037fgwWBUusjM8">
+  <a href="https://music.youtube.com/watch?v=HoeiQ8sxgWE">
+    <img width="300" src="https://lh3.googleusercontent.com/LKHANNfV6CM0WCxrjdjOojWY8N6FSywKXMFbBSXfvtfZ6Fh1ysadjuFl0L266zthTJvnSc6BjBzf7MoEQA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Dj jabato - Mood remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Doja Cat - Ain't Shit</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hits remixes 2021 vol.1 ]</b>
+  included in <b>[ Planet Her ]</b>
   
   <br />
   <br />
-  10/09/2021 17:00 Playing on YTMusic
+  10/09/2021 17:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
