@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XfEMj-z3TtA">
-    <img width="300" src="https://lh3.googleusercontent.com/_72AYxGc5r6U2SwbDvo8qLTx0wLp1bxRAQTSWNZfeZOdP2zf6yHjIAzTZCFILrbz3AvxHqHJdqde56Y">
+  <a href="https://music.youtube.com/watch?v=QDQYVFQGkkw">
+    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Kid LAROI 및 Justin Bieber - STAY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Hold On</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ STAY ]</b>
+  included in <b>[ Justice ]</b>
   
   <br />
   <br />
-  10/09/2021 15:11 Playing on YTMusic
+  10/09/2021 15:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
