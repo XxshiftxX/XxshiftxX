@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lCMfByr--_w">
-    <img width="300" src="https://i.ytimg.com/vi/lCMfByr--_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=T0YSwFoefoc">
+    <img width="300" src="https://i.ytimg.com/vi/T0YSwFoefoc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그레이 및 로꼬 - Late Night</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - 365&7(피처링: 제이미(Jamie))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 865만회 ]</b>
+  included in <b>[ 조회수 137만회 ]</b>
   
   <br />
   <br />
-  10/11/2021 15:25 Playing on YTMusic
+  10/11/2021 15:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
