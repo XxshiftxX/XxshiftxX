@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ckZor7HRU1E">
-    <img width="300" src="https://i.ytimg.com/vi/ckZor7HRU1E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=MFkJ0EhumYU">
+    <img width="300" src="https://i.ytimg.com/vi/MFkJ0EhumYU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BewhY(비와이) - 가라사대</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>식케이 (Sik-K), pH-1, 박재범 - iffy</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1414만회 ]</b>
+  included in <b>[ 조회수 688만회 ]</b>
   
   <br />
   <br />
-  10/11/2021 15:32 Playing on YTMusic
+  10/11/2021 15:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
