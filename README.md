@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Jg9NbDizoPM">
-    <img width="300" src="https://i.ytimg.com/vi/Jg9NbDizoPM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=eCJePo-R7aY">
+    <img width="300" src="https://i.ytimg.com/vi/eCJePo-R7aY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jasmine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Malibu (Feat. The Quiett, Mokyo) (Prod. Mokyo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 3643만회 ]</b>
+  included in <b>[ 조회수 559만회 ]</b>
   
   <br />
   <br />
-  10/11/2021 14:52 Playing on YTMusic
+  10/11/2021 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
