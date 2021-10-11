@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3XOUJlXlx-E">
-    <img width="300" src="https://i.ytimg.com/vi/3XOUJlXlx-E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=kuJ8yUn-PO8">
+    <img width="300" src="https://i.ytimg.com/vi/kuJ8yUn-PO8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그레이 - I Don't Love You(피처링: 쿠기(Coogie))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>페노메코(PENOMECO) - LOVE?</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 71만회 ]</b>
+  included in <b>[ 조회수 134만회 ]</b>
   
   <br />
   <br />
-  10/11/2021 14:40 Playing on YTMusic
+  10/11/2021 14:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
