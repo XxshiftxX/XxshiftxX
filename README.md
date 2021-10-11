@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I7NkMiW1zu4">
-    <img width="300" src="https://i.ytimg.com/vi/I7NkMiW1zu4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=lCMfByr--_w">
+    <img width="300" src="https://i.ytimg.com/vi/lCMfByr--_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Donut(피처링: 박재범)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>그레이 및 로꼬 - Late Night</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 361만회 ]</b>
+  included in <b>[ 조회수 865만회 ]</b>
   
   <br />
   <br />
-  10/11/2021 15:21 Playing on YTMusic
+  10/11/2021 15:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
