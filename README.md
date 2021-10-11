@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ORrFJ63nlcA">
-    <img width="300" src="https://lh3.googleusercontent.com/xpDEOr2TeqEn1QpXosXhqtj149FzNnTgAG3oqPnpTxTbQk-oceO90Sz4Axq0s4Jp_QLGQha_um6_EG3WGQ">
+  <a href="https://music.youtube.com/watch?v=_iOVHaDxXgM">
+    <img width="300" src="https://i.ytimg.com/vi/_iOVHaDxXgM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Perfect</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>로꼬 및 사이먼 도미닉 - 밤이 되면</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ÷ (Deluxe) ]</b>
+  included in <b>[ 조회수 239만회 ]</b>
   
   <br />
   <br />
-  10/09/2021 17:14 Playing on YTMusic
+  10/11/2021 14:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
