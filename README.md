@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xfJPCenjZzY">
-    <img width="300" src="https://i.ytimg.com/vi/xfJPCenjZzY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=I7NkMiW1zu4">
+    <img width="300" src="https://i.ytimg.com/vi/I7NkMiW1zu4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Text Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Donut(피처링: 박재범)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1283만회 ]</b>
+  included in <b>[ 조회수 361만회 ]</b>
   
   <br />
   <br />
-  10/11/2021 15:18 Playing on YTMusic
+  10/11/2021 15:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
