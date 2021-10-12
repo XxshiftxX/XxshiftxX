@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zt1zcLJbftw">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=Dmy0CkieM6s">
+    <img width="300" src="https://lh3.googleusercontent.com/pC_9-quQA9xVrK_cndiZ3cA_J9p8jF0-QZ8BZDWXc3OZtX0mEbSaxwPMnsOQKd47xyGA-6-WkAfnGwxk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CAMO - Shawty(피처링: 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ Fragile ]</b>
   
   <br />
   <br />
-  10/12/2021 16:09 Playing on YTMusic
+  10/12/2021 16:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
