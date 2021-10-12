@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=upGggeDRJkU">
-    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
+  <a href="https://music.youtube.com/watch?v=563md9EKuUA">
+    <img width="300" src="https://lh3.googleusercontent.com/ZwoPRwCN3rmrC-9wrfIWdtjlyPgOQdKuarKCGEGLVktKxcGnmJ-AIya7EZVm58hhvVD2XLmeQJEDkmZEPw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1, 김하온(HAON), 우디고차일드(Woodie Gochild)  및 박재범 - Teléfono Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Loco 및 GRAY - Late Night</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ H1GHR : RED TAPE ]</b>
+  included in <b>[ Late Night ]</b>
   
   <br />
   <br />
-  10/12/2021 15:33 Playing on YTMusic
+  10/12/2021 15:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
