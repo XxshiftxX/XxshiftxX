@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wGWdK_334-8">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=8SfCPh4leHk">
+    <img width="300" src="https://lh3.googleusercontent.com/6-iWv6YqjBQylxtHHfA5aPoBYMwX7nx1IajfU6HYVHOSQ4aYDPOB2Oy-S7Dt0hjvWu2Gaa-aUN8jI5Mn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Checks(피처링: SUPERBEE, Jay Park, The Quiett)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - GOTT</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ISLAND ]</b>
+  included in <b>[ No Open Flames ]</b>
   
   <br />
   <br />
-  10/12/2021 15:40 Playing on YTMusic
+  10/12/2021 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
