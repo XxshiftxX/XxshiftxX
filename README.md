@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UA90vMrZ5sY">
-    <img width="300" src="https://i.ytimg.com/vi/UA90vMrZ5sY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=ieZ_qkyhLwU">
+    <img width="300" src="https://i.ytimg.com/vi/ieZ_qkyhLwU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai - Fadeaway</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>로꼬 - OPPA</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 596만회 ]</b>
+  included in <b>[ 조회수 888만회 ]</b>
   
   <br />
   <br />
-  10/12/2021 11:19 Playing on YTMusic
+  10/12/2021 11:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
