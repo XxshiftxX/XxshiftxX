@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0_a0fC1nZa8">
-    <img width="300" src="https://lh3.googleusercontent.com/3DDJBiy5sP65gdYJufl4iF8pH9279TamYdH4nWntjbH6mlUr8A4cbCYOWT-mdRaFedScNckWDk7Y6gt8ig">
+  <a href="https://music.youtube.com/watch?v=ukiXYQY5yuc">
+    <img width="300" src="https://lh3.googleusercontent.com/h0fc1F0Lbr9wOzLwpCvl14Mn0AX4t8FKkwNoft6tNytnFfqMyywxX7f5phodcXFssPY7Ho9DOmow9U0U">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 및 로꼬 - 밤이 되면</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR IAN - No Blueberries(피처링: DPR IAN, CL)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 밤이 되면 ]</b>
+  included in <b>[ No Blueberries ]</b>
   
   <br />
   <br />
-  10/12/2021 15:17 Playing on YTMusic
+  10/12/2021 15:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
