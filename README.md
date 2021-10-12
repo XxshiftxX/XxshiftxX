@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ukiXYQY5yuc">
-    <img width="300" src="https://lh3.googleusercontent.com/h0fc1F0Lbr9wOzLwpCvl14Mn0AX4t8FKkwNoft6tNytnFfqMyywxX7f5phodcXFssPY7Ho9DOmow9U0U">
+  <a href="https://music.youtube.com/watch?v=kEIRWm6feD0">
+    <img width="300" src="https://lh3.googleusercontent.com/U1lXbxJoV7Iqqnh2W2DCaHByP6JeR6r5Eng7sIqu2-dIbJIgEkQDgRsgv-N1VSyNP44bL_43XfT21Ek">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR IAN - No Blueberries(피처링: DPR IAN, CL)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K 및 Coogie - Wet the Bed</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ No Blueberries ]</b>
+  included in <b>[ S.O.S: Sink or Swim ]</b>
   
   <br />
   <br />
-  10/12/2021 15:20 Playing on YTMusic
+  10/12/2021 15:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
