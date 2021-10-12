@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kEIRWm6feD0">
-    <img width="300" src="https://lh3.googleusercontent.com/U1lXbxJoV7Iqqnh2W2DCaHByP6JeR6r5Eng7sIqu2-dIbJIgEkQDgRsgv-N1VSyNP44bL_43XfT21Ek">
+  <a href="https://music.youtube.com/watch?v=lPlF-Q3JqJc">
+    <img width="300" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K 및 Coogie - Wet the Bed</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - MORAGO(피처링: 블라세 (Blase), 쿠기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ S.O.S: Sink or Swim ]</b>
+  included in <b>[ X ]</b>
   
   <br />
   <br />
-  10/12/2021 15:23 Playing on YTMusic
+  10/12/2021 15:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
