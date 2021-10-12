@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_iOVHaDxXgM">
-    <img width="300" src="https://i.ytimg.com/vi/_iOVHaDxXgM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=0_a0fC1nZa8">
+    <img width="300" src="https://lh3.googleusercontent.com/3DDJBiy5sP65gdYJufl4iF8pH9279TamYdH4nWntjbH6mlUr8A4cbCYOWT-mdRaFedScNckWDk7Y6gt8ig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>로꼬 및 사이먼 도미닉 - 밤이 되면</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 및 로꼬 - 밤이 되면</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 240만회 ]</b>
+  included in <b>[ 밤이 되면 ]</b>
   
   <br />
   <br />
-  10/12/2021 15:16 Playing on YTMusic
+  10/12/2021 15:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
