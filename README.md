@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8SfCPh4leHk">
-    <img width="300" src="https://lh3.googleusercontent.com/6-iWv6YqjBQylxtHHfA5aPoBYMwX7nx1IajfU6HYVHOSQ4aYDPOB2Oy-S7Dt0hjvWu2Gaa-aUN8jI5Mn">
+  <a href="https://music.youtube.com/watch?v=Hu1gKB9aFHU">
+    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - GOTT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Malibu(피처링: The Quiett, Mokyo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ No Open Flames ]</b>
+  included in <b>[ HALO ]</b>
   
   <br />
   <br />
-  10/12/2021 15:43 Playing on YTMusic
+  10/12/2021 15:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
