@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=roEjyglmMY8">
-    <img width="300" src="https://i.ytimg.com/vi/roEjyglmMY8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=X0PqkT_dnxs">
+    <img width="300" src="https://i.ytimg.com/vi/X0PqkT_dnxs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 9ucci REMIX(피처링: 더 콰이엇(The Quiett), 제시(Jessi), 언에듀케이티드 키드(UNEDUCATED KID), 팔로알토(Paloalto))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 - 뻔하잖아(피처링: 오케이션)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 177만회 ]</b>
+  included in <b>[ 조회수 3392만회 ]</b>
   
   <br />
   <br />
-  10/11/2021 15:39 Playing on YTMusic
+  10/12/2021 11:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
