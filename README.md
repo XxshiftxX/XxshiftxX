@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EJbNjqNzHb4">
-    <img width="300" src="https://lh3.googleusercontent.com/DvGaJGySGvtm9Wprxhgmv_zHYNCcj9eu5WPEHcWlxqCJfXiuRkQ3ujDiZCzYi8pWFkB1BnlzsN_2zr8hIQ">
+  <a href="https://music.youtube.com/watch?v=zt1zcLJbftw">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - make her dance(피처링: 루피, 크러쉬(Crush))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo(피처링: pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ make her dance ]</b>
+  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
   
   <br />
   <br />
-  10/12/2021 16:06 Playing on YTMusic
+  10/12/2021 16:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
