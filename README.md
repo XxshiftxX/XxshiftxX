@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lPlF-Q3JqJc">
-    <img width="300" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">
+  <a href="https://music.youtube.com/watch?v=UDyPp9bkfD0">
+    <img width="300" src="https://lh3.googleusercontent.com/hJU7Bllyq_7pzhZWDjfLE88p1Lomerr4LsrFIs4oDPEAyZZI4DlBU9jPORTeUS-Q7yXfmkLFIe8CQiyS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - MORAGO(피처링: 블라세 (Blase), 쿠기)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Martini Blue</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ X ]</b>
+  included in <b>[ Her ]</b>
   
   <br />
   <br />
-  10/12/2021 15:26 Playing on YTMusic
+  10/12/2021 15:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
