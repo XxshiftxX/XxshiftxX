@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Dmy0CkieM6s">
-    <img width="300" src="https://lh3.googleusercontent.com/pC_9-quQA9xVrK_cndiZ3cA_J9p8jF0-QZ8BZDWXc3OZtX0mEbSaxwPMnsOQKd47xyGA-6-WkAfnGwxk">
+  <a href="https://music.youtube.com/watch?v=2MmYmoTgonY">
+    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CAMO - Shawty(피처링: 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이), pH-1, 우디고차일드(Woodie Gochild)  및 김하온(HAON) - The Arrival</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fragile ]</b>
+  included in <b>[ H1GHR : RED TAPE ]</b>
   
   <br />
   <br />
-  10/12/2021 16:12 Playing on YTMusic
+  10/12/2021 16:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
