@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kEIRWm6feD0">
-    <img width="300" src="https://lh3.googleusercontent.com/U1lXbxJoV7Iqqnh2W2DCaHByP6JeR6r5Eng7sIqu2-dIbJIgEkQDgRsgv-N1VSyNP44bL_43XfT21Ek">
+  <a href="https://music.youtube.com/watch?v=zjl25IOfVP8">
+    <img width="300" src="https://lh3.googleusercontent.com/iDYvLg8xr6Mk6WCT9TMAC3TcDtzzx5zcPIGkSxQnjxkyRtL1kpDRLWgsRdz3XoWNvBQdZA3nvbXuDQJOdQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K 및 Coogie - Wet the Bed</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>그레이 - STAY THE NIGHT(피처링: DeVita)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ S.O.S: Sink or Swim ]</b>
+  included in <b>[ STAY THE NIGHT (취향저격 그녀 X GRAY) ]</b>
   
   <br />
   <br />
-  10/14/2021 15:10 Playing on YTMusic
+  10/14/2021 15:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
