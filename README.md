@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zjl25IOfVP8">
-    <img width="300" src="https://lh3.googleusercontent.com/iDYvLg8xr6Mk6WCT9TMAC3TcDtzzx5zcPIGkSxQnjxkyRtL1kpDRLWgsRdz3XoWNvBQdZA3nvbXuDQJOdQ">
+  <a href="https://music.youtube.com/watch?v=upGggeDRJkU">
+    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그레이 - STAY THE NIGHT(피처링: DeVita)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1, 김하온(HAON), 우디고차일드(Woodie Gochild)  및 박재범 - Teléfono Remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ STAY THE NIGHT (취향저격 그녀 X GRAY) ]</b>
+  included in <b>[ H1GHR : RED TAPE ]</b>
   
   <br />
   <br />
-  10/14/2021 15:12 Playing on YTMusic
+  10/14/2021 15:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
