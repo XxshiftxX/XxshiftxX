@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EjpnDnUR1KM">
-    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
+  <a href="https://music.youtube.com/watch?v=jhnTY4Dp4Lg">
+    <img width="300" src="https://lh3.googleusercontent.com/9nrpxed3lKVTImN0qRGbeJhanyH3xFbmchcMVvO8hlEJAxBdh9q4XwqlN_OIyuEJYEuX2qqJ1-0lVHAqjw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - GONE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>식케이 Sik-K - party (SHUT DOWN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOYSTORY2 ]</b>
+  included in <b>[ HALF (Have a Little Fun) ]</b>
   
   <br />
   <br />
-  10/20/2021 18:15 Playing on YTMusic
+  10/20/2021 18:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
