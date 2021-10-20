@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eHwVrQHsmXo">
-    <img width="300" src="https://lh3.googleusercontent.com/50DYxtVuXuAUwTuN9Vbbvh8gbF5TzTXTkqw4Nwg9VMNEpxXE4vhywbT6_oE96imRQtLrJ99H4EwqmJEz">
+  <a href="https://music.youtube.com/watch?v=uqEPNSxAvO4">
+    <img width="300" src="https://lh3.googleusercontent.com/ZQBCzf0IN_F4kE8TenOGCUm7GnEkmkkCzOP6BY0R975dujnc5elTe_m7eGkZKcqH1Klm3d4k7WlxeaW_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>해쉬 스완(Hash Swan) - Airplane Mode(피처링: 릴러말즈(Leellamarz))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오르내림 - OYEAH</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Peridot ]</b>
+  included in <b>[ APOLLO ]</b>
   
   <br />
   <br />
-  10/20/2021 18:25 Playing on YTMusic
+  10/20/2021 18:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
