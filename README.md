@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=upGggeDRJkU">
-    <img width="300" src="https://lh3.googleusercontent.com/WJeTwwv0O8n95VUAO8yAh4FMup3JKlLPujQIciSj2iVAC3SoKsTlsgkhPnrJlWMJ2U0ZiIShTAZQbVnymQ">
+  <a href="https://music.youtube.com/watch?v=s-lCRUxIFps">
+    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1, 김하온(HAON), 우디고차일드(Woodie Gochild)  및 박재범 - Teléfono Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Game Night</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ H1GHR : RED TAPE ]</b>
+  included in <b>[ The Island Kid ]</b>
   
   <br />
   <br />
-  10/14/2021 15:15 Playing on YTMusic
+  10/20/2021 18:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
