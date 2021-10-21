@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=id9gyna7-pY">
-    <img width="300" src="https://lh3.googleusercontent.com/a2ivxPRewj0J2QOcAqQwPx0ydoPC9juxp-ITwHEJu-n3cZhkCyKCMZbq7EwiWjFMsnj6t4DxSf5mMqJ2">
+  <a href="https://music.youtube.com/watch?v=I9DfFP9cPqg">
+    <img width="300" src="https://lh3.googleusercontent.com/5pT0J_jj9hzXuKUg4QZoC_1RTXdrC_c5qgdxaEdqKxL-gtWnJEOuQJs1JEmt9tVp1u1cpS1PMfV86UJ_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ELO 및 페노메코(PENOMECO) - VIEW</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - Skit(피처링: Swings)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ODD ]</b>
+  included in <b>[ 스킷 ]</b>
   
   <br />
   <br />
-  10/21/2021 16:19 Playing on YTMusic
+  10/21/2021 16:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
