@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I9DfFP9cPqg">
-    <img width="300" src="https://lh3.googleusercontent.com/5pT0J_jj9hzXuKUg4QZoC_1RTXdrC_c5qgdxaEdqKxL-gtWnJEOuQJs1JEmt9tVp1u1cpS1PMfV86UJ_">
+  <a href="https://www.youtube.com/channel/UCTBO7BoAb3rs4VBE7hy8hNw">
+    <img width="300" src="https://yt3.ggpht.com/FLkcNPQmJoDC-g1ShZqXDihvnDu9uSTdhJGRpYGNdUJ6Mq0IVBNd8CJ61gchxyXFYn28--JBGw=s176-c-k-c0x00ffffff-no-nd-rj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - Skit(피처링: Swings)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Changstarr* - 27RING - 원기옥Genkidama RMX (feat Asol, Changstarr*, Basick, niahn, viceversa, QM, Jiho Givenchy) [MV]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 스킷 ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  10/21/2021 16:24 Playing on YTMusic
+  10/21/2021 18:31 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
