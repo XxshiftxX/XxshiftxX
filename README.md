@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-Nx0E5MDIM8">
-    <img width="300" src="https://lh3.googleusercontent.com/kMAe76wsphLfN0IerBTa4eU4MApZyjSVnUBQejp7SYWDuis-1lPQD-v6oj7Xep0_FPpLPS9b914kB0pm">
+  <a href="https://music.youtube.com/watch?v=qrJDFL5GZdg">
+    <img width="300" src="https://lh3.googleusercontent.com/Hne8hagGL7vYFl8Zk4bykRkckAHF7MDkp9HQRYKajw93RaoNQ7EcY6Bx_z_jhQO1rBrLVepMvZcfDQZR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - OKAY(피처링: Swings)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>유민 - Call My Name(피처링: Cloudybay)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ISLAND ]</b>
+  included in <b>[ Call My Name ]</b>
   
   <br />
   <br />
-  10/21/2021 16:07 Playing on YTMusic
+  10/21/2021 16:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
