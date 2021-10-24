@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
-    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
+  <a href="https://music.youtube.com/watch?v=yIaIMNhgJEk">
+    <img width="300" src="https://lh3.googleusercontent.com/zkYDGyt6KJIvCy2BVT4FrjJw2LLqUhNgR50W1TDph9lCqC3TXP20wD_St6iPAzBJOC5O0gtDEZnrOETZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해 (Prod. by CODE KUNST)(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 사자</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 논해 ]</b>
+  included in <b>[ avante ]</b>
   
   <br />
   <br />
-  10/24/2021 13:11 Playing on YTMusic
+  10/24/2021 13:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
