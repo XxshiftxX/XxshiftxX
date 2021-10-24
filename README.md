@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bjrZNFbyJIA">
+  <a href="https://music.youtube.com/watch?v=X9VCbaX9AKk">
     <img width="300" src="https://lh3.googleusercontent.com/zkYDGyt6KJIvCy2BVT4FrjJw2LLqUhNgR50W1TDph9lCqC3TXP20wD_St6iPAzBJOC5O0gtDEZnrOETZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 그리고 돌아섰다</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 추락</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ avante ]</b>
   
   <br />
   <br />
-  10/24/2021 13:54 Playing on YTMusic
+  10/24/2021 13:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
