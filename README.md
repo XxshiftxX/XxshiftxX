@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XxLhXUJsB9k">
-    <img width="300" src="https://lh3.googleusercontent.com/zkYDGyt6KJIvCy2BVT4FrjJw2LLqUhNgR50W1TDph9lCqC3TXP20wD_St6iPAzBJOC5O0gtDEZnrOETZ">
+  <a href="https://music.youtube.com/watch?v=0rgEAz_GiSQ">
+    <img width="300" src="https://lh3.googleusercontent.com/DgeeO-bDv9k6JUSqsTzb775yStn4zDipgu6GD3oIzHNsipagTLC_zhiMpdt0hzWUi1ozI-gTHQsk-abK">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 그럴 수도 아닐 수도(피처링: JINBO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 및 저스디스 (JUSTHIS) - 너랑 달라 (한림체육관 X 한요한, 저스디스 (JUSTHIS))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ avante ]</b>
+  included in <b>[ 너랑 달라 (한림체육관 X 한요한, 저스디스 (JUSTHIS)) ]</b>
   
   <br />
   <br />
-  10/24/2021 14:02 Playing on YTMusic
+  10/24/2021 14:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
