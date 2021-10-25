@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9DuRqJ2WvYg">
-    <img width="300" src="https://lh3.googleusercontent.com/Wq_G1Y2ZoszrLus9OE3uMzlzaN4v0ECwq9fq_8lD1hb3I29_8ffHp8bbsiiIZzJMHGVy6gSsqc3F9uor">
+  <a href="https://music.youtube.com/watch?v=T13IcJTSS14">
+    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SOLE - 왜(피처링: Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이), pH-1 및 김하온(HAON) - Me&Bae</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 왜 ]</b>
+  included in <b>[ H1GHR : BLUE TAPE ]</b>
   
   <br />
   <br />
-  10/25/2021 18:04 Playing on YTMusic
+  10/25/2021 18:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
