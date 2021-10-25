@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=VZnfZ14fIig">
+    <img width="300" src="https://lh3.googleusercontent.com/A8e9Fge0S0Y0y6VqEOYDIJSt2PC2Ctu2a5i5uKkGBJPT-oidHVMhvRg8AXosOBDFsTMr5tjKDZ185fw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>넬 - 기억을 걷는 시간</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ Separation Anxiety ]</b>
   
   <br />
   <br />
-  10/25/2021 18:12 Playing on YTMusic
+  10/25/2021 18:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
