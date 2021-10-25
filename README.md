@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Vx1FBS0cfyg">
-    <img width="300" src="https://lh3.googleusercontent.com/mlMNQUOQhp9ah9tRUEDHlsPps3HmZ5UMIjnflZdzVcJl7ng_2_-q3ey7-OfQioz3FoH0cTty5lO07TPm">
+  <a href="https://music.youtube.com/watch?v=y6DC_Q_jTlg">
+    <img width="300" src="https://lh3.googleusercontent.com/kEIgpHmBYjUgTM4tuL3qODQhCRug30bC9GHCbg0_QH8YXter_44FDqIIcFB_z-6htY8r6aBJO70_feA6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>짙은 - TV Show</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이루리 - 내가 널 사랑하는 방법</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Wonderland ]</b>
+  included in <b>[ Let Me Dive Into This Moment ]</b>
   
   <br />
   <br />
-  10/25/2021 19:05 Playing on YTMusic
+  10/25/2021 19:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
