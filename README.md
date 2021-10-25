@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=33tF2FBDJGI">
-    <img width="300" src="https://lh3.googleusercontent.com/11VbFbo9hXPDq_0DlKgKrAgKYjfSrKc4kiiiaxrhgpmuGn2oKJQ3aHqTnvkMQ9V5PBACtZqWn89rNOlA6w">
+  <a href="https://music.youtube.com/watch?v=JohAHQ2HRS8">
+    <img width="300" src="https://lh3.googleusercontent.com/fn810ceHiWt8wsicUZwlZLIyBwuiyfRLUqfo5J8iWah9WYcSl_kf-GyPc3HFFh_DCjT4xdwemw2LQHxv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>검정치마 - Love Shine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오왠 - Call Me Now</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Don't You Worry Baby (I'm Only Swimming) ]</b>
+  included in <b>[ Call Me Now ]</b>
   
   <br />
   <br />
-  10/25/2021 19:33 Playing on YTMusic
+  10/25/2021 19:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
