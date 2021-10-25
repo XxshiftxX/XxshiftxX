@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=D24v93uw9lM">
-    <img width="300" src="https://lh3.googleusercontent.com/JM9Rw429lCYrsmgJvbeqWFyPDfgIQbVchtedNsZs_LcpuJOlye703n0GH83eYl5XlDjlDKT9sonfP53n">
+  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
+    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - Long Run(피처링: 호미들)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해 (Prod. by CODE KUNST)(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 초희귀종 ]</b>
+  included in <b>[ 논해 ]</b>
   
   <br />
   <br />
-  10/24/2021 14:32 Playing on YTMusic
+  10/25/2021 11:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
