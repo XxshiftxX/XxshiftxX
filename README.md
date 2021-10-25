@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KPOBo8c1Wt8">
-    <img width="300" src="https://lh3.googleusercontent.com/f0vBw7f9CkLrsJpnOn4qjXz9jQsvzusRnyADnUFSlylhEwTa4PKmrewqM30zAg5KvhCudps-vVtrYLpQLg">
+  <a href="https://music.youtube.com/watch?v=N1bvqzNqys4">
+    <img width="300" src="https://lh3.googleusercontent.com/13jTV6FNzim8IdfmRq6CJuDlhibK-2S3Ho4D_s6ZuFoW1RnPPFsFH8YvTKj6oI0TTHEL28huhNRptuMT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>로꼬 - 시간이 들겠지(피처링: Colde (콜드))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Simon Dominic - Party Forever</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 시간이 들겠지 ]</b>
+  included in <b>[ Party Forever ]</b>
   
   <br />
   <br />
-  10/25/2021 21:21 Playing on YTMusic
+  10/25/2021 21:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
