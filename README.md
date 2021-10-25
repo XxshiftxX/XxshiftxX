@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vzljWxz_B3Y">
-    <img width="300" src="https://lh3.googleusercontent.com/U3ZT-SaOZKmLkNZFn_a6lxq9vOnKYQy_4LLv9h0UaFodNSDTyedSBAkVEo4PN2ebD-SOS3dnCB-KuPg">
+  <a href="https://music.youtube.com/watch?v=MYHR05tLxD0">
+    <img width="300" src="https://lh3.googleusercontent.com/d5ytesHTJ29iChj8TtIgMfCwsxKaiArM6S3gXYmNTlDPyAbh2JXVERvJjiGFliPmlZIBGt9-gVOEA04">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Crush - Let Me Go</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Loco - Finally(피처링: Car, the Garden)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ With Her ]</b>
+  included in <b>[ SOME TIME ]</b>
   
   <br />
   <br />
-  10/25/2021 21:42 Playing on YTMusic
+  10/25/2021 21:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
