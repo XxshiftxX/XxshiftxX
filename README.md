@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6wsjHvzEktk">
-    <img width="300" src="https://lh3.googleusercontent.com/tEtDGAV0CH5btdSvzF1s-WRmzWdTSdhhy2T_Xy1OKSfz-auzBrzkCAkHRq7y74b0_9Ca-OIlyJgbQg91qg">
+  <a href="https://music.youtube.com/watch?v=EyaSPPO4Ny8">
+    <img width="300" src="https://lh3.googleusercontent.com/BI6gZi3MK4ZeVrqef3isM5WEyZUHi2bF4-RavcAaU3u3RzljhgYwc1UXT4V8rdXJBXBvbnKrTtHWuxwW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>1415 - 뜬구름</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>다섯 Dasutt - 바다처럼 Like a Sea</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DEAR : X ]</b>
+  included in <b>[ YOUTH ]</b>
   
   <br />
   <br />
-  10/25/2021 19:12 Playing on YTMusic
+  10/25/2021 19:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
