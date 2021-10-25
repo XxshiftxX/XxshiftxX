@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=N1bvqzNqys4">
-    <img width="300" src="https://lh3.googleusercontent.com/13jTV6FNzim8IdfmRq6CJuDlhibK-2S3Ho4D_s6ZuFoW1RnPPFsFH8YvTKj6oI0TTHEL28huhNRptuMT">
+  <a href="https://music.youtube.com/watch?v=cchTWN7lBTI">
+    <img width="300" src="https://lh3.googleusercontent.com/EA3OxN9nacCCCjtl6RGUYa1-OTVfJMf0KZLdqG7QNx7-3qkFyq-mHIHX3IHQ9G3TD-sjTkC8Kd6gWVWFnw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Simon Dominic - Party Forever</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - Datoom</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Party Forever ]</b>
+  included in <b>[ Every letter I sent you. ]</b>
   
   <br />
   <br />
-  10/25/2021 21:25 Playing on YTMusic
+  10/25/2021 21:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
