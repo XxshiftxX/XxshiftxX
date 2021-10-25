@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CyOWf9l50b4">
-    <img width="300" src="https://lh3.googleusercontent.com/ax3zQTBRHc-_vkRwFP_c_ohEK4Y9BK3LF7zJkLZeHb7SAHZ5PShFAStmStgY7Q4TQY5vCdNQwBnNulFq">
+  <a href="https://music.youtube.com/watch?v=JPTunZy4Fl8">
+    <img width="300" src="https://lh3.googleusercontent.com/dv2l0hb_71e3geWHrcMkb6nAEhK5C-3pT9_ItGRwcaw7qXqPxmf9y8MbuSbcxTFl_hfwrJAPgBPl4GbN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Colde (콜드) - 빛</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jay Park - All I Wanna Do (Korean Version)(피처링: Hoody, Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 빛 ]</b>
+  included in <b>[ Everything You Wanted ]</b>
   
   <br />
   <br />
-  10/25/2021 17:09 Playing on YTMusic
+  10/25/2021 17:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
