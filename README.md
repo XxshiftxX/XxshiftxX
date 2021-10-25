@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6d-ygS1tKuU">
-    <img width="300" src="https://lh3.googleusercontent.com/_A2CLQOvHF4faDt0iIvoV7os6ED2H2g1q_QKktHH5EzWIxyFfEL25dZ1QqBsxppV3ekIYtVweA5AGhAByA">
+  <a href="https://music.youtube.com/watch?v=qjlPUNPt2uw">
+    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jasmine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 시한부(피처링: Leellamarz, Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Jasmine ]</b>
+  included in <b>[ Curtain Call ]</b>
   
   <br />
   <br />
-  10/25/2021 17:55 Playing on YTMusic
+  10/25/2021 17:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
