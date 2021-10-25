@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vJOk93V7_iE">
-    <img width="300" src="https://lh3.googleusercontent.com/NVQMARlmOaJ4wnKzxuwOYCjdXYy2vcUiqfJZyCMwIBUAkENBwXRRV5eESnQLdTah_VwSlOMi3dEKiuX4">
+  <a href="https://music.youtube.com/watch?v=6d-ygS1tKuU">
+    <img width="300" src="https://lh3.googleusercontent.com/_A2CLQOvHF4faDt0iIvoV7os6ED2H2g1q_QKktHH5EzWIxyFfEL25dZ1QqBsxppV3ekIYtVweA5AGhAByA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Seori - 긴 밤(피처링: GIRIBOY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jasmine</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 긴 밤 ]</b>
+  included in <b>[ Jasmine ]</b>
   
   <br />
   <br />
-  10/25/2021 17:50 Playing on YTMusic
+  10/25/2021 17:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
