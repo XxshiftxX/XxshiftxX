@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jhnTY4Dp4Lg">
-    <img width="300" src="https://lh3.googleusercontent.com/9nrpxed3lKVTImN0qRGbeJhanyH3xFbmchcMVvO8hlEJAxBdh9q4XwqlN_OIyuEJYEuX2qqJ1-0lVHAqjw">
+  <a href="https://music.youtube.com/watch?v=vJOk93V7_iE">
+    <img width="300" src="https://lh3.googleusercontent.com/NVQMARlmOaJ4wnKzxuwOYCjdXYy2vcUiqfJZyCMwIBUAkENBwXRRV5eESnQLdTah_VwSlOMi3dEKiuX4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>식케이 Sik-K - party (SHUT DOWN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Seori - 긴 밤(피처링: GIRIBOY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HALF (Have a Little Fun) ]</b>
+  included in <b>[ 긴 밤 ]</b>
   
   <br />
   <br />
-  10/25/2021 17:47 Playing on YTMusic
+  10/25/2021 17:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
