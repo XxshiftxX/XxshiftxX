@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lgjudfWgB24">
-    <img width="300" src="https://lh3.googleusercontent.com/EA3OxN9nacCCCjtl6RGUYa1-OTVfJMf0KZLdqG7QNx7-3qkFyq-mHIHX3IHQ9G3TD-sjTkC8Kd6gWVWFnw">
+  <a href="https://music.youtube.com/watch?v=Oc4dFGwurT4">
+    <img width="300" src="https://lh3.googleusercontent.com/3SueB6wVEIzjor070EjtmJtyI9JTraX75vpcInrp_TLgNeBf3nsAIlVaST8FDZLtQc75AHNPyOb3kLeg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - 0310</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>나이트오프 Night Off - Sleep 잠</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Every letter I sent you. ]</b>
+  included in <b>[ The Last Night 마지막 밤 ]</b>
   
   <br />
   <br />
-  10/25/2021 18:45 Playing on YTMusic
+  10/25/2021 18:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
