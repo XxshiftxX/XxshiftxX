@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NHJHMj9rZOc">
-    <img width="300" src="https://lh3.googleusercontent.com/Qc6b-Rk6wzzv1nGNdv4qk0ygP87sMxppmnXFt4GI5XKdzEk8H0MEAi1vKrSa8Gz5m0PY-aGSiyyDwgtw">
+  <a href="https://music.youtube.com/watch?v=CmpPaDwNYhA">
+    <img width="300" src="https://lh3.googleusercontent.com/ou5ffJL3t1BJyizawfstKbh-QBQgjAiaejcy8iHxBq-Ny9M0jsfSfxNndRLZXACFDMUGvK2b0nYb5SOL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>punchnello - 낙서(피처링: 백예린 (Yerin Baek))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI), 원슈타인 및 미란이 (Mirani) - HEAT</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 낙서 ]</b>
+  included in <b>[ HEAT ]</b>
   
   <br />
   <br />
-  10/25/2021 17:16 Playing on YTMusic
+  10/25/2021 17:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
