@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cchTWN7lBTI">
-    <img width="300" src="https://lh3.googleusercontent.com/EA3OxN9nacCCCjtl6RGUYa1-OTVfJMf0KZLdqG7QNx7-3qkFyq-mHIHX3IHQ9G3TD-sjTkC8Kd6gWVWFnw">
+  <a href="https://music.youtube.com/watch?v=xKRYKEUwS0E">
+    <img width="300" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - Datoom</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손 - 사랑은 (Remaster)(피처링: Wonstein)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Every letter I sent you. ]</b>
+  included in <b>[ 나의슬픔(My Sadness)(Remaster) ]</b>
   
   <br />
   <br />
-  10/25/2021 21:31 Playing on YTMusic
+  10/25/2021 21:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
