@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pmPSYasuubc">
-    <img width="300" src="https://lh3.googleusercontent.com/ZBCg0DCD4KJhb1tqDGvd3Kv2TSvoHw-Hl-sIecMwhBb_Gc2nrTBCFxLN-FnAsPSms3ZZE6GdhsnnZP5AVA">
+  <a href="https://music.youtube.com/watch?v=9DuRqJ2WvYg">
+    <img width="300" src="https://lh3.googleusercontent.com/Wq_G1Y2ZoszrLus9OE3uMzlzaN4v0ECwq9fq_8lD1hb3I29_8ffHp8bbsiiIZzJMHGVy6gSsqc3F9uor">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Wonstein - 밤이 되니까</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SOLE - 왜(피처링: Gaeko)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 밤이 되니까 ]</b>
+  included in <b>[ 왜 ]</b>
   
   <br />
   <br />
-  10/25/2021 18:02 Playing on YTMusic
+  10/25/2021 18:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
