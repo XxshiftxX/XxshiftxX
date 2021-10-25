@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VZnfZ14fIig">
-    <img width="300" src="https://lh3.googleusercontent.com/A8e9Fge0S0Y0y6VqEOYDIJSt2PC2Ctu2a5i5uKkGBJPT-oidHVMhvRg8AXosOBDFsTMr5tjKDZ185fw">
+  <a href="https://music.youtube.com/watch?v=1I9QCUwga20">
+    <img width="300" src="https://lh3.googleusercontent.com/wCehVozI2mdsAsZ2umuEwyQkv2JQPn0XAmeuzNbPpL4OJ-dNEY4G_rs7rz4go4apq96811nVaogN2jd9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>넬 - 기억을 걷는 시간</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DAY6(데이식스) - 마치 흘러가는 바람처럼</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Separation Anxiety ]</b>
+  included in <b>[ The Book of Us : Entropy ]</b>
   
   <br />
   <br />
-  10/25/2021 18:29 Playing on YTMusic
+  10/25/2021 18:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
