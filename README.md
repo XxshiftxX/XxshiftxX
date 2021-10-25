@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bVrW1eDMtL8">
-    <img width="300" src="https://lh3.googleusercontent.com/DM7Xf9kIxHB36ccXFOyx1E6iVxq_Zww9JCO4MAwjTpF4RxBYAnFLsiVAOKv_yBj5utrrhEbiIX7A5eLS">
+  <a href="https://music.youtube.com/watch?v=Vx1FBS0cfyg">
+    <img width="300" src="https://lh3.googleusercontent.com/mlMNQUOQhp9ah9tRUEDHlsPps3HmZ5UMIjnflZdzVcJl7ng_2_-q3ey7-OfQioz3FoH0cTty5lO07TPm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HYUKOH - Wi Ing Wi Ing 위잉위잉</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>짙은 - TV Show</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 20 ]</b>
+  included in <b>[ Wonderland ]</b>
   
   <br />
   <br />
-  10/25/2021 19:03 Playing on YTMusic
+  10/25/2021 19:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
