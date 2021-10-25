@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=F36HIFtYrx0">
-    <img width="300" src="https://lh3.googleusercontent.com/idtuZGNVsmHsBTnZkISlyara1zwRi1CAyJLAt_8vboilttrBNl6kRw8XqKg78tCeEnaZSiMlfV_TYIrmDg">
+  <a href="https://music.youtube.com/watch?v=bVrW1eDMtL8">
+    <img width="300" src="https://lh3.googleusercontent.com/DM7Xf9kIxHB36ccXFOyx1E6iVxq_Zww9JCO4MAwjTpF4RxBYAnFLsiVAOKv_yBj5utrrhEbiIX7A5eLS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Young K - 베스트 송 (Best song)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HYUKOH - Wi Ing Wi Ing 위잉위잉</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Eternal ]</b>
+  included in <b>[ 20 ]</b>
   
   <br />
   <br />
-  10/25/2021 18:59 Playing on YTMusic
+  10/25/2021 19:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
