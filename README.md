@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IomTqf9-6lA">
-    <img width="300" src="https://lh3.googleusercontent.com/bfCBf_X0rUL-cE4XI2D5JbOzD8kRaK5ARTndtzaABH3B25AB_daU8-qYTugtYGLfrdxGgxuLEMv_OWZ_tg">
+  <a href="https://music.youtube.com/watch?v=33tF2FBDJGI">
+    <img width="300" src="https://lh3.googleusercontent.com/11VbFbo9hXPDq_0DlKgKrAgKYjfSrKc4kiiiaxrhgpmuGn2oKJQ3aHqTnvkMQ9V5PBACtZqWn89rNOlA6w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>보수동쿨러 - Cotton 목화</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>검정치마 - Love Shine</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Cotton 목화 ]</b>
+  included in <b>[ Don't You Worry Baby (I'm Only Swimming) ]</b>
   
   <br />
   <br />
-  10/25/2021 19:28 Playing on YTMusic
+  10/25/2021 19:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
