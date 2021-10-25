@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vJOk93V7_iE">
-    <img width="300" src="https://lh3.googleusercontent.com/NVQMARlmOaJ4wnKzxuwOYCjdXYy2vcUiqfJZyCMwIBUAkENBwXRRV5eESnQLdTah_VwSlOMi3dEKiuX4">
+  <a href="https://music.youtube.com/watch?v=KPOBo8c1Wt8">
+    <img width="300" src="https://lh3.googleusercontent.com/f0vBw7f9CkLrsJpnOn4qjXz9jQsvzusRnyADnUFSlylhEwTa4PKmrewqM30zAg5KvhCudps-vVtrYLpQLg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Seori - 긴 밤(피처링: GIRIBOY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>로꼬 - 시간이 들겠지(피처링: Colde (콜드))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 긴 밤 ]</b>
+  included in <b>[ 시간이 들겠지 ]</b>
   
   <br />
   <br />
-  10/25/2021 21:08 Playing on YTMusic
+  10/25/2021 21:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
