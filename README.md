@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CmpPaDwNYhA">
-    <img width="300" src="https://lh3.googleusercontent.com/ou5ffJL3t1BJyizawfstKbh-QBQgjAiaejcy8iHxBq-Ny9M0jsfSfxNndRLZXACFDMUGvK2b0nYb5SOL">
+  <a href="https://music.youtube.com/watch?v=9Unrl9Yi55s">
+    <img width="300" src="https://lh3.googleusercontent.com/dP_vI0XXlNl3JKI4x-K3KvFhttkKeOA3H9LJ7E5rWzCmXwG5wPZySFYQ7soDeoXx6lckdpiOkTkU6p-L">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI), 원슈타인 및 미란이 (Mirani) - HEAT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>파테코 및 디핵 - OHAYO MY NIGHT</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HEAT ]</b>
+  included in <b>[ OHAYO MY NIGHT ]</b>
   
   <br />
   <br />
-  10/25/2021 17:19 Playing on YTMusic
+  10/25/2021 17:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
