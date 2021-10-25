@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GQhV0C0SxQE">
-    <img width="300" src="https://lh3.googleusercontent.com/zkYDGyt6KJIvCy2BVT4FrjJw2LLqUhNgR50W1TDph9lCqC3TXP20wD_St6iPAzBJOC5O0gtDEZnrOETZ">
+  <a href="https://music.youtube.com/watch?v=k6GZK6YI2es">
+    <img width="300" src="https://lh3.googleusercontent.com/U3ZT-SaOZKmLkNZFn_a6lxq9vOnKYQy_4LLv9h0UaFodNSDTyedSBAkVEo4PN2ebD-SOS3dnCB-KuPg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 내일은 없다(피처링: lIlBOI, nafla)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Crush 및 Yoon Mi-rae - Step by Step</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ avante ]</b>
+  included in <b>[ With Her ]</b>
   
   <br />
   <br />
-  10/25/2021 11:15 Playing on YTMusic
+  10/25/2021 17:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
