@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rGVqQVMtaUo">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/watch?v=wDSD-z3Wz-4">
+    <img width="300" src="https://lh3.googleusercontent.com/FUrAEqtby_uLa-vVe9Ej7zxpwSNDUjJxilm5_WAcnA2awH3TuKHrxANbcbs0RApV1Hs4YS939zVugPou">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI, 원슈타인, 칠린호미 및 스카이민혁 - Freak</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>백예린 - Loveless</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
+  included in <b>[ tellusboutyourself ]</b>
   
   <br />
   <br />
-  10/25/2021 17:39 Playing on YTMusic
+  10/25/2021 17:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
