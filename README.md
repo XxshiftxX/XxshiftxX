@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=k6GZK6YI2es">
-    <img width="300" src="https://lh3.googleusercontent.com/U3ZT-SaOZKmLkNZFn_a6lxq9vOnKYQy_4LLv9h0UaFodNSDTyedSBAkVEo4PN2ebD-SOS3dnCB-KuPg">
+  <a href="https://music.youtube.com/watch?v=CyOWf9l50b4">
+    <img width="300" src="https://lh3.googleusercontent.com/ax3zQTBRHc-_vkRwFP_c_ohEK4Y9BK3LF7zJkLZeHb7SAHZ5PShFAStmStgY7Q4TQY5vCdNQwBnNulFq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Crush 및 Yoon Mi-rae - Step by Step</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Colde (콜드) - 빛</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ With Her ]</b>
+  included in <b>[ 빛 ]</b>
   
   <br />
   <br />
-  10/25/2021 17:03 Playing on YTMusic
+  10/25/2021 17:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
