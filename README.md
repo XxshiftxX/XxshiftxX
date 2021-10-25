@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EyaSPPO4Ny8">
-    <img width="300" src="https://lh3.googleusercontent.com/BI6gZi3MK4ZeVrqef3isM5WEyZUHi2bF4-RavcAaU3u3RzljhgYwc1UXT4V8rdXJBXBvbnKrTtHWuxwW">
+  <a href="https://music.youtube.com/watch?v=hNGX9VLL_zw">
+    <img width="300" src="https://lh3.googleusercontent.com/rLd5LPTZKaeBq4PKXsonlEmJAoZw5jM4eAhkSkES6g3sLWxN2R24b58jetUEi_MiQEV_fX1TrTu5G7yT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다섯 Dasutt - 바다처럼 Like a Sea</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>몽니 - When Tears Dry Up</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ YOUTH ]</b>
+  included in <b>[ This Moment ]</b>
   
   <br />
   <br />
-  10/25/2021 19:16 Playing on YTMusic
+  10/25/2021 19:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
