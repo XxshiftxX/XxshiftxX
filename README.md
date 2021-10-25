@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Kx8pJzPodsY">
-    <img width="300" src="https://lh3.googleusercontent.com/tgD3rt6NlFBizFnDAjNC61RFkYChEDQzculw7b7pNgAR5bNtR-aPLrrWE1etAIchzkeZP9HtX-Lw8cJ3">
+  <a href="https://music.youtube.com/watch?v=lgjudfWgB24">
+    <img width="300" src="https://lh3.googleusercontent.com/EA3OxN9nacCCCjtl6RGUYa1-OTVfJMf0KZLdqG7QNx7-3qkFyq-mHIHX3IHQ9G3TD-sjTkC8Kd6gWVWFnw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - 0310</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MONKEY HOTEL ]</b>
+  included in <b>[ Every letter I sent you. ]</b>
   
   <br />
   <br />
-  10/25/2021 18:41 Playing on YTMusic
+  10/25/2021 18:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
