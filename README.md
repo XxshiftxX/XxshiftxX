@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hNGX9VLL_zw">
-    <img width="300" src="https://lh3.googleusercontent.com/rLd5LPTZKaeBq4PKXsonlEmJAoZw5jM4eAhkSkES6g3sLWxN2R24b58jetUEi_MiQEV_fX1TrTu5G7yT">
+  <a href="https://music.youtube.com/watch?v=kO-Iy7lVFBc">
+    <img width="300" src="https://lh3.googleusercontent.com/3QNuquSAFcl78SGGd5fQ0lRCtCLRQKADeKJdVZr8wYFSZXjT00x0p-kSlhdl8U-7DqOaQPrbZ-vn01DqEg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>몽니 - When Tears Dry Up</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DAY6 (Even of Day) - LOVE PARADE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ This Moment ]</b>
+  included in <b>[ Right Through Me ]</b>
   
   <br />
   <br />
-  10/25/2021 19:20 Playing on YTMusic
+  10/25/2021 19:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
