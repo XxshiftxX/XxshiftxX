@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JohAHQ2HRS8">
-    <img width="300" src="https://lh3.googleusercontent.com/fn810ceHiWt8wsicUZwlZLIyBwuiyfRLUqfo5J8iWah9WYcSl_kf-GyPc3HFFh_DCjT4xdwemw2LQHxv">
+  <a href="https://music.youtube.com/watch?v=-tEcPtR2uKY">
+    <img width="300" src="https://lh3.googleusercontent.com/UhlGt9Da62cx3jX0rpYNalrFM07UmyFPB91Pgz3B2lWSVFFWaAG59gQDYbDgcHG7XCbhD3rzxt8pMBCq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>오왠 - Call Me Now</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>세이수미 - So Tender</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Call Me Now ]</b>
+  included in <b>[ 알고있지만, (Original Television Soundtrack, Pt. 8) ]</b>
   
   <br />
   <br />
-  10/25/2021 19:37 Playing on YTMusic
+  10/25/2021 19:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
