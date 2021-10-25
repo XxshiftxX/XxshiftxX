@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=y6DC_Q_jTlg">
-    <img width="300" src="https://lh3.googleusercontent.com/kEIgpHmBYjUgTM4tuL3qODQhCRug30bC9GHCbg0_QH8YXter_44FDqIIcFB_z-6htY8r6aBJO70_feA6">
+  <a href="https://music.youtube.com/watch?v=6wsjHvzEktk">
+    <img width="300" src="https://lh3.googleusercontent.com/tEtDGAV0CH5btdSvzF1s-WRmzWdTSdhhy2T_Xy1OKSfz-auzBrzkCAkHRq7y74b0_9Ca-OIlyJgbQg91qg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>이루리 - 내가 널 사랑하는 방법</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>1415 - 뜬구름</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Let Me Dive Into This Moment ]</b>
+  included in <b>[ DEAR : X ]</b>
   
   <br />
   <br />
-  10/25/2021 19:08 Playing on YTMusic
+  10/25/2021 19:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
