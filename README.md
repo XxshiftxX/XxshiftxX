@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yUnyZQYwGAc">
-    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
+  <a href="https://music.youtube.com/watch?v=XFCBJZBflmI">
+    <img width="300" src="https://lh3.googleusercontent.com/RVPOcR4-VuiUF8Z3qShi-pY0U3YknU_6rz4Fe0IXgzBz7FpvE-xnKfmU8aNxSdC5m-8spZtEmoERNg0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings), 맥대디, 래원 (Layone) 및 카키 - Want It(피처링: 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CAMO - Wifey</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
+  included in <b>[ Wifey ]</b>
   
   <br />
   <br />
-  10/25/2021 17:34 Playing on YTMusic
+  10/25/2021 17:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
