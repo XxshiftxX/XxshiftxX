@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zSIIlyBbKt4">
-    <img width="300" src="https://lh3.googleusercontent.com/DM7Xf9kIxHB36ccXFOyx1E6iVxq_Zww9JCO4MAwjTpF4RxBYAnFLsiVAOKv_yBj5utrrhEbiIX7A5eLS">
+  <a href="https://music.youtube.com/watch?v=Kx8pJzPodsY">
+    <img width="300" src="https://lh3.googleusercontent.com/tgD3rt6NlFBizFnDAjNC61RFkYChEDQzculw7b7pNgAR5bNtR-aPLrrWE1etAIchzkeZP9HtX-Lw8cJ3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HYUKOH - Feels Like Roller-Coaster Ride</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 20 ]</b>
+  included in <b>[ MONKEY HOTEL ]</b>
   
   <br />
   <br />
-  10/25/2021 18:37 Playing on YTMusic
+  10/25/2021 18:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
