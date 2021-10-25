@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Oc4dFGwurT4">
-    <img width="300" src="https://lh3.googleusercontent.com/3SueB6wVEIzjor070EjtmJtyI9JTraX75vpcInrp_TLgNeBf3nsAIlVaST8FDZLtQc75AHNPyOb3kLeg">
+  <a href="https://music.youtube.com/watch?v=S1hrC7Dnm7k">
+    <img width="300" src="https://lh3.googleusercontent.com/zjbjumCKxY6wuJ9w-5yKpCeuJIlWghqtMnBTFm-jDycrlC9Ue6VnYSwUlqzgaeWOy1KWo-SnXJAt7bd-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나이트오프 Night Off - Sleep 잠</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>최예근 - 내가 서있는 곳</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Last Night 마지막 밤 ]</b>
+  included in <b>[ 갈 곳을 잃어도 어디든 흘러갈 수 있게 ]</b>
   
   <br />
   <br />
-  10/25/2021 18:49 Playing on YTMusic
+  10/25/2021 18:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
