@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=S1hrC7Dnm7k">
-    <img width="300" src="https://lh3.googleusercontent.com/zjbjumCKxY6wuJ9w-5yKpCeuJIlWghqtMnBTFm-jDycrlC9Ue6VnYSwUlqzgaeWOy1KWo-SnXJAt7bd-">
+  <a href="https://music.youtube.com/watch?v=F36HIFtYrx0">
+    <img width="300" src="https://lh3.googleusercontent.com/idtuZGNVsmHsBTnZkISlyara1zwRi1CAyJLAt_8vboilttrBNl6kRw8XqKg78tCeEnaZSiMlfV_TYIrmDg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>최예근 - 내가 서있는 곳</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Young K - 베스트 송 (Best song)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 갈 곳을 잃어도 어디든 흘러갈 수 있게 ]</b>
+  included in <b>[ Eternal ]</b>
   
   <br />
   <br />
-  10/25/2021 18:53 Playing on YTMusic
+  10/25/2021 18:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
