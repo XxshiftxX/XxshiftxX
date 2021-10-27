@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zkmbGXZegFI">
-    <img width="300" src="https://lh3.googleusercontent.com/s5WH_6VaE29qGT4yQH93gWY8plsLr6nCTrk-N3D8lb42CSFjlQo3dyjMoSkpzKeX7s2dyRoBH9AQWQxV">
+  <a href="https://music.youtube.com/watch?v=n_kvB5AhXkk">
+    <img width="300" src="https://lh3.googleusercontent.com/hMZuufIllNavvGGB0pD1gu3hXEwiVQI2m41_B-zcKT-RtU3GYxhtBfgIIO6g3fXoehZSsHhBWNoTupeWMQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>타임피버, 밀로, 윤현선, 차진혁, 최은서 및 귀소년 - 이열치열</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GI$T 윤현선 - 몰라도 돼</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GOODBYE UNDERCLOUD ]</b>
+  included in <b>[ CHILD ]</b>
   
   <br />
   <br />
-  10/27/2021 19:33 Playing on YTMusic
+  10/27/2021 19:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
