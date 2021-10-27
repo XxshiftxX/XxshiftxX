@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=c99vwrDUafE">
-    <img width="300" src="https://lh3.googleusercontent.com/xyRnc2QtR5vrI_lZgxKZlZOEYRY_NFiNdT9yp5uEGN0q5myWaHZpXfpQTBTYs6-OrbGWZMfArUIwW5LNpQ">
+  <a href="https://music.youtube.com/watch?v=5iI6pz5t3CA">
+    <img width="300" src="https://lh3.googleusercontent.com/hoANJ0FiUMEqbJjTCE9oHm7GVg7K9WqqHc7EFT1cDFMf1wfyuTHdijcU9m0VtjetqJXtDQlGTxCW1Ypm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - Sure</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - 벌써(피처링: HOON)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Promise ]</b>
+  included in <b>[ 벌써 ]</b>
   
   <br />
   <br />
-  10/27/2021 18:43 Playing on YTMusic
+  10/27/2021 18:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
