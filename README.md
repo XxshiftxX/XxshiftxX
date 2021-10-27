@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qEx2iiZSkRM">
-    <img width="300" src="https://lh3.googleusercontent.com/hoANJ0FiUMEqbJjTCE9oHm7GVg7K9WqqHc7EFT1cDFMf1wfyuTHdijcU9m0VtjetqJXtDQlGTxCW1Ypm">
+  <a href="https://music.youtube.com/watch?v=6lHxSP8UEuQ">
+    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - By My Side(피처링: 해쉬 스완(Hash Swan))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김호진(HOTCHKISS), GI$T(윤현선), GOI 및 오동환(Untell) - WINNER</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 벌써 ]</b>
+  included in <b>[ School Rapper3 Final ]</b>
   
   <br />
   <br />
-  10/27/2021 19:17 Playing on YTMusic
+  10/27/2021 19:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
