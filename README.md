@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=D1OcH5X6sZY">
+  <a href="https://music.youtube.com/watch?v=d2M7FU5wHaw">
     <img width="300" src="https://lh3.googleusercontent.com/I6W5cTXVqrUJiC39km0gt9dFFQ0mGDjiYpph00zWVLGJ73Krgnfg-tvwJISY6PAkw3UBnGrwQNnjo4A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - For me(피처링: 스키니 브라운)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - 우리(피처링: PLHN)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ He ]</b>
   
   <br />
   <br />
-  10/27/2021 18:53 Playing on YTMusic
+  10/27/2021 18:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
