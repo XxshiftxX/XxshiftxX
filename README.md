@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=n_kvB5AhXkk">
-    <img width="300" src="https://lh3.googleusercontent.com/hMZuufIllNavvGGB0pD1gu3hXEwiVQI2m41_B-zcKT-RtU3GYxhtBfgIIO6g3fXoehZSsHhBWNoTupeWMQ">
+  <a href="https://music.youtube.com/watch?v=eljN3GSwcFU">
+    <img width="300" src="https://lh3.googleusercontent.com/I6W5cTXVqrUJiC39km0gt9dFFQ0mGDjiYpph00zWVLGJ73Krgnfg-tvwJISY6PAkw3UBnGrwQNnjo4A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GI$T 윤현선 - 몰라도 돼</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - 배우</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CHILD ]</b>
+  included in <b>[ He ]</b>
   
   <br />
   <br />
-  10/27/2021 19:37 Playing on YTMusic
+  10/27/2021 19:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
