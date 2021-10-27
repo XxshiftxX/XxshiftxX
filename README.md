@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=d2M7FU5wHaw">
-    <img width="300" src="https://lh3.googleusercontent.com/I6W5cTXVqrUJiC39km0gt9dFFQ0mGDjiYpph00zWVLGJ73Krgnfg-tvwJISY6PAkw3UBnGrwQNnjo4A">
+  <a href="https://music.youtube.com/watch?v=k3niPioeT8I">
+    <img width="300" src="https://lh3.googleusercontent.com/3jDotWn-wUb4L0qggxmaNw0VAmr_3CXn7RlJNFlOtkc5CYNViEM1mWX_gYNfBP4W-BwLGDPtj6uz5-PplQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - 우리(피처링: PLHN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - 혼잣말(피처링: ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ He ]</b>
+  included in <b>[ 혼잣말 ]</b>
   
   <br />
   <br />
-  10/27/2021 18:55 Playing on YTMusic
+  10/27/2021 18:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
