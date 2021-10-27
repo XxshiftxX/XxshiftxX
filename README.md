@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=l1ElQTJRHOU">
-    <img width="300" src="https://lh3.googleusercontent.com/NWyXze4fq4J4ASduWTAAF0i5_h_v9Nf4-5iReFlg5JZ_DgoDQGWdzexDnTlSE6A-_dF7ApzCu2frF_p3">
+  <a href="https://music.youtube.com/watch?v=rtv37yQMYvs">
+    <img width="300" src="https://lh3.googleusercontent.com/cslxPYwAbjWEPeK4eDopukdgDnlXeh8mJlk1GrFliYc8qxbzIJ5pvqIJ8Qak7HS5vdzL0-mjQw6wUKgQPA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>h3hyeon - IF U WANT(피처링: EXN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김민규(Young Kay) 및 GI$T(윤현선) - Wishing On A Star</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 황세현 ]</b>
+  included in <b>[ School Rapper3 Team-Battle, Pt. 1 ]</b>
   
   <br />
   <br />
-  10/27/2021 16:07 Playing on YTMusic
+  10/27/2021 16:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
