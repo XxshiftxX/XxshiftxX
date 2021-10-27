@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=q1jhMNixrQY">
+  <a href="https://music.youtube.com/watch?v=IuxVN-j_msY">
     <img width="300" src="https://lh3.googleusercontent.com/NWyXze4fq4J4ASduWTAAF0i5_h_v9Nf4-5iReFlg5JZ_DgoDQGWdzexDnTlSE6A-_dF7ApzCu2frF_p3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>h3hyeon - Paint It(피처링: The Quiett)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>h3hyeon - NO SENSE(피처링: Mighty Lynx)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 황세현 ]</b>
   
   <br />
   <br />
-  10/27/2021 15:57 Playing on YTMusic
+  10/27/2021 16:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
