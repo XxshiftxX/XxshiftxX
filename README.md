@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rQf3UowfEj8">
-    <img width="300" src="https://lh3.googleusercontent.com/jA5kIkTaSDrtInnB5st82DaMQSlZy2D8368GEF7EpAuSYjX9W1RDpPa9Qdda44koniiY-Pa9YnxeHig">
+  <a href="https://music.youtube.com/watch?v=rlpz70-t3sA">
+    <img width="300" src="https://lh3.googleusercontent.com/A4xgH8FtqkF1DXfLbAo3w8dlrFOrchtQciIhsKiCYENOv_Bi3BgBzQviVKhtV-M2XEicVMVa87mnU5U">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - SIMULATION(피처링: PLHN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - You Don't Know Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SIMULATION ]</b>
+  included in <b>[ You Don't Know Me ]</b>
   
   <br />
   <br />
-  10/27/2021 19:47 Playing on YTMusic
+  10/27/2021 19:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
