@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GhXA9F9EqKU">
+  <a href="https://music.youtube.com/watch?v=aaN5z3X7mMA">
     <img width="300" src="https://lh3.googleusercontent.com/NWyXze4fq4J4ASduWTAAF0i5_h_v9Nf4-5iReFlg5JZ_DgoDQGWdzexDnTlSE6A-_dF7ApzCu2frF_p3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>h3hyeon - Facetime</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>h3hyeon - 가랑비</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 황세현 ]</b>
   
   <br />
   <br />
-  10/27/2021 15:46 Playing on YTMusic
+  10/27/2021 15:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
