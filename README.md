@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=j4v3KdRkXKE">
-    <img width="300" src="https://lh3.googleusercontent.com/hMZuufIllNavvGGB0pD1gu3hXEwiVQI2m41_B-zcKT-RtU3GYxhtBfgIIO6g3fXoehZSsHhBWNoTupeWMQ">
+  <a href="https://music.youtube.com/watch?v=MliTkG3gwxs">
+    <img width="300" src="https://lh3.googleusercontent.com/4OXr3pE3YQRuYvTArG4HEsAURNjrMKEGCXn4SyDMfs4n2g5OHM4wkt6ll4d4qaWiCvL25PAOgEMHaCvz">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GI$T 윤현선 - 위해서</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>플루마(PLUMA) 및 GI$T(윤현선) - how are you(피처링: 더 콰이엇(The Quiett))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CHILD ]</b>
+  included in <b>[ School Rapper3 Team-Battle, Pt. 3 ]</b>
   
   <br />
   <br />
-  10/27/2021 19:09 Playing on YTMusic
+  10/27/2021 19:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
