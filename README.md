@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MYHR05tLxD0">
-    <img width="300" src="https://lh3.googleusercontent.com/d5ytesHTJ29iChj8TtIgMfCwsxKaiArM6S3gXYmNTlDPyAbh2JXVERvJjiGFliPmlZIBGt9-gVOEA04">
+  <a href="https://music.youtube.com/watch?v=4AGwHDOEG-Y">
+    <img width="300" src="https://lh3.googleusercontent.com/NWyXze4fq4J4ASduWTAAF0i5_h_v9Nf4-5iReFlg5JZ_DgoDQGWdzexDnTlSE6A-_dF7ApzCu2frF_p3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Loco - Finally(피처링: Car, the Garden)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>h3hyeon - 인스타그만(피처링: Touch the Sky)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SOME TIME ]</b>
+  included in <b>[ 황세현 ]</b>
   
   <br />
   <br />
-  10/25/2021 21:46 Playing on YTMusic
+  10/27/2021 15:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
