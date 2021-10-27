@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cAUandOG350">
-    <img width="300" src="https://lh3.googleusercontent.com/L3tjAtCP45h68_MyyCI5KNlCPMN-zNpWBO0Up9F9RHQbKU0XZlymh7YcJiACRgTktl1PwZWcEHk1ISEe">
+  <a href="https://music.youtube.com/watch?v=kNvb260yGas">
+    <img width="300" src="https://lh3.googleusercontent.com/BHaiclMfZSD7YIt2mIGp99Yq8OuTLJB-macn4tTCwpkH57fsiO7qj0q7H02JHry1l7_uFBXqQUBJ1RQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - 안행복했네(피처링: Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GI$T - 바보(피처링: 릴러말즈)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 안행복했네 ]</b>
+  included in <b>[ 바보 ]</b>
   
   <br />
   <br />
-  10/27/2021 18:37 Playing on YTMusic
+  10/27/2021 18:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
