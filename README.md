@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MliTkG3gwxs">
-    <img width="300" src="https://lh3.googleusercontent.com/4OXr3pE3YQRuYvTArG4HEsAURNjrMKEGCXn4SyDMfs4n2g5OHM4wkt6ll4d4qaWiCvL25PAOgEMHaCvz">
+  <a href="https://music.youtube.com/watch?v=qEx2iiZSkRM">
+    <img width="300" src="https://lh3.googleusercontent.com/hoANJ0FiUMEqbJjTCE9oHm7GVg7K9WqqHc7EFT1cDFMf1wfyuTHdijcU9m0VtjetqJXtDQlGTxCW1Ypm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>플루마(PLUMA) 및 GI$T(윤현선) - how are you(피처링: 더 콰이엇(The Quiett))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIST - By My Side(피처링: 해쉬 스완(Hash Swan))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ School Rapper3 Team-Battle, Pt. 3 ]</b>
+  included in <b>[ 벌써 ]</b>
   
   <br />
   <br />
-  10/27/2021 19:13 Playing on YTMusic
+  10/27/2021 19:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
