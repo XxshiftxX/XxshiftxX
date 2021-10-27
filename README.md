@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dHkMhZ4EOoQ">
-    <img width="300" src="https://lh3.googleusercontent.com/I6W5cTXVqrUJiC39km0gt9dFFQ0mGDjiYpph00zWVLGJ73Krgnfg-tvwJISY6PAkw3UBnGrwQNnjo4A">
+  <a href="https://music.youtube.com/watch?v=j4v3KdRkXKE">
+    <img width="300" src="https://lh3.googleusercontent.com/hMZuufIllNavvGGB0pD1gu3hXEwiVQI2m41_B-zcKT-RtU3GYxhtBfgIIO6g3fXoehZSsHhBWNoTupeWMQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - 미안해</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GI$T 윤현선 - 위해서</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ He ]</b>
+  included in <b>[ CHILD ]</b>
   
   <br />
   <br />
-  10/27/2021 19:07 Playing on YTMusic
+  10/27/2021 19:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
