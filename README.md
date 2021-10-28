@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
-    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
+  <a href="https://music.youtube.com/watch?v=0tyznwCDUYI">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(피처링: M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Villain(피처링: LeeHi, 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ "SIKE"! ]</b>
+  included in <b>[ Show Me the Money 9 Semi Final ]</b>
   
   <br />
   <br />
-  10/28/2021 14:20 Playing on YTMusic
+  10/28/2021 14:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
