@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
-    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
+  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해 (Prod. by CODE KUNST)(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(피처링: 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 논해 ]</b>
+  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
   
   <br />
   <br />
-  10/28/2021 14:05 Playing on YTMusic
+  10/28/2021 14:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
