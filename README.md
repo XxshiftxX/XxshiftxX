@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=oTth_Tm-LaQ">
-    <img width="300" src="https://lh3.googleusercontent.com/SeDzBretGLyPpmaKKgwQVAsIW9JV3KWQHOCZtPXGCrPIf5Kn7t-WUgYiI1s24qhNYCxR0uoUmZ_dD0f1-w">
+  <a href="https://music.youtube.com/watch?v=18taoPtL1-I">
+    <img width="300" src="https://lh3.googleusercontent.com/sOc1c8ksWJ_ASiZt9GNEJ3drvJ_snBGryob2pjqc2Ef66xdfJCGy7SCvVgg5ObDT1joxn7B1dDRmkhI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 TOIL - Don't Flex on me(피처링: 제이씨 유카, 김효은)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴보이, 로꼬 및 박재범 - ON IT + BO$</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 토끼니브라운 ]</b>
+  included in <b>[ Show Me the Money 4 Episode 4 ]</b>
   
   <br />
   <br />
-  10/28/2021 22:21 Playing on YTMusic
+  10/28/2021 22:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
