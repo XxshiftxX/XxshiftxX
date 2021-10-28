@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MSYq3MzTLGA">
-    <img width="300" src="https://lh3.googleusercontent.com/wwDFVu5L4A9jU6XKFLmKZt10Qt7OP8D-YAfVvHsE7-yxPe1VG-m72jkbxM2j8-IB52uIufjgYrC6x07J">
+  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
+    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇 - Hangang gang (Megamix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(피처링: M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hangang gang (Megamix) ]</b>
+  included in <b>[ "SIKE"! ]</b>
   
   <br />
   <br />
-  10/28/2021 14:14 Playing on YTMusic
+  10/28/2021 14:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
