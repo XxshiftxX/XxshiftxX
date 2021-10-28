@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7-xwMY1WfK4">
-    <img width="300" src="https://i.ytimg.com/vi/7-xwMY1WfK4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
+    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Zior Park - BLACK FIN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해 (Prod. by CODE KUNST)(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 49만회 ]</b>
+  included in <b>[ 논해 ]</b>
   
   <br />
   <br />
-  10/28/2021 14:32 Playing on YTMusic
+  10/28/2021 14:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
