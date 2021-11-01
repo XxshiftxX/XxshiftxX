@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8DY8ZyE_qAw">
-    <img width="300" src="https://lh3.googleusercontent.com/hsAJ7rMl4A_XQvUE-_1Bgz5Y8C-EoNdfCV7KNuqBe3coHzuBMIhzyY2fQilQGmENJrchL-GCMRks8Z0">
+  <a href="https://music.youtube.com/watch?v=DtK_xu6HSOs">
+    <img width="300" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>RYNO 및 MELOH - HELLP</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - TRUE(피처링: 빈지노(Beenzino))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HELLP ]</b>
+  included in <b>[ MARZ 2 AMBITION ]</b>
   
   <br />
   <br />
-  11/02/2021 00:52 Playing on YTMusic
+  11/02/2021 00:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
