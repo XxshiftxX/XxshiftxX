@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=K7o4nYV0ns4">
-    <img width="300" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">
+  <a href="https://music.youtube.com/watch?v=ctrtBu3DpU8">
+    <img width="300" src="https://lh3.googleusercontent.com/jgjqiwxjqdd1Q6Gcey-o8tF70LP2mnOKJWZqNDOfJLInwxWpCYG0y2Rx_5geOORBiCo23DYMNVeCMrI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - 야망(피처링: ASH ISLAND, 김효은, 해쉬 스완(Hash Swan), 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie - Life Goes On(피처링: pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MARZ 2 AMBITION ]</b>
+  included in <b>[ Life Goes On ]</b>
   
   <br />
   <br />
-  11/02/2021 00:35 Playing on YTMusic
+  11/02/2021 00:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
