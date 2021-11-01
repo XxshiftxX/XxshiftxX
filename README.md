@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vRRm8Cson5Y">
-    <img width="300" src="https://lh3.googleusercontent.com/bBCgtCwyV-Ez2VpoVU2oD_T8QsNcgYoj67cCItHQbfnuT5ylfI6GBLPBt8I9FCWx3hy3iQruiJubKbS6_Q">
+  <a href="https://music.youtube.com/watch?v=G8a0t9hxyaI">
+    <img width="300" src="https://lh3.googleusercontent.com/dzpmzTpQLVrjYIZfMeyXeIHer10zf4cUU6GHSmgaV-RosRg-OaxjwvVFcj__bAiiBz19emxU7f5KHog">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lauv(라우브) 및 LANY - Mean It (stripped)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Afterglow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Mean It (stripped) ]</b>
+  included in <b>[ Afterglow ]</b>
   
   <br />
   <br />
-  11/01/2021 15:48 Playing on YTMusic
+  11/01/2021 15:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
