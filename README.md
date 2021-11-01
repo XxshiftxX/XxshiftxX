@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=G6-xWN28oGo">
-    <img width="300" src="https://lh3.googleusercontent.com/e_7kHMm9FjPN8cWZr-82gVZoripfwRWuqJBR19LpjKVejxYPIuf8uOkn4OMNZ-KrA7QOA7W6xOOKTHh4Kg">
+  <a href="https://music.youtube.com/watch?v=v6HFc5I0hr8">
+    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jeremy Zucker - Cry with you</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Ghost</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Cry with you ]</b>
+  included in <b>[ Justice ]</b>
   
   <br />
   <br />
-  11/01/2021 16:03 Playing on YTMusic
+  11/01/2021 16:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
