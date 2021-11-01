@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=nr4N3BqjfRw">
+  <a href="https://music.youtube.com/watch?v=qmF6kUrdr-E">
     <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - REC(피처링: 쿠기, 더 콰이엇(The Quiett))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - I’m Hooked(피처링: 나플라(nafla), 해쉬 스완(Hash Swan))</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 2MONTHS ]</b>
   
   <br />
   <br />
-  11/02/2021 00:17 Playing on YTMusic
+  11/02/2021 00:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
