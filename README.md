@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m1WHAsYs5L8">
+  <a href="https://music.youtube.com/watch?v=6fJdurv31xA">
     <img width="300" src="https://lh3.googleusercontent.com/thG9CVPO7TNRjN46ACoToQvAcBnSUN5wdD849PHg-7zoFRpB2c6GbHOPJ8FntFQc2_NxteEeNoW6p_c">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Stop The Rain</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Love In Slow Motion</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ = ]</b>
   
   <br />
   <br />
-  11/01/2021 15:23 Playing on YTMusic
+  11/01/2021 15:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
