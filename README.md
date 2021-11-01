@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=v6HFc5I0hr8">
-    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
+  <a href="https://music.youtube.com/watch?v=bvi-WHk7lbo">
+    <img width="300" src="https://lh3.googleusercontent.com/2rSqxXTYIox46twhc2zC73tSPuzHz9XBx04tojSXQmXN4SK7NgYdwX5PgqcX7reoPG_3WrjnIu-hbm5G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Ghost</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Put It All on Me(피처링: 엘라 마이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Justice ]</b>
+  included in <b>[ No.6 Collaborations Project ]</b>
   
   <br />
   <br />
-  11/01/2021 16:06 Playing on YTMusic
+  11/01/2021 16:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
