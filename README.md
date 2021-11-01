@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
-    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
+  <a href="https://music.youtube.com/watch?v=5fF7bWC70MM">
+    <img width="300" src="https://lh3.googleusercontent.com/thG9CVPO7TNRjN46ACoToQvAcBnSUN5wdD849PHg-7zoFRpB2c6GbHOPJ8FntFQc2_NxteEeNoW6p_c">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Tides</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 논해 ]</b>
+  included in <b>[ = ]</b>
   
   <br />
   <br />
-  11/01/2021 14:50 Playing on YTMusic
+  11/01/2021 14:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
