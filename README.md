@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zg95do1LTdk">
-    <img width="300" src="https://lh3.googleusercontent.com/xpDEOr2TeqEn1QpXosXhqtj149FzNnTgAG3oqPnpTxTbQk-oceO90Sz4Axq0s4Jp_QLGQha_um6_EG3WGQ">
+  <a href="https://music.youtube.com/watch?v=mkR_eAcmjXA">
+    <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Dive</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Balance(피처링: 창모(CHANGMO), Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ÷ (Deluxe) ]</b>
+  included in <b>[ 2MONTHS ]</b>
   
   <br />
   <br />
-  11/01/2021 16:16 Playing on YTMusic
+  11/01/2021 23:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
