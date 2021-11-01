@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DtK_xu6HSOs">
-    <img width="300" src="https://lh3.googleusercontent.com/gkQFVvjJGBrAk2EIgVpzixFW8hM2l-o8-0m-q_as2Hb3J64nXwQ1mc7TF-hRY6iFAcVEPFRxE_F3ppRXyA">
+  <a href="https://music.youtube.com/watch?v=1F6IgYD61Ow">
+    <img width="300" src="https://lh3.googleusercontent.com/27dcyIEkO-IURdBoJUxRuK4-7jvOl97jwZZwP8o2MDQ1u1NzceB2WbVVr8u9KhwAHhMaEOOd5Tdo_HE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - TRUE(피처링: 빈지노(Beenzino))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - HOMESICKNESS(피처링: 릴러말즈(Leellamarz), 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MARZ 2 AMBITION ]</b>
+  included in <b>[ COMFY ]</b>
   
   <br />
   <br />
-  11/02/2021 00:56 Playing on YTMusic
+  11/02/2021 00:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
