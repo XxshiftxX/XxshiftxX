@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3F-RvugUrqA">
-    <img width="300" src="https://lh3.googleusercontent.com/CTXksHA-j4S77qXxCvBuS5rgfoAW8lst-tF93B5TEep1xrusitjaNY9QAILzTiaWKDhN4U_GYvr8R3S9">
+  <a href="https://music.youtube.com/watch?v=6-u3gr9jQf4">
+    <img width="300" src="https://lh3.googleusercontent.com/qA3XARvoDVRKv_inc3KeBmw4MBE7p0ruZ_OCOG-oKDgQfsLWoT519xFBMbQZof0Va1wpLoEiDy9KFek">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lukas Graham - Happy For You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Troye Sivan - Angel Baby</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Happy For You ]</b>
+  included in <b>[ Angel Baby ]</b>
   
   <br />
   <br />
-  11/01/2021 15:41 Playing on YTMusic
+  11/01/2021 15:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
