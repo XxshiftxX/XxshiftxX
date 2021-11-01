@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6-u3gr9jQf4">
-    <img width="300" src="https://lh3.googleusercontent.com/qA3XARvoDVRKv_inc3KeBmw4MBE7p0ruZ_OCOG-oKDgQfsLWoT519xFBMbQZof0Va1wpLoEiDy9KFek">
+  <a href="https://music.youtube.com/watch?v=vRRm8Cson5Y">
+    <img width="300" src="https://lh3.googleusercontent.com/bBCgtCwyV-Ez2VpoVU2oD_T8QsNcgYoj67cCItHQbfnuT5ylfI6GBLPBt8I9FCWx3hy3iQruiJubKbS6_Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Troye Sivan - Angel Baby</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Lauv(라우브) 및 LANY - Mean It (stripped)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Angel Baby ]</b>
+  included in <b>[ Mean It (stripped) ]</b>
   
   <br />
   <br />
-  11/01/2021 15:45 Playing on YTMusic
+  11/01/2021 15:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
