@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IwM7nXt-Yug">
-    <img width="300" src="https://lh3.googleusercontent.com/2vWcYkyKzI5KJIv62FShZbslfdpi8Fhcg_tyyAUpaNo6c87fam3G4aWzzk-rRltj3BbUFzcKr7m6xNdEKQ">
+  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
+    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BE'O - Brand(피처링: Layone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bipolar ]</b>
+  included in <b>[ 논해 ]</b>
   
   <br />
   <br />
-  11/01/2021 09:53 Playing on YTMusic
+  11/01/2021 14:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
