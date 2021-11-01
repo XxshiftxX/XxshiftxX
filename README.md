@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=W2AdIu-SG8k">
+  <a href="https://music.youtube.com/watch?v=R0J1P3KQfrI">
     <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Watch(피처링: 릴러말즈(Leellamarz))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Why do u say(피처링: 문, 윤진영)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 2MONTHS ]</b>
   
   <br />
   <br />
-  11/02/2021 00:23 Playing on YTMusic
+  11/02/2021 00:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
