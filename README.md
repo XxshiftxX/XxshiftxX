@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HTlm2keoENY">
-    <img width="300" src="https://lh3.googleusercontent.com/5yC1PO4IpQ4nw_1_1kx_p1bn6aQov5GofGrpKEbPBc-YhwpAPm7qwd4Fwt3SPdg-m47OGwGykeB4L8OR">
+  <a href="https://music.youtube.com/watch?v=G6-xWN28oGo">
+    <img width="300" src="https://lh3.googleusercontent.com/e_7kHMm9FjPN8cWZr-82gVZoripfwRWuqJBR19LpjKVejxYPIuf8uOkn4OMNZ-KrA7QOA7W6xOOKTHh4Kg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>LANY - ex i never had</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jeremy Zucker - Cry with you</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ gg bb xx ]</b>
+  included in <b>[ Cry with you ]</b>
   
   <br />
   <br />
-  11/01/2021 15:59 Playing on YTMusic
+  11/01/2021 16:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
