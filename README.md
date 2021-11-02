@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GnFQ99k6izM">
-    <img width="300" src="https://lh3.googleusercontent.com/z_aKEQgBmVb2-E1nXK5gTjToEdvtpUxJX5a2xZYpwSjN8jld7kcws9nBE3Brx4Kn77dsL58y6DrR5eib3w">
+  <a href="https://music.youtube.com/watch?v=0Remc4lR92o">
+    <img width="300" src="https://lh3.googleusercontent.com/xYae6fkCp-dtyd69njrYn6ko1g4euKRz13JaJoiAt904hzWC1lOqqD2KY08Qczjp29mDu7-uxHvSFfFd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 오왼(Owen) - 돈</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 이혼서류</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 금진주 ]</b>
+  included in <b>[ 치명적인 맛보기 2곡 ]</b>
   
   <br />
   <br />
-  11/02/2021 11:51 Playing on YTMusic
+  11/02/2021 11:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
