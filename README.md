@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1F6IgYD61Ow">
-    <img width="300" src="https://lh3.googleusercontent.com/27dcyIEkO-IURdBoJUxRuK4-7jvOl97jwZZwP8o2MDQ1u1NzceB2WbVVr8u9KhwAHhMaEOOd5Tdo_HE">
+  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
+    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - HOMESICKNESS(피처링: 릴러말즈(Leellamarz), 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해(피처링: JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ COMFY ]</b>
+  included in <b>[ 논해 ]</b>
   
   <br />
   <br />
-  11/02/2021 00:58 Playing on YTMusic
+  11/02/2021 11:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
