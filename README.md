@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CQ_HMxbJtCA">
-    <img width="300" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">
+  <a href="https://music.youtube.com/watch?v=mkR_eAcmjXA">
+    <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 - Acrobat 곡예사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Balance(피처링: 창모(CHANGMO), Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Acrobat 곡예사 ]</b>
+  included in <b>[ 2MONTHS ]</b>
   
   <br />
   <br />
-  11/02/2021 11:40 Playing on YTMusic
+  11/02/2021 11:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
