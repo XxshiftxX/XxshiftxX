@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZdMugvYeCIQ">
-    <img width="300" src="https://lh3.googleusercontent.com/27dcyIEkO-IURdBoJUxRuK4-7jvOl97jwZZwP8o2MDQ1u1NzceB2WbVVr8u9KhwAHhMaEOOd5Tdo_HE">
+  <a href="https://music.youtube.com/watch?v=GnFQ99k6izM">
+    <img width="300" src="https://lh3.googleusercontent.com/z_aKEQgBmVb2-E1nXK5gTjToEdvtpUxJX5a2xZYpwSjN8jld7kcws9nBE3Brx4Kn77dsL58y6DrR5eib3w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Day or Night(피처링: Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 오왼(Owen) - 돈</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ COMFY ]</b>
+  included in <b>[ 금진주 ]</b>
   
   <br />
   <br />
-  11/02/2021 11:47 Playing on YTMusic
+  11/02/2021 11:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
