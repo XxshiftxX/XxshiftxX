@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=na2X8ywlwi0">
-    <img width="300" src="https://lh3.googleusercontent.com/Eh2_GYN0kTri_LBnNUHEkmoCjXE2s-l5uFcbI5gTGvR23ZrhQ4UvscTAqehUk2hqu0jmHtt7JDi4dUMi">
+  <a href="https://music.youtube.com/watch?v=3RWftNzbLYg">
+    <img width="300" src="https://lh3.googleusercontent.com/SX0FjTMxqE8cZH-TYurnf_evYnklCv-69_uej98ZNMiOBdNBsvK2N6RE0jFxsy_zZrZgg14NgvCSNMMy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Tracks Of Nature - Natural Water Sounds</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Various Artists - Nature Sounds Lullaby</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Nature Sounds ]</b>
+  included in <b>[ Gymnopedie 1 ]</b>
   
   <br />
   <br />
-  11/16/2021 13:25 Playing on YTMusic
+  11/16/2021 13:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
