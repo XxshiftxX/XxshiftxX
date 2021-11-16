@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCOHryyzDqHGbfzfv9uqAlTw">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLToDyMSMkDEU7AmNwJQ7pnZrNdLbgoFa9AaT9EQHg=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=8dQXc9QomYE">
+    <img width="300" src="https://lh3.googleusercontent.com/OkVPL-eM8I5j4AYmf-AVb8V5TCm6s3PZtL3EYNjDXXamxgJkI2HbQxLn81JuyLxku05_lhCueRPzKVMZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>브라운티거 Brown Tigger - 내가 보려고 만든 라이징벌스 내 파트</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Soundscape Foundation - Tropical Rain and a Little Stream (Nature Sounds before Bedtime)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ Soundscapes: Nature Sounds, Relaxation & Sleep, Wellness from Nature ]</b>
   
   <br />
   <br />
-  11/13/2021 15:42 Playing on YouTube
+  11/16/2021 13:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
