@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AFGKadHQWzc">
-    <img width="300" src="https://lh3.googleusercontent.com/o2BSqNa2GLchDXnpauN6B5QQx6alJThEWHA66AuG-_B4Jb_SC0Gw1rUPY2ocEsPk4BTfLZPZR1siHZ2u">
+  <a href="https://music.youtube.com/watch?v=BxfGh2xy7a4">
+    <img width="300" src="https://lh3.googleusercontent.com/m8oVDwFLYCvdlTiZVguBJ1gcwXFqD8Qqk9st3vbhzjOPh-STRbOh9wluXbrPYny6st1iswPSbzcDd0od">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gwangil Jo - 호우주의 (Prod. by 코드 쿤스트)(feat. Gaeko, Nucksal)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Basick - 만남은 쉽고 이별은 어려워 (Prod. by TOIL)(feat. Leellamarz)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
+  included in <b>[ 쇼미더머니 10 Episode 3 ]</b>
   
   <br />
   <br />
-  12/21/2021 19:29 Playing on YTMusic
+  12/21/2021 19:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
