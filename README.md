@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uVndscSrlFk">
-    <img width="300" src="https://lh3.googleusercontent.com/o2BSqNa2GLchDXnpauN6B5QQx6alJThEWHA66AuG-_B4Jb_SC0Gw1rUPY2ocEsPk4BTfLZPZR1siHZ2u">
+  <a href="https://music.youtube.com/watch?v=3hnO-W7lKHQ">
+    <img width="300" src="https://lh3.googleusercontent.com/cqooKcsRLjJ0MAc0jgR8UhZ-Sz0uo9lMW8qH6JtDpZeykHaor1yFUlHAzFW9-ojtCM0Ec4jY8Tw2rqKTHg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Koonta - 바래(feat. Jung In)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 내 목소리 들리지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
+  included in <b>[ GENERATION ]</b>
   
   <br />
   <br />
-  12/21/2021 20:59 Playing on YTMusic
+  12/21/2021 21:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
