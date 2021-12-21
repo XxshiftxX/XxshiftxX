@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wagnsSmX5IE">
-    <img width="300" src="https://lh3.googleusercontent.com/neFCDNLXtdAblcvgUYFcWrhdW7ecksZcxdHB72B3yz-vGHvDHPkyYs0SN4zGHKoG2Op1wguXCaFIPQI">
+  <a href="https://music.youtube.com/watch?v=AFGKadHQWzc">
+    <img width="300" src="https://lh3.googleusercontent.com/o2BSqNa2GLchDXnpauN6B5QQx6alJThEWHA66AuG-_B4Jb_SC0Gw1rUPY2ocEsPk4BTfLZPZR1siHZ2u">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) - 단추</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gwangil Jo - 호우주의 (Prod. by 코드 쿤스트)(feat. Gaeko, Nucksal)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 모래성 ]</b>
+  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
   
   <br />
   <br />
-  12/21/2021 19:25 Playing on YTMusic
+  12/21/2021 19:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
