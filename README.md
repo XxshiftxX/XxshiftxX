@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-UrS4mYs3VE">
-    <img width="300" src="https://lh3.googleusercontent.com/RYqyZBv5exNxnDpOaGT4hKy0atqRCvRssUHhEgWH4On3_L6uPSKVZ5jrlyAV_ClfzdctQ9g0U5mQM-g">
+  <a href="https://music.youtube.com/watch?v=uVndscSrlFk">
+    <img width="300" src="https://lh3.googleusercontent.com/o2BSqNa2GLchDXnpauN6B5QQx6alJThEWHA66AuG-_B4Jb_SC0Gw1rUPY2ocEsPk4BTfLZPZR1siHZ2u">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - 티키타(feat. lIlBOI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Koonta - 바래(feat. Jung In)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UPTOWN GIRL ]</b>
+  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
   
   <br />
   <br />
-  12/21/2021 20:56 Playing on YTMusic
+  12/21/2021 20:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
