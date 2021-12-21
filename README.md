@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3oXKbxq1ceM">
-    <img width="300" src="https://lh3.googleusercontent.com/m8oVDwFLYCvdlTiZVguBJ1gcwXFqD8Qqk9st3vbhzjOPh-STRbOh9wluXbrPYny6st1iswPSbzcDd0od">
+  <a href="https://music.youtube.com/watch?v=K0VzPBVdiZU">
+    <img width="300" src="https://lh3.googleusercontent.com/k2wRvkSpnpeSezE0EPjxlyWQLSKXexWKHBtHsdOnD4B8R1vPPXjkHroPlPWsjCSN_bMRw0TFdlirfWk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Koonta - 깐부 (Prod. by TOIL)(feat. YUMDDA, ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BE'O - 네가 없는 밤 (Prod. by GRAY)(feat. ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Episode 3 ]</b>
+  included in <b>[ 쇼미더머니 10 Final ]</b>
   
   <br />
   <br />
-  12/21/2021 20:07 Playing on YTMusic
+  12/21/2021 20:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
