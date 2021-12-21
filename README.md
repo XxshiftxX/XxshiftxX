@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gugcp0aKtFI">
-    <img width="300" src="https://lh3.googleusercontent.com/cqooKcsRLjJ0MAc0jgR8UhZ-Sz0uo9lMW8qH6JtDpZeykHaor1yFUlHAzFW9-ojtCM0Ec4jY8Tw2rqKTHg">
+  <a href="https://music.youtube.com/watch?v=-UrS4mYs3VE">
+    <img width="300" src="https://lh3.googleusercontent.com/RYqyZBv5exNxnDpOaGT4hKy0atqRCvRssUHhEgWH4On3_L6uPSKVZ5jrlyAV_ClfzdctQ9g0U5mQM-g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 다 그대로</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - 티키타(feat. lIlBOI)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GENERATION ]</b>
+  included in <b>[ UPTOWN GIRL ]</b>
   
   <br />
   <br />
-  12/21/2021 20:52 Playing on YTMusic
+  12/21/2021 20:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
