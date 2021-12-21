@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ghxcy4WIoOk">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=TrY3mQx6zGs">
+    <img width="300" src="https://lh3.googleusercontent.com/k2wRvkSpnpeSezE0EPjxlyWQLSKXexWKHBtHsdOnD4B8R1vPPXjkHroPlPWsjCSN_bMRw0TFdlirfWk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - Hyperstar</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BE'O - 지나고 보면 (Prod. by GRAY)(feat. Hwa Sa, MINO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ 쇼미더머니 10 Final ]</b>
   
   <br />
   <br />
-  12/21/2021 20:15 Playing on YTMusic
+  12/21/2021 20:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
