@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=v2LE9NqQykc">
+  <a href="https://music.youtube.com/watch?v=tKKk3jgjaMo">
     <img width="300" src="https://lh3.googleusercontent.com/o2BSqNa2GLchDXnpauN6B5QQx6alJThEWHA66AuG-_B4Jb_SC0Gw1rUPY2ocEsPk4BTfLZPZR1siHZ2u">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BE'O - MBTI(feat. Coogie, Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>sokodomo - BE ! (Prod. by PEEJAY & Slom)(feat. Paloalto, lIlBOI)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 쇼미더머니 10 Semi Final ]</b>
   
   <br />
   <br />
-  12/21/2021 20:38 Playing on YTMusic
+  12/21/2021 20:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
