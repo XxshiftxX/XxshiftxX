@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=K8rn2EDG_fo">
+  <a href="https://music.youtube.com/watch?v=lQhvvvuDSNY">
     <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 30분</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - Without You (Encore)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ VIOLINIST2 ]</b>
   
   <br />
   <br />
-  12/22/2021 15:05 Playing on YTMusic
+  12/22/2021 15:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
