@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=syKRcfDSjpg">
-    <img width="300" src="https://lh3.googleusercontent.com/cqooKcsRLjJ0MAc0jgR8UhZ-Sz0uo9lMW8qH6JtDpZeykHaor1yFUlHAzFW9-ojtCM0Ec4jY8Tw2rqKTHg">
+  <a href="https://music.youtube.com/watch?v=Yrhc4xwrAmY">
+    <img width="300" src="https://i.ytimg.com/vi/Yrhc4xwrAmY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 쟤넨 다 바보</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>서리'30' - BE! REMIX - Son Simba, dsel, Khundi Panda, CHOILB</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GENERATION ]</b>
+  included in <b>[ 조회수 4.8만회 ]</b>
   
   <br />
   <br />
-  12/22/2021 13:33 Playing on YTMusic
+  12/22/2021 13:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
