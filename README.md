@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Yrhc4xwrAmY">
-    <img width="300" src="https://i.ytimg.com/vi/Yrhc4xwrAmY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=K8rn2EDG_fo">
+    <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>서리'30' - BE! REMIX - Son Simba, dsel, Khundi Panda, CHOILB</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - 30분</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 4.8만회 ]</b>
+  included in <b>[ VIOLINIST2 ]</b>
   
   <br />
   <br />
-  12/22/2021 13:50 Playing on YTMusic
+  12/22/2021 15:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
