@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TBiNR9yhnaQ">
-    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
+  <a href="https://music.youtube.com/watch?v=eefC4-IHZoA">
+    <img width="300" src="https://lh3.googleusercontent.com/aTGgZTpNKpc4LCC2GYTy1QZx20wSnpMJiAw-bX6ZEfmB19Pk914mXev_AHwpzmQKAQRRke2y2i6a48NW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - Trip(feat. 한나)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코 - 바빠서(feat. 헤이즈(Heize))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Violinist ]</b>
+  included in <b>[ 바빠서 ]</b>
   
   <br />
   <br />
-  12/30/2021 11:54 Playing on YTMusic
+  12/30/2021 11:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
