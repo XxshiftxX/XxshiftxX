@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=l55r4bjX9ro">
-    <img width="300" src="https://lh3.googleusercontent.com/X7dV7btCjiCjfTpYxSorAs_RAryP4R_gxtHuLb_F6uRwha6Pc-Pzy_7TJBrMWebBTIyRkBrv6ZQ_V8Ef">
+  <a href="https://music.youtube.com/watch?v=0nkDz1JZ7cA">
+    <img width="300" src="https://lh3.googleusercontent.com/J7j_iDYsKoZK-6K-9u_yPFdchAZ-mmxULra-uaDXGb-ncem8uRP7spoMn31GRmgdsT6jyPt7Iu_xSoVztA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>펀치넬로(punchnello) - fine!(feat. 키드밀리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ fine! ]</b>
+  included in <b>[ RUN ]</b>
   
   <br />
   <br />
-  12/30/2021 12:05 Playing on YTMusic
+  12/30/2021 12:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
