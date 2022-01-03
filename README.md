@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
-    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
+  <a href="https://music.youtube.com/watch?v=d6MmyjUuMoA">
+    <img width="300" src="https://lh3.googleusercontent.com/yho9-U06GXUYty19tSZzfaL6sxmd4yBYHnSHzrnSkPIh27RvZ4yDFlON_swUpbRKPJ3HIG0lj_WdsR-T">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(feat. 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - swing(feat. 더 콰이엇(The Quiett))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ BAMBOOCLUB[A] ]</b>
   
   <br />
   <br />
-  12/30/2021 12:12 Playing on YTMusic
+  01/03/2022 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
