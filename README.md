@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=d6MmyjUuMoA">
-    <img width="300" src="https://lh3.googleusercontent.com/yho9-U06GXUYty19tSZzfaL6sxmd4yBYHnSHzrnSkPIh27RvZ4yDFlON_swUpbRKPJ3HIG0lj_WdsR-T">
+  <a href="https://www.youtube.com/channel/UCK5fO9Q2gitao0M5yQvPnvw">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLTL9K6bwnr8fCWeFumOypL1Se_bfDyOO0Lc6cjw=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - swing(feat. 더 콰이엇(The Quiett))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAY PARK - 박재범 Jay Park - 'To Life' Official Music Video (ENG/CHN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BAMBOOCLUB[A] ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  01/03/2022 15:03 Playing on YTMusic
+  01/07/2022 10:20 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
