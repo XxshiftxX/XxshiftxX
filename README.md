@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=H5Zch7DRc6E">
+  <a href="https://music.youtube.com/watch?v=0ilcX1d1c8Y">
     <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - Double Up(feat. skinny brown, CK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - Xlove(feat. JAEHA, Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  01/12/2022 17:21 Playing on YTMusic
+  01/12/2022 17:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
