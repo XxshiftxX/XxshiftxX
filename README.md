@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gSBoIuOL-LQ">
+  <a href="https://music.youtube.com/watch?v=Tdjl_EgmIXw">
     <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - NO SPACE(feat. Loopy, Owen)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - Spin The Block(feat. Paul Blanco, 365LIT, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  01/12/2022 17:31 Playing on YTMusic
+  01/14/2022 16:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
