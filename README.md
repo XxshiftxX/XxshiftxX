@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0ilcX1d1c8Y">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=0nkDz1JZ7cA">
+    <img width="300" src="https://lh3.googleusercontent.com/J7j_iDYsKoZK-6K-9u_yPFdchAZ-mmxULra-uaDXGb-ncem8uRP7spoMn31GRmgdsT6jyPt7Iu_xSoVztA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - Xlove(feat. JAEHA, Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ RUN ]</b>
   
   <br />
   <br />
-  01/17/2022 11:33 Playing on YTMusic
+  01/17/2022 11:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
