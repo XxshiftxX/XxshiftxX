@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0nkDz1JZ7cA">
-    <img width="300" src="https://lh3.googleusercontent.com/J7j_iDYsKoZK-6K-9u_yPFdchAZ-mmxULra-uaDXGb-ncem8uRP7spoMn31GRmgdsT6jyPt7Iu_xSoVztA">
+  <a href="https://music.youtube.com/watch?v=O0U7RQL1rOk">
+    <img width="300" src="https://lh3.googleusercontent.com/pixroKTrwwEDqLTP3wPA8ePRMvWBz4u4K_XVqeahLEEQ2ySdYXM_5x-qIt6PKB9S6eHzw_3vKcOURlCVCw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Tomorrow(feat. 기리보이(Giriboy), 빅나티)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RUN ]</b>
+  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
   
   <br />
   <br />
-  01/17/2022 11:35 Playing on YTMusic
+  01/17/2022 11:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
