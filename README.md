@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCSOCNcBfiByb4cr3LLL8V8w">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLTJNWjh283_NrQQd58fifJ4ATS88Al2qd4qe_Ps=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=Tdjl_EgmIXw">
+    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GROOVYROOM - 룸서비스 녹음 현장 (더 콰이엇, 키드밀리, MOON, 유라) [End]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - Spin The Block(feat. Paul Blanco, 365LIT, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  01/17/2022 12:01 Playing on YouTube
+  01/24/2022 10:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
