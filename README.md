@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BxfGh2xy7a4">
-    <img width="300" src="https://lh3.googleusercontent.com/m8oVDwFLYCvdlTiZVguBJ1gcwXFqD8Qqk9st3vbhzjOPh-STRbOh9wluXbrPYny6st1iswPSbzcDd0od">
+  <a href="https://music.youtube.com/watch?v=3laLavGghc0">
+    <img width="300" src="https://lh3.googleusercontent.com/YZ-Pjsjb_YLX2JICWfjYgaasBDRq8udbWak2JHEqjT_WLQSGXzTrVJGdMC-_KBSizFhpznCHhTBHyvEo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Basick - 만남은 쉽고 이별은 어려워 (Prod. by TOIL)(feat. Leellamarz)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>sokodomo - 회전목마 (Prod. by Slom)(feat. Zion.T, Wonstein)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Episode 3 ]</b>
+  included in <b>[ 쇼미더머니 10 Episode 2 ]</b>
   
   <br />
   <br />
-  02/03/2022 15:55 Playing on YTMusic
+  02/03/2022 15:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
