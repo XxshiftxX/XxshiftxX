@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Dmy0CkieM6s">
-    <img width="300" src="https://lh3.googleusercontent.com/pC_9-quQA9xVrK_cndiZ3cA_J9p8jF0-QZ8BZDWXc3OZtX0mEbSaxwPMnsOQKd47xyGA-6-WkAfnGwxk">
+  <a href="https://music.youtube.com/watch?v=30orxdAl5gY">
+    <img width="300" src="https://lh3.googleusercontent.com/moxjw6JiWr3yFfu5LvBNpzi20IQzIMV5_MpodBOIrFpfdtQ7wjsS5IBdEyCOJwwVrJulZXl38m8bq2wD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CAMO - Shawty(feat. 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>우원재 (Woo) - Taste(feat. 기리보이(Giriboy))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fragile ]</b>
+  included in <b>[ Taste ]</b>
   
   <br />
   <br />
-  02/03/2022 16:16 Playing on YTMusic
+  02/03/2022 16:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
