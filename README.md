@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3dEwX4X-EGE">
-    <img width="300" src="https://lh3.googleusercontent.com/RL9ZgxmNZ6KuOQFG5gCJrd4UAQEPxZddRL55EzR9bSxtDmcFOB3BmczU4Dudnm9thCd5-urp_L7pFOKJhA">
+  <a href="https://music.youtube.com/watch?v=nzqgWX__KCU">
+    <img width="300" src="https://lh3.googleusercontent.com/ajgIr0VEn89hFu7jc07qnOeTb5l2PCGZnZ4efQ06NW4P9DmrlFa1FKyQ8B4wiUjqfbfDwkLryU4mJ7Cm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BE'O - Counting Stars(feat. Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Empty Head</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Counting Stars ]</b>
+  included in <b>[ Empty Head ]</b>
   
   <br />
   <br />
-  02/03/2022 16:29 Playing on YTMusic
+  02/03/2022 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
