@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0_a0fC1nZa8">
-    <img width="300" src="https://lh3.googleusercontent.com/3DDJBiy5sP65gdYJufl4iF8pH9279TamYdH4nWntjbH6mlUr8A4cbCYOWT-mdRaFedScNckWDk7Y6gt8ig">
+  <a href="https://music.youtube.com/watch?v=Dmy0CkieM6s">
+    <img width="300" src="https://lh3.googleusercontent.com/pC_9-quQA9xVrK_cndiZ3cA_J9p8jF0-QZ8BZDWXc3OZtX0mEbSaxwPMnsOQKd47xyGA-6-WkAfnGwxk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 및 로꼬 - 밤이 되면</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CAMO - Shawty(feat. 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 밤이 되면 ]</b>
+  included in <b>[ Fragile ]</b>
   
   <br />
   <br />
-  02/03/2022 16:13 Playing on YTMusic
+  02/03/2022 16:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
