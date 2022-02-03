@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bbl3qPS9x4o">
-    <img width="300" src="https://lh3.googleusercontent.com/u1-D0Add6pNt41wb36bsbefo6WMWCpiWW-du918-KW1vO7r4A1k8RpgHecgGz87BxqmiRnkdMzQ4gItXcw">
+  <a href="https://music.youtube.com/watch?v=0_a0fC1nZa8">
+    <img width="300" src="https://lh3.googleusercontent.com/3DDJBiy5sP65gdYJufl4iF8pH9279TamYdH4nWntjbH6mlUr8A4cbCYOWT-mdRaFedScNckWDk7Y6gt8ig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌 Remix(feat. UNEDUCATED KID, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 및 로꼬 - 밤이 되면</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 사이렌 (Remix) ]</b>
+  included in <b>[ 밤이 되면 ]</b>
   
   <br />
   <br />
-  02/03/2022 16:10 Playing on YTMusic
+  02/03/2022 16:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
