@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ler_Zl49UjQ">
-    <img width="300" src="https://lh3.googleusercontent.com/d1HvIpN1_ezCCaPyF3a9lNXziugiVj_Ow_s5QdhyEhcwUWZIfiU9RANmHJ4zE0kLGPcaqKKhSxsjHwIE">
+  <a href="https://music.youtube.com/watch?v=fdMiq-0mi3M">
+    <img width="300" src="https://lh3.googleusercontent.com/hOwTK2Y7Dy4twakFfgZGNRAXtgkp_UBqe7OK_sRDv0dGCZpoC8iWyJvoGk765LmwsaB-qynjpucFvQVd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jam & Butterfly(feat. Crush, Eaj)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Homebody</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Jam & Butterfly ]</b>
+  included in <b>[ staying ]</b>
   
   <br />
   <br />
-  02/03/2022 16:03 Playing on YTMusic
+  02/03/2022 16:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
