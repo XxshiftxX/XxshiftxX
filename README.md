@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mYKXHhGJSzw">
-    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
+  <a href="https://music.youtube.com/watch?v=BxfGh2xy7a4">
+    <img width="300" src="https://lh3.googleusercontent.com/m8oVDwFLYCvdlTiZVguBJ1gcwXFqD8Qqk9st3vbhzjOPh-STRbOh9wluXbrPYny6st1iswPSbzcDd0od">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - I Don't Love You(feat. 쿠기)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Basick - 만남은 쉽고 이별은 어려워 (Prod. by TOIL)(feat. Leellamarz)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ grayground. ]</b>
+  included in <b>[ 쇼미더머니 10 Episode 3 ]</b>
   
   <br />
   <br />
-  02/03/2022 15:52 Playing on YTMusic
+  02/03/2022 15:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
