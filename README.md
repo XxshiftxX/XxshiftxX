@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8c11W5lnAB4">
-    <img width="300" src="https://lh3.googleusercontent.com/Jm7tah3dQ4569pTj62Qq-CTSdP3p2FpP-M_7JLtVlh2TRx4ZZRzA-Q1T1gCCJaTVYxnuWolzjVARfRM">
+  <a href="https://music.youtube.com/watch?v=mYKXHhGJSzw">
+    <img width="300" src="https://lh3.googleusercontent.com/GKrT3QKI3fpAEi_6bwxm1QOW3E9m9szVNf0G4SvbI88Uzv3ALoopT7DygbwuyCqSKOeP611WJ6aUm3M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Beat 'em up</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - I Don't Love You(feat. 쿠기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RE:UP ]</b>
+  included in <b>[ grayground. ]</b>
   
   <br />
   <br />
-  02/03/2022 15:50 Playing on YTMusic
+  02/03/2022 15:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
