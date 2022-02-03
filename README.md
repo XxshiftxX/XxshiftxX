@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fdMiq-0mi3M">
-    <img width="300" src="https://lh3.googleusercontent.com/hOwTK2Y7Dy4twakFfgZGNRAXtgkp_UBqe7OK_sRDv0dGCZpoC8iWyJvoGk765LmwsaB-qynjpucFvQVd">
+  <a href="https://music.youtube.com/watch?v=Bbl3qPS9x4o">
+    <img width="300" src="https://lh3.googleusercontent.com/u1-D0Add6pNt41wb36bsbefo6WMWCpiWW-du918-KW1vO7r4A1k8RpgHecgGz87BxqmiRnkdMzQ4gItXcw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Homebody</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌 Remix(feat. UNEDUCATED KID, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ staying ]</b>
+  included in <b>[ 사이렌 (Remix) ]</b>
   
   <br />
   <br />
-  02/03/2022 16:06 Playing on YTMusic
+  02/03/2022 16:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
