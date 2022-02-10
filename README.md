@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Yj_Z2mXXnIA">
-    <img width="300" src="https://lh3.googleusercontent.com/nbZcnrwUzG3TbZW7x55x85wV_8g44uKpWGpdKgggZtR-z5LWVPFL5poU4pkaybv7yOs6_3Wumn_mNEuZ">
+  <a href="https://music.youtube.com/watch?v=EEKwvRPhmh8">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paul Blanco - Believe(feat. 크러쉬)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - #2021 , BIG Naughty)(feat. AVOKID (에이보키드), BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MINE ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  02/03/2022 16:40 Playing on YTMusic
+  02/10/2022 14:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
