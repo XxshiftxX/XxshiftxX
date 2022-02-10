@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sxYGY6U7gqc">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=ejry-5oOeZU">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - 뭐가 널 그렇게 힘들게 해(feat. Leellamarz)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - Blossom (Feat. AIRAIR, SANN)(feat. AIRAIR, SANN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  02/10/2022 14:51 Playing on YTMusic
+  02/10/2022 14:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
