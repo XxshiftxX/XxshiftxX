@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LKUXc1uwA2Y">
-    <img width="300" src="https://lh3.googleusercontent.com/Jm7tah3dQ4569pTj62Qq-CTSdP3p2FpP-M_7JLtVlh2TRx4ZZRzA-Q1T1gCCJaTVYxnuWolzjVARfRM">
+  <a href="https://music.youtube.com/watch?v=BfXjaAsPN6U">
+    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Good Night(feat. 비오)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 피워(feat. Street baby)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RE:UP ]</b>
+  included in <b>[ Between Sat & Sun ]</b>
   
   <br />
   <br />
-  02/10/2022 15:40 Playing on YTMusic
+  02/10/2022 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
