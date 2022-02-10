@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3aAyt85a5P0">
-    <img width="300" src="https://lh3.googleusercontent.com/tldi3FVpL1Hd4tJ5b8W-8JWz4IvcEKdhRxsG_loxF3DVlKeFKqskV4HeijP9Ac3nje0FTqC_mIInVn8v">
+  <a href="https://music.youtube.com/watch?v=Aa7W6r-4A-g">
+    <img width="300" src="https://lh3.googleusercontent.com/A5U3qIwyHH2PEK9rByrmW6uWnKSOjAcho9MCJlE1tbq0NorlulONuxUuYtrQmwbt8OdrtwcLpZ99s0PU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett, Yumdda, h3hyeon 및 JAEHA - Chris Brown Moves Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 떠나버려(feat. Jhnovr)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고랩 LOSERS ]</b>
+  included in <b>[ 올인 ]</b>
   
   <br />
   <br />
-  02/10/2022 15:59 Playing on YTMusic
+  02/10/2022 16:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
