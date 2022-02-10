@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HYefn-iAcz0">
-    <img width="300" src="https://lh3.googleusercontent.com/9fa-880sM0zwvhRvunF9IblB4FtnTzeYv5jJYBX2FBjVB8BLbSvM7F4wGzIz6oKdbfcRWBx761sodcmMng">
+  <a href="https://music.youtube.com/watch?v=3ppPqhe8N_I">
+    <img width="300" src="https://lh3.googleusercontent.com/45qkjy8Pvp-Ccf_LAGPJf0nDhLzuMB-X7DZR9zCAsd-W-mnqXPO5nnygixOOxqp7BnIGXUc7uGVghBY_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JAEHA - 어른</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAEHA - STAR</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 어른 ]</b>
+  included in <b>[ Life Like 18 ]</b>
   
   <br />
   <br />
-  02/10/2022 16:06 Playing on YTMusic
+  02/10/2022 16:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
