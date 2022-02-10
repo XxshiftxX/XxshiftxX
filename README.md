@@ -6,13 +6,13 @@
     <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLTwrIuQYzPeYA69SqG6Vga3NJNV2w7A_dw6qU-wbA=s48-c-k-c0x00ffffff-no-rj-mo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>米津玄師 - 米津玄師 MV「LOSER」</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>米津玄師 - 米津玄師 MV「Lemon」</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  02/10/2022 17:33 Playing on YouTube
+  02/10/2022 17:34 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
