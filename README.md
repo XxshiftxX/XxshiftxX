@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BfXjaAsPN6U">
-    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
+  <a href="https://music.youtube.com/watch?v=vJ01PGsdPk4">
+    <img width="300" src="https://lh3.googleusercontent.com/YTYMkzOO095oM55EXofq-rt41dplr2rC7-d8B6Oe6nr-OSUaz4RQe_Xof0bvz6rMJ8EM19050KINQPHkZw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 피워(feat. Street baby)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI) 및 김태균 (TAKEONE) - 새로고침</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Between Sat & Sun ]</b>
+  included in <b>[ 새로고침 ]</b>
   
   <br />
   <br />
-  02/10/2022 15:43 Playing on YTMusic
+  02/10/2022 15:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
