@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8c11W5lnAB4">
-    <img width="300" src="https://lh3.googleusercontent.com/Jm7tah3dQ4569pTj62Qq-CTSdP3p2FpP-M_7JLtVlh2TRx4ZZRzA-Q1T1gCCJaTVYxnuWolzjVARfRM">
+  <a href="https://music.youtube.com/watch?v=C4VqJRK89DU">
+    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Beat 'em up</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - MT(feat. ron, JAMIE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RE:UP ]</b>
+  included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  02/10/2022 15:32 Playing on YTMusic
+  02/10/2022 15:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
