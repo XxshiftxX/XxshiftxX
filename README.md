@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Aa7W6r-4A-g">
-    <img width="300" src="https://lh3.googleusercontent.com/A5U3qIwyHH2PEK9rByrmW6uWnKSOjAcho9MCJlE1tbq0NorlulONuxUuYtrQmwbt8OdrtwcLpZ99s0PU">
+  <a href="https://music.youtube.com/watch?v=HYefn-iAcz0">
+    <img width="300" src="https://lh3.googleusercontent.com/9fa-880sM0zwvhRvunF9IblB4FtnTzeYv5jJYBX2FBjVB8BLbSvM7F4wGzIz6oKdbfcRWBx761sodcmMng">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - 떠나버려(feat. Jhnovr)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAEHA - 어른</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 올인 ]</b>
+  included in <b>[ 어른 ]</b>
   
   <br />
   <br />
-  02/10/2022 16:02 Playing on YTMusic
+  02/10/2022 16:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
