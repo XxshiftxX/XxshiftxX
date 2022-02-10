@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wZgsxnYqHps">
-    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
+  <a href="https://music.youtube.com/watch?v=JydsXAnz140">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 검정색하트(feat. leellamarz, BE′O)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - Dream , TRADE L)(feat. YOUHA (유하), TRADE L)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Between Sat & Sun ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  02/10/2022 15:10 Playing on YTMusic
+  02/10/2022 15:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
