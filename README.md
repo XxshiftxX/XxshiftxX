@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QAdR0zw_Dp0">
-    <img width="300" src="https://lh3.googleusercontent.com/C33Wq-dliOxMPWXO0ySFc_wsZbQCXXGWgIbqMWTgFJYfcKh85kGSAU59ThHTbwHv00khryOquRBx1Dg">
+  <a href="https://music.youtube.com/watch?v=6t82eeOkqGM">
+    <img width="300" src="https://lh3.googleusercontent.com/tldi3FVpL1Hd4tJ5b8W-8JWz4IvcEKdhRxsG_loxF3DVlKeFKqskV4HeijP9Ac3nje0FTqC_mIInVn8v">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마미손, 김승민, 원슈타인 및 Zior Park - Noise</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>h3hyeon - ok boomer 1.5</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Noise ]</b>
+  included in <b>[ 고랩 LOSERS ]</b>
   
   <br />
   <br />
-  02/10/2022 16:12 Playing on YTMusic
+  02/10/2022 16:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
