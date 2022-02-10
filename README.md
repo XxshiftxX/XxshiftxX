@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3ppPqhe8N_I">
-    <img width="300" src="https://lh3.googleusercontent.com/45qkjy8Pvp-Ccf_LAGPJf0nDhLzuMB-X7DZR9zCAsd-W-mnqXPO5nnygixOOxqp7BnIGXUc7uGVghBY_">
+  <a href="https://music.youtube.com/watch?v=QAdR0zw_Dp0">
+    <img width="300" src="https://lh3.googleusercontent.com/C33Wq-dliOxMPWXO0ySFc_wsZbQCXXGWgIbqMWTgFJYfcKh85kGSAU59ThHTbwHv00khryOquRBx1Dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JAEHA - STAR</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손, 김승민, 원슈타인 및 Zior Park - Noise</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Like 18 ]</b>
+  included in <b>[ Noise ]</b>
   
   <br />
   <br />
-  02/10/2022 16:09 Playing on YTMusic
+  02/10/2022 16:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
