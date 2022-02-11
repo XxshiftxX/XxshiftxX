@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AKedOLTwrIuQYzPeYA69SqG6Vga3NJNV2w7A_dw6qU-wbA=s48-c-k-c0x00ffffff-no-rj-mo">
+  <a href="https://music.youtube.com/watch?v=6t82eeOkqGM">
+    <img width="300" src="https://lh3.googleusercontent.com/tldi3FVpL1Hd4tJ5b8W-8JWz4IvcEKdhRxsG_loxF3DVlKeFKqskV4HeijP9Ac3nje0FTqC_mIInVn8v">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>米津玄師 - 米津玄師 MV「Lemon」</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>h3hyeon - ok boomer 1.5</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ 고랩 LOSERS ]</b>
   
   <br />
   <br />
-  02/10/2022 17:34 Playing on YouTube
+  02/11/2022 11:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
