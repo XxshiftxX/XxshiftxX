@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6t82eeOkqGM">
-    <img width="300" src="https://lh3.googleusercontent.com/tldi3FVpL1Hd4tJ5b8W-8JWz4IvcEKdhRxsG_loxF3DVlKeFKqskV4HeijP9Ac3nje0FTqC_mIInVn8v">
+  <a href="https://music.youtube.com/watch?v=EEKwvRPhmh8">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>h3hyeon - ok boomer 1.5</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - #2021 , BIG Naughty)(feat. AVOKID (에이보키드), BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 고랩 LOSERS ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  02/11/2022 11:18 Playing on YTMusic
+  02/11/2022 11:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
