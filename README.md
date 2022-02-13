@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Aa7W6r-4A-g">
-    <img width="300" src="https://lh3.googleusercontent.com/A5U3qIwyHH2PEK9rByrmW6uWnKSOjAcho9MCJlE1tbq0NorlulONuxUuYtrQmwbt8OdrtwcLpZ99s0PU">
+  <a href="https://music.youtube.com/watch?v=ejry-5oOeZU">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - 떠나버려(feat. Jhnovr)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - Blossom (Feat. AIRAIR, SANN)(feat. AIRAIR, SANN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 올인 ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  02/13/2022 12:44 Playing on YTMusic
+  02/13/2022 12:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
