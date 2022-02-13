@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wZgsxnYqHps">
-    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
+  <a href="https://music.youtube.com/watch?v=H5Zch7DRc6E">
+    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 검정색하트(feat. leellamarz, BE′O)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - Double Up(feat. skinny brown, CK)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Between Sat & Sun ]</b>
+  included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  02/13/2022 12:15 Playing on YTMusic
+  02/13/2022 12:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
