@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MRl0gtvxOCM">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://www.youtube.com/channel/UCrhgVHA_uAiT9BoGV9qRKvg">
+    <img width="300" src="https://yt3.ggpht.com/3ofyosezO5RzrfRLPvn60C3Sj0i6DV7xJF7kddU6M6niQ5VL5LtbkyZQc_S8zaJtRXfggKy6A00=s48-c-k-c0x00ffffff-no-nd-rj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - runaway(feat. DON MALIK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>San E - 빨간맛 산이</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  02/13/2022 12:59 Playing on YTMusic
+  02/15/2022 10:46 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
