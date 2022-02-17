@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UBq26Fn6JyY">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=jat7gkCUYBk">
+    <img width="300" src="https://lh3.googleusercontent.com/45qkjy8Pvp-Ccf_LAGPJf0nDhLzuMB-X7DZR9zCAsd-W-mnqXPO5nnygixOOxqp7BnIGXUc7uGVghBY_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 경북 경산시</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAEHA - Movie</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ Life Like 18 ]</b>
   
   <br />
   <br />
-  02/17/2022 11:04 Playing on YTMusic
+  02/17/2022 11:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
