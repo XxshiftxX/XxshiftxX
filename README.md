@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TdXB_mBNo_4">
-    <img width="300" src="https://lh3.googleusercontent.com/Ao1UBDJZMZgqyItHQk0lFIHOIknVIeq7LT7V6Yp-qzvsQ5E8GGw9PM5rr2umfHGmVAy3ldvPSDsKthag">
+  <a href="https://music.youtube.com/watch?v=VuiwwGqnbQ4">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 휘파람</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 추억엔 힘이 없지 (feat. MELOH)(feat. MELOH)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 휘파람 ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  02/17/2022 13:49 Playing on YTMusic
+  02/17/2022 13:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
