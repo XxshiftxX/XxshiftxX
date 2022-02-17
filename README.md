@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NM6ILAE1dEk">
-    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
+  <a href="https://music.youtube.com/watch?v=BfXjaAsPN6U">
+    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Minit - FINE (Feat. RIYUA, Holynn)(feat. RIYUA, Holynn)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 피워(feat. Street Baby)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLUE ]</b>
+  included in <b>[ Between Sat & Sun ]</b>
   
   <br />
   <br />
-  02/17/2022 11:38 Playing on YTMusic
+  02/17/2022 13:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
