@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UzD90I67eEk">
-    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
+  <a href="https://music.youtube.com/watch?v=JydsXAnz140">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 탑승</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - Dream , TRADE L)(feat. YOUHA (유하), TRADE L)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SINCE 16' ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  02/17/2022 10:30 Playing on YTMusic
+  02/17/2022 10:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
