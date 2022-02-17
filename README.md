@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EEKwvRPhmh8">
-    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
+  <a href="https://music.youtube.com/watch?v=1tScKbMYVEw">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Minit - #2021 , BIG Naughty)(feat. AVOKID (에이보키드), BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - Cop (feat. 365LIT)(feat. 365LIT)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLUE ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  02/17/2022 10:50 Playing on YTMusic
+  02/17/2022 10:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
