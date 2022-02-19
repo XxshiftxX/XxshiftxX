@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6_cZpB2TltE">
+  <a href="https://music.youtube.com/watch?v=BdgykF4X9xY">
     <img width="300" src="https://lh3.googleusercontent.com/HEEUTBzWgr0KARSLpqk883NQc08YxqvxFdv3Qb04vIQ0JwPBofZfyrXrg9Y4s64YL6u88EPuvXj1sLbu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>피타입 - Hardboiled Café(feat. 정인, from all to human)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>피타입 - 깨끗하고 밝은 곳</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Hardboiled Café ]</b>
   
   <br />
   <br />
-  02/20/2022 03:37 Playing on YTMusic
+  02/20/2022 03:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
