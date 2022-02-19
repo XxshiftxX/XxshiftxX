@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sfaJcxuzVY4">
-    <img width="300" src="https://lh3.googleusercontent.com/HEEUTBzWgr0KARSLpqk883NQc08YxqvxFdv3Qb04vIQ0JwPBofZfyrXrg9Y4s64YL6u88EPuvXj1sLbu">
+  <a href="https://music.youtube.com/watch?v=3cTMeQKFWyg">
+    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>피타입 - Writer's Profile</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - 시가지(feat. unofficialboyy, gamma)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hardboiled Café ]</b>
+  included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  02/20/2022 04:25 Playing on YTMusic
+  02/20/2022 04:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
