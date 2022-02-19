@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=x4Yi2_GD_jo">
+  <a href="https://music.youtube.com/watch?v=WqWbBmrqoBk">
     <img width="300" src="https://lh3.googleusercontent.com/HEEUTBzWgr0KARSLpqk883NQc08YxqvxFdv3Qb04vIQ0JwPBofZfyrXrg9Y4s64YL6u88EPuvXj1sLbu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>피타입 - Outro(feat. 김현심)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>피타입 - 에필로그: 씬을 위한 오드(feat. The Quiett, 서사무엘)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Hardboiled Café ]</b>
   
   <br />
   <br />
-  02/20/2022 04:21 Playing on YTMusic
+  02/20/2022 04:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
