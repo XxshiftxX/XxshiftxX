@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bjk2j0ZT2iU">
-    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
+  <a href="https://music.youtube.com/watch?v=TdXB_mBNo_4">
+    <img width="300" src="https://lh3.googleusercontent.com/Ao1UBDJZMZgqyItHQk0lFIHOIknVIeq7LT7V6Yp-qzvsQ5E8GGw9PM5rr2umfHGmVAy3ldvPSDsKthag">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Minit - 뭐 (Feat. 123, 한요한, 김승민)(feat. 123, 한요한, 김승민)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 휘파람</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLUE ]</b>
+  included in <b>[ 휘파람 ]</b>
   
   <br />
   <br />
-  02/20/2022 04:32 Playing on YTMusic
+  02/20/2022 13:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
