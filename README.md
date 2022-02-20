@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BfXjaAsPN6U">
-    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
+  <a href="https://music.youtube.com/watch?v=EGmCDCYfV2A">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - 피워(feat. Street Baby)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - Fist Down (feat. Don Mills)(feat. Don Mills)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Between Sat & Sun ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  02/20/2022 14:02 Playing on YTMusic
+  02/20/2022 14:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
