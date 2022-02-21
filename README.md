@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ezPlYfnYhyM">
-    <img width="300" src="https://lh3.googleusercontent.com/Ao1UBDJZMZgqyItHQk0lFIHOIknVIeq7LT7V6Yp-qzvsQ5E8GGw9PM5rr2umfHGmVAy3ldvPSDsKthag">
+  <a href="https://music.youtube.com/watch?v=7srrHWLZ8Ms">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 20</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - Cyanide(feat. Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 휘파람 ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  02/21/2022 18:07 Playing on YTMusic
+  02/21/2022 18:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
