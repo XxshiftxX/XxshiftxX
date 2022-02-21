@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lqNcTWUn-v4">
-    <img width="300" src="https://lh3.googleusercontent.com/wJPmD0IXmdK6f2QRs9ttXhvmy8z7jR5CiP9TfI64R5EOK9SrKLXSHnjke06tn0xQRqGuIytJEHrRLfSItA">
+  <a href="https://music.youtube.com/watch?v=UBq26Fn6JyY">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko, CHANGMO, Don Mills 및 Los - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 경북 경산시</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ B.O.T.B. (Best Of The Best) ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  02/21/2022 18:00 Playing on YTMusic
+  02/21/2022 18:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
