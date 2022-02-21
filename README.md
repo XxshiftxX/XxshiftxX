@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Fg4i-2P3DjA">
-    <img width="300" src="https://lh3.googleusercontent.com/5HFvTdm0pnSpn9AMmO9peP-tl8slF023tatjKF-3FjFw-LkR4whSYS4ImmInN5-iQu_TYJ2QtqmP_DRX">
+  <a href="https://music.youtube.com/watch?v=sk-dL1AstSg">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>윤비 (YunB), 김승민 Kim Seung min, YUNHWAY, 도넛맨 (Donutman) - 덜어 Scoop (Prod. BOYCOLD)(feat. Kid Milli, 스윙스 Swings)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 왈왈</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 Show Me The Money 8 Episode 2 ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  02/21/2022 20:11 Playing on YTMusic
+  02/21/2022 20:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
