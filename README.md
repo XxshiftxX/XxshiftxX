@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gSBoIuOL-LQ">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=Fg4i-2P3DjA">
+    <img width="300" src="https://lh3.googleusercontent.com/5HFvTdm0pnSpn9AMmO9peP-tl8slF023tatjKF-3FjFw-LkR4whSYS4ImmInN5-iQu_TYJ2QtqmP_DRX">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - NO SPACE(feat. Loopy, Owen)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>윤비 (YunB), 김승민 Kim Seung min, YUNHWAY, 도넛맨 (Donutman) - 덜어 Scoop (Prod. BOYCOLD)(feat. Kid Milli, 스윙스 Swings)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ 쇼미더머니 Show Me The Money 8 Episode 2 ]</b>
   
   <br />
   <br />
-  02/21/2022 20:08 Playing on YTMusic
+  02/21/2022 20:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
