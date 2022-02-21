@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i6zVlDkX3wM">
-    <img width="300" src="https://lh3.googleusercontent.com/o2BSqNa2GLchDXnpauN6B5QQx6alJThEWHA66AuG-_B4Jb_SC0Gw1rUPY2ocEsPk4BTfLZPZR1siHZ2u">
+  <a href="https://music.youtube.com/watch?v=wm_OO19pqtA">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - FACE TIME (Prod. by 코드 쿤스트)(feat. GIRIBOY, pH-1, Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 외대 옥상</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  02/21/2022 20:58 Playing on YTMusic
+  02/21/2022 21:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
