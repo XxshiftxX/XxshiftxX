@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=klHi6YxcrWI">
-    <img width="300" src="https://lh3.googleusercontent.com/45qkjy8Pvp-Ccf_LAGPJf0nDhLzuMB-X7DZR9zCAsd-W-mnqXPO5nnygixOOxqp7BnIGXUc7uGVghBY_">
+  <a href="https://music.youtube.com/watch?v=EEKwvRPhmh8">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JAEHA - Droptop</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - #2021 , BIG Naughty)(feat. AVOKID (에이보키드), BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Like 18 ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  02/21/2022 22:23 Playing on YTMusic
+  02/21/2022 22:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
