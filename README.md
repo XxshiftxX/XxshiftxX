@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1tScKbMYVEw">
-    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
+  <a href="https://music.youtube.com/watch?v=lCi37M17m-g">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - Cop (feat. 365LIT)(feat. 365LIT)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - Bad Morning</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SINCE 16' ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  02/21/2022 21:15 Playing on YTMusic
+  02/21/2022 21:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
