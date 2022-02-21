@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fwc3xyE17EY">
-    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
+  <a href="https://music.youtube.com/watch?v=UzD90I67eEk">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - Me(feat. Skinny Brown, Owen)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 탑승</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Between Sat & Sun ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  02/21/2022 20:34 Playing on YTMusic
+  02/21/2022 20:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
