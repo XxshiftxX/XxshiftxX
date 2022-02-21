@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BX5sZI4lOBo">
-    <img width="300" src="https://lh3.googleusercontent.com/45qkjy8Pvp-Ccf_LAGPJf0nDhLzuMB-X7DZR9zCAsd-W-mnqXPO5nnygixOOxqp7BnIGXUc7uGVghBY_">
+  <a href="https://music.youtube.com/watch?v=OZS2N4Tw_Cw">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JAEHA - 2020!</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 하나, 둘(feat. Punch)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Like 18 ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  02/21/2022 20:23 Playing on YTMusic
+  02/21/2022 20:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
