@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CDuaYy86Vik">
-    <img width="300" src="https://i.ytimg.com/vi/CDuaYy86Vik/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=WniH2PxuAGk">
+    <img width="300" src="https://i.ytimg.com/vi/WniH2PxuAGk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>POCLANOS - [Full Album] 피타입(P-TYPE) - Hardboiled Café / 앨범 전곡 듣기</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>피타입 - Do The Right Rap(feat. 허클베리피)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1.9만회 ]</b>
+  included in <b>[ 조회수 10만회 ]</b>
   
   <br />
   <br />
-  02/22/2022 15:23 Playing on YTMusic
+  02/22/2022 16:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
