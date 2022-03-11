@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WniH2PxuAGk">
-    <img width="300" src="https://i.ytimg.com/vi/WniH2PxuAGk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://www.youtube.com/channel/UCTBO7BoAb3rs4VBE7hy8hNw">
+    <img width="300" src="https://yt3.ggpht.com/FLkcNPQmJoDC-g1ShZqXDihvnDu9uSTdhJGRpYGNdUJ6Mq0IVBNd8CJ61gchxyXFYn28--JBGw=s48-c-k-c0x00ffffff-no-nd-rj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>피타입 - Do The Right Rap(feat. 허클베리피)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Changstarr* - 씨잼 @VAGABONDS PARTY - "[킁] 보다 [어디]가 더 좋아"</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 10만회 ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  02/22/2022 16:18 Playing on YTMusic
+  03/11/2022 12:57 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
