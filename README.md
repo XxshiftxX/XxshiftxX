@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCTBO7BoAb3rs4VBE7hy8hNw">
-    <img width="300" src="https://yt3.ggpht.com/FLkcNPQmJoDC-g1ShZqXDihvnDu9uSTdhJGRpYGNdUJ6Mq0IVBNd8CJ61gchxyXFYn28--JBGw=s48-c-k-c0x00ffffff-no-nd-rj">
+  <a href="https://music.youtube.com/watch?v=pHnMAuGYdjw">
+    <img width="300" src="https://lh3.googleusercontent.com/nJZCC93IcPPyTDcPyzrBXdk6Q-tts_iO2HfTJ1c0KIg6yW4ZHj__dy-ir3YTfguCdR_Qa5_iZhUHjfhTSw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Changstarr* - 씨잼 @VAGABONDS PARTY - "[킁] 보다 [어디]가 더 좋아"</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 저스디스 - Ayy(feat. 진보)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ 4 the Youth ]</b>
   
   <br />
   <br />
-  03/11/2022 12:57 Playing on YouTube
+  03/14/2022 14:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
