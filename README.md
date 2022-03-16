@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rtW12LtTW9Q">
-    <img width="300" src="https://lh3.googleusercontent.com/nJZCC93IcPPyTDcPyzrBXdk6Q-tts_iO2HfTJ1c0KIg6yW4ZHj__dy-ir3YTfguCdR_Qa5_iZhUHjfhTSw">
+  <a href="https://music.youtube.com/watch?v=Ob--0m0TG00">
+    <img width="300" src="https://lh3.googleusercontent.com/Jij7Oye6GIwxEj2yX9h1TIXDndmAoZf0kCYoNK-GZxvxI9rIh3lsH1OB49a23glNw6i237-Wc-aI83I">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 저스디스 - 4 the Youth(feat. 예서, 오르내림, 체리 코크, 구원찬)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - 빼입어(feat. The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 4 the Youth ]</b>
+  included in <b>[ zillamode 4 ]</b>
   
   <br />
   <br />
-  03/16/2022 22:04 Playing on YTMusic
+  03/16/2022 22:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
