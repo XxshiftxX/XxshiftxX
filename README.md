@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=Tdjl_EgmIXw">
+    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - Spin The Block(feat. Paul Blanco, 365LIT, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  03/16/2022 22:26 Playing on YTMusic
+  03/16/2022 22:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
