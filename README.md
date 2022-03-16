@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JCLiudCc7kU">
-    <img width="300" src="https://lh3.googleusercontent.com/Jij7Oye6GIwxEj2yX9h1TIXDndmAoZf0kCYoNK-GZxvxI9rIh3lsH1OB49a23glNw6i237-Wc-aI83I">
+  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - Zilla 4 President(feat. Lil Poet, KOREANGROOVE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ zillamode 4 ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  03/16/2022 22:23 Playing on YTMusic
+  03/16/2022 22:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
