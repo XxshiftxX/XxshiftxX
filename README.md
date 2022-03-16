@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=79RAnduzYnY">
+  <a href="https://music.youtube.com/watch?v=I0G_1fVcmEU">
     <img width="300" src="https://lh3.googleusercontent.com/Jij7Oye6GIwxEj2yX9h1TIXDndmAoZf0kCYoNK-GZxvxI9rIh3lsH1OB49a23glNw6i237-Wc-aI83I">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - 뻔뻔(feat. Rakon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - gogo</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ zillamode 4 ]</b>
   
   <br />
   <br />
-  03/16/2022 22:18 Playing on YTMusic
+  03/16/2022 22:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
