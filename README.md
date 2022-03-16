@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3E-JePmv7wI">
-    <img width="300" src="https://lh3.googleusercontent.com/LDXm819odQ8SrkcnU0MLr1J-24A1Z_fk5GoM2CkOps63_PZJaWQS4e_U7y1QmEmYDeDWXNazPQ1J5xM">
+  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
+    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 길(feat. 최엘비, BIG Naughty, Kvsh, 김승민)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DEMOTAPE ]</b>
+  included in <b>[ BROKEN FERRARI ]</b>
   
   <br />
   <br />
-  03/16/2022 22:39 Playing on YTMusic
+  03/16/2022 22:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
