@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fwc3xyE17EY">
-    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
+  <a href="https://music.youtube.com/watch?v=Ob--0m0TG00">
+    <img width="300" src="https://lh3.googleusercontent.com/Jij7Oye6GIwxEj2yX9h1TIXDndmAoZf0kCYoNK-GZxvxI9rIh3lsH1OB49a23glNw6i237-Wc-aI83I">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - Me(feat. Skinny Brown, Owen)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - 빼입어(feat. The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Between Sat & Sun ]</b>
+  included in <b>[ zillamode 4 ]</b>
   
   <br />
   <br />
-  03/16/2022 22:51 Playing on YTMusic
+  03/21/2022 17:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
