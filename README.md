@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rabhENSSWVw">
+  <a href="https://music.youtube.com/watch?v=VFu2iab_Mas">
     <img width="300" src="https://lh3.googleusercontent.com/Jij7Oye6GIwxEj2yX9h1TIXDndmAoZf0kCYoNK-GZxvxI9rIh3lsH1OB49a23glNw6i237-Wc-aI83I">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - 예의</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - Ruby(feat. Gist)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ zillamode 4 ]</b>
   
   <br />
   <br />
-  03/21/2022 17:08 Playing on YTMusic
+  03/21/2022 17:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
