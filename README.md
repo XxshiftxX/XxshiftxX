@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ob--0m0TG00">
-    <img width="300" src="https://lh3.googleusercontent.com/Jij7Oye6GIwxEj2yX9h1TIXDndmAoZf0kCYoNK-GZxvxI9rIh3lsH1OB49a23glNw6i237-Wc-aI83I">
+  <a href="https://music.youtube.com/watch?v=LzwAnMLnwS4">
+    <img width="300" src="https://lh3.googleusercontent.com/8PnoTCZN2JxKna0S-i4nYV9rst7doLwPQg2NgKmqnrMoPpS1sc73FNAu1DzMKYdq5JQ8JwdyIerPSOKP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ZENE THE ZILLA (제네 더 질라) - 빼입어(feat. The Quiett)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - ヴァンパイア</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ zillamode 4 ]</b>
+  included in <b>[ MANNEQUIN ]</b>
   
   <br />
   <br />
-  03/21/2022 17:35 Playing on YTMusic
+  03/21/2022 17:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
