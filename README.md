@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YvBhUmyk3I0">
-    <img width="300" src="https://lh3.googleusercontent.com/yoZbj8OKj9ELsG8CJtph113lsYXzOuD26gNZG6HvkEdleVuTMedIxVs8HYqD1AGjO13Fjm1-1yoMNSw">
+  <a href="https://music.youtube.com/watch?v=b1zJC-bgBaQ">
+    <img width="300" src="https://lh3.googleusercontent.com/YSDUjBs7wGeo6Vef4j0SZoHNpWiyLgqERx7JVB4sxEvdPOW6oWNRj3Z3nSiSHrrqd_JOS6LwcnIKeic">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TUYU - Compared Child</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kairiki bear - ダーリンダンス</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ It's Raining After All ]</b>
+  included in <b>[ ダーリンシンドローム ]</b>
   
   <br />
   <br />
-  03/22/2022 14:56 Playing on YTMusic
+  03/22/2022 14:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
