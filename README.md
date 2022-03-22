@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=iCQnogmgd5s">
-    <img width="300" src="https://lh3.googleusercontent.com/7oPRD1OO7HZMD5Gc1iMi9KJz9yd2HvIqM4IkN45uXzOGJpRaQoLjH1EhUapIyU903kpKU2Pk8W65gHA">
+  <a href="https://music.youtube.com/watch?v=64ftDYJXcTo">
+    <img width="300" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나나오 아카리 - Instant heaven feat.Eve(feat. Eve)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - だから僕は音楽を辞めた</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Instant heaven feat.Eve ]</b>
+  included in <b>[ だから僕は音楽を辞めた ]</b>
   
   <br />
   <br />
-  03/22/2022 18:20 Playing on YTMusic
+  03/22/2022 18:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
