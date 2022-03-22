@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ig5bo5DIR24">
-    <img width="300" src="https://lh3.googleusercontent.com/VFrXk3B55yMThw0aYPcVGtmdiuJkdDcKYWjQmLnNo_Al0Wtagg4pvl6sNamXWRodQFfo5Hl34oxS9hj_">
+  <a href="https://music.youtube.com/watch?v=IwQGnXpskoY">
+    <img width="300" src="https://lh3.googleusercontent.com/o_lOUtRRIg-IEIN1saq5ajc1EXlOqEd5n_vLu8QDGO_LWzZf_Sa_A93yp0sWlHQGTXf65bayWEgzh_Q4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>피노키오P - SLoWMoTIoN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ロクデナシ - ただ声一つ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SHI-BOU ]</b>
+  included in <b>[ ただ声一つ ]</b>
   
   <br />
   <br />
-  03/22/2022 17:58 Playing on YTMusic
+  03/22/2022 18:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
