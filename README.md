@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=b1zJC-bgBaQ">
-    <img width="300" src="https://lh3.googleusercontent.com/YSDUjBs7wGeo6Vef4j0SZoHNpWiyLgqERx7JVB4sxEvdPOW6oWNRj3Z3nSiSHrrqd_JOS6LwcnIKeic">
+  <a href="https://music.youtube.com/watch?v=3oKG5PpiI2w">
+    <img width="300" src="https://lh3.googleusercontent.com/hnp6Kif0lSRDrpRZeCz_bKzM-4OTslxQs98f5ugLfgr4lc4Vp7qG-EtnFsrsWQIehsbKhROqWAYtmS4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kairiki bear - ダーリンダンス</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미키토P - ロキ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ダーリンシンドローム ]</b>
+  included in <b>[ DAISAN WAVE ]</b>
   
   <br />
   <br />
-  03/22/2022 14:59 Playing on YTMusic
+  03/22/2022 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
