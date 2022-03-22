@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-jPtHrvj41g">
-    <img width="300" src="https://lh3.googleusercontent.com/8PnoTCZN2JxKna0S-i4nYV9rst7doLwPQg2NgKmqnrMoPpS1sc73FNAu1DzMKYdq5JQ8JwdyIerPSOKP">
+  <a href="https://music.youtube.com/watch?v=RWkPw5L_oP0">
+    <img width="300" src="https://lh3.googleusercontent.com/vgXwOAArah_hXni4x4EtIeekdtw__G388fCw6rLtrqUn8BAod1UQoPqvPVSsvubCHUMHj8332omeoDWiIQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DECO*27 - モザイクロール (Reloaded)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - ヒバナ -Reloaded-</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MANNEQUIN ]</b>
+  included in <b>[ アンドロイドガール ]</b>
   
   <br />
   <br />
-  03/22/2022 14:38 Playing on YTMusic
+  03/22/2022 14:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
