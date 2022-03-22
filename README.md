@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6aEglYFwjrA">
-    <img width="300" src="https://lh3.googleusercontent.com/9iJIwJcRu3__huxLOGQVKX9X3rfiRFHl3_NdNEWn2KqQBTUGrQp1-xZTj6a_baaJuw0r4k8FlVZkXtE">
+  <a href="https://music.youtube.com/watch?v=JWT8vQ0PUIE">
+    <img width="300" src="https://lh3.googleusercontent.com/ddMg0LOZ-qJvonRqeuJdsew5OjB0GeKGhYQ9NbH15-FwdCZ9rYK4jMvohsvz88a1VMKKK6NvBYaXmFi0lQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MAISONdes - Yowanehaki(feat. wanuka, asmi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kanaria - KING</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Yowanehaki ]</b>
+  included in <b>[ KING ]</b>
   
   <br />
   <br />
-  03/22/2022 18:26 Playing on YTMusic
+  03/22/2022 18:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
