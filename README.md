@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=40dJS_LC6S8">
-    <img width="300" src="https://i.ytimg.com/vi/40dJS_LC6S8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=ig5bo5DIR24">
+    <img width="300" src="https://lh3.googleusercontent.com/VFrXk3B55yMThw0aYPcVGtmdiuJkdDcKYWjQmLnNo_Al0Wtagg4pvl6sNamXWRodQFfo5Hl34oxS9hj_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>월피스 카터 - Deichunisaku</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>피노키오P - SLoWMoTIoN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 5431만회 ]</b>
+  included in <b>[ SHI-BOU ]</b>
   
   <br />
   <br />
-  03/22/2022 15:07 Playing on YTMusic
+  03/22/2022 17:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
