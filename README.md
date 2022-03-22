@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9a7CD83ZQMc">
-    <img width="300" src="https://lh3.googleusercontent.com/eA4rVbCEMaDeKhZThNQBBp9jIHeevLpd658223lpjiVfAZGouhQrSJWSABy5ShrSxr8SGkYWVSAl0Rmk">
+  <a href="https://music.youtube.com/watch?v=ZdzoLCLliW0">
+    <img width="300" src="https://lh3.googleusercontent.com/OwqXyH7b7Qv5cUD6Sa73TceATsbxhFaJoqqZZBXeJswKI0M0kuHQHczfFJFLX2P030OTh-tmaVXXUH0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Orangestar - Daydream Sky Train</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - ただ君に晴れ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Mikansei Eight Beats ]</b>
+  included in <b>[ 負け犬にアンコールはいらない ]</b>
   
   <br />
   <br />
-  03/22/2022 18:42 Playing on YTMusic
+  03/22/2022 18:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
