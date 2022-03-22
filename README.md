@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ua8xhoVcLsg">
+  <a href="https://music.youtube.com/watch?v=n4eJ5mrpaQM">
     <img width="300" src="https://lh3.googleusercontent.com/8PnoTCZN2JxKna0S-i4nYV9rst7doLwPQg2NgKmqnrMoPpS1sc73FNAu1DzMKYdq5JQ8JwdyIerPSOKP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DECO*27 - アニマル</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - 状態異常彼女</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ MANNEQUIN ]</b>
   
   <br />
   <br />
-  03/22/2022 14:13 Playing on YTMusic
+  03/22/2022 14:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
