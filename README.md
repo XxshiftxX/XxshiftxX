@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=q2Ez_K776Dk">
+  <a href="https://music.youtube.com/watch?v=6DRLMI5duF4">
     <img width="300" src="https://lh3.googleusercontent.com/8PnoTCZN2JxKna0S-i4nYV9rst7doLwPQg2NgKmqnrMoPpS1sc73FNAu1DzMKYdq5JQ8JwdyIerPSOKP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DECO*27 - シンデレラ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - ケサランパサラン</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ MANNEQUIN ]</b>
   
   <br />
   <br />
-  03/22/2022 14:21 Playing on YTMusic
+  03/22/2022 14:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
