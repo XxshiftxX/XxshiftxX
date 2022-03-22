@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zZy5V23JBjg">
-    <img width="300" src="https://lh3.googleusercontent.com/rk017ZWsgh9Kjlznn4LR0xLM09VbZ8qs0AhX7AKd353QnW-otMUj_cDRaIgQ5Z-z_6U2pv54EMHQlI4">
+  <a href="https://music.youtube.com/watch?v=WJDDhH9o7e4">
+    <img width="300" src="https://lh3.googleusercontent.com/s99QcvjdrtYs2HMV7n1-cbgIa5VeJ22iKBix7mgHEYAHrmRLhk3RNhfyj2qRdkR7tRNJWTFA7wfjkc7G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Orangestar - Alice in Freezer</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DECO*27 - Ghost Rule</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SEASIDE SOLILOQUIES ]</b>
+  included in <b>[ GHOST ]</b>
   
   <br />
   <br />
-  03/22/2022 18:09 Playing on YTMusic
+  03/22/2022 18:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
