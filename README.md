@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WHdL2vstvL8">
-    <img width="300" src="https://lh3.googleusercontent.com/y7jJKn2kx_HKMfSY4NmVnalSFZ3HKwYyJiLWA72--H-eqZ2Azlx51U-CsXS4tWO8Th5oL1JQS-24ZOfR">
+  <a href="https://music.youtube.com/watch?v=YvBhUmyk3I0">
+    <img width="300" src="https://lh3.googleusercontent.com/yoZbj8OKj9ELsG8CJtph113lsYXzOuD26gNZG6HvkEdleVuTMedIxVs8HYqD1AGjO13Fjm1-1yoMNSw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>요루시카 - 言って。</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TUYU - Compared Child</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 夏草が邪魔をする ]</b>
+  included in <b>[ It's Raining After All ]</b>
   
   <br />
   <br />
-  03/22/2022 14:52 Playing on YTMusic
+  03/22/2022 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
