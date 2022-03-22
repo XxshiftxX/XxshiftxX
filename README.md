@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=npSw6gt4PqI">
-    <img width="300" src="https://lh3.googleusercontent.com/ZP5Kon4NjafTQQK2JxBQFW9pER452LuksShQGVAdgEqFrF1bA8lr8PMzr7UBt5Pj8TIMAkQx4QNGTlAE">
+  <a href="https://music.youtube.com/watch?v=WHdL2vstvL8">
+    <img width="300" src="https://lh3.googleusercontent.com/y7jJKn2kx_HKMfSY4NmVnalSFZ3HKwYyJiLWA72--H-eqZ2Azlx51U-CsXS4tWO8Th5oL1JQS-24ZOfR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나나오 아카리 - Turing Love</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - 言って。</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Nanakorobi Nanaoki ]</b>
+  included in <b>[ 夏草が邪魔をする ]</b>
   
   <br />
   <br />
-  03/22/2022 14:48 Playing on YTMusic
+  03/22/2022 14:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
