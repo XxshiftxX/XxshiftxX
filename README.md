@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=64ftDYJXcTo">
-    <img width="300" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">
+  <a href="https://music.youtube.com/watch?v=6aEglYFwjrA">
+    <img width="300" src="https://lh3.googleusercontent.com/9iJIwJcRu3__huxLOGQVKX9X3rfiRFHl3_NdNEWn2KqQBTUGrQp1-xZTj6a_baaJuw0r4k8FlVZkXtE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>요루시카 - だから僕は音楽を辞めた</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MAISONdes - Yowanehaki(feat. wanuka, asmi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ だから僕は音楽を辞めた ]</b>
+  included in <b>[ Yowanehaki ]</b>
   
   <br />
   <br />
-  03/22/2022 18:22 Playing on YTMusic
+  03/22/2022 18:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
