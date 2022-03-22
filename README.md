@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WJDDhH9o7e4">
-    <img width="300" src="https://lh3.googleusercontent.com/s99QcvjdrtYs2HMV7n1-cbgIa5VeJ22iKBix7mgHEYAHrmRLhk3RNhfyj2qRdkR7tRNJWTFA7wfjkc7G">
+  <a href="https://music.youtube.com/watch?v=iCQnogmgd5s">
+    <img width="300" src="https://lh3.googleusercontent.com/7oPRD1OO7HZMD5Gc1iMi9KJz9yd2HvIqM4IkN45uXzOGJpRaQoLjH1EhUapIyU903kpKU2Pk8W65gHA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DECO*27 - Ghost Rule</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>나나오 아카리 - Instant heaven feat.Eve(feat. Eve)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GHOST ]</b>
+  included in <b>[ Instant heaven feat.Eve ]</b>
   
   <br />
   <br />
-  03/22/2022 18:15 Playing on YTMusic
+  03/22/2022 18:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
