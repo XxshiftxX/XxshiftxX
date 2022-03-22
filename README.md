@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lTuS5mAedRQ">
-    <img width="300" src="https://lh3.googleusercontent.com/XUOB7G1zJtO5h_wjedRL2_B-meLk56B4YDPZ8J9p5zuJN8JgVgCDp1pr1A51IEDHbpu0AcCCGDAW3MfH">
+  <a href="https://music.youtube.com/watch?v=9a7CD83ZQMc">
+    <img width="300" src="https://lh3.googleusercontent.com/eA4rVbCEMaDeKhZThNQBBp9jIHeevLpd658223lpjiVfAZGouhQrSJWSABy5ShrSxr8SGkYWVSAl0Rmk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>すりぃ - テレキャスタービーボーイ (long ver.)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Orangestar - Daydream Sky Train</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ パンデミック ]</b>
+  included in <b>[ Mikansei Eight Beats ]</b>
   
   <br />
   <br />
-  03/22/2022 18:39 Playing on YTMusic
+  03/22/2022 18:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
