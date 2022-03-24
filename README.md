@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wCWiKtJRqts">
-    <img width="300" src="https://lh3.googleusercontent.com/lb0zhcz7DNKpaEimDIkxp7oJWwvqvoQjkBLP3WU-NSIhLAnu9-pkgjkenAt5_AhDfbzubYUe-EEi6bL5">
+  <a href="https://music.youtube.com/watch?v=U0NAAwaZ4Rw">
+    <img width="300" src="https://lh3.googleusercontent.com/h_-44FZl8-ZTPh2eOW68VavORmox38rNAPseFsRsircFT0C7TyX36_Ts0wb4xsW6ntUj-NpDIrxd5kZK">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Denzel Curry - Zatoichi(feat. slowthai)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Meek Mill - Ima Boss(feat. Rick Ross)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Zatoichi ]</b>
+  included in <b>[ MMG Presents: Self Made, Vol. 1 ]</b>
   
   <br />
   <br />
-  03/24/2022 14:44 Playing on YTMusic
+  03/24/2022 14:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
