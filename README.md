@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=S77ApU0Qpw8">
-    <img width="300" src="https://lh3.googleusercontent.com/6aFZ4eIAS3euc6PVn8G0q5qc0xWUI-Bx-xW6YCbC2x0OdYinA92XLCWKbrALtN5h5ZaPXPE4FKolTplS">
+  <a href="https://music.youtube.com/watch?v=Obim8BYGnOE">
+    <img width="300" src="https://lh3.googleusercontent.com/GJmbTYfaMrWuPSzhOAy7jGCQ70a2UN2-0moTq-uh_Prd73-Au51FDHhGteg543a7iBv1Y9SPm4huMSBS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Joyner Lucas & Lil Baby - Ramen & OJ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Eminem(에미넴) - 'Till I Collapse(feat. 네이트 도그)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ramen & OJ ]</b>
+  included in <b>[ The Eminem Show ]</b>
   
   <br />
   <br />
-  03/24/2022 15:42 Playing on YTMusic
+  03/24/2022 15:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
