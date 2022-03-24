@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=S1Z7fUpXbXk">
-    <img width="300" src="https://lh3.googleusercontent.com/ZmxBcqPdPrJsYmDSDKxSERHv3n3k-IkqM49lBvzPtd1fUdsS0y01fXAbwNgBD50UKTtoKv36hDixfvYE">
+  <a href="https://music.youtube.com/watch?v=kQaseJ2DoAw">
+    <img width="300" src="https://lh3.googleusercontent.com/1fgH4FBBcKmAfMVNsC2HIk0pOn0FiLgbQa9BuTkmbVO5SuVccfj5cCMo23tKgOq1OfLWIgi6bwqnbeH6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MOUNT WESTMORE, Snoop Dogg, Ice Cube 및 E-40 - Big Subwoofer (Single Version)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팻 조 - All The Way Up(feat. French Montana(프렌치 몬타나), Infared)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Big Subwoofer ]</b>
+  included in <b>[ All The Way Up ]</b>
   
   <br />
   <br />
-  03/24/2022 15:32 Playing on YTMusic
+  03/24/2022 15:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
