@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=aFYUfzcjuaw">
-    <img width="300" src="https://lh3.googleusercontent.com/-zzQ5dItm6VZrss8l_7Zf9RUNSoPa5X98QedznJFHOJH9rVN5y3eXI1LR6fOwkcjhJpwI7K68Y0w-0ezUw">
+  <a href="https://music.youtube.com/watch?v=S77ApU0Qpw8">
+    <img width="300" src="https://lh3.googleusercontent.com/6aFZ4eIAS3euc6PVn8G0q5qc0xWUI-Bx-xW6YCbC2x0OdYinA92XLCWKbrALtN5h5ZaPXPE4FKolTplS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BlocBoy JB - Look Alive(feat. Drake(드레이크))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Joyner Lucas & Lil Baby - Ramen & OJ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Look Alive ]</b>
+  included in <b>[ Ramen & OJ ]</b>
   
   <br />
   <br />
-  03/24/2022 15:40 Playing on YTMusic
+  03/24/2022 15:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
