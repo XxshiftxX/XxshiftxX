@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OY1dg2mgNw4">
-    <img width="300" src="https://lh3.googleusercontent.com/YX1gHUcocnIstBVwMKRWC_s9Bgtyu9D5Ug0n_qbGOGfiIij_KAYS1SXglUYVgDEwQaew1WviUi5k87Kf">
+  <a href="https://music.youtube.com/watch?v=vedxgItLEB4">
+    <img width="300" src="https://lh3.googleusercontent.com/WNsQf2zCB5Tlwzl33Qq31LmjATyqhRnv1wbKJ7UpMgsHsq8STu61WWNjlslYokShy2kCNmsuEiZ8drTV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Volunteers - S.A.D</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이적 - 돌팔매(feat. 김진표)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Volunteers ]</b>
+  included in <b>[ Trace ]</b>
   
   <br />
   <br />
-  03/24/2022 14:16 Playing on YTMusic
+  03/24/2022 14:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
