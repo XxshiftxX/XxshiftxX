@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kQaseJ2DoAw">
-    <img width="300" src="https://lh3.googleusercontent.com/1fgH4FBBcKmAfMVNsC2HIk0pOn0FiLgbQa9BuTkmbVO5SuVccfj5cCMo23tKgOq1OfLWIgi6bwqnbeH6">
+  <a href="https://music.youtube.com/watch?v=aFYUfzcjuaw">
+    <img width="300" src="https://lh3.googleusercontent.com/-zzQ5dItm6VZrss8l_7Zf9RUNSoPa5X98QedznJFHOJH9rVN5y3eXI1LR6fOwkcjhJpwI7K68Y0w-0ezUw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팻 조 - All The Way Up(feat. French Montana(프렌치 몬타나), Infared)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BlocBoy JB - Look Alive(feat. Drake(드레이크))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ All The Way Up ]</b>
+  included in <b>[ Look Alive ]</b>
   
   <br />
   <br />
-  03/24/2022 15:36 Playing on YTMusic
+  03/24/2022 15:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
