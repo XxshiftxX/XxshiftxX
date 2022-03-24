@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MBJFPq2Llps">
-    <img width="300" src="https://lh3.googleusercontent.com/pbff_r8bJlc5iWG4-9SkmgY-yKgY_I4W1f9fzowGDqtsT2mrBBwtu90gLTy3wDUoVYT5TI7tq2O4du3L">
+  <a href="https://music.youtube.com/watch?v=wCWiKtJRqts">
+    <img width="300" src="https://lh3.googleusercontent.com/lb0zhcz7DNKpaEimDIkxp7oJWwvqvoQjkBLP3WU-NSIhLAnu9-pkgjkenAt5_AhDfbzubYUe-EEi6bL5">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eminem(에미넴) - Rap God</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Denzel Curry - Zatoichi(feat. slowthai)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Rap God ]</b>
+  included in <b>[ Zatoichi ]</b>
   
   <br />
   <br />
-  03/24/2022 14:38 Playing on YTMusic
+  03/24/2022 14:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
