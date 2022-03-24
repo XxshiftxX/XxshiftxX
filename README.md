@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8OK-u9IH2X4">
-    <img width="300" src="https://lh3.googleusercontent.com/s8s7HZbmqZ-WpzO21juhrSBXvl62JbKMIDZEnTUhfHNUfcp_IbafcnID-rj9tZ2Lf0OB1vpDcs828Rsv">
+  <a href="https://music.youtube.com/watch?v=IEIhwivUzNA">
+    <img width="300" src="https://lh3.googleusercontent.com/-xMItaYxARxKlII-BmBPWJMUVs-WrsZC8qtcvyYpLX3XQ-VOXgq5djDOQBB_2iwh4OqBnD1dBCcdPlmGyA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Dead Prez - Hip Hop</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Megan Thee Stallion - Thot Shit</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Let's Get Free ]</b>
+  included in <b>[ Thot Shit ]</b>
   
   <br />
   <br />
-  03/24/2022 17:56 Playing on YTMusic
+  03/24/2022 18:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
