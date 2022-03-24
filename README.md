@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_Z9M8QGlYG8">
-    <img width="300" src="https://lh3.googleusercontent.com/DX5MvDHw_b8k-HAzKGG8Dgz7PccuqkH8apFc5dcwzC_ajxPovemLurCPkmBcw03FpqhAX0DiEzvU3CY">
+  <a href="https://music.youtube.com/watch?v=YZLJ_GWJ5Ag">
+    <img width="300" src="https://lh3.googleusercontent.com/cdt8oNK_PIVnJ_MUBzNQQEBjdVz3c52cg5bJEKggDdjvxxWifv5YLIJxgbIEUCtYEhqViLHfok5pGVfo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Big Sean - Bounce Back</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Drake(드레이크) - Laugh Now Cry Later(feat. 릴 더크)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I Decided. ]</b>
+  included in <b>[ Laugh Now Cry Later ]</b>
   
   <br />
   <br />
-  03/24/2022 15:11 Playing on YTMusic
+  03/24/2022 15:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
