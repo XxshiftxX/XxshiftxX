@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_mumcOISqco">
-    <img width="300" src="https://lh3.googleusercontent.com/6jetNWBJejniXZ2I027RnuGmp7vYRNO5BsiVesCc7DSQpdIbz7iQuig0zXYopAuEbwPLaTVIooLH1FY">
+  <a href="https://music.youtube.com/watch?v=MBJFPq2Llps">
+    <img width="300" src="https://lh3.googleusercontent.com/pbff_r8bJlc5iWG4-9SkmgY-yKgY_I4W1f9fzowGDqtsT2mrBBwtu90gLTy3wDUoVYT5TI7tq2O4du3L">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DJ Khaled(디제이 칼리드) - POPSTAR(feat. Drake(드레이크))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Eminem(에미넴) - Rap God</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ POPSTAR ]</b>
+  included in <b>[ Rap God ]</b>
   
   <br />
   <br />
-  03/24/2022 14:35 Playing on YTMusic
+  03/24/2022 14:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
