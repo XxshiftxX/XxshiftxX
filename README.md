@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AHfrY4FfD-8">
-    <img width="300" src="https://lh3.googleusercontent.com/dqIZwKDjMaUu0mU5t8HyqgQy616nhVQXT2RWONAw5AWU8VrK_iuNnWT2n8mmSv9tpykK9ubMnt6LOEC9">
+  <a href="https://music.youtube.com/watch?v=_FHGghEs1Ts">
+    <img width="300" src="https://lh3.googleusercontent.com/SvRfDMspgic-mdSZ3oySdZ8EVzGOURS_zquTnli4qlSxoKp3sVqh0dCf35FdGdXqWLtO36JmmhSgka1uhA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Nas - I Can</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DMX - X Gon' Give It To Ya</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ God's Son ]</b>
+  included in <b>[ Cradle 2 The Grave ]</b>
   
   <br />
   <br />
-  03/24/2022 14:52 Playing on YTMusic
+  03/24/2022 14:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
