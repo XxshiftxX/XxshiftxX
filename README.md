@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=x6EieknRJuc">
-    <img width="300" src="https://lh3.googleusercontent.com/uVr_yWMFbaQ1LxktjgMQXjiNj4rqdckkPaGvEmhj9kOYsc66Dl7phzs1YQ7hRASkxYBUYv3h1Y2YrYxv">
+  <a href="https://music.youtube.com/watch?v=kmUBHak9HD4">
+    <img width="300" src="https://lh3.googleusercontent.com/s05bs8Cpk2jiJ9Mdz0Hq5IfZbg_sC1MQBivtWDhGgs9mv6Hr2ZhEaJgjRyreac-eIxyPL2UDf1k5d4dKsA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh! - MBT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>하현우 - 돌덩이</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MBT ]</b>
+  included in <b>[ 이태원 클라쓰 (Original Television Soundtrack) Pt. 3 ]</b>
   
   <br />
   <br />
-  03/24/2022 14:06 Playing on YTMusic
+  03/24/2022 14:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
