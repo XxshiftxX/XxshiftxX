@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_FHGghEs1Ts">
-    <img width="300" src="https://lh3.googleusercontent.com/SvRfDMspgic-mdSZ3oySdZ8EVzGOURS_zquTnli4qlSxoKp3sVqh0dCf35FdGdXqWLtO36JmmhSgka1uhA">
+  <a href="https://music.youtube.com/watch?v=P0TBXv1PSAM">
+    <img width="300" src="https://lh3.googleusercontent.com/Ymgi1_1hy6D42jut-vsOePAB6KzXNKkkcfbyu6ZmIYid_WJc_tNBTa2bTMqh6VR11O_FPnmuO867Qig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DMX - X Gon' Give It To Ya</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ace Hood - Hustle Hard</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Cradle 2 The Grave ]</b>
+  included in <b>[ Blood Sweat & Tears ]</b>
   
   <br />
   <br />
-  03/24/2022 14:57 Playing on YTMusic
+  03/24/2022 15:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
