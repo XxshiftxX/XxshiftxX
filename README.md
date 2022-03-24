@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IxJjY5T9yag">
-    <img width="300" src="https://lh3.googleusercontent.com/mCjduPWc4GvReWhFy04ufFgkBt9be4XRjwkeCwRZu0XaaKk1-lRqPjjQ-5gk0rMjEoBl19QZS7p-RA">
+  <a href="https://music.youtube.com/watch?v=_Z9M8QGlYG8">
+    <img width="300" src="https://lh3.googleusercontent.com/DX5MvDHw_b8k-HAzKGG8Dgz7PccuqkH8apFc5dcwzC_ajxPovemLurCPkmBcw03FpqhAX0DiEzvU3CY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Roddy Ricch - The Box</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Big Sean - Bounce Back</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Please Excuse Me For Being Antisocial ]</b>
+  included in <b>[ I Decided. ]</b>
   
   <br />
   <br />
-  03/24/2022 15:08 Playing on YTMusic
+  03/24/2022 15:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
