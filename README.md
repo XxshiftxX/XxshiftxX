@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=owFw-ufk_8o">
-    <img width="300" src="https://lh3.googleusercontent.com/3N-Q__-Pl4OEcpo2wuHe16ov50bP73FcT6ZifCv1Xh6LXcoHQOBzk0FnSZjsDODxbyrKUknZ20P7Bij-RQ">
+  <a href="https://music.youtube.com/watch?v=MsfmnKoCgl8">
+    <img width="300" src="https://lh3.googleusercontent.com/tsJins79W2iqjxUQvJsLPDYOW_AwrKYRmE6bO0LSH4dKQpxh_JHRV3MJ2NZZLXK44AIMSaC1G6uKbbtF">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Future(퓨처) - Sh!t</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BlocBoy JB - Home Alone</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Honest (Deluxe Edition) ]</b>
+  included in <b>[ Bacc 2 Da Bloc ]</b>
   
   <br />
   <br />
-  03/24/2022 15:57 Playing on YTMusic
+  03/24/2022 16:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
