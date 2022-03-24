@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=U0NAAwaZ4Rw">
-    <img width="300" src="https://lh3.googleusercontent.com/h_-44FZl8-ZTPh2eOW68VavORmox38rNAPseFsRsircFT0C7TyX36_Ts0wb4xsW6ntUj-NpDIrxd5kZK">
+  <a href="https://music.youtube.com/watch?v=AHfrY4FfD-8">
+    <img width="300" src="https://lh3.googleusercontent.com/dqIZwKDjMaUu0mU5t8HyqgQy616nhVQXT2RWONAw5AWU8VrK_iuNnWT2n8mmSv9tpykK9ubMnt6LOEC9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Meek Mill - Ima Boss(feat. Rick Ross)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nas - I Can</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MMG Presents: Self Made, Vol. 1 ]</b>
+  included in <b>[ God's Son ]</b>
   
   <br />
   <br />
-  03/24/2022 14:48 Playing on YTMusic
+  03/24/2022 14:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
