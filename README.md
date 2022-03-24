@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AMCwYdTJ_PE">
-    <img width="300" src="https://lh3.googleusercontent.com/OVejVpqP0cLGa4KySJCYsUVL1q9OjNf3tNUZPlZViPz_VxcxFRcAY4EmLwxfAlzvF2z_YCOj1iCC61gGjw">
+  <a href="https://music.youtube.com/watch?v=IEIhwivUzNA">
+    <img width="300" src="https://lh3.googleusercontent.com/-xMItaYxARxKlII-BmBPWJMUVs-WrsZC8qtcvyYpLX3XQ-VOXgq5djDOQBB_2iwh4OqBnD1dBCcdPlmGyA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Future(퓨처) - Mask Off</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Megan Thee Stallion - Thot Shit</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ FUTURE ]</b>
+  included in <b>[ Thot Shit ]</b>
   
   <br />
   <br />
-  03/24/2022 14:24 Playing on YTMusic
+  03/24/2022 14:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
