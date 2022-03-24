@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=z3aS0WSavro">
-    <img width="300" src="https://lh3.googleusercontent.com/-NYcNtce2HjYA3z2-i1tDtcQjbENJr0AgzZWPyQAHqcn6FyeDx3dGlMpFnAjQ8jM__RtT56PKHUrF5o">
+  <a href="https://music.youtube.com/watch?v=Mng4-hmgts4">
+    <img width="300" src="https://lh3.googleusercontent.com/KWlEYoiX0-Jcz9f6XqoZjBz6fAUhAbrnU7gG61yLiYEWGEpwAVZST07Kb4UrWgYOiXxT4spIqy1JS3VI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DJ Khaled(디제이 칼리드) - Wish Wish(feat. Cardi B(카디 비), 21 Savage(21 새비지))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Machine Gun Kelly - Till I Die</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Father Of Asahd ]</b>
+  included in <b>[ General Admission ]</b>
   
   <br />
   <br />
-  03/24/2022 17:42 Playing on YTMusic
+  03/24/2022 17:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
