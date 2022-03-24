@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=RvpoTu6iFoU">
-    <img width="300" src="https://lh3.googleusercontent.com/FIqteGwNHT2WXABHghoYoGy1bUHWyZXdfaw6SnnrYgQ1LQNyTWSDETeEqmA768e44KL0vYY54fGjCRY-">
+  <a href="https://music.youtube.com/watch?v=BHep3SgCplM">
+    <img width="300" src="https://lh3.googleusercontent.com/7Q43hp9tZ6goPOEmHj278zwoQ9Fy3jpqQ6wocFrhDIvy2f0Vx4UeLNe7NQqU5g6zLJXuI3npWVVXPu8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>T.I. - Pardon(feat. 릴 베이비)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>영 서그 - Hot (Remix)(feat. Travis Scott, Gunna)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The L.I.B.R.A. ]</b>
+  included in <b>[ So Much Fun (Deluxe) ]</b>
   
   <br />
   <br />
-  03/24/2022 15:19 Playing on YTMusic
+  03/24/2022 15:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
