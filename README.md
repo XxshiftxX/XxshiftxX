@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Obim8BYGnOE">
-    <img width="300" src="https://lh3.googleusercontent.com/GJmbTYfaMrWuPSzhOAy7jGCQ70a2UN2-0moTq-uh_Prd73-Au51FDHhGteg543a7iBv1Y9SPm4huMSBS">
+  <a href="https://music.youtube.com/watch?v=HfJ22ETPyrY">
+    <img width="300" src="https://lh3.googleusercontent.com/77lZvV1GFkxOvZDXgateMwtAiQYbCgu9cfPJlaW2nFPkyuUGMhDDg3yDhdia7HzygSAsl8l1otufYA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eminem(에미넴) - 'Till I Collapse(feat. 네이트 도그)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Icewear Vezzo - Richer Than My Opps</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Eminem Show ]</b>
+  included in <b>[ Richer Than My Opps ]</b>
   
   <br />
   <br />
-  03/24/2022 15:46 Playing on YTMusic
+  03/24/2022 15:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
