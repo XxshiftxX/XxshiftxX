@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JXOYZXb0no4">
-    <img width="300" src="https://lh3.googleusercontent.com/Fc8iVOJafBPvF4euXWC_ZLdQcswqV0yk7k4I_IWp-qBYPACAv03wVvDJ_co1bETWPhJRJ_SoV84Pgiuw">
+  <a href="https://music.youtube.com/watch?v=_VXUiAJi5KY">
+    <img width="300" src="https://lh3.googleusercontent.com/YV7PApb2Darso5SCVlx7VzJJunWNXiohh9m4172J2iuxPJYguQIkgqg1fiMwX56zt07Cx8CAlNrbP13B">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NF - CLOUDS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>50 Cent - In Da Club</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CLOUDS ]</b>
+  included in <b>[ Get Rich Or Die Tryin' ]</b>
   
   <br />
   <br />
-  03/24/2022 16:12 Playing on YTMusic
+  03/24/2022 17:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
