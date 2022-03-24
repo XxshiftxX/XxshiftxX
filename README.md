@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IEIhwivUzNA">
-    <img width="300" src="https://lh3.googleusercontent.com/-xMItaYxARxKlII-BmBPWJMUVs-WrsZC8qtcvyYpLX3XQ-VOXgq5djDOQBB_2iwh4OqBnD1dBCcdPlmGyA">
+  <a href="https://music.youtube.com/watch?v=_mumcOISqco">
+    <img width="300" src="https://lh3.googleusercontent.com/6jetNWBJejniXZ2I027RnuGmp7vYRNO5BsiVesCc7DSQpdIbz7iQuig0zXYopAuEbwPLaTVIooLH1FY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Megan Thee Stallion - Thot Shit</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DJ Khaled(디제이 칼리드) - POPSTAR(feat. Drake(드레이크))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Thot Shit ]</b>
+  included in <b>[ POPSTAR ]</b>
   
   <br />
   <br />
-  03/24/2022 14:32 Playing on YTMusic
+  03/24/2022 14:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
