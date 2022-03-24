@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5s8thIvdh5s">
-    <img width="300" src="https://lh3.googleusercontent.com/d6p25rCIfrRYbE2VEvVGflh0Z7pQpOBn4FiMdcWGpFfR4DR33nXMdqpuZbriFMgjokuspJt1j3bdOaOW">
+  <a href="https://music.youtube.com/watch?v=S1Z7fUpXbXk">
+    <img width="300" src="https://lh3.googleusercontent.com/ZmxBcqPdPrJsYmDSDKxSERHv3n3k-IkqM49lBvzPtd1fUdsS0y01fXAbwNgBD50UKTtoKv36hDixfvYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>O.T. Genasis - CoCo</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MOUNT WESTMORE, Snoop Dogg, Ice Cube 및 E-40 - Big Subwoofer (Single Version)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CoCo ]</b>
+  included in <b>[ Big Subwoofer ]</b>
   
   <br />
   <br />
-  03/24/2022 15:29 Playing on YTMusic
+  03/24/2022 15:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
