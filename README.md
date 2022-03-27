@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wFA6h83CLSw">
-    <img width="300" src="https://lh3.googleusercontent.com/VhY7yDXYQfL0LARJCHDgBBqLx7XAtQvvpJjB5isaS5myQfjjpZoyWR8AL8lapDJBi0yyLi7TCdh1utgxEg">
+  <a href="https://music.youtube.com/watch?v=y3vXsp1lDsc">
+    <img width="300" src="https://lh3.googleusercontent.com/Ez85RnZTwo991VmLILk7i4mUHZs9RihLIgzXrO7KLwjDdJiNmLVfhYMvlvcfN2Mh2vFDm-DI4eckqXs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MELOH - Droppa (Feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MELOH - I Can't Read Your Mind</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 사인히어(SignHere) episode6 ]</b>
+  included in <b>[ MELOH ]</b>
   
   <br />
   <br />
-  03/27/2022 19:21 Playing on YTMusic
+  03/27/2022 19:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
