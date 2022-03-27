@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IEIhwivUzNA">
-    <img width="300" src="https://lh3.googleusercontent.com/-xMItaYxARxKlII-BmBPWJMUVs-WrsZC8qtcvyYpLX3XQ-VOXgq5djDOQBB_2iwh4OqBnD1dBCcdPlmGyA">
+  <a href="https://music.youtube.com/watch?v=wFA6h83CLSw">
+    <img width="300" src="https://lh3.googleusercontent.com/VhY7yDXYQfL0LARJCHDgBBqLx7XAtQvvpJjB5isaS5myQfjjpZoyWR8AL8lapDJBi0yyLi7TCdh1utgxEg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Megan Thee Stallion - Thot Shit</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MELOH - Droppa (Feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Thot Shit ]</b>
+  included in <b>[ 사인히어(SignHere) episode6 ]</b>
   
   <br />
   <br />
-  03/24/2022 18:00 Playing on YTMusic
+  03/27/2022 19:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
