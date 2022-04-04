@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8-H8hz6AXu4">
-    <img width="300" src="https://lh3.googleusercontent.com/g68kcpx4436X4mbFRbBseTc948VDgBsqoPqvsuBuaiAg_9RUttJ9kGwfIccemZWuhnc28qIs1EdUD4eA">
+  <a href="https://music.youtube.com/watch?v=En3KKE89QRs">
+    <img width="300" src="https://lh3.googleusercontent.com/o_lEOyAwT9ztDCt573QkYe2m07MBC4J1crLJOR9_m8OxhsdgvmRZVdCiYKId6K-kbKV6Llg9CfrImQNv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>맥대디 - Perfume</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie - POW(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Top Notes ]</b>
+  included in <b>[ POW ]</b>
   
   <br />
   <br />
-  04/04/2022 22:36 Playing on YTMusic
+  04/04/2022 22:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
