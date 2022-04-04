@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TkCbHOMSSyk">
-    <img width="300" src="https://lh3.googleusercontent.com/mr7s7_iAfVVIHY6VEiqQOS8RgBTdrfjbZL7M9HloEE4LV4xTR2-7vi-xfQn0P06dzrz4Eftup831DAU3">
+  <a href="https://music.youtube.com/watch?v=i6zVlDkX3wM">
+    <img width="300" src="https://lh3.googleusercontent.com/o2BSqNa2GLchDXnpauN6B5QQx6alJThEWHA66AuG-_B4Jb_SC0Gw1rUPY2ocEsPk4BTfLZPZR1siHZ2u">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Power (feat. 문수진(Moon Sujin))(feat. 문수진)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - FACE TIME (Prod. by 코드 쿤스트)(feat. GIRIBOY, pH-1, Gaeko)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLASÉ ]</b>
+  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
   
   <br />
   <br />
-  04/04/2022 22:14 Playing on YTMusic
+  04/04/2022 22:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
