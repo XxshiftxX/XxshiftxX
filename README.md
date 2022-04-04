@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0dsRfWzAslg">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=eKfrkH2Xr4k">
+    <img width="300" src="https://lh3.googleusercontent.com/966EVioxq2dMVaqpDqoURT2pb3rFi3Py-BaU8s4vvR5nRAo69SK2dZuAJBB4M1nu8uNMiHmpnwSdBEU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - Rewind(feat. TRADE L, OSUN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Blase - New World</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ New World ]</b>
   
   <br />
   <br />
-  04/04/2022 22:29 Playing on YTMusic
+  04/04/2022 22:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
