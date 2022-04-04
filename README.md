@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E2t3Kb4srNA">
-    <img width="300" src="https://lh3.googleusercontent.com/xYh7NdmqmB3k15V7CnTosgv67AFqQo-xxoJQo05Oo1yXy4zLv2eOBVKKeytby6pi7HtXuwDrKK39Wphy">
+  <a href="https://music.youtube.com/watch?v=jFDlDLltq40">
+    <img width="300" src="https://lh3.googleusercontent.com/mr7s7_iAfVVIHY6VEiqQOS8RgBTdrfjbZL7M9HloEE4LV4xTR2-7vi-xfQn0P06dzrz4Eftup831DAU3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gist - 디저트샵(feat. 황세현)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Blockin' , YLN Foreign)(feat. 릴보이 (lIlBOI), YLN Foreign)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beginning ]</b>
+  included in <b>[ BLASÉ ]</b>
   
   <br />
   <br />
-  04/04/2022 21:30 Playing on YTMusic
+  04/04/2022 21:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
