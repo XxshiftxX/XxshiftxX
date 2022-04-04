@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IKMPygLw0MM">
-    <img width="300" src="https://i.ytimg.com/vi/IKMPygLw0MM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=wiM9S9FqGeI">
+    <img width="300" src="https://lh3.googleusercontent.com/mr7s7_iAfVVIHY6VEiqQOS8RgBTdrfjbZL7M9HloEE4LV4xTR2-7vi-xfQn0P06dzrz4Eftup831DAU3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SunshineVV 선샤인욱 - [Playlist] Korea Drill Mix2 국내 힙합 드릴 모음2</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - CVS (feat. 노윤하)(feat. 노윤하)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 4.1만회 ]</b>
+  included in <b>[ BLASÉ ]</b>
   
   <br />
   <br />
-  04/04/2022 14:20 Playing on YTMusic
+  04/04/2022 14:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
