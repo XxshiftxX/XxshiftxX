@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jFDlDLltq40">
-    <img width="300" src="https://lh3.googleusercontent.com/mr7s7_iAfVVIHY6VEiqQOS8RgBTdrfjbZL7M9HloEE4LV4xTR2-7vi-xfQn0P06dzrz4Eftup831DAU3">
+  <a href="https://music.youtube.com/watch?v=9_1kkqcQTJc">
+    <img width="300" src="https://lh3.googleusercontent.com/9YFoZ8bQtTdX1P0H3e-tHskonaO5Alwc7qW9Q5hPUkFhO69g98mv5IbjW-zggs2QowoOgDAS7OdAq_E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Blockin' , YLN Foreign)(feat. 릴보이 (lIlBOI), YLN Foreign)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie - Watch Me Ballin'(feat. Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLASÉ ]</b>
+  included in <b>[ Show Me the Money 777 Episode 3 ]</b>
   
   <br />
   <br />
-  04/04/2022 21:32 Playing on YTMusic
+  04/04/2022 21:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
