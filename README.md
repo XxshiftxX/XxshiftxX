@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=C-bjA7WbnCg">
-    <img width="300" src="https://lh3.googleusercontent.com/kIt6by_WM9Uoyn4dD61rOs-BrpAFaji1mx212T7OKMrsin0NtBTrLj7CPJ-7vYqqIrojoNKYlWf72HFT">
+  <a href="https://music.youtube.com/watch?v=QW8jhivQIn8">
+    <img width="300" src="https://lh3.googleusercontent.com/zdj2bePSLZqU324UtttX8BCXZyI17G8GLHyQQEFGnzXu_8stjr14dldZYijLiI7-EdpyXOiPjx5ZYDIFLA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Peace Out (MEGA MIX) , oceanfromtheblue, TRADE L, 펀치넬로 (punchnello), 에이체스 (A-Chess), DON MALIK (던말릭), Khakii (카키), Polodared, Dive (다이브), 키모엘 (Kimo:L)) (Prod. Yoon)(feat. Don Mills, 안병웅, San E, Chillin Homie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - New Season(feat. Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Peace Out MEGA MIX ]</b>
+  included in <b>[ New Season ]</b>
   
   <br />
   <br />
-  04/05/2022 16:36 Playing on YTMusic
+  04/05/2022 16:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
