@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=rjXMz0tofYQ">
+    <img width="300" src="https://lh3.googleusercontent.com/-T140DIzokLAIpRy0sUwZRJTx84_lMReerP56YkvE_N7J8LaopH6VoNVRxY6cyo7kioJJ49M3tNlAe0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿤타 - PROTO TYPE(feat. 베이식, 산이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ PROTO TYPE ]</b>
   
   <br />
   <br />
-  04/05/2022 16:49 Playing on YTMusic
+  04/05/2022 16:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
