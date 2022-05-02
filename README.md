@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Tdjl_EgmIXw">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
+    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - Spin The Block(feat. Paul Blanco, 365LIT, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(feat. M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ "SIKE"! ]</b>
   
   <br />
   <br />
-  05/02/2022 14:42 Playing on YTMusic
+  05/02/2022 14:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
