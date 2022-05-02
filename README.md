@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=iTPZ2KILXhg">
-    <img width="300" src="https://lh3.googleusercontent.com/4hxg-ZNXtQD3L2p1PGkB64rcR3XAjPKWuwS1SFOdsxc4tAaEK6qF05TgWJq_iJoWdvke2H3ApnHk62Y">
+  <a href="https://music.youtube.com/watch?v=cJtlLS6LPEc">
+    <img width="300" src="https://lh3.googleusercontent.com/AkehRocN66EQuMNSEMjG54PKajNKlAMmQgBnJb3bFj6AGRgK797xLnOebDj0vpXJ1FmLg47JHwmQggpi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Roh Yun Ha - 만들어 작품 (Feat. Lil Nekh)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - uh-uh(feat. Kid Milli, Gaeko)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 만들어 작품 ]</b>
+  included in <b>[ uh-uh ]</b>
   
   <br />
   <br />
-  05/02/2022 14:37 Playing on YTMusic
+  05/02/2022 14:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
