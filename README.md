@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bMskiBJVI_I">
-    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
+  <a href="https://music.youtube.com/watch?v=wZgsxnYqHps">
+    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>빅나티 - LIVE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 검정색하트(feat. Leellamarz, BE′O)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ H1GHR : BLUE TAPE ]</b>
+  included in <b>[ Between Sat & Sun ]</b>
   
   <br />
   <br />
-  05/02/2022 11:06 Playing on YTMusic
+  05/02/2022 11:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
