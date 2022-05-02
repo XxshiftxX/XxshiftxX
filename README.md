@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pFyBFbu8Z30">
-    <img width="300" src="https://lh3.googleusercontent.com/edSkCI8AMWXJZenSGwuLflyIJonpVLJwmKcIGO2kqJoFLHQE5ygLjaIbUaUttPWo6CUL76ZWB9gquW2t">
+  <a href="https://music.youtube.com/watch?v=XJL-lduf174">
+    <img width="300" src="https://lh3.googleusercontent.com/QziWbeC0juYJECiB9cjSJ2JnYD23JzNL3uyZ0nYcxQrj39tZaA2K0eEy74XM7T7MMpFBzbxNNFBcLDDS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - CITY LOVE (서울) (Prod. by GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIGBANG - 봄여름가을겨울 (Still Life)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Feel The Rhythm Of Korea Part 1 ]</b>
+  included in <b>[ 봄여름가을겨울 (Still Life) ]</b>
   
   <br />
   <br />
-  05/02/2022 11:20 Playing on YTMusic
+  05/02/2022 11:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
