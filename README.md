@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XJL-lduf174">
-    <img width="300" src="https://lh3.googleusercontent.com/QziWbeC0juYJECiB9cjSJ2JnYD23JzNL3uyZ0nYcxQrj39tZaA2K0eEy74XM7T7MMpFBzbxNNFBcLDDS">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIGBANG - 봄여름가을겨울 (Still Life)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 봄여름가을겨울 (Still Life) ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  05/02/2022 11:23 Playing on YTMusic
+  05/02/2022 11:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
