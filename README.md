@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E2t3Kb4srNA">
+  <a href="https://music.youtube.com/watch?v=_nC6_a-QjJU">
     <img width="300" src="https://lh3.googleusercontent.com/xYh7NdmqmB3k15V7CnTosgv67AFqQo-xxoJQo05Oo1yXy4zLv2eOBVKKeytby6pi7HtXuwDrKK39Wphy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gist - 디저트샵(feat. 황세현)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gist - 익숙해</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Beginning ]</b>
   
   <br />
   <br />
-  05/03/2022 15:11 Playing on YTMusic
+  05/03/2022 15:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
