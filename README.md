@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bAVMkE_Nuv8">
-    <img width="300" src="https://lh3.googleusercontent.com/FKsei1yk_TvaAiutGQNWjmgfic9SxEoH6ZCSW_3P8c0s_IgeFeXiVFSCCDsPAeDsVdvPw6kykYkSevpI">
+  <a href="https://music.youtube.com/watch?v=YaWt5lZFtDM">
+    <img width="300" src="https://i.ytimg.com/vi/YaWt5lZFtDM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>E SENS - DANCE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>노래중독BGM - 박재범(JAY PARK) - ON IT 가사│노래중독</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 이방인 ]</b>
+  included in <b>[ 조회수 2.1만회 ]</b>
   
   <br />
   <br />
-  05/10/2022 11:13 Playing on YTMusic
+  05/10/2022 11:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
