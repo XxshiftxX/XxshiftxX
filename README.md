@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FMnrGjc6Gyk">
-    <img width="300" src="https://lh3.googleusercontent.com/Jf2pT9BWRFQdLZwxo_dzwEC2jyIvtOeteLGOgIcl5VTy9TCx6bgTKA5bVHtkDTRkT-EruA5JAsQ9B0ad">
+  <a href="https://music.youtube.com/watch?v=UT9KUuwjubI">
+    <img width="300" src="https://i.ytimg.com/vi/UT9KUuwjubI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>넉살(Nucksal) - Nuckle Flow</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jeff Hwang 2 - 비프리 (B-Free) - Hot Summer</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Nuckle Flow ]</b>
+  included in <b>[ 조회수 5.6만회 ]</b>
   
   <br />
   <br />
-  05/10/2022 11:42 Playing on YTMusic
+  05/10/2022 11:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
