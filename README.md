@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kTRsSqfbk9E">
-    <img width="300" src="https://i.ytimg.com/vi/kTRsSqfbk9E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=jGGf_eCTkA8">
+    <img width="300" src="https://i.ytimg.com/vi/jGGf_eCTkA8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRDL冒險모험 - 테이크원 (TakeOne) - 2. BadNews Cypher (feat. BadNews) ‎[Mixtape - TakeOne for the Team]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DLight Highest - Fana - Rhymonic Storm (Prod. The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 11만회 ]</b>
+  included in <b>[ 조회수 34만회 ]</b>
   
   <br />
   <br />
-  05/10/2022 11:54 Playing on YTMusic
+  05/10/2022 11:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
