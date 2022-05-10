@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lkwWWe7UjeI">
-    <img width="300" src="https://lh3.googleusercontent.com/kh04PtP461EpwSCgsLahEVpaEQ2fygQaEGnMOFcHYaLl6KfMWtHbE36Yjht8ruR6eUg-tp8z1jG1tX5k">
+  <a href="https://music.youtube.com/watch?v=kTRsSqfbk9E">
+    <img width="300" src="https://i.ytimg.com/vi/kTRsSqfbk9E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김효은 Kim Hyo-Eun - New Kings</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GRDL冒險모험 - 테이크원 (TakeOne) - 2. BadNews Cypher (feat. BadNews) ‎[Mixtape - TakeOne for the Team]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ My Ambition ]</b>
+  included in <b>[ 조회수 11만회 ]</b>
   
   <br />
   <br />
-  05/10/2022 11:52 Playing on YTMusic
+  05/10/2022 11:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
