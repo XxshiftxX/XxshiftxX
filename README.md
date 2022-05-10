@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JSuOMvgXnaM">
-    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
+  <a href="https://music.youtube.com/watch?v=FMnrGjc6Gyk">
+    <img width="300" src="https://lh3.googleusercontent.com/Jf2pT9BWRFQdLZwxo_dzwEC2jyIvtOeteLGOgIcl5VTy9TCx6bgTKA5bVHtkDTRkT-EruA5JAsQ9B0ad">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(feat. 오디(ODEE), 창모(CHANGMO), 해쉬 스완(Hash Swan), 도끼(Dok2))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>넉살(Nucksal) - Nuckle Flow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Q Day (Remixes) ]</b>
+  included in <b>[ Nuckle Flow ]</b>
   
   <br />
   <br />
-  05/10/2022 11:38 Playing on YTMusic
+  05/10/2022 11:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
