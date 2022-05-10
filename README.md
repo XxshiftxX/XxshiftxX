@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OlXr5YD-MWA">
-    <img width="300" src="https://lh3.googleusercontent.com/plFuJqbav1yVEIBP0i0lSwLm10agsJn_CRX3r4CtCYIL56_3VVxz-j9wyRMAkqOFHlILzK16Tixj0qc">
+  <a href="https://music.youtube.com/watch?v=sk-dL1AstSg">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 정이라고 하자(feat. 10CM)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 왈왈</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 정이라고 하자 ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  05/10/2022 10:41 Playing on YTMusic
+  05/10/2022 10:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
