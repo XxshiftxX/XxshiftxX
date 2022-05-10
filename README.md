@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YaWt5lZFtDM">
-    <img width="300" src="https://i.ytimg.com/vi/YaWt5lZFtDM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=MQ8a7-AYsw4">
+    <img width="300" src="https://lh3.googleusercontent.com/06xseXtdWCw_RTggkbNlZcQiEpOzMpCMGPbvyClJQYZHdhEmZxmVc46Om7mC2RH9iZ-XA5JQr9R-3ycR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노래중독BGM - 박재범(JAY PARK) - ON IT 가사│노래중독</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오왼 오바도즈 - 작업(feat. 루피, pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 2.1만회 ]</b>
+  included in <b>[ P.O.E.M. ]</b>
   
   <br />
   <br />
-  05/10/2022 11:15 Playing on YTMusic
+  05/10/2022 11:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
