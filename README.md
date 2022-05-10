@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IaHSeJDPEyg">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=dXTwfd7rh-0">
+    <img width="300" src="https://i.ytimg.com/vi/dXTwfd7rh-0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Still Hungry(feat. 마미손, 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jeff Hwang 2 - 에픽하이 (Epik High) - 노땡큐 (Feat. MINO, 사이먼 도미닉, 더콰이엇) [WE'VE DONE SOMETHING WONDERFUL]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ 조회수 446만회 ]</b>
   
   <br />
   <br />
-  05/10/2022 12:05 Playing on YTMusic
+  05/10/2022 12:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
