@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UT9KUuwjubI">
-    <img width="300" src="https://i.ytimg.com/vi/UT9KUuwjubI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=8tjloQDxIG8">
+    <img width="300" src="https://i.ytimg.com/vi/8tjloQDxIG8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jeff Hwang 2 - 비프리 (B-Free) - Hot Summer</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>나플라 - 6. 펔보이 전시회 (feat. Neil, the foreheΔd)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 5.6만회 ]</b>
+  included in <b>[ 조회수 19만회 ]</b>
   
   <br />
   <br />
-  05/10/2022 11:44 Playing on YTMusic
+  05/10/2022 11:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
