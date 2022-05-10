@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sm8i4f0Esqs">
-    <img width="300" src="https://lh3.googleusercontent.com/MogDVf1ED3qJMSQr-j7LMfMBlL0QfJBHrWGWCy8x46m6QXC-N9OTu3D1H_YC3-1Ed1KeU-dDGWsO6wM">
+  <a href="https://music.youtube.com/watch?v=Nny9Ehrr8_s">
+    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>뱃사공 Bassagong - TANG-A</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 - Red</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Tang-A ]</b>
+  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
   
   <br />
   <br />
-  05/10/2022 10:59 Playing on YTMusic
+  05/10/2022 11:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
