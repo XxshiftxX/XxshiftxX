@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=klmWN5rZBck">
-    <img width="300" src="https://i.ytimg.com/vi/klmWN5rZBck/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=3jbEQB9Ur74">
+    <img width="300" src="https://i.ytimg.com/vi/3jbEQB9Ur74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>E SENS - Dead Wrong Remix ( feat. E SENS) - XXX</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>재범 - 기리보이 (Giriboy) - vv 2 가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 5.6만회 ]</b>
+  included in <b>[ 조회수 10만회 ]</b>
   
   <br />
   <br />
-  05/10/2022 11:25 Playing on YTMusic
+  05/10/2022 11:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
