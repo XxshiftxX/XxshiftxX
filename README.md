@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wm_OO19pqtA">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=Mb0HzdtS-j4">
+    <img width="300" src="https://lh3.googleusercontent.com/QaBzLKxxurL-7hlJe7D33zTTbjgOGuIu_bB81Ni6zljQx_d87y3-5XGxJfXtqo8n8lExxGzEhK8pdVkiWg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 외대 옥상</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - GJD</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ GJD ]</b>
   
   <br />
   <br />
-  05/10/2022 10:35 Playing on YTMusic
+  05/10/2022 10:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
