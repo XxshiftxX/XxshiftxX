@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qmF6kUrdr-E">
-    <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
+  <a href="https://music.youtube.com/watch?v=qjlPUNPt2uw">
+    <img width="300" src="https://lh3.googleusercontent.com/94RVE0p_6LtJj5wfXE2l96hvgtErHXEVy2mYw3Xzla5Kp99CGspeWKrwwMzHIY0WntbGQFDScPf6BFqd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - I’m Hooked(feat. 나플라(nafla), 해쉬 스완(Hash Swan))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 시한부(feat. Leellamarz, Loco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2MONTHS ]</b>
+  included in <b>[ Curtain Call ]</b>
   
   <br />
   <br />
-  05/10/2022 10:49 Playing on YTMusic
+  05/10/2022 10:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
