@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CtZsohGuEYc">
-    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
+  <a href="https://music.youtube.com/watch?v=JSuOMvgXnaM">
+    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 - 같은 옷</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(feat. 오디(ODEE), 창모(CHANGMO), 해쉬 스완(Hash Swan), 도끼(Dok2))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
+  included in <b>[ Q Day (Remixes) ]</b>
   
   <br />
   <br />
-  05/10/2022 11:35 Playing on YTMusic
+  05/10/2022 11:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
