@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OlXr5YD-MWA">
-    <img width="300" src="https://lh3.googleusercontent.com/plFuJqbav1yVEIBP0i0lSwLm10agsJn_CRX3r4CtCYIL56_3VVxz-j9wyRMAkqOFHlILzK16Tixj0qc">
+  <a href="https://music.youtube.com/watch?v=wZgsxnYqHps">
+    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 정이라고 하자(feat. 10CM)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL - 검정색하트(feat. Leellamarz, BE′O)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 정이라고 하자 ]</b>
+  included in <b>[ Between Sat & Sun ]</b>
   
   <br />
   <br />
-  05/12/2022 15:44 Playing on YTMusic
+  05/12/2022 15:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
