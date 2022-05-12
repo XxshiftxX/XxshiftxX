@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=b63RXHteeQ0">
-    <img width="300" src="https://lh3.googleusercontent.com/Khbujpf3Vt7XREZy-SOLvYnfgFypr7KHSx_q9N5r8ezsGZkvVqCLom3-StWLtXJTY5mk2VMpZICPA4E">
+  <a href="https://music.youtube.com/watch?v=tKFNk6Z_VwM">
+    <img width="300" src="https://lh3.googleusercontent.com/ltDmtQpTt-z41MRAgNjc1NMl35I0L3DlCJjUvHSxOFSm9rS6w7gxKubAT7qZiR2taU4zf0GmCtmzTLI0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>unofficialboyy, HAIFHAIF - mmm (feat. oceanfromtheblue)(feat. oceanfromtheblue)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched (웨이체드) 및 unofficialboyy - 아이(feat. DON MALIK)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 그물,덫,발사대기,포획 ]</b>
+  included in <b>[ i ]</b>
   
   <br />
   <br />
-  05/12/2022 15:55 Playing on YTMusic
+  05/12/2022 15:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
