@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wNu_CmROgCg">
+  <a href="https://music.youtube.com/watch?v=KF4DCX7CqYc">
     <img width="300" src="https://lh3.googleusercontent.com/ltDmtQpTt-z41MRAgNjc1NMl35I0L3DlCJjUvHSxOFSm9rS6w7gxKubAT7qZiR2taU4zf0GmCtmzTLI0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched (웨이체드) 및 unofficialboyy - 길었던 겨울(feat. 화나)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched (웨이체드) 및 unofficialboyy - 새끼(feat. gamma)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ i ]</b>
   
   <br />
   <br />
-  05/12/2022 16:07 Playing on YTMusic
+  05/12/2022 16:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
