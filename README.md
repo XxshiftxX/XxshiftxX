@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/watch?v=qmF6kUrdr-E">
+    <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - I’m Hooked(feat. 나플라(nafla), 해쉬 스완(Hash Swan))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gettin Money Moment ]</b>
+  included in <b>[ 2MONTHS ]</b>
   
   <br />
   <br />
-  05/12/2022 15:36 Playing on YTMusic
+  05/12/2022 15:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
