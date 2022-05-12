@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qmF6kUrdr-E">
-    <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
+  <a href="https://music.youtube.com/watch?v=OlXr5YD-MWA">
+    <img width="300" src="https://lh3.googleusercontent.com/plFuJqbav1yVEIBP0i0lSwLm10agsJn_CRX3r4CtCYIL56_3VVxz-j9wyRMAkqOFHlILzK16Tixj0qc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - I’m Hooked(feat. 나플라(nafla), 해쉬 스완(Hash Swan))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 정이라고 하자(feat. 10CM)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2MONTHS ]</b>
+  included in <b>[ 정이라고 하자 ]</b>
   
   <br />
   <br />
-  05/12/2022 15:40 Playing on YTMusic
+  05/12/2022 15:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
