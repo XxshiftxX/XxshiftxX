@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=R_6GZYsBu30">
-    <img width="300" src="https://lh3.googleusercontent.com/5NjZiDy3KShHY_A0cC1vQeHcBZZZQOu_oJ-ubDAoHUgz6n-NfwbeM8F2Yai6x8gXrKdjkRKepOvzTOU9lw">
+  <a href="https://music.youtube.com/watch?v=KMvxAH-bRmw">
+    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>KIM SEUNG MIN - Chase the Star</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Joker(feat. JAMIE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Chase the Star ]</b>
+  included in <b>[ Bucket List ]</b>
   
   <br />
   <br />
-  05/13/2022 12:08 Playing on YTMusic
+  05/13/2022 12:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
