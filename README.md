@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0ilcX1d1c8Y">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=jkEJ9f6YrX4">
+    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - Xlove(feat. JAEHA, Loco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 뭐(feat. 원슈타인)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  05/13/2022 12:14 Playing on YTMusic
+  05/13/2022 12:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
