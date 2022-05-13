@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=z1Ci3DSPs0s">
+    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Vancouver</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ Lovey Dovey ]</b>
   
   <br />
   <br />
-  05/13/2022 11:50 Playing on YTMusic
+  05/13/2022 11:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
