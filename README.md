@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JQjhKE3kizA">
-    <img width="300" src="https://lh3.googleusercontent.com/541DwdbpWInYqM3uMG-kinHbVylCqAlQfM4sZ5XNh00mqP7Ip4oN4A4zsgViDYgfSs2AJuFw_g4VBQVj">
+  <a href="https://music.youtube.com/watch?v=Y93Jjvhz1jg">
+    <img width="300" src="https://lh3.googleusercontent.com/et3vkTyvvdHymJWjI_AgKejHob2BNaUzgvz-3J2O7WzoX-nqyI0-dVxkvVhSIwz-gzhRqZnv6PAE8R3J">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Gasoline</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Why do u say(feat. 문, ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gasoline ]</b>
+  included in <b>[ Why do u say ]</b>
   
   <br />
   <br />
-  05/22/2022 00:25 Playing on YTMusic
+  05/22/2022 00:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
