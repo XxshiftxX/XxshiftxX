@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CmpPaDwNYhA">
-    <img width="300" src="https://lh3.googleusercontent.com/ou5ffJL3t1BJyizawfstKbh-QBQgjAiaejcy8iHxBq-Ny9M0jsfSfxNndRLZXACFDMUGvK2b0nYb5SOL">
+  <a href="https://music.youtube.com/watch?v=BFrZg8CBb6s">
+    <img width="300" src="https://lh3.googleusercontent.com/89VCJCMrmW57xz3ujOfmpRn8wEWF5y7sjpcG7UiRKRLg-dW7DBrjszeDrvTReMsXghJiIL55Kava4YlZvg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI), 원슈타인 및 미란이 (Mirani) - HEAT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 - Right away(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HEAT ]</b>
+  included in <b>[ Right away ]</b>
   
   <br />
   <br />
-  05/22/2022 00:42 Playing on YTMusic
+  05/22/2022 00:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
