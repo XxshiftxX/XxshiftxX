@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8r2RdhPUQ3I">
-    <img width="300" src="https://lh3.googleusercontent.com/DD3Ec_SwiW9rMhKrD3XxYOA2zI5l4Ui4VGviJxq3H7V0SANL117GvQXt_ILaBhnWcptl71C__b8DQnxf">
+  <a href="https://music.youtube.com/watch?v=3KXmG1M7pZM">
+    <img width="300" src="https://lh3.googleusercontent.com/TM9MTZFymfFWZHbOgEqW_7Ns280vpHlDWo22yT0HLapH8lbxvkyiWKzVTpkrcIOJK-38VmizSN8bD3dgzw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - 멍 (Prod. SLO)(feat. GIST(윤현선), Rakon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈, TOIL - 자가격리(feat. 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 멍 (Feat. Gist, Rakon) (Prod. SLO) ]</b>
+  included in <b>[ 자가격리 ]</b>
   
   <br />
   <br />
-  05/22/2022 00:52 Playing on YTMusic
+  05/22/2022 00:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
