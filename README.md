@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IcdYxamomNU">
-    <img width="300" src="https://lh3.googleusercontent.com/-qyKNqReCTYXtkkwwp1lDOi88bLCiN9GC-6RYrqnwSipxVWGDCusdlyZLoEmzlGmzVR5TN31cuel9UoB">
+  <a href="https://music.youtube.com/watch?v=sm8i4f0Esqs">
+    <img width="300" src="https://lh3.googleusercontent.com/MogDVf1ED3qJMSQr-j7LMfMBlL0QfJBHrWGWCy8x46m6QXC-N9OTu3D1H_YC3-1Ed1KeU-dDGWsO6wM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Lambo!(feat. UNEDUCATED KID)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>뱃사공 Bassagong - TANG-A</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lambo! ]</b>
+  included in <b>[ Tang-A ]</b>
   
   <br />
   <br />
-  05/22/2022 02:34 Playing on YTMusic
+  05/22/2022 02:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
