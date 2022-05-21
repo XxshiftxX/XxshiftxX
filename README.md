@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Y93Jjvhz1jg">
-    <img width="300" src="https://lh3.googleusercontent.com/et3vkTyvvdHymJWjI_AgKejHob2BNaUzgvz-3J2O7WzoX-nqyI0-dVxkvVhSIwz-gzhRqZnv6PAE8R3J">
+  <a href="https://music.youtube.com/watch?v=WZnigdGYx-I">
+    <img width="300" src="https://lh3.googleusercontent.com/zj1Qc8H3gKpLBdKYbI-ksjD6irN3lvKLm-jtXaC3-PZ06YmdrCf47E52u9mbz0sWwHEyO-sbHGI3wJVw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Why do u say(feat. 문, ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모 (CHANGMO) - 이렇게 둘이</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Why do u say ]</b>
+  included in <b>[ 이렇게 둘이 ]</b>
   
   <br />
   <br />
-  05/22/2022 00:28 Playing on YTMusic
+  05/22/2022 00:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
