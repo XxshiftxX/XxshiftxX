@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LFQhBu5wi6g">
-    <img width="300" src="https://lh3.googleusercontent.com/GfKinqzZbWij0Krtq_pP8u5albGZHtcJ9INzQxOqvOSmm7X9-yYCRGKhvvtZpQr7xwDPcwhlMibQo9m9">
+  <a href="https://music.youtube.com/watch?v=E2t3Kb4srNA">
+    <img width="300" src="https://lh3.googleusercontent.com/xYh7NdmqmB3k15V7CnTosgv67AFqQo-xxoJQo05Oo1yXy4zLv2eOBVKKeytby6pi7HtXuwDrKK39Wphy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범 및 Spray - SHOWDOWN(feat. 릴보이 (lIlBOI))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gist - 디저트샵(feat. 황세현)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SHOWDOWN ]</b>
+  included in <b>[ Beginning ]</b>
   
   <br />
   <br />
-  05/22/2022 01:39 Playing on YTMusic
+  05/22/2022 01:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
