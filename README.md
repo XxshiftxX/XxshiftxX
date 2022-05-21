@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fwc3xyE17EY">
-    <img width="300" src="https://lh3.googleusercontent.com/PYL3tU5a2oj5KqkBodC7OE94QPcM-eBS0Qj_-Xu8535nEY8_IwkFFo2F1-BJ6H5ci52XnmhPw5qN9CLq">
+  <a href="https://music.youtube.com/watch?v=IcdYxamomNU">
+    <img width="300" src="https://lh3.googleusercontent.com/-qyKNqReCTYXtkkwwp1lDOi88bLCiN9GC-6RYrqnwSipxVWGDCusdlyZLoEmzlGmzVR5TN31cuel9UoB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL - Me(feat. Skinny Brown, Owen)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Lambo!(feat. UNEDUCATED KID)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Between Sat & Sun ]</b>
+  included in <b>[ Lambo! ]</b>
   
   <br />
   <br />
-  05/22/2022 02:32 Playing on YTMusic
+  05/22/2022 02:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
