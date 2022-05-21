@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3KXmG1M7pZM">
-    <img width="300" src="https://lh3.googleusercontent.com/TM9MTZFymfFWZHbOgEqW_7Ns280vpHlDWo22yT0HLapH8lbxvkyiWKzVTpkrcIOJK-38VmizSN8bD3dgzw">
+  <a href="https://music.youtube.com/watch?v=xI2hTdB2D3s">
+    <img width="300" src="https://lh3.googleusercontent.com/q1Z87ynp2MHkUwle8tQg5YqjDNnWRYldnMj34QJq_ze2u2HOhU0YQsav-cVSRHgIzUkVQXPHmKK5u9k">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈, TOIL - 자가격리(feat. 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Royal 44 - 할 것(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 자가격리 ]</b>
+  included in <b>[ Unwanted Life ]</b>
   
   <br />
   <br />
-  05/22/2022 00:55 Playing on YTMusic
+  05/22/2022 00:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
