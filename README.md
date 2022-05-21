@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hkfkOC4vIS0">
-    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
+  <a href="https://music.youtube.com/watch?v=OGp2xeT4sX8">
+    <img width="300" src="https://lh3.googleusercontent.com/ltDmtQpTt-z41MRAgNjc1NMl35I0L3DlCJjUvHSxOFSm9rS6w7gxKubAT7qZiR2taU4zf0GmCtmzTLI0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 및 Jvcki Wai - KOCEAN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched (웨이체드) 및 unofficialboyy - 탓(feat. gamma)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Maiden Voyage III ]</b>
+  included in <b>[ i ]</b>
   
   <br />
   <br />
-  05/22/2022 01:06 Playing on YTMusic
+  05/22/2022 01:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
