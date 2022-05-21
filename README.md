@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xI2hTdB2D3s">
-    <img width="300" src="https://lh3.googleusercontent.com/q1Z87ynp2MHkUwle8tQg5YqjDNnWRYldnMj34QJq_ze2u2HOhU0YQsav-cVSRHgIzUkVQXPHmKK5u9k">
+  <a href="https://music.youtube.com/watch?v=dI3GK5wMZzU">
+    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Royal 44 - 할 것(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - Misfits(feat. MELOH, Kid Wine)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Unwanted Life ]</b>
+  included in <b>[ Berry Loves My Mood ]</b>
   
   <br />
   <br />
-  05/22/2022 00:59 Playing on YTMusic
+  05/22/2022 01:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
