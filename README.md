@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BFrZg8CBb6s">
-    <img width="300" src="https://lh3.googleusercontent.com/89VCJCMrmW57xz3ujOfmpRn8wEWF5y7sjpcG7UiRKRLg-dW7DBrjszeDrvTReMsXghJiIL55Kava4YlZvg">
+  <a href="https://music.youtube.com/watch?v=t2Dt5R6OyfY">
+    <img width="300" src="https://lh3.googleusercontent.com/jBpSw5ypZvURv44VloFWYSCW69DFqy5gsa45hyM3uX-glxbmh0TqUcFQDByWeatU5DqjELXz1yVjrKoJ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 - Right away(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아우릴고트 (Ourealgoat) - 악착같이 (Feat. 호미들)(feat. 호미들)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Right away ]</b>
+  included in <b>[ 죽을힘을 다하여 ]</b>
   
   <br />
   <br />
-  05/22/2022 00:45 Playing on YTMusic
+  05/22/2022 00:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
