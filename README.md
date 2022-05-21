@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=b6RN9WxKxAw">
-    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
+  <a href="https://music.youtube.com/watch?v=PK4ljesG8s0">
+    <img width="300" src="https://lh3.googleusercontent.com/rHrfedpZx3fRM0d9CEKYFZgjntyBw6jxTxXMiK0weDD6H1RF_pI4hapzYShlQ74ar6PyBFXLEum5rbY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Lovey Dovey(feat. meenoi (미노이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 - GANADARA(feat. 아이유)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lovey Dovey ]</b>
+  included in <b>[ GANADARA ]</b>
   
   <br />
   <br />
-  05/22/2022 00:35 Playing on YTMusic
+  05/22/2022 00:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
