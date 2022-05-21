@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3cfxUqfkcM4">
-    <img width="300" src="https://lh3.googleusercontent.com/o0-tMqhTIpoQrFLiXDCJn5SkDdR6tkMH7QTZf587sCBLOhwGHcqDiBj3FQlRFiNOc8g-IZYElgyWL40">
+  <a href="https://music.youtube.com/watch?v=4IRBsQYY5QY">
+    <img width="300" src="https://lh3.googleusercontent.com/jgsMWqIQmxoS2GqJiSHeA9H5sKIdvoA2uMO4Wi_w7vRMQrWO7g7O4I4-GRfWxOimEq9WuFsElcGxlJNn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토, 조현아, 해쉬 스완(Hash Swan) 및 디보 - Happy Call (from "GANG生 Project")</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Daisy(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Happy Call (from "GANG生 Project") ]</b>
+  included in <b>[ Daisy ]</b>
   
   <br />
   <br />
-  05/22/2022 01:17 Playing on YTMusic
+  05/22/2022 01:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
