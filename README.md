@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bfn3BMV3LOQ">
+  <a href="https://music.youtube.com/watch?v=qAa4yGs1l5I">
     <img width="300" src="https://lh3.googleusercontent.com/YPKnwvojaZyFM25Axo6q_xk0m1IqrXLJpVYP1_310BV7V_WO3K0JgZ87HYWsCechXbgbLVTFJcL7FVA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - 하지마</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - 분리불안(feat. JAEHA)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ TOYSTORY3 ]</b>
   
   <br />
   <br />
-  05/23/2022 11:16 Playing on YTMusic
+  05/23/2022 11:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
