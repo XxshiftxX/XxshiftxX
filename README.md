@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JQjhKE3kizA">
-    <img width="300" src="https://lh3.googleusercontent.com/541DwdbpWInYqM3uMG-kinHbVylCqAlQfM4sZ5XNh00mqP7Ip4oN4A4zsgViDYgfSs2AJuFw_g4VBQVj">
+  <a href="https://music.youtube.com/watch?v=b28uZ1hNeJU">
+    <img width="300" src="https://i.ytimg.com/vi/b28uZ1hNeJU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Gasoline</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>#yeLocDirAe 옐럭 - [playlist] 너무 과하지 않는 일렉에 그렇지 못한 텐션 EDM모음 #2</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gasoline ]</b>
+  included in <b>[ 조회수 58만회 ]</b>
   
   <br />
   <br />
-  05/24/2022 11:11 Playing on YTMusic
+  05/24/2022 20:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
