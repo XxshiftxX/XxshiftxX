@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ft4gS5EwOE8">
-    <img width="300" src="https://lh3.googleusercontent.com/t2i6Uai4wVSRhZ8Adgmos5FBOFTWU8-rmdidwr7kbxGWBivCQzwbY2FZ5053B1Qi7hJJjwne860kxp2LFg">
+  <a href="https://music.youtube.com/watch?v=IcdYxamomNU">
+    <img width="300" src="https://lh3.googleusercontent.com/-qyKNqReCTYXtkkwwp1lDOi88bLCiN9GC-6RYrqnwSipxVWGDCusdlyZLoEmzlGmzVR5TN31cuel9UoB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND 및 그루비룸 (GroovyRoom) - 잡아줄게</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Lambo!(feat. UNEDUCATED KID)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 잡아줄게 ]</b>
+  included in <b>[ Lambo! ]</b>
   
   <br />
   <br />
-  05/25/2022 16:47 Playing on YTMusic
+  05/25/2022 16:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
