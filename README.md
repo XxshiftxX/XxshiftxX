@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JAhw8Pg78B0">
-    <img width="300" src="https://lh3.googleusercontent.com/yho9-U06GXUYty19tSZzfaL6sxmd4yBYHnSHzrnSkPIh27RvZ4yDFlON_swUpbRKPJ3HIG0lj_WdsR-T">
+  <a href="https://music.youtube.com/watch?v=wm_OO19pqtA">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 외대 옥상</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BAMBOOCLUB[A] ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  05/25/2022 14:34 Playing on YTMusic
+  05/25/2022 14:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
