@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IcdYxamomNU">
-    <img width="300" src="https://lh3.googleusercontent.com/-qyKNqReCTYXtkkwwp1lDOi88bLCiN9GC-6RYrqnwSipxVWGDCusdlyZLoEmzlGmzVR5TN31cuel9UoB">
+  <a href="https://music.youtube.com/watch?v=b6RN9WxKxAw">
+    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Lambo!(feat. UNEDUCATED KID)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Lovey Dovey(feat. meenoi (미노이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lambo! ]</b>
+  included in <b>[ Lovey Dovey ]</b>
   
   <br />
   <br />
-  05/25/2022 16:50 Playing on YTMusic
+  05/25/2022 16:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
