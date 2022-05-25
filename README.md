@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BFrZg8CBb6s">
-    <img width="300" src="https://lh3.googleusercontent.com/89VCJCMrmW57xz3ujOfmpRn8wEWF5y7sjpcG7UiRKRLg-dW7DBrjszeDrvTReMsXghJiIL55Kava4YlZvg">
+  <a href="https://music.youtube.com/watch?v=3KXmG1M7pZM">
+    <img width="300" src="https://lh3.googleusercontent.com/TM9MTZFymfFWZHbOgEqW_7Ns280vpHlDWo22yT0HLapH8lbxvkyiWKzVTpkrcIOJK-38VmizSN8bD3dgzw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 - Right away(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈, TOIL - 자가격리(feat. 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Right away ]</b>
+  included in <b>[ 자가격리 ]</b>
   
   <br />
   <br />
-  05/25/2022 17:14 Playing on YTMusic
+  05/25/2022 17:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
