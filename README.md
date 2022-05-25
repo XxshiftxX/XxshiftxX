@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3KXmG1M7pZM">
-    <img width="300" src="https://lh3.googleusercontent.com/TM9MTZFymfFWZHbOgEqW_7Ns280vpHlDWo22yT0HLapH8lbxvkyiWKzVTpkrcIOJK-38VmizSN8bD3dgzw">
+  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
+    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈, TOIL - 자가격리(feat. 팔로알토)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 자가격리 ]</b>
+  included in <b>[ BROKEN FERRARI ]</b>
   
   <br />
   <br />
-  05/25/2022 17:17 Playing on YTMusic
+  05/25/2022 17:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
