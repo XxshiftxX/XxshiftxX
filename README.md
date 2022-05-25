@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
-    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
+  <a href="https://music.youtube.com/watch?v=En3KKE89QRs">
+    <img width="300" src="https://lh3.googleusercontent.com/o_lEOyAwT9ztDCt573QkYe2m07MBC4J1crLJOR9_m8OxhsdgvmRZVdCiYKId6K-kbKV6Llg9CfrImQNv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie - POW(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 논해 ]</b>
+  included in <b>[ POW ]</b>
   
   <br />
   <br />
-  05/25/2022 15:18 Playing on YTMusic
+  05/25/2022 15:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
