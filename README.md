@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ctrtBu3DpU8">
-    <img width="300" src="https://lh3.googleusercontent.com/jgjqiwxjqdd1Q6Gcey-o8tF70LP2mnOKJWZqNDOfJLInwxWpCYG0y2Rx_5geOORBiCo23DYMNVeCMrI">
+  <a href="https://music.youtube.com/watch?v=7KG_qpYt_g0">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Coogie - Life Goes On(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 내 기쁨은 너가 벤틀리를 끄는 거야</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Goes On ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  05/25/2022 15:52 Playing on YTMusic
+  05/25/2022 16:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
