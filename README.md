@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CmpPaDwNYhA">
-    <img width="300" src="https://lh3.googleusercontent.com/ou5ffJL3t1BJyizawfstKbh-QBQgjAiaejcy8iHxBq-Ny9M0jsfSfxNndRLZXACFDMUGvK2b0nYb5SOL">
+  <a href="https://music.youtube.com/watch?v=t2Dt5R6OyfY">
+    <img width="300" src="https://lh3.googleusercontent.com/jBpSw5ypZvURv44VloFWYSCW69DFqy5gsa45hyM3uX-glxbmh0TqUcFQDByWeatU5DqjELXz1yVjrKoJ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI), 원슈타인 및 미란이 (Mirani) - HEAT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아우릴고트 (Ourealgoat) - 악착같이 (Feat. 호미들)(feat. 호미들)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HEAT ]</b>
+  included in <b>[ 죽을힘을 다하여 ]</b>
   
   <br />
   <br />
-  05/25/2022 15:40 Playing on YTMusic
+  05/25/2022 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
