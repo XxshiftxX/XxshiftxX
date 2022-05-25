@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TdXB_mBNo_4">
-    <img width="300" src="https://lh3.googleusercontent.com/Ao1UBDJZMZgqyItHQk0lFIHOIknVIeq7LT7V6Yp-qzvsQ5E8GGw9PM5rr2umfHGmVAy3ldvPSDsKthag">
+  <a href="https://music.youtube.com/watch?v=zcm6b9661no">
+    <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 휘파람</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - OUT OF MY SIGHT</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 휘파람 ]</b>
+  included in <b>[ VIOLINIST2 ]</b>
   
   <br />
   <br />
-  05/25/2022 15:24 Playing on YTMusic
+  05/25/2022 15:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
