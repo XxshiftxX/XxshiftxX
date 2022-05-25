@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8r2RdhPUQ3I">
-    <img width="300" src="https://lh3.googleusercontent.com/DD3Ec_SwiW9rMhKrD3XxYOA2zI5l4Ui4VGviJxq3H7V0SANL117GvQXt_ILaBhnWcptl71C__b8DQnxf">
+  <a href="https://music.youtube.com/watch?v=LFQhBu5wi6g">
+    <img width="300" src="https://lh3.googleusercontent.com/GfKinqzZbWij0Krtq_pP8u5albGZHtcJ9INzQxOqvOSmm7X9-yYCRGKhvvtZpQr7xwDPcwhlMibQo9m9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - 멍 (Prod. SLO)(feat. GIST(윤현선), Rakon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 및 Spray - SHOWDOWN(feat. 릴보이 (lIlBOI))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 멍 (Feat. Gist, Rakon) (Prod. SLO) ]</b>
+  included in <b>[ SHOWDOWN ]</b>
   
   <br />
   <br />
-  05/25/2022 16:26 Playing on YTMusic
+  05/25/2022 16:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
