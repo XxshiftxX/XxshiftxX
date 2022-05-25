@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WZnigdGYx-I">
-    <img width="300" src="https://lh3.googleusercontent.com/zj1Qc8H3gKpLBdKYbI-ksjD6irN3lvKLm-jtXaC3-PZ06YmdrCf47E52u9mbz0sWwHEyO-sbHGI3wJVw">
+  <a href="https://music.youtube.com/watch?v=z1Ci3DSPs0s">
+    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모 (CHANGMO) - 이렇게 둘이</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Vancouver</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 이렇게 둘이 ]</b>
+  included in <b>[ Lovey Dovey ]</b>
   
   <br />
   <br />
-  05/25/2022 14:41 Playing on YTMusic
+  05/25/2022 14:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
