@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
-    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
+  <a href="https://music.youtube.com/watch?v=C-bjA7WbnCg">
+    <img width="300" src="https://lh3.googleusercontent.com/kIt6by_WM9Uoyn4dD61rOs-BrpAFaji1mx212T7OKMrsin0NtBTrLj7CPJ-7vYqqIrojoNKYlWf72HFT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Peace Out (MEGA MIX) , oceanfromtheblue, TRADE L, 펀치넬로 (punchnello), 에이체스 (A-Chess), DON MALIK (던말릭), Khakii (카키), Polodared, Dive (다이브), 키모엘 (Kimo:L)) (Prod. Yoon)(feat. Don Mills, 안병웅, San E, Chillin Homie)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BROKEN FERRARI ]</b>
+  included in <b>[ Peace Out MEGA MIX ]</b>
   
   <br />
   <br />
-  05/25/2022 17:21 Playing on YTMusic
+  05/25/2022 17:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
