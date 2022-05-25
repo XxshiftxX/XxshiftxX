@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Eo5mbMIJD6I">
-    <img width="300" src="https://lh3.googleusercontent.com/5cDoEgRLu8GAOkS2Ol8Yl8lwfeNYcH7HQB8p-taVphV2NuED4NgmBS75Zbc9A1AEGdVOXHHDb8Su1-o">
+  <a href="https://music.youtube.com/watch?v=wagnsSmX5IE">
+    <img width="300" src="https://lh3.googleusercontent.com/neFCDNLXtdAblcvgUYFcWrhdW7ecksZcxdHB72B3yz-vGHvDHPkyYs0SN4zGHKoG2Op1wguXCaFIPQI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Minit - Drama(feat. Skinny Brown, SINCE, 안병웅, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) - 단추</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Drama (Feat. Skinny Brown, SINCE, 안병웅) ]</b>
+  included in <b>[ 모래성 ]</b>
   
   <br />
   <br />
-  05/25/2022 16:39 Playing on YTMusic
+  05/25/2022 16:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
