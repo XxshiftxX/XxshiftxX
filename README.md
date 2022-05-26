@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E7gg5sjEWd0">
-    <img width="300" src="https://lh3.googleusercontent.com/REfkRZ_IlxP0N0qqL0bmYeKY6nwsgYbAlAbnvE7JQCa_SFjQaM44OC_3hCo2xYWw-LB2rBsRGd-z1D2S">
+  <a href="https://music.youtube.com/watch?v=g2m5bVadulM">
+    <img width="300" src="https://lh3.googleusercontent.com/QeJD_zH-HZc3TklywNo9mJvjn98noYbEAxiKH7Ns394o02pDwUfnYN-rQAEYuJM-5MFeo_Ux_QhgIHg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Skinny Brown - 지켜야해(feat. Coogie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범(Jay Park) 및 Woo - ENGINE.</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Berry Loves My Mood ]</b>
+  included in <b>[ ENGINE. ]</b>
   
   <br />
   <br />
-  05/27/2022 00:09 Playing on YTMusic
+  05/27/2022 00:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
