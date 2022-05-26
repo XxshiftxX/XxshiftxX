@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JQjhKE3kizA">
-    <img width="300" src="https://lh3.googleusercontent.com/541DwdbpWInYqM3uMG-kinHbVylCqAlQfM4sZ5XNh00mqP7Ip4oN4A4zsgViDYgfSs2AJuFw_g4VBQVj">
+  <a href="https://music.youtube.com/watch?v=JAhw8Pg78B0">
+    <img width="300" src="https://lh3.googleusercontent.com/yho9-U06GXUYty19tSZzfaL6sxmd4yBYHnSHzrnSkPIh27RvZ4yDFlON_swUpbRKPJ3HIG0lj_WdsR-T">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Gasoline</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gasoline ]</b>
+  included in <b>[ BAMBOOCLUB[A] ]</b>
   
   <br />
   <br />
-  05/26/2022 23:48 Playing on YTMusic
+  05/26/2022 23:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
