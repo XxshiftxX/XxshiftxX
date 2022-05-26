@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=g2m5bVadulM">
-    <img width="300" src="https://lh3.googleusercontent.com/QeJD_zH-HZc3TklywNo9mJvjn98noYbEAxiKH7Ns394o02pDwUfnYN-rQAEYuJM-5MFeo_Ux_QhgIHg">
+  <a href="https://music.youtube.com/watch?v=8r2RdhPUQ3I">
+    <img width="300" src="https://lh3.googleusercontent.com/DD3Ec_SwiW9rMhKrD3XxYOA2zI5l4Ui4VGviJxq3H7V0SANL117GvQXt_ILaBhnWcptl71C__b8DQnxf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범(Jay Park) 및 Woo - ENGINE.</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - 멍 (Prod. SLO)(feat. GIST(윤현선), Rakon)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ENGINE. ]</b>
+  included in <b>[ 멍 (Feat. Gist, Rakon) (Prod. SLO) ]</b>
   
   <br />
   <br />
-  05/27/2022 00:13 Playing on YTMusic
+  05/27/2022 00:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
