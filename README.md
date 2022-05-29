@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OKzGpxtV6iY">
-    <img width="300" src="https://lh3.googleusercontent.com/pIAag8iefzq3A0Pkm-rETVve-i5uMMVCgbrQA8Spz0gM6LGSJyynMPlA37QGuIWhzdtE3CM0k_q1cBk5">
+  <a href="https://music.youtube.com/watch?v=VSlMBv-KriE">
+    <img width="300" src="https://i.ytimg.com/vi/VSlMBv-KriE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코, SUMI - 눈에 넣어도</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Electric Sounds - 🎵 Kawaii EDM & Future Bass Mix 2021 🎵 ʕ•ᴥ•ʔ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 눈에 넣어도 ]</b>
+  included in <b>[ 조회수 79만회 ]</b>
   
   <br />
   <br />
-  05/27/2022 00:19 Playing on YTMusic
+  05/30/2022 00:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
