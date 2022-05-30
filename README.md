@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=s6bx7MCEZ6Y">
-    <img width="300" src="https://lh3.googleusercontent.com/XTmBOdn5n56NOMcV20aatoNsnhxr3HmGH4rXZgAYEC6YYNdT0OFu07kXQ7lFBugM4xNlyJFlrQELrtog">
+  <a href="https://music.youtube.com/watch?v=JQjhKE3kizA">
+    <img width="300" src="https://lh3.googleusercontent.com/541DwdbpWInYqM3uMG-kinHbVylCqAlQfM4sZ5XNh00mqP7Ip4oN4A4zsgViDYgfSs2AJuFw_g4VBQVj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Selfmade Orange(feat. SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Gasoline</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dnsg ]</b>
+  included in <b>[ Gasoline ]</b>
   
   <br />
   <br />
-  05/30/2022 23:19 Playing on YTMusic
+  05/30/2022 23:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
