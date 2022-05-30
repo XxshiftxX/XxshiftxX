@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7KG_qpYt_g0">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=WZnigdGYx-I">
+    <img width="300" src="https://lh3.googleusercontent.com/zj1Qc8H3gKpLBdKYbI-ksjD6irN3lvKLm-jtXaC3-PZ06YmdrCf47E52u9mbz0sWwHEyO-sbHGI3wJVw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 내 기쁨은 너가 벤틀리를 끄는 거야</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모 (CHANGMO) - 이렇게 둘이</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ 이렇게 둘이 ]</b>
   
   <br />
   <br />
-  05/30/2022 10:53 Playing on YTMusic
+  05/30/2022 10:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
