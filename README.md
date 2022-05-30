@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7LpiHtrg_0g">
-    <img width="300" src="https://lh3.googleusercontent.com/2yroTAbb-KNKNmBssGE1caxC7lPoqTr100cDAE5Wvo-bc9l1NyHmdNaRBrJWfK4KVPgPyFs-_Mc9HgaC">
+  <a href="https://music.youtube.com/watch?v=0tyznwCDUYI">
+    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(feat. 이케이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Villain(feat. LeeHi, 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ One of Them ]</b>
+  included in <b>[ Show Me the Money 9 Semi Final ]</b>
   
   <br />
   <br />
-  05/31/2022 00:52 Playing on YTMusic
+  05/31/2022 00:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
