@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-TGBhF2PVE8">
-    <img width="300" src="https://lh3.googleusercontent.com/k2wRvkSpnpeSezE0EPjxlyWQLSKXexWKHBtHsdOnD4B8R1vPPXjkHroPlPWsjCSN_bMRw0TFdlirfWk">
+  <a href="https://music.youtube.com/watch?v=T13IcJTSS14">
+    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - UP해(feat. Jay Park, Woo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이), pH-1 및 김하온(HAON) - Me&Bae</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Final ]</b>
+  included in <b>[ H1GHR : BLUE TAPE ]</b>
   
   <br />
   <br />
-  05/31/2022 00:43 Playing on YTMusic
+  05/31/2022 00:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
