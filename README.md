@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NV2Dlbg_F_E">
-    <img width="300" src="https://lh3.googleusercontent.com/M21Tzzxp57ziZMaRI_G9vNjwFyyqbG6928DzT_DPvcbutGQGHLIMt3xJWHnGLx9UbIgAOE2fm1fqqNO0">
+  <a href="https://music.youtube.com/watch?v=9oI79ezMO9Y">
+    <img width="300" src="https://lh3.googleusercontent.com/bEOpWIe3QXhvfKlDJsp6knqoKTxphQAoAEZxqE6ym0tcrfh9AhJ49R9qQB6tDik9nZTci3aKd1u5NF1R">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - 사랑해줄래(feat. MELOH)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - Fix you (1393)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 사랑해줄래 ]</b>
+  included in <b>[ Fix you ]</b>
   
   <br />
   <br />
-  05/30/2022 23:30 Playing on YTMusic
+  05/30/2022 23:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
