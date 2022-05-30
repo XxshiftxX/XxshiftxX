@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JQjhKE3kizA">
-    <img width="300" src="https://lh3.googleusercontent.com/541DwdbpWInYqM3uMG-kinHbVylCqAlQfM4sZ5XNh00mqP7Ip4oN4A4zsgViDYgfSs2AJuFw_g4VBQVj">
+  <a href="https://music.youtube.com/watch?v=jkEJ9f6YrX4">
+    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Gasoline</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 뭐(feat. 원슈타인)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gasoline ]</b>
+  included in <b>[ I Got A Feeling ]</b>
   
   <br />
   <br />
-  05/30/2022 23:24 Playing on YTMusic
+  05/30/2022 23:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
