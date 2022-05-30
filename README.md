@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-fAWf3LO6ac">
+  <a href="https://music.youtube.com/watch?v=N87whITNgEo">
     <img width="300" src="https://lh3.googleusercontent.com/0oXfrcDjFsmxUaAqeKkFSjTka7fKwxJsVeGLaozBQL5kvLSHwBsAsDH2KbjBs7Ca4FUxvsXsrR6kRZ4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - 멍(feat. GIST(윤현선), Rakon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - 어쨌거나</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ The Last Boy In The Class 2 ]</b>
   
   <br />
   <br />
-  05/30/2022 22:48 Playing on YTMusic
+  05/30/2022 22:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
