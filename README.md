@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=b6RN9WxKxAw">
-    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
+  <a href="https://music.youtube.com/watch?v=hrVXhclJ5k0">
+    <img width="300" src="https://lh3.googleusercontent.com/zSUStN67HO7TfCGRREl0rlLK1BYY-clNt30pzmJd7l9I13owoE7KTYcAt-T1j1_bdouzWkO19llSjOvs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Lovey Dovey(feat. meenoi (미노이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 불로부터</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lovey Dovey ]</b>
+  included in <b>[ 22522 ]</b>
   
   <br />
   <br />
-  05/30/2022 23:02 Playing on YTMusic
+  05/30/2022 23:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
