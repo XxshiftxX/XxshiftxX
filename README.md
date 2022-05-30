@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pFyBFbu8Z30">
-    <img width="300" src="https://lh3.googleusercontent.com/edSkCI8AMWXJZenSGwuLflyIJonpVLJwmKcIGO2kqJoFLHQE5ygLjaIbUaUttPWo6CUL76ZWB9gquW2t">
+  <a href="https://music.youtube.com/watch?v=IIiDW8dKokQ">
+    <img width="300" src="https://lh3.googleusercontent.com/0oXfrcDjFsmxUaAqeKkFSjTka7fKwxJsVeGLaozBQL5kvLSHwBsAsDH2KbjBs7Ca4FUxvsXsrR6kRZ4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - CITY LOVE (서울) (Prod. by GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - Fxcked Up(feat. BIGONE (빅원), BIGONE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Feel The Rhythm Of Korea Part 1 ]</b>
+  included in <b>[ The Last Boy In The Class 2 ]</b>
   
   <br />
   <br />
-  05/30/2022 11:09 Playing on YTMusic
+  05/30/2022 22:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
