@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gugcp0aKtFI">
-    <img width="300" src="https://lh3.googleusercontent.com/cqooKcsRLjJ0MAc0jgR8UhZ-Sz0uo9lMW8qH6JtDpZeykHaor1yFUlHAzFW9-ojtCM0Ec4jY8Tw2rqKTHg">
+  <a href="https://music.youtube.com/watch?v=iwwb-HDfF9I">
+    <img width="300" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 다 그대로</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 오아시스</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GENERATION ]</b>
+  included in <b>[ 엑시브 ]</b>
   
   <br />
   <br />
-  05/31/2022 00:03 Playing on YTMusic
+  05/31/2022 00:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
