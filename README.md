@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Di2wEbQ-_yE">
+  <a href="https://music.youtube.com/watch?v=3C5XzLhKDhI">
     <img width="300" src="https://lh3.googleusercontent.com/0oXfrcDjFsmxUaAqeKkFSjTka7fKwxJsVeGLaozBQL5kvLSHwBsAsDH2KbjBs7Ca4FUxvsXsrR6kRZ4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - ROCK A BILLY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - 이겨내(feat. 릴러말즈 (Leellamarz), Blase(블라세), Leellamarz, Blase)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ The Last Boy In The Class 2 ]</b>
   
   <br />
   <br />
-  05/30/2022 22:36 Playing on YTMusic
+  05/30/2022 22:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
