@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DOgMJLx_USc">
+  <a href="https://music.youtube.com/watch?v=Bb-CUTBec34">
     <img width="300" src="https://lh3.googleusercontent.com/0oXfrcDjFsmxUaAqeKkFSjTka7fKwxJsVeGLaozBQL5kvLSHwBsAsDH2KbjBs7Ca4FUxvsXsrR6kRZ4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - Internet Love (feat. Dikkboy)(feat. Dikkboy)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - LAST GIRL(feat. 디핵(D-Hack), D-HACK)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ The Last Boy In The Class 2 ]</b>
   
   <br />
   <br />
-  05/30/2022 22:29 Playing on YTMusic
+  05/30/2022 22:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
