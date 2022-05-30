@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xt_d5aglgCM">
-    <img width="300" src="https://lh3.googleusercontent.com/YPKnwvojaZyFM25Axo6q_xk0m1IqrXLJpVYP1_310BV7V_WO3K0JgZ87HYWsCechXbgbLVTFJcL7FVA">
+  <a href="https://music.youtube.com/watch?v=3D9ehtpRl5c">
+    <img width="300" src="https://lh3.googleusercontent.com/QTh_77vuKnS1-XYz8PgipdIaULiGPmidjrisbawoq0URL8EOKjXdVf9bTVBHq6AVrJnCpsNFWNaNUF0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - STORY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Paranoid</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOYSTORY3 ]</b>
+  included in <b>[ ASH ]</b>
   
   <br />
   <br />
-  05/30/2022 23:57 Playing on YTMusic
+  05/31/2022 00:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
