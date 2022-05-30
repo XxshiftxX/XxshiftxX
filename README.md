@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rtv37yQMYvs">
-    <img width="300" src="https://lh3.googleusercontent.com/cslxPYwAbjWEPeK4eDopukdgDnlXeh8mJlk1GrFliYc8qxbzIJ5pvqIJ8Qak7HS5vdzL0-mjQw6wUKgQPA">
+  <a href="https://music.youtube.com/watch?v=oTth_Tm-LaQ">
+    <img width="300" src="https://lh3.googleusercontent.com/SeDzBretGLyPpmaKKgwQVAsIW9JV3KWQHOCZtPXGCrPIf5Kn7t-WUgYiI1s24qhNYCxR0uoUmZ_dD0f1-w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김민규(Young Kay) 및 GI$T(윤현선) - Wishing On A Star</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 TOIL - Don't Flex on me(feat. 제이씨 유카, 김효은)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ School Rapper3 Team-Battle, Pt. 1 ]</b>
+  included in <b>[ 토끼니브라운 ]</b>
   
   <br />
   <br />
-  05/31/2022 00:35 Playing on YTMusic
+  05/31/2022 00:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
