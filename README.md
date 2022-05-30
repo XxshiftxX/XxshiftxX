@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7srrHWLZ8Ms">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=s6bx7MCEZ6Y">
+    <img width="300" src="https://lh3.googleusercontent.com/XTmBOdn5n56NOMcV20aatoNsnhxr3HmGH4rXZgAYEC6YYNdT0OFu07kXQ7lFBugM4xNlyJFlrQELrtog">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - Cyanide(feat. Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Selfmade Orange(feat. SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ Dnsg ]</b>
   
   <br />
   <br />
-  05/30/2022 23:16 Playing on YTMusic
+  05/30/2022 23:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
