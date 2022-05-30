@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9oI79ezMO9Y">
-    <img width="300" src="https://lh3.googleusercontent.com/bEOpWIe3QXhvfKlDJsp6knqoKTxphQAoAEZxqE6ym0tcrfh9AhJ49R9qQB6tDik9nZTci3aKd1u5NF1R">
+  <a href="https://music.youtube.com/watch?v=fcOJPEqoEHc">
+    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스키니 브라운 - Fix you (1393)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범, Golden 및 pH-1 - Afternoon</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fix you ]</b>
+  included in <b>[ H1GHR : BLUE TAPE ]</b>
   
   <br />
   <br />
-  05/30/2022 23:34 Playing on YTMusic
+  05/30/2022 23:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
