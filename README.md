@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=z1Ci3DSPs0s">
-    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
+  <a href="https://music.youtube.com/watch?v=3KXmG1M7pZM">
+    <img width="300" src="https://lh3.googleusercontent.com/TM9MTZFymfFWZHbOgEqW_7Ns280vpHlDWo22yT0HLapH8lbxvkyiWKzVTpkrcIOJK-38VmizSN8bD3dgzw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Vancouver</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈, TOIL - 자가격리(feat. 팔로알토)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lovey Dovey ]</b>
+  included in <b>[ 자가격리 ]</b>
   
   <br />
   <br />
-  05/30/2022 10:45 Playing on YTMusic
+  05/30/2022 10:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
