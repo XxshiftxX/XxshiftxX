@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EmljXU2AJCk">
-    <img width="300" src="https://lh3.googleusercontent.com/LDXm819odQ8SrkcnU0MLr1J-24A1Z_fk5GoM2CkOps63_PZJaWQS4e_U7y1QmEmYDeDWXNazPQ1J5xM">
+  <a href="https://music.youtube.com/watch?v=7KG_qpYt_g0">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 22(feat. 최정윤)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kim SeungMin - 내 기쁨은 너가 벤틀리를 끄는 거야</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DEMOTAPE ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  05/31/2022 00:10 Playing on YTMusic
+  05/31/2022 00:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
