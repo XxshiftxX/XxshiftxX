@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
-    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
+  <a href="https://music.youtube.com/watch?v=pFyBFbu8Z30">
+    <img width="300" src="https://lh3.googleusercontent.com/edSkCI8AMWXJZenSGwuLflyIJonpVLJwmKcIGO2kqJoFLHQE5ygLjaIbUaUttPWo6CUL76ZWB9gquW2t">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh! - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - CITY LOVE (서울) (Prod. by GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ business boy ]</b>
+  included in <b>[ Feel The Rhythm Of Korea Part 1 ]</b>
   
   <br />
   <br />
-  05/30/2022 11:05 Playing on YTMusic
+  05/30/2022 11:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
