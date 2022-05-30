@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=W2rvTgygYqk">
-    <img width="300" src="https://lh3.googleusercontent.com/UvLajZSCO_sk9m6VUOufTfnYynWdBwctT6ydHFei0iYa6y7lASUwgE4VouEzc4BCF7j5pN6SLFU2KJo8">
+  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>재하 - 끝이라고 말하지 마(feat. 래원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life Like Last 18 ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  05/31/2022 00:25 Playing on YTMusic
+  05/31/2022 00:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
