@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4XLCEEvLEB4">
-    <img width="300" src="https://lh3.googleusercontent.com/eScm1LzNLwusg8llNCiz6e97URDAXkc8nQU07i7BbI-eFQv1_lS7o2-yI17HJWq2cLDD6x5GNBZPfLk">
+  <a href="https://music.youtube.com/watch?v=b6RN9WxKxAw">
+    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - Bad News Cypher vol.2(feat. TakeOne)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Lovey Dovey(feat. meenoi (미노이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Semi Final ]</b>
+  included in <b>[ Lovey Dovey ]</b>
   
   <br />
   <br />
-  05/30/2022 22:58 Playing on YTMusic
+  05/30/2022 23:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
