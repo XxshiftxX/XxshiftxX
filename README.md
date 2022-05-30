@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=T13IcJTSS14">
-    <img width="300" src="https://lh3.googleusercontent.com/tEn_6ID5ENGsEnWTNSuMmMuxmH-1Q2PqN5kdsoTQxj0h_SCiZHfYxcMhNq-6mPxIM5rv7lAtZbUPG-A">
+  <a href="https://music.youtube.com/watch?v=7LpiHtrg_0g">
+    <img width="300" src="https://lh3.googleusercontent.com/2yroTAbb-KNKNmBssGE1caxC7lPoqTr100cDAE5Wvo-bc9l1NyHmdNaRBrJWfK4KVPgPyFs-_Mc9HgaC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sik-K(식케이), pH-1 및 김하온(HAON) - Me&Bae</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(feat. 이케이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ H1GHR : BLUE TAPE ]</b>
+  included in <b>[ One of Them ]</b>
   
   <br />
   <br />
-  05/31/2022 00:47 Playing on YTMusic
+  05/31/2022 00:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
