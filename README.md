@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9smDx7jBXMQ">
-    <img width="300" src="https://lh3.googleusercontent.com/XpOrdzrW97ty2-E-gPm_MOT9GqsITjtHwDkw2a5zvTpZgrKasJPTS-nA-62DkYSWvVMevj2ltxApbLeCJw">
+  <a href="https://music.youtube.com/watch?v=qlFiAtpk-iw">
+    <img width="300" src="https://lh3.googleusercontent.com/5aRp1RM4JsjcDD22tCBTjjkWPrQYjm5gMTWDs0-5Ho12RlgR7Ul2GOYVEyJVohjvyMtAlzcI3xqKtC10">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Big Naughty - 문제 Problems(feat. Coogie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - Because</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 8 Episode 4 ]</b>
+  included in <b>[ Because ]</b>
   
   <br />
   <br />
-  05/31/2022 20:51 Playing on YTMusic
+  05/31/2022 20:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
