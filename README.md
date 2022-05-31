@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hrVXhclJ5k0">
-    <img width="300" src="https://lh3.googleusercontent.com/zSUStN67HO7TfCGRREl0rlLK1BYY-clNt30pzmJd7l9I13owoE7KTYcAt-T1j1_bdouzWkO19llSjOvs">
+  <a href="https://music.youtube.com/watch?v=wagnsSmX5IE">
+    <img width="300" src="https://lh3.googleusercontent.com/neFCDNLXtdAblcvgUYFcWrhdW7ecksZcxdHB72B3yz-vGHvDHPkyYs0SN4zGHKoG2Op1wguXCaFIPQI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 불로부터</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) - 단추</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 22522 ]</b>
+  included in <b>[ 모래성 ]</b>
   
   <br />
   <br />
-  05/31/2022 21:20 Playing on YTMusic
+  05/31/2022 21:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
