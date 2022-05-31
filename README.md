@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JpZ-F355b4E">
+  <a href="https://music.youtube.com/watch?v=7edwKkD-Dh4">
     <img width="300" src="https://lh3.googleusercontent.com/cQ32yOpoki6JdUe_ezvEMICOM916zoc7_hfzjdsPpZ0kat3hx0y4vLEdaqM735AO77VaoVRRG3guEuZu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>바이스벌사 - @paganiautomobili (Prod. XAVE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>바이스벌사 - You in the mirror are closer than you appear, @viceversartist (Prod. Ian Ka$h)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ www.instagram.com/rollingloud/viceversartist ]</b>
   
   <br />
   <br />
-  05/31/2022 20:34 Playing on YTMusic
+  05/31/2022 20:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
