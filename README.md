@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3cTMeQKFWyg">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=uwy5hGT6i7Q">
+    <img width="300" src="https://lh3.googleusercontent.com/GMXEG4isA1AO-uCNz8jeOtNdU2hfCeKuP7BBGV5G9P0DT8GitgZKuwJbDhPQxWOPXGzfcwL4p21S-poI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - 시가지(feat. unofficialboyy, gamma)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ IMJMWDP ]</b>
   
   <br />
   <br />
-  05/31/2022 21:05 Playing on YTMusic
+  05/31/2022 21:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
