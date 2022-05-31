@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=trFDV-94pAw">
-    <img width="300" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">
+  <a href="https://music.youtube.com/watch?v=tdPix2X09Y4">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - 웃어줘(feat. 김승민)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - Railroad(feat. 아우릴고트 (Ourealgoat), Ourealgoat)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 엑시브 ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  05/31/2022 22:08 Playing on YTMusic
+  05/31/2022 22:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
