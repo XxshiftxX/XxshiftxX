@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=C4VqJRK89DU">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=b63RXHteeQ0">
+    <img width="300" src="https://lh3.googleusercontent.com/Khbujpf3Vt7XREZy-SOLvYnfgFypr7KHSx_q9N5r8ezsGZkvVqCLom3-StWLtXJTY5mk2VMpZICPA4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - MT(feat. ron, JAMIE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>unofficialboyy, HAIFHAIF - mmm (feat. oceanfromtheblue)(feat. oceanfromtheblue)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ 그물,덫,발사대기,포획 ]</b>
   
   <br />
   <br />
-  05/31/2022 21:58 Playing on YTMusic
+  05/31/2022 22:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
