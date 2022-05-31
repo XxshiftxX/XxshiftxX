@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JQjhKE3kizA">
-    <img width="300" src="https://lh3.googleusercontent.com/541DwdbpWInYqM3uMG-kinHbVylCqAlQfM4sZ5XNh00mqP7Ip4oN4A4zsgViDYgfSs2AJuFw_g4VBQVj">
+  <a href="https://music.youtube.com/watch?v=3cTMeQKFWyg">
+    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Gasoline</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - 시가지(feat. unofficialboyy, gamma)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gasoline ]</b>
+  included in <b>[ IT'S YOUR WAY ]</b>
   
   <br />
   <br />
-  05/31/2022 21:02 Playing on YTMusic
+  05/31/2022 21:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
