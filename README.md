@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i-kZMvYXONs">
-    <img width="300" src="https://lh3.googleusercontent.com/FCXpg3jSdvRDR1iNm-U8Scc55JKqMBZIavvRRTQoloC01K8105ekWBSj7Ci6X6gVPqMcRcASdMjLLuA">
+  <a href="https://music.youtube.com/watch?v=_Gfil7LM4a0">
+    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kim Seungmin - 주유소(feat. DEREK, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 루이비똥 허리 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Rio Loves Tokyo Part.1 ]</b>
+  included in <b>[ Family Business ]</b>
   
   <br />
   <br />
-  05/31/2022 20:41 Playing on YTMusic
+  05/31/2022 20:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
