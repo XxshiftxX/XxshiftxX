@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=b63RXHteeQ0">
-    <img width="300" src="https://lh3.googleusercontent.com/Khbujpf3Vt7XREZy-SOLvYnfgFypr7KHSx_q9N5r8ezsGZkvVqCLom3-StWLtXJTY5mk2VMpZICPA4E">
+  <a href="https://music.youtube.com/watch?v=kOSsoCgsFvg">
+    <img width="300" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>unofficialboyy, HAIFHAIF - mmm (feat. oceanfromtheblue)(feat. oceanfromtheblue)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, Kid Milli, NO:EL 및 Swings - flex</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 그물,덫,발사대기,포획 ]</b>
+  included in <b>[ flex ]</b>
   
   <br />
   <br />
-  05/31/2022 22:02 Playing on YTMusic
+  05/31/2022 22:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
