@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uwy5hGT6i7Q">
-    <img width="300" src="https://lh3.googleusercontent.com/GMXEG4isA1AO-uCNz8jeOtNdU2hfCeKuP7BBGV5G9P0DT8GitgZKuwJbDhPQxWOPXGzfcwL4p21S-poI">
+  <a href="https://music.youtube.com/watch?v=T5sWXqlFkBk">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 봄비 (feat. Rakon)(feat. Rakon)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IMJMWDP ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  05/31/2022 21:07 Playing on YTMusic
+  05/31/2022 21:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
