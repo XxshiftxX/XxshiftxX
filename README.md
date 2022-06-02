@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zcm6b9661no">
-    <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
+  <a href="https://music.youtube.com/watch?v=DjHtJIkCVxY">
+    <img width="300" src="https://lh3.googleusercontent.com/cQ32yOpoki6JdUe_ezvEMICOM916zoc7_hfzjdsPpZ0kat3hx0y4vLEdaqM735AO77VaoVRRG3guEuZu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - OUT OF MY SIGHT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>바이스벌사 - Trip Trip Trip</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ VIOLINIST2 ]</b>
+  included in <b>[ www.instagram.com/rollingloud/viceversartist ]</b>
   
   <br />
   <br />
-  06/02/2022 14:03 Playing on YTMusic
+  06/02/2022 14:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
