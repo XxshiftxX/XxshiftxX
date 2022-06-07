@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HjI4dzfKcvI">
-    <img width="300" src="https://lh3.googleusercontent.com/kR_RBDwAIwlFZYbKElfaOWWW1Nu-y0fv4Td-yqw-8utVPLkDIRvGDjm6hXEYyUbwVP9UdA4qQbES_5eePw">
+  <a href="https://music.youtube.com/watch?v=z1Ci3DSPs0s">
+    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - money can't(feat. Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Vancouver</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ glow forever ]</b>
+  included in <b>[ Lovey Dovey ]</b>
   
   <br />
   <br />
-  06/07/2022 11:06 Playing on YTMusic
+  06/07/2022 11:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
