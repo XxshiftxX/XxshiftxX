@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DjHtJIkCVxY">
-    <img width="300" src="https://lh3.googleusercontent.com/cQ32yOpoki6JdUe_ezvEMICOM916zoc7_hfzjdsPpZ0kat3hx0y4vLEdaqM735AO77VaoVRRG3guEuZu">
+  <a href="https://music.youtube.com/watch?v=TdnkUTigQjc">
+    <img width="300" src="https://lh3.googleusercontent.com/Mcf59pgoNU0-IRfQE3ogUz0tBu11xlzi2FAfEFA9ffiyZPkJGpX34N7fbEECp-Y56tKJfKaxdNJpUuX-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>바이스벌사 - Trip Trip Trip</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>넉살(Nucksal) - AKIRA(feat. 개코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ www.instagram.com/rollingloud/viceversartist ]</b>
+  included in <b>[ 1Q87 ]</b>
   
   <br />
   <br />
-  06/02/2022 14:04 Playing on YTMusic
+  06/07/2022 10:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
