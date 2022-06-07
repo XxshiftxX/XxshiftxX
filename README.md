@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
-    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
+  <a href="https://music.youtube.com/watch?v=Ae4_A1wI3xs">
+    <img width="300" src="https://lh3.googleusercontent.com/ElVy71gRYV7fS8hl4ei6a4o2VxsWYCjt0X1Yd0I0TE1yd-nwweRAXJS3SzEuOuMlDpzuAWzCKkeRSFxN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Skinny Brown 및 Minit - Broken World(feat. Jayci Yucca)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 논해 ]</b>
+  included in <b>[ 미끼닛브라운 : Just For Fun ]</b>
   
   <br />
   <br />
-  06/07/2022 10:59 Playing on YTMusic
+  06/07/2022 11:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
