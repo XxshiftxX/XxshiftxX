@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=z1Ci3DSPs0s">
-    <img width="300" src="https://lh3.googleusercontent.com/e2ZzHUMSfX57Hjs3mmhU3o0LpdIK7-lTG3A4cirjE9ItoA_-xcPv8rDuiwMHGGS1f6fdhoQk-LKVCp4">
+  <a href="https://music.youtube.com/watch?v=ovVrmbDfqnk">
+    <img width="300" src="https://lh3.googleusercontent.com/H0EY4zx8-EjKP-OJQupjc1ZwUiykXzdoEXlX8J6QmzS6cTsLFpQmUJoIY3eIvzQwLEt9WAQMDTcmV8byXQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Vancouver</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - You</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lovey Dovey ]</b>
+  included in <b>[ You ]</b>
   
   <br />
   <br />
-  06/07/2022 11:08 Playing on YTMusic
+  07/27/2022 13:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
