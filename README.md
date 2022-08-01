@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ovVrmbDfqnk">
-    <img width="300" src="https://lh3.googleusercontent.com/H0EY4zx8-EjKP-OJQupjc1ZwUiykXzdoEXlX8J6QmzS6cTsLFpQmUJoIY3eIvzQwLEt9WAQMDTcmV8byXQ">
+  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
+    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ You ]</b>
+  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
   
   <br />
   <br />
-  07/27/2022 13:46 Playing on YTMusic
+  08/01/2022 16:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
