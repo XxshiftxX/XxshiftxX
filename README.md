@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LxwrUdJ0yqs">
-    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
+  <a href="https://music.youtube.com/watch?v=qBoRXibQaig">
+    <img width="300" src="https://lh3.googleusercontent.com/xtwshofYG3zM3G81oeI8XHUFGpMT0oefn-oViiteyTrfHIfmC59LMZ6kLtxVwJTT8olgz9eeBRHwHHh_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Noble Game (Prod. ILLUID HALLER)(feat. ILLINIT)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - DOPPELG?NGER</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
+  included in <b>[ 2 MANY HOMES 4 1 KID ]</b>
   
   <br />
   <br />
-  08/01/2022 16:07 Playing on YTMusic
+  08/02/2022 10:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
