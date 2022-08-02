@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P6Je-KRIUF8">
+  <a href="https://music.youtube.com/watch?v=C2SYJ5GNnmQ">
     <img width="300" src="https://lh3.googleusercontent.com/nJZCC93IcPPyTDcPyzrBXdk6Q-tts_iO2HfTJ1c0KIg6yW4ZHj__dy-ir3YTfguCdR_Qa5_iZhUHjfhTSw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 저스디스 - Next One</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 저스디스 - Cooler Than the Cool(feat. 허클베리피)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 4 the Youth ]</b>
   
   <br />
   <br />
-  08/02/2022 11:36 Playing on YTMusic
+  08/02/2022 11:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
