@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qBoRXibQaig">
+  <a href="https://music.youtube.com/watch?v=uhb6vgDaSiM">
     <img width="300" src="https://lh3.googleusercontent.com/xtwshofYG3zM3G81oeI8XHUFGpMT0oefn-oViiteyTrfHIfmC59LMZ6kLtxVwJTT8olgz9eeBRHwHHh_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - DOPPELG?NGER</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - 아뜰리에</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 2 MANY HOMES 4 1 KID ]</b>
   
   <br />
   <br />
-  08/02/2022 10:46 Playing on YTMusic
+  08/02/2022 10:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
