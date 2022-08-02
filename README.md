@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vooVmqWA-0c">
-    <img width="300" src="https://lh3.googleusercontent.com/xtwshofYG3zM3G81oeI8XHUFGpMT0oefn-oViiteyTrfHIfmC59LMZ6kLtxVwJTT8olgz9eeBRHwHHh_">
+  <a href="https://music.youtube.com/watch?v=xAQrGnCyFIU">
+    <img width="300" src="https://lh3.googleusercontent.com/mDQU4srEIdCMRMVrDZ_X6OeyK4L1nKcs-Rd8a9CRj-vWKBGdu6K79x29q287xCK5NCf_34sPUWAD5otV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JUSTHIS - JUSTHIS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 거지(feat. 존오버, 윤훼이, 저스디스)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2 MANY HOMES 4 1 KID ]</b>
+  included in <b>[ 치명적인 앨범 Ⅲ ]</b>
   
   <br />
   <br />
-  08/02/2022 10:53 Playing on YTMusic
+  08/02/2022 10:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
