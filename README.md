@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PVPUh8gxzP8">
-    <img width="300" src="https://lh3.googleusercontent.com/nJZCC93IcPPyTDcPyzrBXdk6Q-tts_iO2HfTJ1c0KIg6yW4ZHj__dy-ir3YTfguCdR_Qa5_iZhUHjfhTSw">
+  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
+    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 및 저스디스 - The Key(feat. 크러쉬)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 4 the Youth ]</b>
+  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
   
   <br />
   <br />
-  08/02/2022 11:51 Playing on YTMusic
+  08/11/2022 11:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
