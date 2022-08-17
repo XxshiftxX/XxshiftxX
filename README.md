@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=An4CYaZeI6E">
-    <img width="300" src="https://i.ytimg.com/vi/An4CYaZeI6E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=6AKsMNZv8q0">
+    <img width="300" src="https://lh3.googleusercontent.com/-JxIwTLtLHw8i-48FNOMY4UceRFUCBy_wSZv6gzjlPKQ2zSmVrL4RcHctJ-q3OmnmMtkHQXe_PztuQjo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>알파 - 기리보이 (Giriboy) - 꺼져 [갑분기]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIGONE (빅원) - 매일밤 (prod.PATEKO)(feat. Jayci Yucca(제이씨 유카))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 16만회 ]</b>
+  included in <b>[ EVERY NIGHT ]</b>
   
   <br />
   <br />
-  08/17/2022 15:50 Playing on YTMusic
+  08/17/2022 15:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
