@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yFcxPvkMBl8">
-    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
+  <a href="https://music.youtube.com/watch?v=Bjk2j0ZT2iU">
+    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 존시나(feat. Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Minit - 뭐 (Feat. 123, 한요한, 김승민)(feat. 123, 한요한, 김승민)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 살아숨셔 3 ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  08/17/2022 14:44 Playing on YTMusic
+  08/17/2022 14:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
