@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ugXJvTdmLL0">
-    <img width="300" src="https://lh3.googleusercontent.com/ZIHqHGGlfEv4U4YDGkQYbldq8vlyM_-_becmE9lzgotteibfqBDHsbFikWZ7khS4hjRYAS3LGup_RJA">
+  <a href="https://music.youtube.com/watch?v=4a5Ax9kHe_Q">
+    <img width="300" src="https://lh3.googleusercontent.com/Z5VaUPmStMT2FavW4nQJAG8zc2431XNwZ6W-vlvUpMXRxESUDk9baJ5_ENXcfQYKkcNxC8heIEUH5x0h">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>브라운티거 (Brown Tigger) - 보란 듯이(feat. 조광일)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Deepshower 및 Kid Wine - 이별선고</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2022 월간 브라운 7월호 ]</b>
+  included in <b>[ 이별선고 ]</b>
   
   <br />
   <br />
-  08/17/2022 14:32 Playing on YTMusic
+  08/17/2022 14:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
