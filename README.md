@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6AKsMNZv8q0">
-    <img width="300" src="https://lh3.googleusercontent.com/-JxIwTLtLHw8i-48FNOMY4UceRFUCBy_wSZv6gzjlPKQ2zSmVrL4RcHctJ-q3OmnmMtkHQXe_PztuQjo">
+  <a href="https://music.youtube.com/watch?v=zC1ern7XkdE">
+    <img width="300" src="https://lh3.googleusercontent.com/vdZIaLWXcXzAI0nHKFHcLLS0zwYCjt66sGDhZhfx02vLLOYR8Lb6kGqEhYGNLvFxAlmjoOv7KuGq8Gso">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIGONE (빅원) - 매일밤 (prod.PATEKO)(feat. Jayci Yucca(제이씨 유카))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>백예린 - 0415 (KIRARA Remix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EVERY NIGHT ]</b>
+  included in <b>[ tellusboutyourself (Remixes) ]</b>
   
   <br />
   <br />
-  08/17/2022 15:53 Playing on YTMusic
+  08/17/2022 15:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
