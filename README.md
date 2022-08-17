@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Rxu7KplTRf4">
-    <img width="300" src="https://lh3.googleusercontent.com/R1Zj0Ua1wK9qbla5K5FPLNyO0NZHma8nYCQGRTrGOh1Nsi2k321w_2xxBSXhsxnWiZx-yHsHsRWxPndr">
+  <a href="https://music.youtube.com/watch?v=4lVobnl1To4">
+    <img width="300" src="https://lh3.googleusercontent.com/PX7JJg7kdnAgashSrYXVlqkLzreo7ZyX9qse5_MK0P9fuajNMfgP9R6orvcM_CsKNxN5YN82j_qx6BLW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>로맨틱 펀치 - 토요일 밤이 좋아</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ReVibe, SHAUN 및 SHAUN - Runaways [Radio Edit](feat. Adara)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Midnight Cinderella ]</b>
+  included in <b>[ WE LOVE VOCAL EDM, Season 4 ]</b>
   
   <br />
   <br />
-  08/17/2022 15:28 Playing on YTMusic
+  08/17/2022 15:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
