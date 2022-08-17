@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2I6rvj4gGXA">
-    <img width="300" src="https://lh3.googleusercontent.com/JkrohVJ5dEjC1FZKE9d4qJQS5PYzrWm9wIZVlO6r2TRJKZwOIFpsVqoVu-ny9Wx5nBrzGvjSMchgvBtq">
+  <a href="https://music.youtube.com/watch?v=vwU8a_vr4r4">
+    <img width="300" src="https://lh3.googleusercontent.com/ABeY8DTw9SZHj0_IbpSzJCpDy0_oZCGs8RcZeP_JW1DqQPs4kWDUI9FNvPsc1HzZ9r5jQnurSJP9GJU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>레게 강 같은 평화 - 당 디기 방(feat. Beenie Man)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>G-DRAGON - This Love (G.H remix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 당 디기 방 ]</b>
+  included in <b>[ SHINE A LIGHT CD1 ]</b>
   
   <br />
   <br />
-  08/17/2022 15:20 Playing on YTMusic
+  08/17/2022 15:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
