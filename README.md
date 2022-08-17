@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tXfd8o-oCQ8">
-    <img width="300" src="https://lh3.googleusercontent.com/PQ998826WBE24Hv1KUbLKBSmfS3dZpazSfBOlXGAue5D8EVQTLrt-_Im3weffROH_-PH4IgU3VVehQCE">
+  <a href="https://music.youtube.com/watch?v=wDgdTEX9K0I">
+    <img width="300" src="https://lh3.googleusercontent.com/fudofVB_4TlajBg_cdu3Vmq230tKgcv4ovHKy-EDQqF0WbaOiyTTteAA5_u6xr3X-54beHPqXDQuG_uY8A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - Do You Need A Rockstar</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>씨잼(C Jamm) - Good Day(feat. 스윙스(Swings))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do You Need A Rockstar ]</b>
+  included in <b>[ Show Me the Money3, Pt. 4 ]</b>
   
   <br />
   <br />
-  08/17/2022 14:50 Playing on YTMusic
+  08/17/2022 14:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
