@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Fg0ae9EK01s">
-    <img width="300" src="https://lh3.googleusercontent.com/QWrXlh5a2kVEwi3H5iUDvd_glXNOshKHc5aTuUtupSRyFNjw8MQzFjeIUBESg44lNa5geabPs5pYhnA">
+  <a href="https://music.youtube.com/watch?v=mQx3RxpNU5A">
+    <img width="300" src="https://lh3.googleusercontent.com/wKC-YKcDPFXNdLKIVSK-aIe2BLayh0ogG8sDpz34_YaLg-iBvgxeGKgesrz3ISaWk8CJQjR3_o_RCVLe">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Zior Park - MODERN FOX</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Chillin Homie, KHAN - Cold Heart</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SYNDROMEZ ]</b>
+  included in <b>[ Bad Neighbors ]</b>
   
   <br />
   <br />
-  08/17/2022 14:56 Playing on YTMusic
+  08/17/2022 15:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
