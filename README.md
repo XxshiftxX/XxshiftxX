@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IG99RUoCxTI">
-    <img width="300" src="https://lh3.googleusercontent.com/edSkCI8AMWXJZenSGwuLflyIJonpVLJwmKcIGO2kqJoFLHQE5ygLjaIbUaUttPWo6CUL76ZWB9gquW2t">
+  <a href="https://music.youtube.com/watch?v=yFcxPvkMBl8">
+    <img width="300" src="https://lh3.googleusercontent.com/n-5WgbqUI88gzVM6vPGDoQb3NHKiZgCiMF5Ff6rpeqhkGnu6q0Pz_ObTi5lk4WVtgKG6DIB-tKL4aimN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Woodie Gochild - MUDMAX (서산) (Prod. by GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YUMDDA - 존시나(feat. Northfacegawd, JUSTHIS, Layone)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Feel The Rhythm Of Korea Part 1 ]</b>
+  included in <b>[ 살아숨셔 3 ]</b>
   
   <br />
   <br />
-  08/17/2022 14:41 Playing on YTMusic
+  08/17/2022 14:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
