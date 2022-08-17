@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qZEALbJBpMA">
-    <img width="300" src="https://lh3.googleusercontent.com/27-KD-JZB8smKGjGarOJkqE9W2b_MnQKvLVgu-nT0YodLEEXLn0KNzoxAt7-UXKZzmXLrBfpsmgFPDQ">
+  <a href="https://music.youtube.com/watch?v=r4krir0ymF8">
+    <img width="300" src="https://lh3.googleusercontent.com/Dp8iOq_cvBmLBS8pCXWG1hf0R37sm8lyib4DEVuQK_KoRV7hBhoLsgEqZB_cUiXgIwUk-YcnWKzQDbw0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>숀 - Count On Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>댄 파버 - Don't Touch</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2018 월드 디제이 페스티벌 Anthem Compilation ]</b>
+  included in <b>[ Gangsta Sh*t EP ]</b>
   
   <br />
   <br />
-  08/17/2022 15:38 Playing on YTMusic
+  08/17/2022 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
