@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4lVobnl1To4">
-    <img width="300" src="https://lh3.googleusercontent.com/PX7JJg7kdnAgashSrYXVlqkLzreo7ZyX9qse5_MK0P9fuajNMfgP9R6orvcM_CsKNxN5YN82j_qx6BLW">
+  <a href="https://music.youtube.com/watch?v=wBOG8G6pbFY">
+    <img width="300" src="https://lh3.googleusercontent.com/UCoyeNeYMqDn82dF55Rmft5YzsGM-_C3g3N6KKcsDdiLEbEDbifqsr-B7K1Oj1-WAiXuy1E8C5Z4zWy1dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ReVibe, SHAUN 및 SHAUN - Runaways [Radio Edit](feat. Adara)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Simon Dominic, ONE, G2 및 BewhY - Who You?</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ WE LOVE VOCAL EDM, Season 4 ]</b>
+  included in <b>[ Show Me the Money 5 Episode 1 ]</b>
   
   <br />
   <br />
-  08/17/2022 15:29 Playing on YTMusic
+  08/17/2022 15:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
