@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wBOG8G6pbFY">
-    <img width="300" src="https://lh3.googleusercontent.com/UCoyeNeYMqDn82dF55Rmft5YzsGM-_C3g3N6KKcsDdiLEbEDbifqsr-B7K1Oj1-WAiXuy1E8C5Z4zWy1dg">
+  <a href="https://music.youtube.com/watch?v=qZEALbJBpMA">
+    <img width="300" src="https://lh3.googleusercontent.com/27-KD-JZB8smKGjGarOJkqE9W2b_MnQKvLVgu-nT0YodLEEXLn0KNzoxAt7-UXKZzmXLrBfpsmgFPDQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Simon Dominic, ONE, G2 및 BewhY - Who You?</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>숀 - Count On Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 5 Episode 1 ]</b>
+  included in <b>[ 2018 월드 디제이 페스티벌 Anthem Compilation ]</b>
   
   <br />
   <br />
-  08/17/2022 15:33 Playing on YTMusic
+  08/17/2022 15:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
