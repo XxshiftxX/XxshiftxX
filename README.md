@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=r4krir0ymF8">
-    <img width="300" src="https://lh3.googleusercontent.com/Dp8iOq_cvBmLBS8pCXWG1hf0R37sm8lyib4DEVuQK_KoRV7hBhoLsgEqZB_cUiXgIwUk-YcnWKzQDbw0">
+  <a href="https://music.youtube.com/watch?v=QglD6mGx6Jg">
+    <img width="300" src="https://lh3.googleusercontent.com/pfd-Z5uDn43_S7wvDafTlnmymy5x0AJkYC0SJcY1Z6mUGH3EyqIx30Qde70lZrBZ_50oX42mjHp46QerrQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>댄 파버 - Don't Touch</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에픽하이 (EPIK HIGH) - 따라해(feat. 멜로우 (Mellow))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gangsta Sh*t EP ]</b>
+  included in <b>[ [e]nergy ]</b>
   
   <br />
   <br />
-  08/17/2022 15:43 Playing on YTMusic
+  08/17/2022 15:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
