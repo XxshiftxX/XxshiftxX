@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mQx3RxpNU5A">
-    <img width="300" src="https://lh3.googleusercontent.com/wKC-YKcDPFXNdLKIVSK-aIe2BLayh0ogG8sDpz34_YaLg-iBvgxeGKgesrz3ISaWk8CJQjR3_o_RCVLe">
+  <a href="https://music.youtube.com/watch?v=zO420xuy6Z0">
+    <img width="300" src="https://lh3.googleusercontent.com/OaQa6o8y9ns5em05Kch52_m8tQpmVkaP6ITQiTJyanyIU_3JJnUZpgBQi7lPfvCK6O-VIRbHirjEwvM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Chillin Homie, KHAN - Cold Heart</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>넬(NELL) - All This Fxxking Time</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bad Neighbors ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  08/17/2022 15:00 Playing on YTMusic
+  08/17/2022 15:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
