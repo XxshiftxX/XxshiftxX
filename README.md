@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vD8IoJ-4c7A">
-    <img width="300" src="https://lh3.googleusercontent.com/MlCzIaJwKhWHUwD7yr9ejR7NjwCgF630cTPn1_q4z-0gFVbTqbLjWJ_DSMxBma8EpQGp-1amNI2o6Is">
+  <a href="https://music.youtube.com/watch?v=_ZZ6sMhy_4Q">
+    <img width="300" src="https://i.ytimg.com/vi/_ZZ6sMhy_4Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - Gangster(feat. Livii)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>wilson jj - 「デレステ」Drastic Melody (Game ver.) 渋谷凛、白雪千夜、松永涼 SSR</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gangster ]</b>
+  included in <b>[ 조회수 16만회 ]</b>
   
   <br />
   <br />
-  08/17/2022 15:25 Playing on YTMusic
+  08/17/2022 15:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
