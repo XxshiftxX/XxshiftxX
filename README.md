@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Hv9-xeVCFQA">
-    <img width="300" src="https://lh3.googleusercontent.com/W6C_29BqzI2StRA4Z0nJgc1ZSQQ-x-VEgsYJY2Ws2TpmYx9BsNJDS0hCZsB7of6OvCmcxlLzKjLMic6r">
+  <a href="https://music.youtube.com/watch?v=T51d6DhWYk4">
+    <img width="300" src="https://lh3.googleusercontent.com/nuNDztQ8j94jBGUsn_Dp8Ce4ptLmVhiET3BPSLSor5VpQu3hClKs2c_5EdQfo-TN5UE1dPkq97S5PPg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Phantoms - Made For This</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>용용 - 별비그대 *:・ﾟ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ World Gone Mad ]</b>
+  included in <b>[ 별비그대 ]</b>
   
   <br />
   <br />
-  08/17/2022 15:12 Playing on YTMusic
+  08/17/2022 15:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
