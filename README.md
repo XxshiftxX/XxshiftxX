@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BIU_G5MGdgI">
-    <img width="300" src="https://lh3.googleusercontent.com/lDY390uWN1dHjm655nd3VpgTO53krx_bNOTImfaEXaujw4irQDlbmOfMPVOuV0_9FBYm52l02HD-tvwwXg">
+  <a href="https://music.youtube.com/watch?v=Hv9-xeVCFQA">
+    <img width="300" src="https://lh3.googleusercontent.com/W6C_29BqzI2StRA4Z0nJgc1ZSQQ-x-VEgsYJY2Ws2TpmYx9BsNJDS0hCZsB7of6OvCmcxlLzKjLMic6r">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 범퍼카 (Remix) [Bonus Track](feat. 한요한, 김승민, 마미손)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Phantoms - Made For This</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 공상과학음악: 결말 ]</b>
+  included in <b>[ World Gone Mad ]</b>
   
   <br />
   <br />
-  08/17/2022 15:08 Playing on YTMusic
+  08/17/2022 15:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
