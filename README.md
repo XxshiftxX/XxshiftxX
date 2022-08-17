@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QglD6mGx6Jg">
-    <img width="300" src="https://lh3.googleusercontent.com/pfd-Z5uDn43_S7wvDafTlnmymy5x0AJkYC0SJcY1Z6mUGH3EyqIx30Qde70lZrBZ_50oX42mjHp46QerrQ">
+  <a href="https://music.youtube.com/watch?v=An4CYaZeI6E">
+    <img width="300" src="https://i.ytimg.com/vi/An4CYaZeI6E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에픽하이 (EPIK HIGH) - 따라해(feat. 멜로우 (Mellow))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파 - 기리보이 (Giriboy) - 꺼져 [갑분기]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [e]nergy ]</b>
+  included in <b>[ 조회수 16만회 ]</b>
   
   <br />
   <br />
-  08/17/2022 15:47 Playing on YTMusic
+  08/17/2022 15:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
