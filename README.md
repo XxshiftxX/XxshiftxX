@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zC1ern7XkdE">
-    <img width="300" src="https://lh3.googleusercontent.com/vdZIaLWXcXzAI0nHKFHcLLS0zwYCjt66sGDhZhfx02vLLOYR8Lb6kGqEhYGNLvFxAlmjoOv7KuGq8Gso">
+  <a href="https://music.youtube.com/watch?v=SJqYCej72WU">
+    <img width="300" src="https://lh3.googleusercontent.com/niDAvRptZGH4PJxBpbApvOoeeIn9cholRRNDPVZ95mEs9rUDbyuqVCCRCOPoGfsdTB2VlllaU9iiY-0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>백예린 - 0415 (KIRARA Remix)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마블제이 (Marvel.J) - 위기 Crisis(feat. 허클베리피, 베이식(Basick))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ tellusboutyourself (Remixes) ]</b>
+  included in <b>[ BLUE MARVEL ]</b>
   
   <br />
   <br />
-  08/17/2022 15:56 Playing on YTMusic
+  08/17/2022 15:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
