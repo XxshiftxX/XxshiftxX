@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4a5Ax9kHe_Q">
-    <img width="300" src="https://lh3.googleusercontent.com/Z5VaUPmStMT2FavW4nQJAG8zc2431XNwZ6W-vlvUpMXRxESUDk9baJ5_ENXcfQYKkcNxC8heIEUH5x0h">
+  <a href="https://music.youtube.com/watch?v=U5jZJXMVLvM">
+    <img width="300" src="https://lh3.googleusercontent.com/OPltGYYkThCTimsXRlBoOGn9oMTjmfSr9UuMpgBH9KGyBwByht1d7CpESDOrgoLMZyMN1O84lqrKdxk6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Deepshower 및 Kid Wine - 이별선고</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던밀스 - 88</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 이별선고 ]</b>
+  included in <b>[ Young Don ]</b>
   
   <br />
   <br />
-  08/17/2022 14:35 Playing on YTMusic
+  08/17/2022 14:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
