@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=T51d6DhWYk4">
-    <img width="300" src="https://lh3.googleusercontent.com/nuNDztQ8j94jBGUsn_Dp8Ce4ptLmVhiET3BPSLSor5VpQu3hClKs2c_5EdQfo-TN5UE1dPkq97S5PPg">
+  <a href="https://music.youtube.com/watch?v=2I6rvj4gGXA">
+    <img width="300" src="https://lh3.googleusercontent.com/JkrohVJ5dEjC1FZKE9d4qJQS5PYzrWm9wIZVlO6r2TRJKZwOIFpsVqoVu-ny9Wx5nBrzGvjSMchgvBtq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>용용 - 별비그대 *:・ﾟ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>레게 강 같은 평화 - 당 디기 방(feat. Beenie Man)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 별비그대 ]</b>
+  included in <b>[ 당 디기 방 ]</b>
   
   <br />
   <br />
-  08/17/2022 15:15 Playing on YTMusic
+  08/17/2022 15:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
