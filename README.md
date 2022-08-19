@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bLDyNoURi-o">
+  <a href="https://music.youtube.com/watch?v=KCrewnO9XE4">
     <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - HIT MAN (feat. 노윤하)(feat. 노윤하)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Bad New 2(feat. Oygli)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ MultrillVerse ]</b>
   
   <br />
   <br />
-  08/19/2022 15:09 Playing on YTMusic
+  08/19/2022 15:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
