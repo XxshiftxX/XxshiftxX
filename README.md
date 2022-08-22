@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jrHEDPl_Nx4">
-    <img width="300" src="https://lh3.googleusercontent.com/m8oVDwFLYCvdlTiZVguBJ1gcwXFqD8Qqk9st3vbhzjOPh-STRbOh9wluXbrPYny6st1iswPSbzcDd0od">
+  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
+    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE, Tabber - Reset (Prod. by 코드 쿤스트)(feat. Gaeko, Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Episode 3 ]</b>
+  included in <b>[ DDKD ]</b>
   
   <br />
   <br />
-  08/22/2022 11:28 Playing on YTMusic
+  08/22/2022 11:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
