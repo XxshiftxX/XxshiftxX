@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
-    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
+  <a href="https://music.youtube.com/watch?v=K32MnQSxSFM">
+    <img width="300" src="https://lh3.googleusercontent.com/TNBevkHdj5ALPkQjhcs_MF3-_PupwNz42-XyCdL6bBlzEWHsOoEUFMnvYOuMXCSx2wjvZhPHr-8QIedv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스 - RAIN SHOWERS REMIX</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
+  included in <b>[ 파급효과 (Ripple Effect) ]</b>
   
   <br />
   <br />
-  08/22/2022 10:30 Playing on YTMusic
+  08/22/2022 10:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
