@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LDOv0p8AFBM">
-    <img width="300" src="https://lh3.googleusercontent.com/eo2jHj8GCFiYNdY8lnLrurJ6ZtUoWI_aHuW71jRgEEDI0NEOV2mVLStnHjP5KD7EwZUsLRWkPQH3HCUP">
+  <a href="https://music.youtube.com/watch?v=E-kflNDdt68">
+    <img width="300" src="https://lh3.googleusercontent.com/QBZeUpYOMhb5QdefZOgaOd3bQeW3NapjF6D5lqjoKO6g2tqnGaAJrm6cjinY_MvOfbUyJqs5LIJ7ukU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SPYAIR - Some Like It Hot!! - From THE FIRST TAKE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>amazarashi - Kisetsu Wa Tsugitsugi Shindeiku (From THE FIRST TAKE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Some Like It Hot!! - From THE FIRST TAKE ]</b>
+  included in <b>[ Kisetsu Wa Tsugitsugi Shindeiku (From THE FIRST TAKE) ]</b>
   
   <br />
   <br />
-  08/22/2022 16:58 Playing on YTMusic
+  08/22/2022 17:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
