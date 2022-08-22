@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-TGBhF2PVE8">
-    <img width="300" src="https://lh3.googleusercontent.com/k2wRvkSpnpeSezE0EPjxlyWQLSKXexWKHBtHsdOnD4B8R1vPPXjkHroPlPWsjCSN_bMRw0TFdlirfWk">
+  <a href="https://music.youtube.com/watch?v=h0ccMK0U9nY">
+    <img width="300" src="https://lh3.googleusercontent.com/AoumIJIXIR7IILMeA8T0I_g6eg_r0-xytsAO8gjZXUzjeCt1LHOw6qugmXKLExIcv8SUxXqkHTw8BPs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - UP해(feat. Jay Park, Woo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Alone(feat. 이하이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Final ]</b>
+  included in <b>[ ALONE ]</b>
   
   <br />
   <br />
-  08/22/2022 10:58 Playing on YTMusic
+  08/22/2022 11:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
