@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=T5sWXqlFkBk">
-    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
+  <a href="https://music.youtube.com/watch?v=isY3rtuSsK8">
+    <img width="300" src="https://lh3.googleusercontent.com/TsbW_LVdVZIjYX2SGGu0X5OxTnj-zZLYXUC66RRUfq94GW6iSuIQU6PVO64Z_pKp-ldWJ6YXVL2xvXEQbA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 봄비 (feat. Rakon)(feat. Rakon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Eve(이브) - Kaikai Kitan</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SINCE 16' ]</b>
+  included in <b>[ Kaikai Kitan / Ao No Waltz ]</b>
   
   <br />
   <br />
-  08/22/2022 12:02 Playing on YTMusic
+  08/22/2022 16:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
