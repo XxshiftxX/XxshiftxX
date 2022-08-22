@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P9JtpENVIwA">
+  <a href="https://music.youtube.com/watch?v=5F4MKGdvTJ8">
     <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 이기기위해 (Prod. Lean$moke)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - HIGH RISK HIGH RETURN(feat. Polodared)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  08/22/2022 10:09 Playing on YTMusic
+  08/22/2022 10:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
