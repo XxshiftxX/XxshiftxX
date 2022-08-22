@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7KG_qpYt_g0">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=lqNcTWUn-v4">
+    <img width="300" src="https://lh3.googleusercontent.com/wJPmD0IXmdK6f2QRs9ttXhvmy8z7jR5CiP9TfI64R5EOK9SrKLXSHnjke06tn0xQRqGuIytJEHrRLfSItA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - 내 기쁨은 너가 벤틀리를 끄는 거야</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko, CHANGMO, Don Mills 및 Los - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ B.O.T.B. (Best Of The Best) ]</b>
   
   <br />
   <br />
-  08/22/2022 11:43 Playing on YTMusic
+  08/22/2022 11:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
