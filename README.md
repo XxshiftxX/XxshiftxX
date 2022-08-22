@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GQhV0C0SxQE">
-    <img width="300" src="https://lh3.googleusercontent.com/zkYDGyt6KJIvCy2BVT4FrjJw2LLqUhNgR50W1TDph9lCqC3TXP20wD_St6iPAzBJOC5O0gtDEZnrOETZ">
+  <a href="https://music.youtube.com/watch?v=-TGBhF2PVE8">
+    <img width="300" src="https://lh3.googleusercontent.com/k2wRvkSpnpeSezE0EPjxlyWQLSKXexWKHBtHsdOnD4B8R1vPPXjkHroPlPWsjCSN_bMRw0TFdlirfWk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 내일은 없다(feat. lIlBOI, nafla)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - UP해(feat. Jay Park, Woo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ avante ]</b>
+  included in <b>[ 쇼미더머니 10 Final ]</b>
   
   <br />
   <br />
-  08/22/2022 10:54 Playing on YTMusic
+  08/22/2022 10:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
