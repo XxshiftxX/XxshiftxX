@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6PToSbyLFSk">
-    <img width="300" src="https://lh3.googleusercontent.com/3LHYB8VqbclQIu-o-4b31ijInxyMn6P_jxnaST3aojtBB6OGeilyTxhJ3aGkNqAP987EiMWIdbmPBkj7">
+  <a href="https://music.youtube.com/watch?v=MYZXUJ-BG-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/LeYtxyl_uTZro2vQSRjBGZb2ruPY52R_H8gONkfl65STW5adNIu2ZEUccRiM7rIhgYdiHHCOjfCOMS8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Star</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Paul Blanco - Summer(feat. BE′O (비오))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do Not Go Gentle Into That Good Night ]</b>
+  included in <b>[ Summer ]</b>
   
   <br />
   <br />
-  08/22/2022 10:49 Playing on YTMusic
+  08/22/2022 10:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
