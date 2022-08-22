@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=W9aA9eTgRkc">
-    <img width="300" src="https://lh3.googleusercontent.com/op4X4g7DdkFCoAfn4UoyYIdA8FuJ8IGbtefSD5jDKn7zqVEFOQMN9SsE7sJ-ie9B2xNm912tQlak8ZZm">
+  <a href="https://music.youtube.com/watch?v=P9JtpENVIwA">
+    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>염따 - 외로아</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 이기기위해 (Prod. Lean$moke)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 외로아 ]</b>
+  included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  08/22/2022 10:08 Playing on YTMusic
+  08/22/2022 10:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
