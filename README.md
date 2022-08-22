@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i6zVlDkX3wM">
-    <img width="300" src="https://lh3.googleusercontent.com/kGdxoFrl5jE6vmnfHMQwLUsaMQh_c80un2l-NXOD4tNAYmR30j40aORNyudoa-mxyb0Rokr7m_2RA2K2og">
+  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
+    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - FACE TIME (Prod. 코드 쿤스트)(feat. 기리보이, pH-1, 개코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
+  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
   
   <br />
   <br />
-  08/22/2022 10:26 Playing on YTMusic
+  08/22/2022 10:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
