@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
-    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
+  <a href="https://music.youtube.com/watch?v=7KG_qpYt_g0">
+    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(feat. M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김승민 - 내 기쁨은 너가 벤틀리를 끄는 거야</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ "SIKE"! ]</b>
+  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
   
   <br />
   <br />
-  08/22/2022 11:36 Playing on YTMusic
+  08/22/2022 11:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
