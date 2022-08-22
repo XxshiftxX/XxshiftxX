@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NFHPLE4Tl0I">
-    <img width="300" src="https://lh3.googleusercontent.com/NJD-silBhAi2s03Dxbh-VU4djoa4Zay7wm051hWYXtjs31cI0U8eW2nIT7EhprOpk627mhbzRrapLKx7KQ">
+  <a href="https://music.youtube.com/watch?v=LDOv0p8AFBM">
+    <img width="300" src="https://lh3.googleusercontent.com/eo2jHj8GCFiYNdY8lnLrurJ6ZtUoWI_aHuW71jRgEEDI0NEOV2mVLStnHjP5KD7EwZUsLRWkPQH3HCUP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Aimer - kataomoi</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SPYAIR - Some Like It Hot!! - From THE FIRST TAKE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ daydream ]</b>
+  included in <b>[ Some Like It Hot!! - From THE FIRST TAKE ]</b>
   
   <br />
   <br />
-  08/22/2022 16:55 Playing on YTMusic
+  08/22/2022 16:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
