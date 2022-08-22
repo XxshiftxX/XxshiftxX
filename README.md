@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=x6EieknRJuc">
-    <img width="300" src="https://lh3.googleusercontent.com/uVr_yWMFbaQ1LxktjgMQXjiNj4rqdckkPaGvEmhj9kOYsc66Dl7phzs1YQ7hRASkxYBUYv3h1Y2YrYxv">
+  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - MBT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MBT ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  08/22/2022 11:20 Playing on YTMusic
+  08/22/2022 11:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
