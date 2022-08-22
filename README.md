@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lqNcTWUn-v4">
-    <img width="300" src="https://lh3.googleusercontent.com/wJPmD0IXmdK6f2QRs9ttXhvmy8z7jR5CiP9TfI64R5EOK9SrKLXSHnjke06tn0xQRqGuIytJEHrRLfSItA">
+  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
+    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko, CHANGMO, Don Mills 및 Los - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ B.O.T.B. (Best Of The Best) ]</b>
+  included in <b>[ 논해 ]</b>
   
   <br />
   <br />
-  08/22/2022 11:46 Playing on YTMusic
+  08/22/2022 11:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
