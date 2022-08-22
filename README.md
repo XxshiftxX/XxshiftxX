@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E_cakR98hi0">
-    <img width="300" src="https://lh3.googleusercontent.com/LDXm819odQ8SrkcnU0MLr1J-24A1Z_fk5GoM2CkOps63_PZJaWQS4e_U7y1QmEmYDeDWXNazPQ1J5xM">
+  <a href="https://music.youtube.com/watch?v=jrHEDPl_Nx4">
+    <img width="300" src="https://lh3.googleusercontent.com/m8oVDwFLYCvdlTiZVguBJ1gcwXFqD8Qqk9st3vbhzjOPh-STRbOh9wluXbrPYny6st1iswPSbzcDd0od">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - boy(feat. lIlBOI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE, Tabber - Reset (Prod. by 코드 쿤스트)(feat. Gaeko, Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DEMOTAPE ]</b>
+  included in <b>[ 쇼미더머니 10 Episode 3 ]</b>
   
   <br />
   <br />
-  08/22/2022 11:25 Playing on YTMusic
+  08/22/2022 11:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
