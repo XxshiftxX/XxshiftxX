@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HPMwDxi9-e0">
-    <img width="300" src="https://lh3.googleusercontent.com/Z5c5x-le8LlP1dtC6kSD3SePLciXG9M0yjGTFcBULBAkFdY850n803DyJcVMvTH8y8OcBFK9ivZXdkiu">
+  <a href="https://music.youtube.com/watch?v=ozPtL1R6mZ8">
+    <img width="300" src="https://lh3.googleusercontent.com/a8zHwJCB_xOTiohW6m7fg6b9s4AJjJu_kTbyVMc_aH_dsulYH6DzSZRUODZy0SYPHTDKwWqJCzB6OP-z">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>amazarashi(아마자라시) - kisetsuhatsugitsugishindeiku</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SPYAIR(스파이에어) - Sakuramitsutsuki</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Sekaishuusoku Niichiichiroku ]</b>
+  included in <b>[ Sakuramitsutsuki ]</b>
   
   <br />
   <br />
-  08/22/2022 17:03 Playing on YTMusic
+  08/22/2022 17:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
