@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=isY3rtuSsK8">
-    <img width="300" src="https://lh3.googleusercontent.com/TsbW_LVdVZIjYX2SGGu0X5OxTnj-zZLYXUC66RRUfq94GW6iSuIQU6PVO64Z_pKp-ldWJ6YXVL2xvXEQbA">
+  <a href="https://music.youtube.com/watch?v=hScUlvtXmn0">
+    <img width="300" src="https://lh3.googleusercontent.com/sLWc1O2Uat6pHzPmrWjRbi78OGd1L7vsdg0mvUcOW_MOzr2adfGR6sWF3D8sxXoDJmPtLOrco60kzh0c">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve(이브) - Kaikai Kitan</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SPYAIR - Imagination (From THE FIRST TAKE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Kaikai Kitan / Ao No Waltz ]</b>
+  included in <b>[ Imagination (From THE FIRST TAKE) ]</b>
   
   <br />
   <br />
-  08/22/2022 16:51 Playing on YTMusic
+  08/22/2022 16:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
