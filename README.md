@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pkJHRKgWcc4">
-    <img width="300" src="https://lh3.googleusercontent.com/AoumIJIXIR7IILMeA8T0I_g6eg_r0-xytsAO8gjZXUzjeCt1LHOw6qugmXKLExIcv8SUxXqkHTw8BPs">
+  <a href="https://music.youtube.com/watch?v=T5sWXqlFkBk">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Good Night (Remix)(feat. Paul Blanco, CAMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 봄비 (feat. Rakon)(feat. Rakon)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ALONE ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  08/22/2022 11:59 Playing on YTMusic
+  08/22/2022 12:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
