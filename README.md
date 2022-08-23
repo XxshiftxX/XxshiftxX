@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QjLJRnX9Mww">
+  <a href="https://music.youtube.com/watch?v=P6WxVHLDDq0">
     <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 기적(Album version)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 나침반(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  08/23/2022 16:39 Playing on YTMusic
+  08/23/2022 16:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
