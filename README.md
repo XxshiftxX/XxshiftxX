@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qYD8FtLUkiI">
-    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
+  <a href="https://music.youtube.com/watch?v=VuiwwGqnbQ4">
+    <img width="300" src="https://lh3.googleusercontent.com/Q0VXlrMWwhbQPsyHIaIS4dDVSniDXqvIxwZQ-8QNFppGtGEf998q3yLN7DHxG2-2lqCodIpfONlPucmC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 빈잔 (Prod. TOIL)(feat. 보나조이(Bona Zoe), Bona Zoe)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 추억엔 힘이 없지 (feat. MELOH)(feat. MELOH)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HIGH RISK HIGH RETURN ]</b>
+  included in <b>[ SINCE 16' ]</b>
   
   <br />
   <br />
-  08/23/2022 16:46 Playing on YTMusic
+  08/23/2022 16:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
