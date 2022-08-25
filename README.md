@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Sn6UXWUGdc4">
-    <img width="300" src="https://lh3.googleusercontent.com/726s6Nc7oMC2b37br94lX3Ey1w5mHjiXYbHV4SsHC1pXyATwA7ibjm5waM_2WGJG5nZNLkc9KMJ1N8FJsw">
+  <a href="https://music.youtube.com/watch?v=Q4sM5XOSQ1U">
+    <img width="300" src="https://lh3.googleusercontent.com/LeznBI9V9R3ap8fS-XfkUyweyH8BFUUvmuXJi4zIgVra8QucHORxh5W8gvWyVSJKpFwk0BJoqJQ0dlrA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 - 베짱이(feat. 카더가든)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 내몸이 불 타오르고 있어(feat. Choi Danbi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Victories ]</b>
+  included in <b>[ 치명적인 앨범 ]</b>
   
   <br />
   <br />
-  08/25/2022 11:09 Playing on YTMusic
+  08/25/2022 11:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
