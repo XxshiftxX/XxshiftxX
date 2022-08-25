@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3SEF01xkwuQ">
-    <img width="300" src="https://lh3.googleusercontent.com/eZjuNjcLfpp55E0VpXNhLq0d-Y8gQflZiynXhXehz8gil_8wNuI3tRI9UFY-KTs2CV2cXorJqmRZClo">
+  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
+    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스카이민혁, 필리 - (Bonus Track) 작전 Final ver.</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 작전 ]</b>
+  included in <b>[ DDKD ]</b>
   
   <br />
   <br />
-  08/25/2022 11:00 Playing on YTMusic
+  08/25/2022 11:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
