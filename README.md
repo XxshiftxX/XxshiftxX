@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ge4RR0JuWJg">
+  <a href="https://music.youtube.com/watch?v=AmS8lOCpC3U">
     <img width="300" src="https://lh3.googleusercontent.com/eZjuNjcLfpp55E0VpXNhLq0d-Y8gQflZiynXhXehz8gil_8wNuI3tRI9UFY-KTs2CV2cXorJqmRZClo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스카이민혁, 필리 - 작전a</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스카이민혁, 필리 - 리벤지</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 작전 ]</b>
   
   <br />
   <br />
-  08/25/2022 10:38 Playing on YTMusic
+  08/25/2022 10:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
