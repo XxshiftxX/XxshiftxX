@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wwq6KhOnVLQ">
-    <img width="300" src="https://lh3.googleusercontent.com/VOP2pfxcRa222MYE6AiKhftbpoS1Xh_A96w68ySx_nu-vyaTStsTCEmEmzuh-mtfHCnV1Oa7OACK6Aeb">
+  <a href="https://music.youtube.com/watch?v=5dUsncUzjNk">
+    <img width="300" src="https://lh3.googleusercontent.com/s9SiSIePWD2GC_GiV8sXMjFctnWMSau1GUQaLkbqQRmjbXZg_mEm0aIOZBVd4DlwU0Lk4OgBICKdcNy4AQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>안병웅 - Ride</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던밀스 - 미래 2(feat. KHAN, J4 Prada, Polodared)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ride ]</b>
+  included in <b>[ 미래 2 ]</b>
   
   <br />
   <br />
-  08/25/2022 11:17 Playing on YTMusic
+  08/25/2022 11:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
