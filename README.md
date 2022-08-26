@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=loH6k4DdcLg">
-    <img width="300" src="https://lh3.googleusercontent.com/XljEYZIrNQyrELDLnQ6BO0KYaAePHiWHqZlchcsPQeGSiiqNRfhYuU0aJ5srFqExA9qb5shFjew7ZcDV">
+  <a href="https://music.youtube.com/watch?v=CJvdRFAsqX8">
+    <img width="300" src="https://lh3.googleusercontent.com/a9gSLAiRfKNTfkuP4RyFXdpmmSrrJCPF_ofe535fW9M10R-_aFEKRntX-XtQRTINyl05F-c0eIr7p1Y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - JIGAP(feat. Earboy, HessClifF)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BOYCOLD - 붕 떠(feat. Coogie, Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ JIGAP ]</b>
+  included in <b>[ DAFT LOVE ]</b>
   
   <br />
   <br />
-  08/27/2022 03:04 Playing on YTMusic
+  08/27/2022 03:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
