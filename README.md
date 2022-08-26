@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DwaPnZLO8jI">
-    <img width="300" src="https://lh3.googleusercontent.com/-feEWZ6MCvn39R6a_55IXDtk9yg2GqDSPt9fiY-dyGHUyrbjoofv3iwxwOSWq3RG1soGNyJaeT6q200">
+  <a href="https://music.youtube.com/watch?v=mYHaPeUrEr8">
+    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko, Ourealgoat, SINCE, Ahn Byeong Woong, Tabber 및 Gwangil Jo - Wake Up (Prod. by 코드 쿤스트)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Episode 1 ]</b>
+  included in <b>[ IM ]</b>
   
   <br />
   <br />
-  08/27/2022 03:16 Playing on YTMusic
+  08/27/2022 03:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
