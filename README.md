@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GQhV0C0SxQE">
-    <img width="300" src="https://lh3.googleusercontent.com/zkYDGyt6KJIvCy2BVT4FrjJw2LLqUhNgR50W1TDph9lCqC3TXP20wD_St6iPAzBJOC5O0gtDEZnrOETZ">
+  <a href="https://music.youtube.com/watch?v=NBxqTvtRd6E">
+    <img width="300" src="https://lh3.googleusercontent.com/2VsBLtYduh22RL-G1Wm2KIpKu47Bhv1953nwk5BpnpYbv0P2FVzUU4guGIBLWjvxiSUGGYvXDVJgnEeuuw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 내일은 없다(feat. lIlBOI, nafla)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Vancouver</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ avante ]</b>
+  included in <b>[ 낭만 ]</b>
   
   <br />
   <br />
-  08/27/2022 02:52 Playing on YTMusic
+  08/27/2022 02:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
