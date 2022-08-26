@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eJ2zP3Lnhuo">
-    <img width="300" src="https://lh3.googleusercontent.com/jSEQKFKtLUCkQMGFuyXVnlmNyDvA3uF1sXG__Eg0ztFqKJHuL1BQaNJdQN1leL6l_L70Y3VBMqt7OXJw">
+  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
+    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Royal 44 - 할 것 Remix (with Chin, Uneducated Kid, Paul Blanco)(feat. Chin, Uneducated Kid, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(feat. M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 할 것 Remix ]</b>
+  included in <b>[ "SIKE"! ]</b>
   
   <br />
   <br />
-  08/27/2022 03:35 Playing on YTMusic
+  08/27/2022 03:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
