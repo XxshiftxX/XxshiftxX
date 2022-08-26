@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0ERj8_hw_V4">
-    <img width="300" src="https://lh3.googleusercontent.com/H6SePIl6f6-o_5eney_ZxpNnI0SDI9Fypjh-r9LFJdurDW4fxiY48uZ5odYBN2ELz6xIORtRfhN1dH5mzg">
+  <a href="https://music.youtube.com/watch?v=eJ2zP3Lnhuo">
+    <img width="300" src="https://lh3.googleusercontent.com/jSEQKFKtLUCkQMGFuyXVnlmNyDvA3uF1sXG__Eg0ztFqKJHuL1BQaNJdQN1leL6l_L70Y3VBMqt7OXJw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paloalto - 거북선 (Remix)(feat. G2, B-Free, Okasian, ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Royal 44 - 할 것 Remix (with Chin, Uneducated Kid, Paul Blanco)(feat. Chin, Uneducated Kid, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 거북선 (Remix) ]</b>
+  included in <b>[ 할 것 Remix ]</b>
   
   <br />
   <br />
-  08/27/2022 03:30 Playing on YTMusic
+  08/27/2022 03:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
