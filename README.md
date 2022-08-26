@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7f4K_B9ey_s">
-    <img width="300" src="https://lh3.googleusercontent.com/cQ32yOpoki6JdUe_ezvEMICOM916zoc7_hfzjdsPpZ0kat3hx0y4vLEdaqM735AO77VaoVRRG3guEuZu">
+  <a href="https://music.youtube.com/watch?v=DwaPnZLO8jI">
+    <img width="300" src="https://lh3.googleusercontent.com/-feEWZ6MCvn39R6a_55IXDtk9yg2GqDSPt9fiY-dyGHUyrbjoofv3iwxwOSWq3RG1soGNyJaeT6q200">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>바이스벌사 - @rollsroycecars (Prod. imeanseoul, Wylo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko, Ourealgoat, SINCE, Ahn Byeong Woong, Tabber 및 Gwangil Jo - Wake Up (Prod. by 코드 쿤스트)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ www.instagram.com/rollingloud/viceversartist ]</b>
+  included in <b>[ 쇼미더머니 10 Episode 1 ]</b>
   
   <br />
   <br />
-  08/27/2022 03:13 Playing on YTMusic
+  08/27/2022 03:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
