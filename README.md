@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GpygQthc4j4">
-    <img width="300" src="https://lh3.googleusercontent.com/geEf-kwwDfJ5HYk58wr3QMGhKBHh_KSONk6xH_y0ZWlmn6riI3b_6oALR2Jb94MHHesuU3Asc8gZvTB_EA">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 털어!(feat. M1NU, Veinyfl, Swervy, 래원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ "SIKE"! ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  08/27/2022 03:39 Playing on YTMusic
+  08/27/2022 03:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
