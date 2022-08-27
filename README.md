@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
-    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
+  <a href="https://music.youtube.com/watch?v=C-bjA7WbnCg">
+    <img width="300" src="https://lh3.googleusercontent.com/kIt6by_WM9Uoyn4dD61rOs-BrpAFaji1mx212T7OKMrsin0NtBTrLj7CPJ-7vYqqIrojoNKYlWf72HFT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Peace Out (MEGA MIX) , oceanfromtheblue, TRADE L, 펀치넬로 (punchnello), 에이체스 (A-Chess), DON MALIK (던말릭), Khakii (카키), Polodared, Dive (다이브), 키모엘 (Kimo:L)) (Prod. Yoon)(feat. Don Mills, 안병웅, San E, Chillin Homie)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
+  included in <b>[ Peace Out MEGA MIX ]</b>
   
   <br />
   <br />
-  08/27/2022 15:38 Playing on YTMusic
+  08/27/2022 15:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
