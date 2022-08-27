@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
-    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
+  <a href="https://music.youtube.com/watch?v=P9JtpENVIwA">
+    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 이기기위해 (Prod. Lean$moke)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ business boy ]</b>
+  included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  08/27/2022 03:45 Playing on YTMusic
+  08/27/2022 15:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
