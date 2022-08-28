@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=msBHvqBYyYE">
-    <img width="300" src="https://lh3.googleusercontent.com/t-9G4gbZ49EkLg9xrrVURB-kGbYR8tiZj0nvrYdPjTkt5mSTx0eA4y-N17V6VqLqpQXRacS2Q-tkrEo">
+  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
+    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현), 릴러말즈 (Leellamarz) - 여름 밤에 쓴 노래 (with MVP) (Prod. BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Listen-Up(리슨업) EP.2 ]</b>
+  included in <b>[ DDKD ]</b>
   
   <br />
   <br />
-  08/28/2022 19:08 Playing on YTMusic
+  08/28/2022 19:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
