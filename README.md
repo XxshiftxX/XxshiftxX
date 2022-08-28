@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
-    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
+  <a href="https://music.youtube.com/watch?v=MYZXUJ-BG-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/LeYtxyl_uTZro2vQSRjBGZb2ruPY52R_H8gONkfl65STW5adNIu2ZEUccRiM7rIhgYdiHHCOjfCOMS8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Paul Blanco - Summer(feat. BE′O (비오))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DDKD ]</b>
+  included in <b>[ Summer ]</b>
   
   <br />
   <br />
-  08/28/2022 19:12 Playing on YTMusic
+  08/28/2022 19:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
