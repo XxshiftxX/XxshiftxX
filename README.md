@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
-    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
+  <a href="https://music.youtube.com/watch?v=msBHvqBYyYE">
+    <img width="300" src="https://lh3.googleusercontent.com/t-9G4gbZ49EkLg9xrrVURB-kGbYR8tiZj0nvrYdPjTkt5mSTx0eA4y-N17V6VqLqpQXRacS2Q-tkrEo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현), 릴러말즈 (Leellamarz) - 여름 밤에 쓴 노래 (with MVP) (Prod. BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
+  included in <b>[ Listen-Up(리슨업) EP.2 ]</b>
   
   <br />
   <br />
-  08/28/2022 19:03 Playing on YTMusic
+  08/28/2022 19:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
