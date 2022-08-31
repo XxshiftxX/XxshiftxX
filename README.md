@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BgBeEI9PX1s">
-    <img width="300" src="https://i.ytimg.com/vi/BgBeEI9PX1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=LNxFDqQmQS8">
+    <img width="300" src="https://i.ytimg.com/vi/LNxFDqQmQS8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GM Kim - [자막] 해질녘 예스터데이 Ver.lisa</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>구리리 Guriri - 泥中に咲く/진흙에 피다【COVER by Guriri】</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 88만회 ]</b>
+  included in <b>[ 조회수 162만회 ]</b>
   
   <br />
   <br />
-  08/31/2022 18:42 Playing on YTMusic
+  08/31/2022 18:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
