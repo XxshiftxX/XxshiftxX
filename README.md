@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AFG48TpfW-g">
-    <img width="300" src="https://lh3.googleusercontent.com/lrFzvwmpwSKow0Fa5DwADmUSNcnLvj5tEktj6O8mRNcZh9eAayUChWzqFCS-8jLCI6JMiFoM4nR-F-g">
+  <a href="https://music.youtube.com/watch?v=Wg8RDXs69AQ">
+    <img width="300" src="https://lh3.googleusercontent.com/FUcFTJRFkjn32Uw0FcXVAp5hnQsXHIAr8NkNaJ_acwvCv7hoI4N32BOePSWSJbRjT_PAKtjlHA-ijGrg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>오왼 - gimmick(feat. BRADYSTREET, LO VOLF)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팔로알토 - 그늘(feat. SUPERBEE, 스웨이디, zene the zilla)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Smile ]</b>
+  included in <b>[ Summer Grooves ]</b>
   
   <br />
   <br />
-  08/31/2022 14:18 Playing on YTMusic
+  08/31/2022 14:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
