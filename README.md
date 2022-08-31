@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i7muqI90138">
-    <img width="300" src="https://i.ytimg.com/vi/i7muqI90138/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=hgZqIkIeqS0">
+    <img width="300" src="https://lh3.googleusercontent.com/fTmPIhOIfnKEyRUUYFzpe6TDVGgiaA0HSfoC23Hu6zU9Ij-IhADa02Pk_Q-m53f5zE_PSYWbK1YP0gp5">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>리릭뭉치 - 창모 (CHANGMO) - 널 지워야해 (Erase You) (Prod by. CHANGMO) [널 지워야해]│가사, Lyrics</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>최엘비 - 아는 사람 얘기</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1688만회 ]</b>
+  included in <b>[ 독립음악 ]</b>
   
   <br />
   <br />
-  08/31/2022 13:43 Playing on YTMusic
+  08/31/2022 13:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
