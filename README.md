@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lNA3-fGDDRM">
-    <img width="300" src="https://i.ytimg.com/vi/lNA3-fGDDRM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=BgBeEI9PX1s">
+    <img width="300" src="https://i.ytimg.com/vi/BgBeEI9PX1s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Alice - 4월은 너의 거짓말 op - 「빛난다면」</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GM Kim - [자막] 해질녘 예스터데이 Ver.lisa</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 379만회 ]</b>
+  included in <b>[ 조회수 88만회 ]</b>
   
   <br />
   <br />
-  08/31/2022 18:38 Playing on YTMusic
+  08/31/2022 18:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
