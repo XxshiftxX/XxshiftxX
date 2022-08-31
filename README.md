@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SIUmRTCyorc">
-    <img width="300" src="https://lh3.googleusercontent.com/siGO9Te33vOmQzuol-UvTNv_v4a_M2K9sYaiCKW5lEwYZYtqPMJo-ff2KejqW3PNVdmaylqaysKNZPz3QQ">
+  <a href="https://music.youtube.com/watch?v=V2vp9fXyaeE">
+    <img width="300" src="https://lh3.googleusercontent.com/YPKnwvojaZyFM25Axo6q_xk0m1IqrXLJpVYP1_310BV7V_WO3K0JgZ87HYWsCechXbgbLVTFJcL7FVA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 및 KHUNDI PANDA - Come Upright (Prod. Viann)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - 후유증(feat. 개리)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Come Upright with KozyPop ]</b>
+  included in <b>[ TOYSTORY3 ]</b>
   
   <br />
   <br />
-  08/31/2022 14:25 Playing on YTMusic
+  08/31/2022 14:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
