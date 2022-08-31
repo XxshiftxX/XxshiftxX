@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=w4SzAeYJYqI">
-    <img width="300" src="https://lh3.googleusercontent.com/U1a05zrtao0kEhRQEcBpmZT3V5T76NYY4fOfTAg5l7j42x3aRc5n5vqq7KO64UbN7ggzR1XDFG4p1gc2">
+  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
+    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - Flex Forever(feat. 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Flex Forever ]</b>
+  included in <b>[ BROKEN FERRARI ]</b>
   
   <br />
   <br />
-  08/31/2022 14:31 Playing on YTMusic
+  08/31/2022 14:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
