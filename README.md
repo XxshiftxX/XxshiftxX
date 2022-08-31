@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eHdkvAa5vOE">
-    <img width="300" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">
+  <a href="https://music.youtube.com/watch?v=gsLQpBEC7QA">
+    <img width="300" src="https://lh3.googleusercontent.com/i82PNiymRQVdqsefGHWosCfYpiOv62x27STP54733MmfE3F0flidXuVboGNQIkYpFp_iu-MH-Y8R-8dx4Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>빈지노 Beenzino - Time Travel</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 파티피플(feat. Uneducated Kid, 염따)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 12 ]</b>
+  included in <b>[ 갑분기 ]</b>
   
   <br />
   <br />
-  08/31/2022 14:42 Playing on YTMusic
+  08/31/2022 14:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
