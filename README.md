@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IJlhqTGCLW8">
-    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
+  <a href="https://music.youtube.com/watch?v=AFG48TpfW-g">
+    <img width="300" src="https://lh3.googleusercontent.com/lrFzvwmpwSKow0Fa5DwADmUSNcnLvj5tEktj6O8mRNcZh9eAayUChWzqFCS-8jLCI6JMiFoM4nR-F-g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Red Pill (Born from the Blue Pt. II) (Prod. CODE KUNST)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오왼 - gimmick(feat. BRADYSTREET, LO VOLF)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
+  included in <b>[ Smile ]</b>
   
   <br />
   <br />
-  08/31/2022 14:14 Playing on YTMusic
+  08/31/2022 14:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
