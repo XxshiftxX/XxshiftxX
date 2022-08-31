@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jkEJ9f6YrX4">
-    <img width="300" src="https://lh3.googleusercontent.com/ocirr-MJiIOIgKFj4ga4FsT9DH-24_5CWbxDzX0Ekjv03IcUW_3jwMObWPnTYKHnDA7rmElfMdJUFyzn">
+  <a href="https://music.youtube.com/watch?v=eHdkvAa5vOE">
+    <img width="300" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - 뭐(feat. 원슈타인)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>빈지노 Beenzino - Time Travel</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I Got A Feeling ]</b>
+  included in <b>[ 12 ]</b>
   
   <br />
   <br />
-  08/31/2022 14:38 Playing on YTMusic
+  08/31/2022 14:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
