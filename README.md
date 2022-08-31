@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Za1wb_OADto">
-    <img width="300" src="https://i.ytimg.com/vi/Za1wb_OADto/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=-VKIqrvVOpo">
+    <img width="300" src="https://i.ytimg.com/vi/-VKIqrvVOpo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미키챤 - 월피스 카터(ウォルピスカーター ) - 내일의 밤하늘 초계반(アスノヨゾラ哨戒班)[가사,발음,독음]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yorushika(ヨルシカ) - Tada Kimi ni Hare</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 450만회 ]</b>
+  included in <b>[ 조회수 1.7억회 ]</b>
   
   <br />
   <br />
-  08/31/2022 18:16 Playing on YTMusic
+  08/31/2022 18:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
