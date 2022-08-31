@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sk-dL1AstSg">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=nVY5KMAZoPU">
+    <img width="300" src="https://lh3.googleusercontent.com/TNBevkHdj5ALPkQjhcs_MF3-_PupwNz42-XyCdL6bBlzEWHsOoEUFMnvYOuMXCSx2wjvZhPHr-8QIedv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - 왈왈</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스 - 파급효과 (RIPPLE EFFECT)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ 파급효과 (Ripple Effect) ]</b>
   
   <br />
   <br />
-  08/31/2022 13:50 Playing on YTMusic
+  08/31/2022 13:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
