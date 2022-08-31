@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=nrYlp9REsYA">
-    <img width="300" src="https://lh3.googleusercontent.com/LQUpcytOawqqw-CJWPJonwdVEGrJXIJawKO--B1-xgNB13aqY1lM0cFTontWre2nvx6MyOpCvbzqhUsY">
+  <a href="https://music.youtube.com/watch?v=oKZzLpEXSdM">
+    <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>보이비, 개코 - PEP(feat. 정상수)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - Selfish</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PEP ]</b>
+  included in <b>[ VIOLINIST2 ]</b>
   
   <br />
   <br />
-  08/31/2022 15:04 Playing on YTMusic
+  08/31/2022 15:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
