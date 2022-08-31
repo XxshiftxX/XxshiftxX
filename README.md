@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=V2vp9fXyaeE">
-    <img width="300" src="https://lh3.googleusercontent.com/YPKnwvojaZyFM25Axo6q_xk0m1IqrXLJpVYP1_310BV7V_WO3K0JgZ87HYWsCechXbgbLVTFJcL7FVA">
+  <a href="https://music.youtube.com/watch?v=w4SzAeYJYqI">
+    <img width="300" src="https://lh3.googleusercontent.com/U1a05zrtao0kEhRQEcBpmZT3V5T76NYY4fOfTAg5l7j42x3aRc5n5vqq7KO64UbN7ggzR1XDFG4p1gc2">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - 후유증(feat. 개리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>더 콰이엇(The Quiett) - Flex Forever(feat. 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOYSTORY3 ]</b>
+  included in <b>[ Flex Forever ]</b>
   
   <br />
   <br />
-  08/31/2022 14:28 Playing on YTMusic
+  08/31/2022 14:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
