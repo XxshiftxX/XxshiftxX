@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DC6JppqHkaM">
-    <img width="300" src="https://i.ytimg.com/vi/DC6JppqHkaM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=jpq1jKNNPTo">
+    <img width="300" src="https://i.ytimg.com/vi/jpq1jKNNPTo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>yama - 春を告げる(Versus The Night 0.0)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>손딘 - YOASOBI - 夜に駆ける (밤을 달리다) [한국어 자막 / 가사 번역]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1억회 ]</b>
+  included in <b>[ 조회수 83만회 ]</b>
   
   <br />
   <br />
-  08/31/2022 18:30 Playing on YTMusic
+  08/31/2022 18:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
