@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=f5n8U7xA8HI">
-    <img width="300" src="https://lh3.googleusercontent.com/Cwgx3k3kJxysZehtdTTArJPG4kNgTcYP-LKOa8kE2VsPsSQyNYlz_woDaA4bXJd5OSITQ46C2DE0OXTx">
+  <a href="https://music.youtube.com/watch?v=PTIIZtWhYcQ">
+    <img width="300" src="https://lh3.googleusercontent.com/p8eD2_9HXMLRjML-q8McMXUDLj-LojzdBR4UFcE52mP4UbL9F-fOQilug76H4SeDEe0sIUIM_llki2x1dA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 - Grind</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿤디판다, 비와이 및 최엘비 - HI-QUALA</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Love, Money & Dreams: The Album ]</b>
+  included in <b>[ Dingo X Dejavu Group 'Wrote This Tomorrow' ]</b>
   
   <br />
   <br />
-  08/31/2022 14:52 Playing on YTMusic
+  08/31/2022 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
