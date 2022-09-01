@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mlEdUL3k21A">
-    <img width="300" src="https://i.ytimg.com/vi/mlEdUL3k21A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=olWvy0PiLfA">
+    <img width="300" src="https://i.ytimg.com/vi/olWvy0PiLfA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>고예림 - 쓰르라미울적에-YOU</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TUYU - Compared Child</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 250만회 ]</b>
+  included in <b>[ 조회수 3848만회 ]</b>
   
   <br />
   <br />
-  09/01/2022 15:24 Playing on YTMusic
+  09/01/2022 15:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
