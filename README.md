@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=g0zVUSqDPmA">
-    <img width="300" src="https://i.ytimg.com/vi/g0zVUSqDPmA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
+    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>애니웨이 Aniway - 𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 이번엔 오타쿠 대통합이다! 오타쿠 심장 저격하는 애니 속 명곡 플레이리스트</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 33만회 ]</b>
+  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
   
   <br />
   <br />
-  09/01/2022 11:00 Playing on YTMusic
+  09/01/2022 14:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
