@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Sn6UXWUGdc4">
-    <img width="300" src="https://lh3.googleusercontent.com/726s6Nc7oMC2b37br94lX3Ey1w5mHjiXYbHV4SsHC1pXyATwA7ibjm5waM_2WGJG5nZNLkc9KMJ1N8FJsw">
+  <a href="https://music.youtube.com/watch?v=5F4MKGdvTJ8">
+    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>팔로알토 - 베짱이(feat. 카더가든)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - HIGH RISK HIGH RETURN(feat. Polodared)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Victories ]</b>
+  included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  09/08/2022 21:35 Playing on YTMusic
+  09/08/2022 21:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
