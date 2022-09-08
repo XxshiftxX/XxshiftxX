@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zcm6b9661no">
-    <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
+  <a href="https://music.youtube.com/watch?v=LlrsDfHEZ3s">
+    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - OUT OF MY SIGHT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Wait For Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ VIOLINIST2 ]</b>
+  included in <b>[ Gettin Money Moment ]</b>
   
   <br />
   <br />
-  09/08/2022 21:46 Playing on YTMusic
+  09/08/2022 21:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
