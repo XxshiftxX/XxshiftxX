@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=96JxvDnWuGI">
-    <img width="300" src="https://lh3.googleusercontent.com/gJoXw6q9Skqzx-OYNETaGfoUCRjbSe7JBw5pchI6yBiT2dF_cbBymgo1ZqZ_oEB161A92ZV1gWYac0MhfA">
+  <a href="https://music.youtube.com/watch?v=q3HdmX9kIek">
+    <img width="300" src="https://lh3.googleusercontent.com/NpBP2PrZP8DLcMj0CMPznnUJKA2mqlxkUPMItw96jVqUIu8kS4O8kpM4w3ZCGr1ffS2FojVBDNa0K4I">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Simon Dominic - Simon Dominic(사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 가습기</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Simon Dominic(사이먼 도미닉) ]</b>
+  included in <b>[ 가습기 ]</b>
   
   <br />
   <br />
-  09/08/2022 22:53 Playing on YTMusic
+  09/08/2022 22:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
