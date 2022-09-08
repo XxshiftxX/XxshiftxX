@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JydsXAnz140">
-    <img width="300" src="https://lh3.googleusercontent.com/FEDeFjUCNMkaP7IFWVJFSpFJfeBnnPJ9qJeOPTXPe6NqmsiNOAjd5U1Qyy1q_ipiNgcCSSBT19xwg2e9">
+  <a href="https://music.youtube.com/watch?v=Bbl3qPS9x4o">
+    <img width="300" src="https://lh3.googleusercontent.com/u1-D0Add6pNt41wb36bsbefo6WMWCpiWW-du918-KW1vO7r4A1k8RpgHecgGz87BxqmiRnkdMzQ4gItXcw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Minit - Dream , TRADE L)(feat. YOUHA (유하), TRADE L)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌 Remix(feat. UNEDUCATED KID, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLUE ]</b>
+  included in <b>[ 사이렌 (Remix) ]</b>
   
   <br />
   <br />
-  09/08/2022 21:54 Playing on YTMusic
+  09/08/2022 22:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
