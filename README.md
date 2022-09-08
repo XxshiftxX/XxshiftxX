@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JAhw8Pg78B0">
-    <img width="300" src="https://lh3.googleusercontent.com/yho9-U06GXUYty19tSZzfaL6sxmd4yBYHnSHzrnSkPIh27RvZ4yDFlON_swUpbRKPJ3HIG0lj_WdsR-T">
+  <a href="https://music.youtube.com/watch?v=YyMUqbK5RZ0">
+    <img width="300" src="https://lh3.googleusercontent.com/jcC_nN8vCVQZhHF9PViqM-cn-wWqVaI2AlDNH-HbNy1frX1cabFOjNr_q0pKjVQ4gwiTNbmvv5fl0ts">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 마에스트로 Maestro</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BAMBOOCLUB[A] ]</b>
+  included in <b>[ 돈 벌 시간 2 ]</b>
   
   <br />
   <br />
-  09/08/2022 23:26 Playing on YTMusic
+  09/08/2022 23:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
