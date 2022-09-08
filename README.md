@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5F4MKGdvTJ8">
-    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
+  <a href="https://music.youtube.com/watch?v=JvQhJTM9OJU">
+    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - HIGH RISK HIGH RETURN(feat. Polodared)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night (Prod. Humbert)(feat. KWAII, DON MALIK, GongGongGoo009)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HIGH RISK HIGH RETURN ]</b>
+  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
   
   <br />
   <br />
-  09/08/2022 21:38 Playing on YTMusic
+  09/08/2022 21:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
