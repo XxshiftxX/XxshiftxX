@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=g0zVUSqDPmA">
-    <img width="300" src="https://i.ytimg.com/vi/g0zVUSqDPmA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=yiT2tE5IkBw">
+    <img width="300" src="https://i.ytimg.com/vi/yiT2tE5IkBw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>애니웨이 Aniway - 𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 이번엔 오타쿠 대통합이다! 오타쿠 심장 저격하는 애니 속 명곡 플레이리스트</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파 - 저스디스 (JUSTHIS) - THIS Is My Life [THIS Is My Life]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 33만회 ]</b>
+  included in <b>[ 조회수 6.4천회 ]</b>
   
   <br />
   <br />
-  09/07/2022 10:13 Playing on YTMusic
+  09/08/2022 21:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
