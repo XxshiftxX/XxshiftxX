@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YyMUqbK5RZ0">
-    <img width="300" src="https://lh3.googleusercontent.com/jcC_nN8vCVQZhHF9PViqM-cn-wWqVaI2AlDNH-HbNy1frX1cabFOjNr_q0pKjVQ4gwiTNbmvv5fl0ts">
+  <a href="https://music.youtube.com/watch?v=V3k5cK4LRaQ">
+    <img width="300" src="https://lh3.googleusercontent.com/xCo2s3t7D--mu1PJYifAzhmSbxoLYlFgDM2WxE-U9P9JQbBp06Tp1UnccRM91oXkiW6TpApbSBGxp-6y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 마에스트로 Maestro</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - +82 Bars</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 돈 벌 시간 2 ]</b>
+  included in <b>[ 1집 : Rap Legend ]</b>
   
   <br />
   <br />
-  09/08/2022 23:29 Playing on YTMusic
+  09/08/2022 23:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
