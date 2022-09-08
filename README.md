@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=nrYlp9REsYA">
-    <img width="300" src="https://lh3.googleusercontent.com/LQUpcytOawqqw-CJWPJonwdVEGrJXIJawKO--B1-xgNB13aqY1lM0cFTontWre2nvx6MyOpCvbzqhUsY">
+  <a href="https://music.youtube.com/watch?v=JAhw8Pg78B0">
+    <img width="300" src="https://lh3.googleusercontent.com/yho9-U06GXUYty19tSZzfaL6sxmd4yBYHnSHzrnSkPIh27RvZ4yDFlON_swUpbRKPJ3HIG0lj_WdsR-T">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>보이비, 개코 - PEP(feat. 정상수)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) 및 판다곰 - RUN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PEP ]</b>
+  included in <b>[ BAMBOOCLUB[A] ]</b>
   
   <br />
   <br />
-  09/08/2022 23:22 Playing on YTMusic
+  09/08/2022 23:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
