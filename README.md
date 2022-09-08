@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=V3k5cK4LRaQ">
-    <img width="300" src="https://lh3.googleusercontent.com/xCo2s3t7D--mu1PJYifAzhmSbxoLYlFgDM2WxE-U9P9JQbBp06Tp1UnccRM91oXkiW6TpApbSBGxp-6y">
+  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
+    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - +82 Bars</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 1집 : Rap Legend ]</b>
+  included in <b>[ BROKEN FERRARI ]</b>
   
   <br />
   <br />
-  09/08/2022 23:33 Playing on YTMusic
+  09/08/2022 23:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
