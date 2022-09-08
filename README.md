@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yiT2tE5IkBw">
-    <img width="300" src="https://i.ytimg.com/vi/yiT2tE5IkBw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=bLDyNoURi-o">
+    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>알파 - 저스디스 (JUSTHIS) - THIS Is My Life [THIS Is My Life]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - HIT MAN (feat. 노윤하)(feat. 노윤하)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 6.4천회 ]</b>
+  included in <b>[ MultrillVerse ]</b>
   
   <br />
   <br />
-  09/08/2022 21:26 Playing on YTMusic
+  09/08/2022 21:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
