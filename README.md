@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=p8h4OgMTyjs">
-    <img width="300" src="https://lh3.googleusercontent.com/Zcb7MtQPylAAJ1mBfAHBs45CF8iuxAy-5ORNl8f7Awf28paDz1iXsAGXkx0ivZmjGBbDPKOTc_Nxt7vl">
+  <a href="https://music.youtube.com/watch?v=-TGBhF2PVE8">
+    <img width="300" src="https://lh3.googleusercontent.com/k2wRvkSpnpeSezE0EPjxlyWQLSKXexWKHBtHsdOnD4B8R1vPPXjkHroPlPWsjCSN_bMRw0TFdlirfWk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paloalto, Swervy, H2ADIN 및 Huckleberry P - 한라산 (Hi-Lite Sign) (Prod. by Yosi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - UP해(feat. Jay Park, Woo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X Hi-Lite Records ]</b>
+  included in <b>[ 쇼미더머니 10 Final ]</b>
   
   <br />
   <br />
-  09/19/2022 20:46 Playing on YTMusic
+  09/19/2022 20:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
