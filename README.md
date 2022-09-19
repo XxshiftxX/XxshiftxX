@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JSuOMvgXnaM">
-    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
+  <a href="https://music.youtube.com/watch?v=9bMtG_ofQdo">
+    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(feat. 오디(ODEE), 창모(CHANGMO), 해쉬 스완(Hash Swan), 도끼(Dok2))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - REMEDY(feat. 청하(CHUNG HA))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Q Day (Remixes) ]</b>
+  included in <b>[ Boyhood ]</b>
   
   <br />
   <br />
-  09/19/2022 21:29 Playing on YTMusic
+  09/19/2022 21:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
