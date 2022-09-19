@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eKfrkH2Xr4k">
-    <img width="300" src="https://lh3.googleusercontent.com/966EVioxq2dMVaqpDqoURT2pb3rFi3Py-BaU8s4vvR5nRAo69SK2dZuAJBB4M1nu8uNMiHmpnwSdBEU">
+  <a href="https://music.youtube.com/watch?v=SmJuzb-7p4E">
+    <img width="300" src="https://lh3.googleusercontent.com/n7BdHEWfQjvxEVznamK0iOGF2-OBBRa9oXQG-wL4lqZEIOKlyMe4TpZhYDMzYCM4L-YvJJ7cS_AhhuE1">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Blase - New World</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko - 논해(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ New World ]</b>
+  included in <b>[ 논해 ]</b>
   
   <br />
   <br />
-  09/19/2022 20:33 Playing on YTMusic
+  09/19/2022 20:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
