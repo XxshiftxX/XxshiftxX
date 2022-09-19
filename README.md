@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zR1AUcmfzdw">
-    <img width="300" src="https://lh3.googleusercontent.com/7vgDRyzycOhSoeuj6aPKIhC1d4_gn9BFxt7DO03E8p0Bg8RY9Y2HZpYMNnn9hnaOHvpIV7-KgVbeRD_a">
+  <a href="https://music.youtube.com/watch?v=EjpnDnUR1KM">
+    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - G+Jus Freestyle (From "Show Me The Money 9 Special")</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - GONE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ G+Jus Freestyle (From "Show Me The Money 9 Special") ]</b>
+  included in <b>[ TOYSTORY2 ]</b>
   
   <br />
   <br />
-  09/19/2022 19:56 Playing on YTMusic
+  09/19/2022 19:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
