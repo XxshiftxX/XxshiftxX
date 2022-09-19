@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XTtVYz_J8xo">
-    <img width="300" src="https://lh3.googleusercontent.com/03fbAS06rjc-LWfal5X-mnaO3JVooJ8qAkfZcfl_KNqXJl4B9ZTORMe19DKd_EshnraVlfcVtVRjhwve">
+  <a href="https://music.youtube.com/watch?v=zR1AUcmfzdw">
+    <img width="300" src="https://lh3.googleusercontent.com/7vgDRyzycOhSoeuj6aPKIhC1d4_gn9BFxt7DO03E8p0Bg8RY9Y2HZpYMNnn9hnaOHvpIV7-KgVbeRD_a">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 진인사대천명</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 - G+Jus Freestyle (From "Show Me The Money 9 Special")</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 진인사대천명(盡人事待天命) ]</b>
+  included in <b>[ G+Jus Freestyle (From "Show Me The Money 9 Special") ]</b>
   
   <br />
   <br />
-  09/19/2022 19:54 Playing on YTMusic
+  09/19/2022 19:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
