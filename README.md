@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0ERj8_hw_V4">
-    <img width="300" src="https://lh3.googleusercontent.com/H6SePIl6f6-o_5eney_ZxpNnI0SDI9Fypjh-r9LFJdurDW4fxiY48uZ5odYBN2ELz6xIORtRfhN1dH5mzg">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paloalto - 거북선 (Remix)(feat. G2, B-Free, Okasian, ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 거북선 (Remix) ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  09/19/2022 20:12 Playing on YTMusic
+  09/19/2022 20:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
