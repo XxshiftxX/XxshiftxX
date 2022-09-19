@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YTdupRzvQ5M">
-    <img width="300" src="https://lh3.googleusercontent.com/bePtmMpZZ-zlC897bM7YxhRyJWVn67tfvBZmeW1T1CY8-itxdQ8ceaZLVN1dXIx_IYxsp1ldljwz2hZhDQ">
+  <a href="https://music.youtube.com/watch?v=eKfrkH2Xr4k">
+    <img width="300" src="https://lh3.googleusercontent.com/966EVioxq2dMVaqpDqoURT2pb3rFi3Py-BaU8s4vvR5nRAo69SK2dZuAJBB4M1nu8uNMiHmpnwSdBEU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>씨잼(C Jamm) - puzzle</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Blase - New World</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ puzzle ]</b>
+  included in <b>[ New World ]</b>
   
   <br />
   <br />
-  09/19/2022 20:29 Playing on YTMusic
+  09/19/2022 20:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
