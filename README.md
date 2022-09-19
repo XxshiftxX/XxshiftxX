@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LiwtnbneQd0">
-    <img width="300" src="https://i.ytimg.com/vi/LiwtnbneQd0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=7Pm7nyEUyW4">
+    <img width="300" src="https://i.ytimg.com/vi/7Pm7nyEUyW4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>알파 - 릴러말즈 (Leellamarz) - City Lights (Feat. Hash Swan) [City Lights]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파 - MINO (송민호) - CITY+++ (feat. Gaeko) [서울대작전 OST]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 13만회 ]</b>
+  included in <b>[ 조회수 7.4만회 ]</b>
   
   <br />
   <br />
-  09/19/2022 22:06 Playing on YTMusic
+  09/19/2022 22:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
