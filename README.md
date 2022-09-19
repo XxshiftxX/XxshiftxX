@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_Gfil7LM4a0">
-    <img width="300" src="https://lh3.googleusercontent.com/ZbtrcVxuZrWQwFc-90Gx7evtwljm0pFR1iDiBf0ZWbc3cBFVspAovk5uY2V-FJOhkiAuFZk7s0otoFdjxQ">
+  <a href="https://music.youtube.com/watch?v=UX9oWXFCzLI">
+    <img width="300" src="https://lh3.googleusercontent.com/LEyCLgAsFx99t1DUrmHT5z7A45iqa8x4xff2pCEzdnfNW1n8BkQYgx1GHDp_B4AZSTyxRdr7fMjKPsQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 루이비똥 허리 (prod. Kidstone)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - LOVE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Family Business ]</b>
+  included in <b>[ [L] ]</b>
   
   <br />
   <br />
-  09/19/2022 20:39 Playing on YTMusic
+  09/19/2022 20:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
