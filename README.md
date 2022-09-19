@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zseGD44ksq8">
-    <img width="300" src="https://lh3.googleusercontent.com/7Hh8Os7UKVkaWhDEKcTcmsRw-1z5b24mayqg4LUmwZzhJHOlQRZQMcKerv5zFCWJVAzA3buBbddeb50">
+  <a href="https://music.youtube.com/watch?v=yiT2tE5IkBw">
+    <img width="300" src="https://i.ytimg.com/vi/yiT2tE5IkBw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>알파 - 저스디스 (JUSTHIS) - THIS Is My Life [THIS Is My Life]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ghetto Kids ]</b>
+  included in <b>[ 조회수 6.3만회 ]</b>
   
   <br />
   <br />
-  09/19/2022 21:45 Playing on YTMusic
+  09/19/2022 22:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
