@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5nuz4ZEoBfw">
-    <img width="300" src="https://lh3.googleusercontent.com/RlNEc4l2-GGdK42Fdnlu3Dhn9egYFvtb062KTDKPFFaau3erFflfL8nQoISE6vRoo_KKttVOntccLPqi">
+  <a href="https://music.youtube.com/watch?v=YTdupRzvQ5M">
+    <img width="300" src="https://lh3.googleusercontent.com/bePtmMpZZ-zlC897bM7YxhRyJWVn67tfvBZmeW1T1CY8-itxdQ8ceaZLVN1dXIx_IYxsp1ldljwz2hZhDQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - One More Rollie(feat. 김효은, Hash Swan)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>씨잼(C Jamm) - puzzle</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Gettin Money Moment ]</b>
+  included in <b>[ puzzle ]</b>
   
   <br />
   <br />
-  09/19/2022 20:24 Playing on YTMusic
+  09/19/2022 20:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
