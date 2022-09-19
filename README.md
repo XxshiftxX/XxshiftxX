@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=s6bx7MCEZ6Y">
-    <img width="300" src="https://lh3.googleusercontent.com/XTmBOdn5n56NOMcV20aatoNsnhxr3HmGH4rXZgAYEC6YYNdT0OFu07kXQ7lFBugM4xNlyJFlrQELrtog">
+  <a href="https://music.youtube.com/watch?v=bsgBUM2Mnsw">
+    <img width="300" src="https://lh3.googleusercontent.com/E6MtQbDmqinJFUOTU3KVlKjN_8P3DRGlJpUyZVsvAwXqE4KJ3eYWBefmInkrPypfARvol19uLP4WZgU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Selfmade Orange(feat. SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO), 해쉬 스완(Hash Swan), ASH ISLAND 및 김효은 - BAND</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dnsg ]</b>
+  included in <b>[ BAND ]</b>
   
   <br />
   <br />
-  09/19/2022 20:58 Playing on YTMusic
+  09/19/2022 21:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
