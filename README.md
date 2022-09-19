@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-iPWHBqsWfM">
-    <img width="300" src="https://lh3.googleusercontent.com/rPZ8ZjCqBcPR8WNj0ZWy6MxK88N8ZLiMqvFLtrMPqUqP3RligS_DOGSgI8L5JJOz5YjhH_bROBpGvMx1">
+  <a href="https://music.youtube.com/watch?v=s6bx7MCEZ6Y">
+    <img width="300" src="https://lh3.googleusercontent.com/XTmBOdn5n56NOMcV20aatoNsnhxr3HmGH4rXZgAYEC6YYNdT0OFu07kXQ7lFBugM4xNlyJFlrQELrtog">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>한요한 - 400km(feat. Kid Milli)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Selfmade Orange(feat. SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 원기옥 ]</b>
+  included in <b>[ Dnsg ]</b>
   
   <br />
   <br />
-  09/19/2022 20:55 Playing on YTMusic
+  09/19/2022 20:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
