@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OlKkYPJMEtE">
-    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
+  <a href="https://music.youtube.com/watch?v=PjwptpBk9BM">
+    <img width="300" src="https://lh3.googleusercontent.com/xCo2s3t7D--mu1PJYifAzhmSbxoLYlFgDM2WxE-U9P9JQbBp06Tp1UnccRM91oXkiW6TpApbSBGxp-6y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - 아가씨 (Feat. ZENE THE ZILLA & 머쉬베놈)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUPERBEE - Pass the Rhyme(feat. 창모(CHANGMO), 도끼(Dok2))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOYSTORY2 ]</b>
+  included in <b>[ 1집 : Rap Legend ]</b>
   
   <br />
   <br />
-  09/19/2022 21:15 Playing on YTMusic
+  09/19/2022 21:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
