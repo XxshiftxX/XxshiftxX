@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bbl3qPS9x4o">
-    <img width="300" src="https://lh3.googleusercontent.com/u1-D0Add6pNt41wb36bsbefo6WMWCpiWW-du918-KW1vO7r4A1k8RpgHecgGz87BxqmiRnkdMzQ4gItXcw">
+  <a href="https://music.youtube.com/watch?v=OlKkYPJMEtE">
+    <img width="300" src="https://lh3.googleusercontent.com/LwcaDfp5oit0Zm83Mn4omWR6ynGjHojyQLyq_RLN3qwwZwMf21N8BTOQT_khHLRvQJN6yFvAWOAwBSU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 사이렌 Remix(feat. UNEDUCATED KID, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz 및 TOIL - 아가씨 (Feat. ZENE THE ZILLA & 머쉬베놈)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 사이렌 (Remix) ]</b>
+  included in <b>[ TOYSTORY2 ]</b>
   
   <br />
   <br />
-  09/19/2022 21:11 Playing on YTMusic
+  09/19/2022 21:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
