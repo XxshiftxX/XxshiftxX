@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
-    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
+  <a href="https://music.youtube.com/watch?v=hkfkOC4vIS0">
+    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 및 Jvcki Wai - KOCEAN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ business boy ]</b>
+  included in <b>[ Maiden Voyage III ]</b>
   
   <br />
   <br />
-  09/19/2022 20:16 Playing on YTMusic
+  09/19/2022 20:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
