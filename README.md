@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
-    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
+  <a href="https://music.youtube.com/watch?v=JSuOMvgXnaM">
+    <img width="300" src="https://lh3.googleusercontent.com/dFNyrhBwKeq-GdmJ3z9ldCgTrJv2kpA_MvXW7AdEHClOuvygP6TwtrMwo0x2zrYzDjPMoMdGn4YbkOLP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>The Quiett - Prime Time (Remix)(feat. 오디(ODEE), 창모(CHANGMO), 해쉬 스완(Hash Swan), 도끼(Dok2))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BROKEN FERRARI ]</b>
+  included in <b>[ Q Day (Remixes) ]</b>
   
   <br />
   <br />
-  09/19/2022 21:25 Playing on YTMusic
+  09/19/2022 21:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
