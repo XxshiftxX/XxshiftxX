@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kOSsoCgsFvg">
-    <img width="300" src="https://lh3.googleusercontent.com/M8ICiovQtQGcDg90tzmAJWPjYH6BZfxAhGRm9BmzrXLmYYx4CpUEm2W4drdkjKnKXL9DPaKHLBQojvt1">
+  <a href="https://music.youtube.com/watch?v=OcvLH6SDa18">
+    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, Kid Milli, NO:EL 및 Swings - flex</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(feat. 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ flex ]</b>
+  included in <b>[ Swoosh Flow (Remix) ]</b>
   
   <br />
   <br />
-  09/08/2022 23:45 Playing on YTMusic
+  09/19/2022 19:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
