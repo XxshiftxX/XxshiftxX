@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9bMtG_ofQdo">
-    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
+  <a href="https://music.youtube.com/watch?v=Wg8RDXs69AQ">
+    <img width="300" src="https://lh3.googleusercontent.com/FUcFTJRFkjn32Uw0FcXVAp5hnQsXHIAr8NkNaJ_acwvCv7hoI4N32BOePSWSJbRjT_PAKtjlHA-ijGrg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - REMEDY(feat. 청하(CHUNG HA))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>팔로알토 - 그늘(feat. SUPERBEE, 스웨이디, zene the zilla)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Boyhood ]</b>
+  included in <b>[ Summer Grooves ]</b>
   
   <br />
   <br />
-  09/19/2022 21:34 Playing on YTMusic
+  09/19/2022 21:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
