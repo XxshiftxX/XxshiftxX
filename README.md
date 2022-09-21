@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2B7GHO7sws4">
-    <img width="300" src="https://i.ytimg.com/vi/2B7GHO7sws4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=dBlU3jT8dp4">
+    <img width="300" src="https://i.ytimg.com/vi/dBlU3jT8dp4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - Gone</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BOYCOLD - Little bit of you</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 613만회 ]</b>
+  included in <b>[ 조회수 9.8천회 ]</b>
   
   <br />
   <br />
-  09/21/2022 16:14 Playing on YTMusic
+  09/21/2022 16:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
