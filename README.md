@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ss7aZxzqDaM">
-    <img width="300" src="https://i.ytimg.com/vi/Ss7aZxzqDaM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=iZduTSCFxYI">
+    <img width="300" src="https://i.ytimg.com/vi/iZduTSCFxYI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - MR. BAD(feat. 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>브라운티거 - 보란 듯이(feat. 조광일)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 46만회 ]</b>
+  included in <b>[ 조회수 5.3만회 ]</b>
   
   <br />
   <br />
-  09/21/2022 16:05 Playing on YTMusic
+  09/21/2022 16:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
