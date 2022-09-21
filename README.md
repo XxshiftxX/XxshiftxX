@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=I9ya3dW6tHk">
-    <img width="300" src="https://i.ytimg.com/vi/I9ya3dW6tHk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=oQfymPI9wC8">
+    <img width="300" src="https://i.ytimg.com/vi/oQfymPI9wC8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 창모 (CHANGMO) - 모래시계 (Hourglass) [Official Music Video]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sins - 나침반(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 91만회 ]</b>
+  included in <b>[ 조회수 3.3만회 ]</b>
   
   <br />
   <br />
-  09/21/2022 15:53 Playing on YTMusic
+  09/21/2022 15:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
