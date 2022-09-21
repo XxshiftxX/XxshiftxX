@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_2bOY34eKuA">
-    <img width="300" src="https://i.ytimg.com/vi/_2bOY34eKuA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=HkWfn-FD0GA">
+    <img width="300" src="https://i.ytimg.com/vi/HkWfn-FD0GA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sins - 휘파람</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>우디고차일드(Woodie Gochild) , 식 케이(Sik-K), 김하온(HAON) 및 박재범 - 도착</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 27만회 ]</b>
+  included in <b>[ 조회수 487만회 ]</b>
   
   <br />
   <br />
-  09/21/2022 16:33 Playing on YTMusic
+  09/21/2022 16:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
