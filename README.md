@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tRO13C97d-E">
-    <img width="300" src="https://i.ytimg.com/vi/tRO13C97d-E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=_KKCGpat33s">
+    <img width="300" src="https://i.ytimg.com/vi/_KKCGpat33s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - business boy(feat. 블루, nongmill kim)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미노이 및 우원재 - 잠수이별</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 220만회 ]</b>
+  included in <b>[ 조회수 257만회 ]</b>
   
   <br />
   <br />
-  09/21/2022 15:42 Playing on YTMusic
+  09/21/2022 15:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
