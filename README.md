@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HkWfn-FD0GA">
-    <img width="300" src="https://i.ytimg.com/vi/HkWfn-FD0GA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=rX6CWLRYT5A">
+    <img width="300" src="https://lh3.googleusercontent.com/gLcYtwunyzEPM51Gb9BioUwnnFh4xi9Epi6XvelrDqxZ3OzVmbUdJb74Uk7QsNFpITaE6dAPtatSE7UK">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>우디고차일드(Woodie Gochild) , 식 케이(Sik-K), 김하온(HAON) 및 박재범 - 도착</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>태버 - 007(feat. Syd)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 487만회 ]</b>
+  included in <b>[ 007 ]</b>
   
   <br />
   <br />
-  09/21/2022 16:37 Playing on YTMusic
+  09/23/2022 14:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
