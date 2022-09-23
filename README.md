@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=L8M1REIN6TQ">
-    <img width="300" src="https://lh3.googleusercontent.com/d_H8gK1fxGYJ7ZPlFXf12rXZdntteatmFPTn2wck42eHB37M4-m4N1ScC7IuARM7q0YIVe1Qs4XfK4S6eA">
+  <a href="https://music.youtube.com/watch?v=40P_ZEkC-90">
+    <img width="300" src="https://lh3.googleusercontent.com/miND3nsxRGZTyVcG7Xt2QZX9M_y9xZiBioy9_2U7wQRlpzyMZtsP3yYn345LRgIP1FIf9p2w_uQj4OI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>The Internet - Dontcha</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>시드 - All About Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dontcha ]</b>
+  included in <b>[ All About Me ]</b>
   
   <br />
   <br />
-  09/23/2022 20:11 Playing on YTMusic
+  09/23/2022 20:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
