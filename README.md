@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=n8epQ6h3_P8">
-    <img width="300" src="https://lh3.googleusercontent.com/R2G82ymUrTtleiNOqLyShLqZ1SmKEBzKXMXy5yFpDYRJ6svo3q-6q9_x5n-L-kuqihujp2N777PpymAo">
+  <a href="https://music.youtube.com/watch?v=VJs8hrngkvs">
+    <img width="300" src="https://lh3.googleusercontent.com/I-dCGPyzYntXdZMkRlAPlKHmx8ykuSqDwKbT3CQlNyulX8lqjwo0WdRl6JsVi7MHuC_BfViF4-OlvLO4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>지투 G2 - 식구</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>수비 - Lazy(feat. 재하)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 식구 ]</b>
+  included in <b>[ Lazy ]</b>
   
   <br />
   <br />
-  09/23/2022 20:18 Playing on YTMusic
+  09/23/2022 20:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
