@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
-    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
+  <a href="https://music.youtube.com/watch?v=SXDzL1RJllk">
+    <img width="300" src="https://lh3.googleusercontent.com/rYNEqXPVCR9U3CvPOzpCmMgCqJBzdG_ocJxE6TfQ8Q46IAIeX235kWljrw5S0aWOFSL35o_u9ei-BsHw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>우원재 (Woo) - Uniform(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DDKD ]</b>
+  included in <b>[ Uniform ]</b>
   
   <br />
   <br />
-  09/25/2022 15:59 Playing on YTMusic
+  09/25/2022 16:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
