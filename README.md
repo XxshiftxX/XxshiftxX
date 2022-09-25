@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eK1pD-DXVzk">
-    <img width="300" src="https://i.ytimg.com/vi/eK1pD-DXVzk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=eYynAGCcBWI">
+    <img width="300" src="https://i.ytimg.com/vi/eYynAGCcBWI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기(Coogie), 로꼬, 사이먼 도미닉 및 우원재 - TTFU</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>개코, 던밀스, DeVita(드비타) 및 BE'O (비오) - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 46만회 ]</b>
+  included in <b>[ 조회수 255만회 ]</b>
   
   <br />
   <br />
-  09/25/2022 16:27 Playing on YTMusic
+  09/25/2022 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
