@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8zK-gyVswxE">
-    <img width="300" src="https://lh3.googleusercontent.com/2VsBLtYduh22RL-G1Wm2KIpKu47Bhv1953nwk5BpnpYbv0P2FVzUU4guGIBLWjvxiSUGGYvXDVJgnEeuuw">
+  <a href="https://music.youtube.com/watch?v=eK1pD-DXVzk">
+    <img width="300" src="https://i.ytimg.com/vi/eK1pD-DXVzk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 낭만교향곡(feat. CHANGMO, 박재범)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기(Coogie), 로꼬, 사이먼 도미닉 및 우원재 - TTFU</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 낭만 ]</b>
+  included in <b>[ 조회수 46만회 ]</b>
   
   <br />
   <br />
-  09/25/2022 16:06 Playing on YTMusic
+  09/25/2022 16:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
