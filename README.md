@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=s-G6XUUJMvc">
-    <img width="300" src="https://lh3.googleusercontent.com/BZIDX8zF0sw7rvNMaKZ3n-8cefz6V7NJPWIgWd9bk5H8cxkkiCb0PqmmlEvOkj-t877YJU1BtwjXTHw">
+  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
+    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>시드 - On the Road</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Always Never Home ]</b>
+  included in <b>[ DDKD ]</b>
   
   <br />
   <br />
-  09/25/2022 15:55 Playing on YTMusic
+  09/25/2022 15:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
