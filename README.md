@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rX6CWLRYT5A">
-    <img width="300" src="https://lh3.googleusercontent.com/gLcYtwunyzEPM51Gb9BioUwnnFh4xi9Epi6XvelrDqxZ3OzVmbUdJb74Uk7QsNFpITaE6dAPtatSE7UK">
+  <a href="https://music.youtube.com/watch?v=s-G6XUUJMvc">
+    <img width="300" src="https://lh3.googleusercontent.com/BZIDX8zF0sw7rvNMaKZ3n-8cefz6V7NJPWIgWd9bk5H8cxkkiCb0PqmmlEvOkj-t877YJU1BtwjXTHw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>태버 - 007(feat. Syd)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>시드 - On the Road</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 007 ]</b>
+  included in <b>[ Always Never Home ]</b>
   
   <br />
   <br />
-  09/25/2022 15:53 Playing on YTMusic
+  09/25/2022 15:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
