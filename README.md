@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KrxYthVGNUE">
-    <img width="300" src="https://i.ytimg.com/vi/KrxYthVGNUE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=iXAkg8vzNTc">
+    <img width="300" src="https://i.ytimg.com/vi/iXAkg8vzNTc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>원슈타인 - Cassie ($) (prod. PEEJAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>식 케이(Sik-K) - HEAR ME</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 12만회 ]</b>
+  included in <b>[ 조회수 42만회 ]</b>
   
   <br />
   <br />
-  09/26/2022 15:35 Playing on YTMusic
+  09/26/2022 15:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
