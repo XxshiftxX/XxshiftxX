@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IQRtn4fVuRU">
-    <img width="300" src="https://i.ytimg.com/vi/IQRtn4fVuRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=_KKCGpat33s">
+    <img width="300" src="https://i.ytimg.com/vi/_KKCGpat33s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - Red Pill (Born from the Blue Pt. II) (Prod. CODE KUNST)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미노이 및 우원재 - 잠수이별</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 2.7만회 ]</b>
+  included in <b>[ 조회수 267만회 ]</b>
   
   <br />
   <br />
-  09/28/2022 09:30 Playing on YTMusic
+  09/28/2022 09:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
