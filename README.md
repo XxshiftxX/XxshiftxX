@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BvfzOWJIicA">
-    <img width="300" src="https://lh3.googleusercontent.com/0fwxWy4PhaIpGje7n3umflSZx3pk2inzix-RKOPix4SV9v37FEfaCx8Je0gQs1FqyJZI5K8Sg0pxKyA">
+  <a href="https://music.youtube.com/watch?v=PjLMkI9lt2c">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>비와이(BewhY) - So What</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(feat. 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Time Travel ]</b>
+  included in <b>[ Show Me the Money 9 Final ]</b>
   
   <br />
   <br />
-  09/29/2022 16:17 Playing on YTMusic
+  09/29/2022 16:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
