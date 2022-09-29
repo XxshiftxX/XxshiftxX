@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IcdYxamomNU">
-    <img width="300" src="https://lh3.googleusercontent.com/-qyKNqReCTYXtkkwwp1lDOi88bLCiN9GC-6RYrqnwSipxVWGDCusdlyZLoEmzlGmzVR5TN31cuel9UoB">
+  <a href="https://music.youtube.com/watch?v=2B1XWqFdOig">
+    <img width="300" src="https://lh3.googleusercontent.com/mr7s7_iAfVVIHY6VEiqQOS8RgBTdrfjbZL7M9HloEE4LV4xTR2-7vi-xfQn0P06dzrz4Eftup831DAU3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Lambo!(feat. UNEDUCATED KID)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Big Boy(feat. Ash-B(애쉬비))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lambo! ]</b>
+  included in <b>[ BLASÉ ]</b>
   
   <br />
   <br />
-  09/29/2022 16:01 Playing on YTMusic
+  09/29/2022 16:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
