@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2B1XWqFdOig">
-    <img width="300" src="https://lh3.googleusercontent.com/mr7s7_iAfVVIHY6VEiqQOS8RgBTdrfjbZL7M9HloEE4LV4xTR2-7vi-xfQn0P06dzrz4Eftup831DAU3">
+  <a href="https://music.youtube.com/watch?v=KMvxAH-bRmw">
+    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Big Boy(feat. Ash-B(애쉬비))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Joker(feat. JAMIE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLASÉ ]</b>
+  included in <b>[ Bucket List ]</b>
   
   <br />
   <br />
-  09/29/2022 16:05 Playing on YTMusic
+  09/29/2022 16:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
