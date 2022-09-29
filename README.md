@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=h0ccMK0U9nY">
-    <img width="300" src="https://lh3.googleusercontent.com/AoumIJIXIR7IILMeA8T0I_g6eg_r0-xytsAO8gjZXUzjeCt1LHOw6qugmXKLExIcv8SUxXqkHTw8BPs">
+  <a href="https://music.youtube.com/watch?v=CO3wfnmKaEA">
+    <img width="300" src="https://lh3.googleusercontent.com/EaKiiq-vPvFg9FGgo6VSH8JlEaRJzUvYD7etHzvcbKD_VJreDAGowpedf4yKYCyfDadr1S9kvOxOElR_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Alone(feat. 이하이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크러쉬(Crush) - In the Air</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ALONE ]</b>
+  included in <b>[ Interlude ]</b>
   
   <br />
   <br />
-  09/29/2022 15:40 Playing on YTMusic
+  09/29/2022 15:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
