@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OlXr5YD-MWA">
-    <img width="300" src="https://lh3.googleusercontent.com/plFuJqbav1yVEIBP0i0lSwLm10agsJn_CRX3r4CtCYIL56_3VVxz-j9wyRMAkqOFHlILzK16Tixj0qc">
+  <a href="https://music.youtube.com/watch?v=TdnkUTigQjc">
+    <img width="300" src="https://lh3.googleusercontent.com/Mcf59pgoNU0-IRfQE3ogUz0tBu11xlzi2FAfEFA9ffiyZPkJGpX34N7fbEECp-Y56tKJfKaxdNJpUuX-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 정이라고 하자(feat. 10CM)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>넉살(Nucksal) - AKIRA(feat. 개코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 정이라고 하자 ]</b>
+  included in <b>[ 1Q87 ]</b>
   
   <br />
   <br />
-  09/29/2022 14:56 Playing on YTMusic
+  09/29/2022 14:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
