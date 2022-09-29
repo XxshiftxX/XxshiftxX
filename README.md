@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MuLChReG20s">
-    <img width="300" src="https://i.ytimg.com/vi/MuLChReG20s/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=rX6CWLRYT5A">
+    <img width="300" src="https://lh3.googleusercontent.com/gLcYtwunyzEPM51Gb9BioUwnnFh4xi9Epi6XvelrDqxZ3OzVmbUdJb74Uk7QsNFpITaE6dAPtatSE7UK">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>27RING - 원기옥 (Genkidama) RMX(feat. 에이솔, Jiho Givenchy, 챙스타 (Changstarr*), QM)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>태버 - 007(feat. Syd)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 170만회 ]</b>
+  included in <b>[ 007 ]</b>
   
   <br />
   <br />
-  09/28/2022 09:38 Playing on YTMusic
+  09/29/2022 14:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
