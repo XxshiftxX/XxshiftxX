@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZVcbYXkhYF4">
-    <img width="300" src="https://lh3.googleusercontent.com/UQEg0xZgX_pwG6jVHN1ej-CQAZLrvKggT-wOpIZ1VKJ-N6PI9S3JCukTH43TS_ZEmwZAFtY1RmiWmYBn">
+  <a href="https://music.youtube.com/watch?v=MYZXUJ-BG-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/LeYtxyl_uTZro2vQSRjBGZb2ruPY52R_H8gONkfl65STW5adNIu2ZEUccRiM7rIhgYdiHHCOjfCOMS8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>코드 쿤스트 (CODE KUNST), meenoi (미노이) - Take Me (with 11키티즈)(feat. 11키티즈)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Paul Blanco - Summer(feat. BE′O (비오))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Take Me ]</b>
+  included in <b>[ Summer ]</b>
   
   <br />
   <br />
-  09/29/2022 15:50 Playing on YTMusic
+  09/29/2022 15:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
