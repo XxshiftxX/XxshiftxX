@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=V2vp9fXyaeE">
-    <img width="300" src="https://lh3.googleusercontent.com/YPKnwvojaZyFM25Axo6q_xk0m1IqrXLJpVYP1_310BV7V_WO3K0JgZ87HYWsCechXbgbLVTFJcL7FVA">
+  <a href="https://music.youtube.com/watch?v=DwgpNARgcZY">
+    <img width="300" src="https://lh3.googleusercontent.com/jPKtxSw-kbu0AL2CE56DwsVxm-HQb5Y6rKK1yUaUQ08zBjqFWsSn86VadrJn8F7Ag4lt6TidT-vNBC1VMA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - 후유증(feat. 개리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>원슈타인 - Cassie ($) (prod. PEEJAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOYSTORY3 ]</b>
+  included in <b>[ Cassie ($) ]</b>
   
   <br />
   <br />
-  09/29/2022 22:25 Playing on YTMusic
+  09/29/2022 22:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
