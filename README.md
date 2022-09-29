@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rX6CWLRYT5A">
-    <img width="300" src="https://lh3.googleusercontent.com/gLcYtwunyzEPM51Gb9BioUwnnFh4xi9Epi6XvelrDqxZ3OzVmbUdJb74Uk7QsNFpITaE6dAPtatSE7UK">
+  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>태버 - 007(feat. Syd)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 007 ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  09/29/2022 14:35 Playing on YTMusic
+  09/29/2022 14:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
