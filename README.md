@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8GWUcYtkjps">
-    <img width="300" src="https://lh3.googleusercontent.com/f07dG-zbGlan2G9V8Vt7Bctqiaxs33zQI62hhQHVLhKI3FKeCBXFnEiVpMIuEqh6odx8oFTbBrnPUWw">
+  <a href="https://music.youtube.com/watch?v=PK02_Q5hHKo">
+    <img width="300" src="https://lh3.googleusercontent.com/j4FCnfqLXk_N6yg47XvQEbZP-lZrkF-9wJ_f_oc6gumNIzJM__pWppvjEKw5L9r5o21vxSKQEpRclDhw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>우원재 (Woo) 및 미노이 (meenoi) - 잠수이별</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>파테코 - Rainy day(feat. 스키니 브라운, 윤진영)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 잠수이별 ]</b>
+  included in <b>[ Rainy day ]</b>
   
   <br />
   <br />
-  09/29/2022 15:09 Playing on YTMusic
+  09/29/2022 15:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
