@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bxo9b4MumnI">
-    <img width="300" src="https://lh3.googleusercontent.com/KUBxuLALJJOppf3WigXZa-p9lr32PZ5uDfLB54ZSka4t6vBtwZgr7hKeaqjI_xIra__dFsmn6iT0O7bg">
+  <a href="https://music.youtube.com/watch?v=V2vp9fXyaeE">
+    <img width="300" src="https://lh3.googleusercontent.com/YPKnwvojaZyFM25Axo6q_xk0m1IqrXLJpVYP1_310BV7V_WO3K0JgZ87HYWsCechXbgbLVTFJcL7FVA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - ISSUES(feat. Paloalto)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - 후유증(feat. 개리)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BUT FOR NOW LEAVE ME ALONE ]</b>
+  included in <b>[ TOYSTORY3 ]</b>
   
   <br />
   <br />
-  09/29/2022 22:22 Playing on YTMusic
+  09/29/2022 22:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
