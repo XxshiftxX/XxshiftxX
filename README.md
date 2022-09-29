@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rX6CWLRYT5A">
-    <img width="300" src="https://lh3.googleusercontent.com/gLcYtwunyzEPM51Gb9BioUwnnFh4xi9Epi6XvelrDqxZ3OzVmbUdJb74Uk7QsNFpITaE6dAPtatSE7UK">
+  <a href="https://music.youtube.com/watch?v=h6VNBMxiYxY">
+    <img width="300" src="https://lh3.googleusercontent.com/xFLu0_dsZQ1AQpUSormqmEM5mWD9CkODl5qmokSnbamtSgs_CGrkIgpooIzd0-GxA_1bYvVHAVdbl8ZxKA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>태버 - 007(feat. Syd)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>프라이머리(Primary) - mine tonight(feat. JINBO the SuperFreak, 도끼(Dok2))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 007 ]</b>
+  included in <b>[ Primary and the Messengers, Pt. 4 ]</b>
   
   <br />
   <br />
-  09/29/2022 22:15 Playing on YTMusic
+  09/29/2022 22:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
