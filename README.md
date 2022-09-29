@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pkJHRKgWcc4">
-    <img width="300" src="https://lh3.googleusercontent.com/AoumIJIXIR7IILMeA8T0I_g6eg_r0-xytsAO8gjZXUzjeCt1LHOw6qugmXKLExIcv8SUxXqkHTw8BPs">
+  <a href="https://music.youtube.com/watch?v=F50yfwMmAAc">
+    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Good Night (Remix)(feat. Paul Blanco, CAMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lIlBOI - CREDIT(feat. 염따, 기리보이(Giriboy), Zion.T)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ALONE ]</b>
+  included in <b>[ Show Me the Money 9 Final ]</b>
   
   <br />
   <br />
-  09/29/2022 14:48 Playing on YTMusic
+  09/29/2022 14:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
