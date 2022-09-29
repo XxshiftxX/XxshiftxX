@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fdMiq-0mi3M">
-    <img width="300" src="https://lh3.googleusercontent.com/hOwTK2Y7Dy4twakFfgZGNRAXtgkp_UBqe7OK_sRDv0dGCZpoC8iWyJvoGk765LmwsaB-qynjpucFvQVd">
+  <a href="https://music.youtube.com/watch?v=UDyPp9bkfD0">
+    <img width="300" src="https://lh3.googleusercontent.com/hJU7Bllyq_7pzhZWDjfLE88p1Lomerr4LsrFIs4oDPEAyZZI4DlBU9jPORTeUS-Q7yXfmkLFIe8CQiyS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Homebody</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Martini Blue</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ staying ]</b>
+  included in <b>[ Her ]</b>
   
   <br />
   <br />
-  09/29/2022 15:02 Playing on YTMusic
+  09/29/2022 15:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
