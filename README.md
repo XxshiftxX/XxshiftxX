@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=RD-0SvXhIJg">
+    <img width="300" src="https://lh3.googleusercontent.com/YGsuqdjUW0HvjUT-5rm8A903lTG7Ti6KnCu4U0wW8ziNHFgM2msHknvnzW6dGcO5lzG-gnZBoS-gbVR3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - City Lights(feat. Hash Swan)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ City Lights ]</b>
   
   <br />
   <br />
-  09/29/2022 14:37 Playing on YTMusic
+  09/29/2022 14:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
