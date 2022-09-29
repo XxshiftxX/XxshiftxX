@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=F50yfwMmAAc">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=OlXr5YD-MWA">
+    <img width="300" src="https://lh3.googleusercontent.com/plFuJqbav1yVEIBP0i0lSwLm10agsJn_CRX3r4CtCYIL56_3VVxz-j9wyRMAkqOFHlILzK16Tixj0qc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - CREDIT(feat. 염따, 기리보이(Giriboy), Zion.T)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 정이라고 하자(feat. 10CM)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ 정이라고 하자 ]</b>
   
   <br />
   <br />
-  09/29/2022 14:52 Playing on YTMusic
+  09/29/2022 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
