@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HbkSficSgMs">
-    <img width="300" src="https://lh3.googleusercontent.com/es9H1OvE_lLdnwpmmkBIBvlFS7ZcDthasVYC58Aeq92fxfjvqo_uFI2vl1squSk9k8og6uO9gLeJuVCF">
+  <a href="https://music.youtube.com/watch?v=rX6CWLRYT5A">
+    <img width="300" src="https://lh3.googleusercontent.com/gLcYtwunyzEPM51Gb9BioUwnnFh4xi9Epi6XvelrDqxZ3OzVmbUdJb74Uk7QsNFpITaE6dAPtatSE7UK">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>프라이머리(Primary) - U(feat. 권진아, RM)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>태버 - 007(feat. Syd)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2 ]</b>
+  included in <b>[ 007 ]</b>
   
   <br />
   <br />
-  09/29/2022 17:10 Playing on YTMusic
+  09/29/2022 22:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
