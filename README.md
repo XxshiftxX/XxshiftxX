@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ReciybFAmNU">
-    <img width="300" src="https://lh3.googleusercontent.com/oK8u5DqXwFroSPWY0VvL0n6kt3DYtrk2D05D58wce_kEsaD3qPL_nbDPM3VZkalRJ5-fuJBH8TJ63L7Y">
+  <a href="https://music.youtube.com/watch?v=i7muqI90138">
+    <img width="300" src="https://i.ytimg.com/vi/i7muqI90138/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YUNHWAY - Love Off</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>리릭뭉치 - 창모 (CHANGMO) - 널 지워야해 (Erase You) (Prod by. CHANGMO) [널 지워야해]│가사, Lyrics</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Mango ]</b>
+  included in <b>[ 조회수 1746만회 ]</b>
   
   <br />
   <br />
-  09/29/2022 16:34 Playing on YTMusic
+  09/29/2022 16:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
