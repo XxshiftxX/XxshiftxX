@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GCXACSFfpQc">
-    <img width="300" src="https://lh3.googleusercontent.com/KUBxuLALJJOppf3WigXZa-p9lr32PZ5uDfLB54ZSka4t6vBtwZgr7hKeaqjI_xIra__dFsmn6iT0O7bg">
+  <a href="https://music.youtube.com/watch?v=Nmt_jCfa61Y">
+    <img width="300" src="https://lh3.googleusercontent.com/FkconNbdJHIfBn5AJ6PyszyK44mIkb1DO507NB3lVvG5cvZYihSKckadEhP7dWMHfmJrJfsbfTJbnkHf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - ZOMBIES</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>E SENS - Next Level</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BUT FOR NOW LEAVE ME ALONE ]</b>
+  included in <b>[ The Anecdote ]</b>
   
   <br />
   <br />
-  09/29/2022 16:44 Playing on YTMusic
+  09/29/2022 16:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
