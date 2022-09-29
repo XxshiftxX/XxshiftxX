@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HmKgFJGn46Q">
-    <img width="300" src="https://lh3.googleusercontent.com/_0O2hXESFPU5IsfW3TyMNTHM8QpdffDOaL2If2O1UKtYkLSzpT1zxXUFgMi5qmorFya_6JKmmwuyJsV1TQ">
+  <a href="https://music.youtube.com/watch?v=Pjo3m22Vo2w">
+    <img width="300" src="https://lh3.googleusercontent.com/GO5yqN0iB6DoC8K4Xqe387YE0cT3L5T9UvIzMpQFEXW4FRIKLxofnCfEThxMjoj--KSMi6tvzpUEmXG5">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>코스믹보이 - Can I Love ? (Feat. 유라(youra), Meego)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>나플라 - 가게송</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Can I Love ? ]</b>
+  included in <b>[ u n u, Pt. 2 ]</b>
   
   <br />
   <br />
-  09/29/2022 15:30 Playing on YTMusic
+  09/29/2022 15:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
