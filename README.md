@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Nny9Ehrr8_s">
-    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
+  <a href="https://music.youtube.com/watch?v=9dtkOAdCPqw">
+    <img width="300" src="https://lh3.googleusercontent.com/xMzyx3lVZAWCmZsYSboe1bbuS-qFmmPaPYRorxjFWjKxK33Dk9uTi1TOXFqTMU-F8wWUOpZ9NiSSGpdt-g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 - Red</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>홈보이 및 원슈타인 - #seoulcitypopfreestyle</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
+  included in <b>[ #seoulcitypopfreestyle ]</b>
   
   <br />
   <br />
-  09/29/2022 16:51 Playing on YTMusic
+  09/29/2022 16:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
