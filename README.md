@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=61sZEyPIBrE">
-    <img width="300" src="https://lh3.googleusercontent.com/_nqnS59ReI3_cOxqLAFSRpIXkKIFJn__YOfed42TlKgCAGudJvJ7R8BVkK9_YOsrU-YU6vjzMuNKzKeJ">
+  <a href="https://music.youtube.com/watch?v=GvW3IrVQFkk">
+    <img width="300" src="https://lh3.googleusercontent.com/YzEEv-Ps30bPEtKUxL1v1GAKHKcC0LeyymxgQqoVxG6VxTJ8D1d2P-VBmsWiDYkdfdwFVy90Dbu_FwPh">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나플라 - 아이스 커피</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제이통 - Pinecone Rock(feat. 로다운 30)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ u n u, Pt. 1 ]</b>
+  included in <b>[ Pinecone Rock ]</b>
   
   <br />
   <br />
-  09/29/2022 22:31 Playing on YTMusic
+  09/29/2022 22:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
