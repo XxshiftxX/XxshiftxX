@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=THRvS3lHIAo">
-    <img width="300" src="https://i.ytimg.com/vi/THRvS3lHIAo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=qUnCQXWhH4E">
+    <img width="300" src="https://i.ytimg.com/vi/qUnCQXWhH4E/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>머쉬베놈 및 저스디스 - 옜다</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GEMINI (제미나이) 및 박재범 - Trip</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 383만회 ]</b>
+  included in <b>[ 조회수 93만회 ]</b>
   
   <br />
   <br />
-  10/02/2022 15:44 Playing on YTMusic
+  10/02/2022 15:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
