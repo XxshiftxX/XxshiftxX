@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uGan5GEKJos">
-    <img width="300" src="https://i.ytimg.com/vi/uGan5GEKJos/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=tE4PviEbSgA">
+    <img width="300" src="https://i.ytimg.com/vi/tE4PviEbSgA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - RUN AWAY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>서동현, 우디고차일드(Woodie Gochild) , 식 케이(Sik-K) 및 김하온(HAON) - The Purge</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 103만회 ]</b>
+  included in <b>[ 조회수 840만회 ]</b>
   
   <br />
   <br />
-  10/02/2022 16:20 Playing on YTMusic
+  10/02/2022 16:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
