@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eYynAGCcBWI">
-    <img width="300" src="https://i.ytimg.com/vi/eYynAGCcBWI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=IlJHZJ8EqeA">
+    <img width="300" src="https://i.ytimg.com/vi/IlJHZJ8EqeA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코, 던밀스, DeVita(드비타) 및 BE'O (비오) - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MINO - 몸</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 257만회 ]</b>
+  included in <b>[ 조회수 3939만회 ]</b>
   
   <br />
   <br />
-  10/02/2022 16:11 Playing on YTMusic
+  10/02/2022 16:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
