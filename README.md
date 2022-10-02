@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eCJePo-R7aY">
-    <img width="300" src="https://i.ytimg.com/vi/eCJePo-R7aY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=wMkdmElFLUw">
+    <img width="300" src="https://i.ytimg.com/vi/wMkdmElFLUw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Malibu</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - 마에스트로 (Maestro)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 702만회 ]</b>
+  included in <b>[ 조회수 1318만회 ]</b>
   
   <br />
   <br />
-  10/02/2022 15:22 Playing on YTMusic
+  10/02/2022 15:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
