@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KoWgusQpS9Q">
-    <img width="300" src="https://i.ytimg.com/vi/KoWgusQpS9Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=Y8NoRuyYRis">
+    <img width="300" src="https://i.ytimg.com/vi/Y8NoRuyYRis/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Mnet TV - [ENG] SMTM9 [10회] CREDIT (Feat. 염따, 기리보이, Zion.T) - 릴보이 @파이널 2R EP.10 | Mnet 201218 방송</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>우원재 - Uniform(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 1403만회 ]</b>
+  included in <b>[ 조회수 172만회 ]</b>
   
   <br />
   <br />
-  10/02/2022 16:05 Playing on YTMusic
+  10/02/2022 16:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
