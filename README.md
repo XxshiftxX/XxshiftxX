@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IlJHZJ8EqeA">
-    <img width="300" src="https://i.ytimg.com/vi/IlJHZJ8EqeA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=uGan5GEKJos">
+    <img width="300" src="https://i.ytimg.com/vi/uGan5GEKJos/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MINO - 몸</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - RUN AWAY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 3939만회 ]</b>
+  included in <b>[ 조회수 103만회 ]</b>
   
   <br />
   <br />
-  10/02/2022 16:16 Playing on YTMusic
+  10/02/2022 16:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
