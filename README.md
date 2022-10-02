@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GvW3IrVQFkk">
-    <img width="300" src="https://lh3.googleusercontent.com/YzEEv-Ps30bPEtKUxL1v1GAKHKcC0LeyymxgQqoVxG6VxTJ8D1d2P-VBmsWiDYkdfdwFVy90Dbu_FwPh">
+  <a href="https://music.youtube.com/watch?v=eK1pD-DXVzk">
+    <img width="300" src="https://i.ytimg.com/vi/eK1pD-DXVzk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이통 - Pinecone Rock(feat. 로다운 30)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기(Coogie), 로꼬, 사이먼 도미닉 및 우원재 - TTFU</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Pinecone Rock ]</b>
+  included in <b>[ 조회수 60만회 ]</b>
   
   <br />
   <br />
-  09/29/2022 22:34 Playing on YTMusic
+  10/02/2022 15:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
