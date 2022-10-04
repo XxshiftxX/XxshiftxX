@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
-    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
+  <a href="https://music.youtube.com/watch?v=QVpk_x96UjU">
+    <img width="300" src="https://lh3.googleusercontent.com/S74G4zAWePBnfLjNyGWRrW9WdzJacszykV67PJKcCV9fHIyx7Z5yRtG6lX9IhpF6DXNmiWIP3AmSCj13">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(feat. Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>노윤하 - Far Post (Prod. Codec)(feat. lobonabeat!)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RIDERS ]</b>
+  included in <b>[ Far Post (Feat. lobonabeat!) (Prod. Codec) ]</b>
   
   <br />
   <br />
-  10/04/2022 15:43 Playing on YTMusic
+  10/04/2022 15:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
