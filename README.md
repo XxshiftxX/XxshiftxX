@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Hu1gKB9aFHU">
-    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
+  <a href="https://music.youtube.com/watch?v=E_cakR98hi0">
+    <img width="300" src="https://lh3.googleusercontent.com/LDXm819odQ8SrkcnU0MLr1J-24A1Z_fk5GoM2CkOps63_PZJaWQS4e_U7y1QmEmYDeDWXNazPQ1J5xM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Malibu(feat. The Quiett, Mokyo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - boy(feat. lIlBOI)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HALO ]</b>
+  included in <b>[ DEMOTAPE ]</b>
   
   <br />
   <br />
-  10/04/2022 15:58 Playing on YTMusic
+  10/04/2022 16:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
