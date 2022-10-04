@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2jYiIe4t8e4">
-    <img width="300" src="https://lh3.googleusercontent.com/G7OUMvBhgZRCIZrjhEZRIAnh6JXcXRfvxIBVbUp-7O2SBXD1TxwLpfFALj3NYfCpzAdVzhdmyQ9LQ75s">
+  <a href="https://music.youtube.com/watch?v=eb9KyLEkYBU">
+    <img width="300" src="https://lh3.googleusercontent.com/OFMdXpgTe5OD0d9DFll6mK72BdpMOm__g9cV3XFLQJ2NVdc5Rn1Sr5EZvl30Ox5Xvx8Tz-hHdKUzcck">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>빌스택스 - TNF(feat. lobonabeat!, Furyfromguxxi, 보이 원더)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 - !!!!Lips!!!!(feat. 우원재)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DETOX ]</b>
+  included in <b>[ EMO ＃1 ]</b>
   
   <br />
   <br />
-  10/04/2022 17:07 Playing on YTMusic
+  10/04/2022 17:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
