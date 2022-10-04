@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7f4K_B9ey_s">
-    <img width="300" src="https://lh3.googleusercontent.com/cQ32yOpoki6JdUe_ezvEMICOM916zoc7_hfzjdsPpZ0kat3hx0y4vLEdaqM735AO77VaoVRRG3guEuZu">
+  <a href="https://music.youtube.com/watch?v=bLDyNoURi-o">
+    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>바이스벌사 - @rollsroycecars (Prod. imeanseoul, Wylo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - HIT MAN (feat. 노윤하)(feat. 노윤하)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ www.instagram.com/rollingloud/viceversartist ]</b>
+  included in <b>[ MultrillVerse ]</b>
   
   <br />
   <br />
-  10/04/2022 16:17 Playing on YTMusic
+  10/04/2022 16:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
