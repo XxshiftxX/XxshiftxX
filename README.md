@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8SfCPh4leHk">
-    <img width="300" src="https://lh3.googleusercontent.com/6-iWv6YqjBQylxtHHfA5aPoBYMwX7nx1IajfU6HYVHOSQ4aYDPOB2Oy-S7Dt0hjvWu2Gaa-aUN8jI5Mn">
+  <a href="https://music.youtube.com/watch?v=rIAxTQebEm0">
+    <img width="300" src="https://lh3.googleusercontent.com/PqJdpkMFJ1SE_zydvgwnQy5PeZhxLWh4DJipQRC6hIxqThT563fkVaDuwSSboA9sIqZA2dfC3UJ4LJs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>사이먼 도미닉 - GOTT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - BOY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ No Open Flames ]</b>
+  included in <b>[ BOY ]</b>
   
   <br />
   <br />
-  10/04/2022 17:46 Playing on YTMusic
+  10/04/2022 17:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
