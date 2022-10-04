@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QW8jhivQIn8">
-    <img width="300" src="https://lh3.googleusercontent.com/zdj2bePSLZqU324UtttX8BCXZyI17G8GLHyQQEFGnzXu_8stjr14dldZYijLiI7-EdpyXOiPjx5ZYDIFLA">
+  <a href="https://music.youtube.com/watch?v=En3KKE89QRs">
+    <img width="300" src="https://lh3.googleusercontent.com/o_lEOyAwT9ztDCt573QkYe2m07MBC4J1crLJOR9_m8OxhsdgvmRZVdCiYKId6K-kbKV6Llg9CfrImQNv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - New Season(feat. Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie - POW(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ New Season ]</b>
+  included in <b>[ POW ]</b>
   
   <br />
   <br />
-  10/04/2022 16:51 Playing on YTMusic
+  10/04/2022 16:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
