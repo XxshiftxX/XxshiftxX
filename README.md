@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4VP5Qf6TZS0">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=i6zVlDkX3wM">
+    <img width="300" src="https://lh3.googleusercontent.com/kGdxoFrl5jE6vmnfHMQwLUsaMQh_c80un2l-NXOD4tNAYmR30j40aORNyudoa-mxyb0Rokr7m_2RA2K2og">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - Vivienne</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - FACE TIME (Prod. 코드 쿤스트)(feat. 기리보이, pH-1, 개코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
   
   <br />
   <br />
-  10/04/2022 16:43 Playing on YTMusic
+  10/04/2022 16:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
