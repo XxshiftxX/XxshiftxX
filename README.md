@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XTtVYz_J8xo">
-    <img width="300" src="https://lh3.googleusercontent.com/03fbAS06rjc-LWfal5X-mnaO3JVooJ8qAkfZcfl_KNqXJl4B9ZTORMe19DKd_EshnraVlfcVtVRjhwve">
+  <a href="https://music.youtube.com/watch?v=Hu1gKB9aFHU">
+    <img width="300" src="https://lh3.googleusercontent.com/BgMclE08LXfen_18jeJBIKNrDbC9f-5tsZ1Px_h0XWxaZFze4NpfMhlEvJi-hDO-etPUZJLWZ5hiNJxt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 진인사대천명</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Malibu(feat. The Quiett, Mokyo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 진인사대천명(盡人事待天命) ]</b>
+  included in <b>[ HALO ]</b>
   
   <br />
   <br />
-  10/04/2022 15:53 Playing on YTMusic
+  10/04/2022 15:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
