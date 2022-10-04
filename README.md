@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bp8u_vGyUww">
-    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
+  <a href="https://music.youtube.com/watch?v=mNhjRXfSRC8">
+    <img width="300" src="https://lh3.googleusercontent.com/KuoEB8VDSONNXhjl5DjpA_yEqVlIA0UnPeoUysN5FB9yuQwimWC4AGhIT6fDbP95Rr6RlajtZ8G1r2M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 - 전염 (Til Infinity)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>실키보이즈(SILKYBOIS) - BOMAYE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
+  included in <b>[ BOMAYE ]</b>
   
   <br />
   <br />
-  10/04/2022 16:25 Playing on YTMusic
+  10/04/2022 16:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
