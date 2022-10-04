@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Y-8RwLJ-5ck">
-    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
+  <a href="https://music.youtube.com/watch?v=pA8qctPvocE">
+    <img width="300" src="https://lh3.googleusercontent.com/rKrmCxXlF-KS1ddOyAmP2bBgOyS-Dzo8Rk-mpx_nSwXhCNZoBNreNgtm9S7dODSyHyTcm93HONX7Iynu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Gospel(feat. Chin, GIST(윤현선), Gist)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키츠요지 - BOOZA(feat. Polodared)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MultrillVerse ]</b>
+  included in <b>[ #OLLAGANDA ]</b>
   
   <br />
   <br />
-  10/04/2022 17:20 Playing on YTMusic
+  10/04/2022 17:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
