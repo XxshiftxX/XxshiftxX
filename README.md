@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QVpk_x96UjU">
-    <img width="300" src="https://lh3.googleusercontent.com/S74G4zAWePBnfLjNyGWRrW9WdzJacszykV67PJKcCV9fHIyx7Z5yRtG6lX9IhpF6DXNmiWIP3AmSCj13">
+  <a href="https://music.youtube.com/watch?v=5F4MKGdvTJ8">
+    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노윤하 - Far Post (Prod. Codec)(feat. lobonabeat!)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - HIGH RISK HIGH RETURN(feat. Polodared)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Far Post (Feat. lobonabeat!) (Prod. Codec) ]</b>
+  included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  10/04/2022 15:47 Playing on YTMusic
+  10/04/2022 15:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
