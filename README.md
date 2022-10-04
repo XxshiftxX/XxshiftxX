@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i6zVlDkX3wM">
-    <img width="300" src="https://lh3.googleusercontent.com/kGdxoFrl5jE6vmnfHMQwLUsaMQh_c80un2l-NXOD4tNAYmR30j40aORNyudoa-mxyb0Rokr7m_2RA2K2og">
+  <a href="https://music.youtube.com/watch?v=QW8jhivQIn8">
+    <img width="300" src="https://lh3.googleusercontent.com/zdj2bePSLZqU324UtttX8BCXZyI17G8GLHyQQEFGnzXu_8stjr14dldZYijLiI7-EdpyXOiPjx5ZYDIFLA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - FACE TIME (Prod. 코드 쿤스트)(feat. 기리보이, pH-1, 개코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - New Season(feat. Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
+  included in <b>[ New Season ]</b>
   
   <br />
   <br />
-  10/04/2022 16:47 Playing on YTMusic
+  10/04/2022 16:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
