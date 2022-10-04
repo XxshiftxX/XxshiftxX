@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
-    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
+  <a href="https://music.youtube.com/watch?v=4VP5Qf6TZS0">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - Vivienne</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DDKD ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  10/04/2022 16:40 Playing on YTMusic
+  10/04/2022 16:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
