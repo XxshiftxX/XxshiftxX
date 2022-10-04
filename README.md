@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MpZYdE02hFM">
-    <img width="300" src="https://lh3.googleusercontent.com/mr7s7_iAfVVIHY6VEiqQOS8RgBTdrfjbZL7M9HloEE4LV4xTR2-7vi-xfQn0P06dzrz4Eftup831DAU3">
+  <a href="https://music.youtube.com/watch?v=9aZYZiMPh9U">
+    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Tight(feat. 오왼(Owen), OWEN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Hotel Walkerhill(feat. Hash Swan)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLASÉ ]</b>
+  included in <b>[ Boyhood ]</b>
   
   <br />
   <br />
-  10/04/2022 16:58 Playing on YTMusic
+  10/04/2022 17:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
