@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ghxcy4WIoOk">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=bp8u_vGyUww">
+    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - Hyperstar</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 - 전염 (Til Infinity)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
   
   <br />
   <br />
-  10/04/2022 16:21 Playing on YTMusic
+  10/04/2022 16:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
