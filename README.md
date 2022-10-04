@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bLDyNoURi-o">
-    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
+  <a href="https://music.youtube.com/watch?v=ghxcy4WIoOk">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - HIT MAN (feat. 노윤하)(feat. 노윤하)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - Hyperstar</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MultrillVerse ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  10/04/2022 16:18 Playing on YTMusic
+  10/04/2022 16:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
