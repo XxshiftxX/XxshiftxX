@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=H5Zch7DRc6E">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=K32MnQSxSFM">
+    <img width="300" src="https://lh3.googleusercontent.com/TNBevkHdj5ALPkQjhcs_MF3-_PupwNz42-XyCdL6bBlzEWHsOoEUFMnvYOuMXCSx2wjvZhPHr-8QIedv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - Double Up(feat. skinny brown, CK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스 - RAIN SHOWERS REMIX</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ 파급효과 (Ripple Effect) ]</b>
   
   <br />
   <br />
-  10/04/2022 17:26 Playing on YTMusic
+  10/04/2022 17:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
