@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eb9KyLEkYBU">
-    <img width="300" src="https://lh3.googleusercontent.com/OFMdXpgTe5OD0d9DFll6mK72BdpMOm__g9cV3XFLQJ2NVdc5Rn1Sr5EZvl30Ox5Xvx8Tz-hHdKUzcck">
+  <a href="https://music.youtube.com/watch?v=CG1lF_bpMlo">
+    <img width="300" src="https://lh3.googleusercontent.com/EcYb1sPCsn3atuGcx_WmA1siSVDpH1fdumOcrojlpJHYqzhhPHJMXGfD1m8bLzIbpHfYOO08-eM6JWRT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 - !!!!Lips!!!!(feat. 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>씨잼(C Jamm) - Good Night</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EMO ＃1 ]</b>
+  included in <b>[ Good Night ]</b>
   
   <br />
   <br />
-  10/04/2022 17:11 Playing on YTMusic
+  10/04/2022 17:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
