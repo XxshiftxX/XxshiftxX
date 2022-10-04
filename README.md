@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=30orxdAl5gY">
-    <img width="300" src="https://lh3.googleusercontent.com/moxjw6JiWr3yFfu5LvBNpzi20IQzIMV5_MpodBOIrFpfdtQ7wjsS5IBdEyCOJwwVrJulZXl38m8bq2wD">
+  <a href="https://music.youtube.com/watch?v=LBHVOiw274A">
+    <img width="300" src="https://lh3.googleusercontent.com/LdF89sQ57UQSU4_V8U5csBwLHKt_uWhI2lffcdpxbhmAuZBlFhNJdPptHBnLyBNICieGpYNYasEpO4s64A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>우원재 (Woo) - Taste(feat. 기리보이(Giriboy))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>빈지노(Beenzino) - Fashion Hoarder(feat. zene the zilla)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Taste ]</b>
+  included in <b>[ Fashion Hoarder ]</b>
   
   <br />
   <br />
-  10/04/2022 17:42 Playing on YTMusic
+  10/04/2022 17:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
