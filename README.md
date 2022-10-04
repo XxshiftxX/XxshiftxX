@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CG1lF_bpMlo">
-    <img width="300" src="https://lh3.googleusercontent.com/EcYb1sPCsn3atuGcx_WmA1siSVDpH1fdumOcrojlpJHYqzhhPHJMXGfD1m8bLzIbpHfYOO08-eM6JWRT">
+  <a href="https://music.youtube.com/watch?v=9MHmDK6Y0P0">
+    <img width="300" src="https://lh3.googleusercontent.com/5WNEwwHrnZ_18rdKTv79kS6zSL0FWAJEXUW18JMOAKvp3nNen0o-KY1WWlNO5i1r_e9xFi4qsfuEepA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>씨잼(C Jamm) - Good Night</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>unofficialboyy - 안녕</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Good Night ]</b>
+  included in <b>[ 이수린ackermann ]</b>
   
   <br />
   <br />
-  10/04/2022 17:15 Playing on YTMusic
+  10/04/2022 17:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
