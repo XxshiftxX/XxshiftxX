@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rIAxTQebEm0">
-    <img width="300" src="https://lh3.googleusercontent.com/PqJdpkMFJ1SE_zydvgwnQy5PeZhxLWh4DJipQRC6hIxqThT563fkVaDuwSSboA9sIqZA2dfC3UJ4LJs">
+  <a href="https://music.youtube.com/watch?v=FlnbjDMRSio">
+    <img width="300" src="https://lh3.googleusercontent.com/kwJJ2596YH8PdMxTOUlJCElySczOUGv9LvCUQWajICh2Sw717EenQgxVoT4tkCZUv60JAyVQTpB0wP9clg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 - BOY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>루피 - WHAT U DO</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BOY ]</b>
+  included in <b>[ The Django Tape ]</b>
   
   <br />
   <br />
-  10/04/2022 17:50 Playing on YTMusic
+  10/04/2022 17:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
