@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Gw573n7B63A">
-    <img width="300" src="https://i.ytimg.com/vi/Gw573n7B63A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://www.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA">
+    <img width="300" src="https://yt3.ggpht.com/ytc/AMLnZu_fIgb5707x2w-UHv2yubPLn03odU2P26gXuYKX9A=s176-c-k-c0x00ffffff-no-rj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>알파 - 릴보이 (lIlBOI) - ON AIR (Feat. 로꼬, 박재범 & GRAY) [쇼미더머니 9 Final]ㅣLyrics/가사</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Woo - 시차 (We Are) (Feat. 로꼬 & GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 447만회 ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  10/04/2022 17:55 Playing on YTMusic
+  10/05/2022 13:16 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
