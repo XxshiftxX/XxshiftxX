@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pjzQ4W1aIVo">
-    <img width="300" src="https://lh3.googleusercontent.com/nBkViq8Y3aH2ub97H4rgkXe7k2UQrmmrieTbNHQoV_yUga-uKEsq_ktTVj1d-1Zjwo5JlNycZJeP240">
+  <a href="https://music.youtube.com/watch?v=uwy5hGT6i7Q">
+    <img width="300" src="https://lh3.googleusercontent.com/ZMoWyHf6Y5AYxAcoK-ey2NMPChOXUQtnRcwAHO8dCu2agyiKgqYVa-Up3Hi_iRu2_xPFmykdZiT6IoPB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 - I Made It</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY, NO:EL, Black Nut 및 Young B - IMJMWDP</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UP! ]</b>
+  included in <b>[ IMJMWDP ]</b>
   
   <br />
   <br />
-  10/09/2022 19:10 Playing on YTMusic
+  10/09/2022 19:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
