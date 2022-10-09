@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PjLMkI9lt2c">
-    <img width="300" src="https://lh3.googleusercontent.com/7MhHhNtJHQq1Tdkq-uhs3EGhlwMe5K6Mhk5Ti9D1u_77pwsIE3xRACrRUYPmnCMatTocGczNEDoNTb2Q">
+  <a href="https://music.youtube.com/watch?v=pZwykfJ3E68">
+    <img width="300" src="https://lh3.googleusercontent.com/qeUJLdNUym82_Ro2RvTkxkI52tlq48-rBN1zhykBQ2aK2meSLGpH3XhBWqoi8m-xTYKkcXSPJtbMj7XG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>lIlBOI - ON AIR(feat. 로꼬, 박재범, 그레이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - 거듭해(feat. FANA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Final ]</b>
+  included in <b>[ 거듭해 ]</b>
   
   <br />
   <br />
-  10/09/2022 19:20 Playing on YTMusic
+  10/09/2022 19:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
