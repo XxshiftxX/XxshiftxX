@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
-    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
+  <a href="https://music.youtube.com/watch?v=9bMtG_ofQdo">
+    <img width="300" src="https://lh3.googleusercontent.com/0cMYPk66a0LEotIBtlCZhiFWFgpY-xk_51jCCV0cdkXlkelFYxDxUllz2mpXy0NSLOgNg9qHpnf3X1zI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - REMEDY(feat. 청하(CHUNG HA))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BROKEN FERRARI ]</b>
+  included in <b>[ Boyhood ]</b>
   
   <br />
   <br />
-  10/09/2022 20:08 Playing on YTMusic
+  10/09/2022 20:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
