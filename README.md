@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=49kHIPvHnnA">
-    <img width="300" src="https://lh3.googleusercontent.com/tRm_TauKDWTrxajFK8FQSUC6gBNwm6H5-Oyf-LXbGZ_odb0ZJBXE3AZ82fC-fRtTA1hupU-EEelVAifV">
+  <a href="https://music.youtube.com/watch?v=oKZzLpEXSdM">
+    <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Pop It Remix(feat. 쿠기, Hash Swan, 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - Selfish</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Pop It Remix ]</b>
+  included in <b>[ VIOLINIST2 ]</b>
   
   <br />
   <br />
-  10/09/2022 19:00 Playing on YTMusic
+  10/09/2022 19:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
