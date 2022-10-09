@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0ERj8_hw_V4">
-    <img width="300" src="https://lh3.googleusercontent.com/H6SePIl6f6-o_5eney_ZxpNnI0SDI9Fypjh-r9LFJdurDW4fxiY48uZ5odYBN2ELz6xIORtRfhN1dH5mzg">
+  <a href="https://music.youtube.com/watch?v=afDxVj6qiNA">
+    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paloalto - 거북선 (Remix)(feat. G2, B-Free, Okasian, ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Squeeze )(feat. XINSAYNE, SINCE, 맥대디(Mckdaddy), 맥대디)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 거북선 (Remix) ]</b>
+  included in <b>[ MultrillVerse ]</b>
   
   <br />
   <br />
-  10/09/2022 19:26 Playing on YTMusic
+  10/09/2022 19:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
