@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=k7vqeEx6pZs">
-    <img width="300" src="https://lh3.googleusercontent.com/YPKnwvojaZyFM25Axo6q_xk0m1IqrXLJpVYP1_310BV7V_WO3K0JgZ87HYWsCechXbgbLVTFJcL7FVA">
+  <a href="https://music.youtube.com/watch?v=tdJLTzpuqRM">
+    <img width="300" src="https://lh3.googleusercontent.com/OFMdXpgTe5OD0d9DFll6mK72BdpMOm__g9cV3XFLQJ2NVdc5Rn1Sr5EZvl30Ox5Xvx8Tz-hHdKUzcck">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz) 및 TOIL - 2AM(feat. CAMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 - Justin Bieber(feat. 박재범)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOYSTORY3 ]</b>
+  included in <b>[ EMO ＃1 ]</b>
   
   <br />
   <br />
-  10/09/2022 19:48 Playing on YTMusic
+  10/09/2022 19:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
