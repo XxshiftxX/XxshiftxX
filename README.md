@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC608NmMfNTVEVsmPk3de-SA">
-    <img width="300" src="https://yt3.ggpht.com/ytc/AMLnZu_fIgb5707x2w-UHv2yubPLn03odU2P26gXuYKX9A=s176-c-k-c0x00ffffff-no-rj">
+  <a href="https://music.youtube.com/watch?v=49kHIPvHnnA">
+    <img width="300" src="https://lh3.googleusercontent.com/tRm_TauKDWTrxajFK8FQSUC6gBNwm6H5-Oyf-LXbGZ_odb0ZJBXE3AZ82fC-fRtTA1hupU-EEelVAifV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Woo - 시차 (We Are) (Feat. 로꼬 & GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Pop It Remix(feat. 쿠기, Hash Swan, 우원재)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ Pop It Remix ]</b>
   
   <br />
   <br />
-  10/05/2022 13:16 Playing on YouTube
+  10/09/2022 19:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
