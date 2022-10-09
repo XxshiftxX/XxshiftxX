@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tdJLTzpuqRM">
-    <img width="300" src="https://lh3.googleusercontent.com/OFMdXpgTe5OD0d9DFll6mK72BdpMOm__g9cV3XFLQJ2NVdc5Rn1Sr5EZvl30Ox5Xvx8Tz-hHdKUzcck">
+  <a href="https://music.youtube.com/watch?v=XFb5tjKYx1E">
+    <img width="300" src="https://lh3.googleusercontent.com/D2h59e1lSjy1FBhvVig1MteV646lQOjzqLrf0HYDCTEK6czNTR-GDERWDAloq78LXB24GXxcgcbGatc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 - Justin Bieber(feat. 박재범)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>수퍼비 (SUPERBEE) - 두목</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EMO ＃1 ]</b>
+  included in <b>[ 강남으로 갈게 EP ]</b>
   
   <br />
   <br />
-  10/09/2022 19:50 Playing on YTMusic
+  10/09/2022 19:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
