@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
-    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
+  <a href="https://music.youtube.com/watch?v=x0Awur9Gq_w">
+    <img width="300" src="https://lh3.googleusercontent.com/zFGSEC50XWB2T0DB2hGKyEP1Cgy9pZOOjH3Iw4U0V1Aw1NoNdrk1zsOMHfP5YNubLCK6W_T_2Pgw3acf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(feat. 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI) - Travelin’</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
+  included in <b>[ Meantime ]</b>
   
   <br />
   <br />
-  10/21/2022 11:31 Playing on YTMusic
+  10/21/2022 11:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
