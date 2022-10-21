@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2Od7QCsyqkE">
-    <img width="300" src="https://i.ytimg.com/vi/2Od7QCsyqkE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=KQOX8h_FcGc">
+    <img width="300" src="https://lh3.googleusercontent.com/0uXRdCKNJCaz_lEL-iFzFxfj2usdPn-rbkJtBjp9wjL6M3A9ehPDFq5337XxMWhouiGI8v0iYLKDTeUzQQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Suzuki Masayuki - 【MV】鈴木雅之『DADDY ! DADDY ! DO ! feat. 鈴木愛理』TVアニメ「かぐや様は告らせたい？～天才たちの恋愛頭脳戦～」OP主題歌(feat. 스즈키 아이리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - UP & DOWN(feat. 미란이, 페노메코)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 4881만회 ]</b>
+  included in <b>[ UP & DOWN (Feat. 미란이, 페노메코) ]</b>
   
   <br />
   <br />
-  10/21/2022 11:27 Playing on YTMusic
+  10/21/2022 11:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
