@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NFHPLE4Tl0I">
-    <img width="300" src="https://lh3.googleusercontent.com/NJD-silBhAi2s03Dxbh-VU4djoa4Zay7wm051hWYXtjs31cI0U8eW2nIT7EhprOpk627mhbzRrapLKx7KQ">
+  <a href="https://music.youtube.com/watch?v=LDDAwKs6YBw">
+    <img width="300" src="https://i.ytimg.com/vi/LDDAwKs6YBw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Aimer - kataomoi</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JustMe - Kirameki - Wacci (Your Lie In April)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ daydream ]</b>
+  included in <b>[ 조회수 598만회 ]</b>
   
   <br />
   <br />
-  10/18/2022 16:06 Playing on YTMusic
+  10/21/2022 11:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
