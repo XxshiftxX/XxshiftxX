@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ds0vwgwxXRY">
-    <img width="300" src="https://lh3.googleusercontent.com/iGP5HeyZao8SD7kH7VC872iseyKldFaV1ceAxaUAGrWfe1M9fEu1SudK5YO3BPJjvHMTg1XZWsYWowODLQ">
+  <a href="https://music.youtube.com/watch?v=4sdN33l2WTw">
+    <img width="300" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 아이야 (feat. Beenzino)(feat. Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>양홍원 - ROSE(feat. 스키니 브라운, 홈보이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 돈 벌 시간 3 ]</b>
+  included in <b>[ Stranger ]</b>
   
   <br />
   <br />
-  10/25/2022 14:32 Playing on YTMusic
+  10/25/2022 14:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
