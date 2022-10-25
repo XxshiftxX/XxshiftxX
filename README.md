@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wgCs0cXMYL0">
-    <img width="300" src="https://lh3.googleusercontent.com/zFGSEC50XWB2T0DB2hGKyEP1Cgy9pZOOjH3Iw4U0V1Aw1NoNdrk1zsOMHfP5YNubLCK6W_T_2Pgw3acf">
+  <a href="https://music.youtube.com/watch?v=eXjzB2t2mZI">
+    <img width="300" src="https://lh3.googleusercontent.com/A-AO3KKNikSEC_p_NSLUK4pRgDwufyOSJyotdRcjW-KtqLf6Q3IpRdAy02QOxcHon3ql1vbCrPH6r-koVQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI) - 기도(feat. 버벌진트, Taylor, Hoody)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai - Go Back</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Meantime ]</b>
+  included in <b>[ Go Back ]</b>
   
   <br />
   <br />
-  10/21/2022 11:58 Playing on YTMusic
+  10/25/2022 14:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
