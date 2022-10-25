@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=If2HK8WPK0c">
+    <img width="300" src="https://lh3.googleusercontent.com/DPVLR8YVQyE8RQG5xdF4bFUKF83l2i2ZRLWSv--xUdqArXYpROQKJiUbA9JG1ynscN6IwsuDJSGfgXhAiA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Zutto Zutto Zutto</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ Actor ]</b>
   
   <br />
   <br />
-  10/25/2022 14:18 Playing on YTMusic
+  10/25/2022 14:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
