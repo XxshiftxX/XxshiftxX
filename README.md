@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eXjzB2t2mZI">
-    <img width="300" src="https://lh3.googleusercontent.com/A-AO3KKNikSEC_p_NSLUK4pRgDwufyOSJyotdRcjW-KtqLf6Q3IpRdAy02QOxcHon3ql1vbCrPH6r-koVQ">
+  <a href="https://music.youtube.com/watch?v=hkfkOC4vIS0">
+    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai - Go Back</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 및 Jvcki Wai - KOCEAN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Go Back ]</b>
+  included in <b>[ Maiden Voyage III ]</b>
   
   <br />
   <br />
-  10/25/2022 14:08 Playing on YTMusic
+  10/25/2022 14:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
