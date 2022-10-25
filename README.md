@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4sdN33l2WTw">
-    <img width="300" src="https://lh3.googleusercontent.com/YS5XsEq-EAr0OgdLK4tWnlT9RZpFHzCV3tmmXL5Jjq8XVNB6XrjaV6x0GsYxNkM_JsjcyVJ_o4bEd2U5">
+  <a href="https://music.youtube.com/watch?v=QB35djIyNe4">
+    <img width="300" src="https://lh3.googleusercontent.com/__LyBVBgB9tWwy86s6qqRLP2PZv7PUOmtiB6EUchk4qOWH8ohpecb8yzzE64DzuZo4vGH9Dtu7Qz2wuZew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>양홍원 - ROSE(feat. 스키니 브라운, 홈보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 - IZAKAYA(feat. Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Stranger ]</b>
+  included in <b>[ AI, THE PLAYLIST ]</b>
   
   <br />
   <br />
-  10/25/2022 14:36 Playing on YTMusic
+  10/25/2022 14:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
