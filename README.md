@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CtOxOZANGss">
-    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
+  <a href="https://music.youtube.com/watch?v=e4x_H_LiyAc">
+    <img width="300" src="https://lh3.googleusercontent.com/uTVPRnYW5-C_U9sRHZ_iJKYKUnR6hrIYUwl-7BVN9K2Qdag54l2YBXxMb1D1t1PcnmCpD6XuBZKZIl7v5A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DON MALIK - Human fever</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 - Yellow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PAID IN SEOUL ]</b>
+  included in <b>[ Yellow ]</b>
   
   <br />
   <br />
-  10/31/2022 17:16 Playing on YTMusic
+  10/31/2022 17:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
