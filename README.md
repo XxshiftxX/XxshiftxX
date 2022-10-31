@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Lmjxm0i66Eo">
-    <img width="300" src="https://i.ytimg.com/vi/Lmjxm0i66Eo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=0CiM8yNSfyw">
+    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스타벅스 매장음악 2022 - 스타벅스 매장음악 🥤 실시간 음악 🥤 매장음악 광고없는 ☕ STARBUCKS Soothing Jazz for work, study ☕ 週末の朝カフェBGM</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 마천루(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 5.3천회 ]</b>
+  included in <b>[ PAID IN SEOUL ]</b>
   
   <br />
   <br />
-  10/26/2022 00:36 Playing on YTMusic
+  10/31/2022 15:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
