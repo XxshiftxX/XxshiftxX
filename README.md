@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=e4x_H_LiyAc">
-    <img width="300" src="https://lh3.googleusercontent.com/uTVPRnYW5-C_U9sRHZ_iJKYKUnR6hrIYUwl-7BVN9K2Qdag54l2YBXxMb1D1t1PcnmCpD6XuBZKZIl7v5A">
+  <a href="https://music.youtube.com/watch?v=zV9zx_-1G7Q">
+    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 - Yellow</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 - Rainy Day</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Yellow ]</b>
+  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
   
   <br />
   <br />
-  10/31/2022 17:17 Playing on YTMusic
+  10/31/2022 17:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
