@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HPMwDxi9-e0">
-    <img width="300" src="https://lh3.googleusercontent.com/Z5c5x-le8LlP1dtC6kSD3SePLciXG9M0yjGTFcBULBAkFdY850n803DyJcVMvTH8y8OcBFK9ivZXdkiu">
+  <a href="https://music.youtube.com/watch?v=hS2BVRnQiYI">
+    <img width="300" src="https://lh3.googleusercontent.com/YM7xFhJOJPC3tP9Fs236qTMdzpNLLlK82lKiLYHTrxgdb4LHC0yZ1pV9c67cH0zmlnMFlhZPj3sz7zpE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>amazarashi(아마자라시) - kisetsuhatsugitsugishindeiku</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Vaundy - 東京フラッシュ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Sekaishuusoku Niichiichiroku ]</b>
+  included in <b>[ 東京フラッシュ ]</b>
   
   <br />
   <br />
-  11/03/2022 16:54 Playing on YTMusic
+  11/03/2022 17:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
