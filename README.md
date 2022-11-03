@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fg8xDzOWllQ">
-    <img width="300" src="https://lh3.googleusercontent.com/79a4jdr46h1QUzVqDtUndrjWeUhE6Vi963hXnuckPqU4-GqS1inCRNF3uDhNJnhp94PfYQefKNVOBGl7">
+  <a href="https://music.youtube.com/watch?v=-J9FuvPmMoI">
+    <img width="300" src="https://lh3.googleusercontent.com/di0TA3wBJlAzOoryavP6uzWvpi8Qf2qi0mbiSZt8UrHotSTpLeMl9Rhx3JJaBqvll79qP-ObqZQXBR4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SPYAIR(스파이에어) - Imagination</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>RADWIMPS(래드윔프스) - Sparkle - movie ver.</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Four ]</b>
+  included in <b>[ Your Name. ]</b>
   
   <br />
   <br />
-  11/03/2022 17:23 Playing on YTMusic
+  11/03/2022 17:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
