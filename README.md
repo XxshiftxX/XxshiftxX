@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bLDyNoURi-o">
-    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
+  <a href="https://music.youtube.com/watch?v=y8bRrsQ7Sd0">
+    <img width="300" src="https://lh3.googleusercontent.com/fF_ABPbI3oFZsajh-Can-0cyqgAEYhmGmNFuxLAtXBC44JAJkzVPPO8HvGOR_nEqu1UXRGCBgbpNd4XjKg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - HIT MAN (feat. 노윤하)(feat. 노윤하)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ラックライフ - 名前を呼ぶよ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MultrillVerse ]</b>
+  included in <b>[ Life is beautiful ]</b>
   
   <br />
   <br />
-  11/03/2022 16:43 Playing on YTMusic
+  11/03/2022 16:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
