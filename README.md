@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hS2BVRnQiYI">
-    <img width="300" src="https://lh3.googleusercontent.com/YM7xFhJOJPC3tP9Fs236qTMdzpNLLlK82lKiLYHTrxgdb4LHC0yZ1pV9c67cH0zmlnMFlhZPj3sz7zpE">
+  <a href="https://music.youtube.com/watch?v=hkfkOC4vIS0">
+    <img width="300" src="https://lh3.googleusercontent.com/H63MSh3OB-SEL6SqQGYCaE1l5kRaPNmfJtyG0PfEr-pAsYmGoaou2qyZK8m8MilK8xqDKygPxOu3lKs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Vaundy - 東京フラッシュ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 및 Jvcki Wai - KOCEAN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 東京フラッシュ ]</b>
+  included in <b>[ Maiden Voyage III ]</b>
   
   <br />
   <br />
-  11/03/2022 17:00 Playing on YTMusic
+  11/03/2022 17:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
