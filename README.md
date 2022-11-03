@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wNjvuRZtQeI">
-    <img width="300" src="https://lh3.googleusercontent.com/GHVNMErvs-zTlvWUNiruGcL8wg7qLiAXdYOCefn8cg7Zm-z7pqj6vk6LwnokvsRKxvmccrVA8KPvdik">
+  <a href="https://music.youtube.com/watch?v=WFRB9zl8tS8">
+    <img width="300" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Mrs. GREEN APPLE - Inferno</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Eve - Last Dance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Inferno ]</b>
+  included in <b>[ Otogi ]</b>
   
   <br />
   <br />
-  11/03/2022 17:43 Playing on YTMusic
+  11/03/2022 17:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
