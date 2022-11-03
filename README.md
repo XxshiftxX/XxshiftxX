@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=y8bRrsQ7Sd0">
-    <img width="300" src="https://lh3.googleusercontent.com/fF_ABPbI3oFZsajh-Can-0cyqgAEYhmGmNFuxLAtXBC44JAJkzVPPO8HvGOR_nEqu1UXRGCBgbpNd4XjKg">
+  <a href="https://music.youtube.com/watch?v=HPMwDxi9-e0">
+    <img width="300" src="https://lh3.googleusercontent.com/Z5c5x-le8LlP1dtC6kSD3SePLciXG9M0yjGTFcBULBAkFdY850n803DyJcVMvTH8y8OcBFK9ivZXdkiu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ラックライフ - 名前を呼ぶよ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>amazarashi(아마자라시) - kisetsuhatsugitsugishindeiku</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life is beautiful ]</b>
+  included in <b>[ Sekaishuusoku Niichiichiroku ]</b>
   
   <br />
   <br />
-  11/03/2022 16:50 Playing on YTMusic
+  11/03/2022 16:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
