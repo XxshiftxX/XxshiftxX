@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WFRB9zl8tS8">
-    <img width="300" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">
+  <a href="https://music.youtube.com/watch?v=3NNhrqHZqlI">
+    <img width="300" src="https://lh3.googleusercontent.com/Yiqnzq5SfMrNjf9XTAMCPadMclhC8ltAVaePndf64gdwvjaN6eEDFBw2aKRukpqxlb7rdkb27BdUFLIDfA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve - Last Dance</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu(켄시 요네즈/米津 玄師) - Lemon</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Otogi ]</b>
+  included in <b>[ lemon ]</b>
   
   <br />
   <br />
-  11/03/2022 17:47 Playing on YTMusic
+  11/03/2022 17:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
