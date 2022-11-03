@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1cFHEXd1EGo">
-    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
+  <a href="https://music.youtube.com/watch?v=Lvc3_flTJcI">
+    <img width="300" src="https://lh3.googleusercontent.com/tvci_qtKfnj90MtSTh5wrTKdF4aYCgjlBrtxNbJYJLzvC2mk6m-_gyAOxscGAkAwKbMpYVpmQIl4-jbTag">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 - Sunrayz (3rd)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK (던말릭) - #DONMALIKSMTM11</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
+  included in <b>[ #DONMALIKSMTM11 ]</b>
   
   <br />
   <br />
-  10/31/2022 18:02 Playing on YTMusic
+  11/03/2022 16:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
