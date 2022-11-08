@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9os7DVz3_wA">
-    <img width="300" src="https://lh3.googleusercontent.com/sqnc1nLHfz5dbNmdFZr2nZnOb5jNnNOmTcUikccrNdYJIlTwCe_OWOgiMmjqL0KC-sClMaV6t76N-DkpRQ">
+  <a href="https://music.youtube.com/watch?v=Fg0ae9EK01s">
+    <img width="300" src="https://lh3.googleusercontent.com/QWrXlh5a2kVEwi3H5iUDvd_glXNOshKHc5aTuUtupSRyFNjw8MQzFjeIUBESg44lNa5geabPs5pYhnA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>조광일 및 브라운티거 - Raw(feat. Seungmin Kim)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Zior Park - MODERN FOX</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Raw (feat. Seungmin Kim) ]</b>
+  included in <b>[ SYNDROMEZ ]</b>
   
   <br />
   <br />
-  11/08/2022 16:35 Playing on YTMusic
+  11/08/2022 16:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
