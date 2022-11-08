@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sE0tKkHrwJo">
-    <img width="300" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">
+  <a href="https://music.youtube.com/watch?v=fgAVroqrFVI">
+    <img width="300" src="https://lh3.googleusercontent.com/UfKFIzGI2qUQ0HVOddKmC9_XYYS2pD3brEcvvCk4LaaDHepoIqZ3eEQGqZabd8m7buOmGzSFf6-r7hw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>빈지노 Beenzino - Break</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 12 ]</b>
+  included in <b>[ BIPOLAR ]</b>
   
   <br />
   <br />
-  11/08/2022 17:23 Playing on YTMusic
+  11/08/2022 17:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
