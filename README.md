@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_msvYg42lew">
-    <img width="300" src="https://lh3.googleusercontent.com/y8r5vytRma7zOo8GTArg2m-Fr9Af2F8HVHjdQrAb0xS7FvirySD4f_jX_m_qkWRMKJVWtNaCRrKNf66F">
+  <a href="https://music.youtube.com/watch?v=qE2QLW_Z5uM">
+    <img width="300" src="https://lh3.googleusercontent.com/79a4jdr46h1QUzVqDtUndrjWeUhE6Vi963hXnuckPqU4-GqS1inCRNF3uDhNJnhp94PfYQefKNVOBGl7">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>지코 (ZICO) - 만화영화 (Cartoon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SPYAIR(스파이에어) - I'M A BELIEVER</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RANDOM BOX ]</b>
+  included in <b>[ Four ]</b>
   
   <br />
   <br />
-  11/08/2022 17:09 Playing on YTMusic
+  11/08/2022 17:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
