@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fg8xDzOWllQ">
-    <img width="300" src="https://lh3.googleusercontent.com/79a4jdr46h1QUzVqDtUndrjWeUhE6Vi963hXnuckPqU4-GqS1inCRNF3uDhNJnhp94PfYQefKNVOBGl7">
+  <a href="https://music.youtube.com/watch?v=m4E09NguHKQ">
+    <img width="300" src="https://lh3.googleusercontent.com/9v45Qs0NBzKaSnJC3ZjTdjYJf6psdI6lvAogRjT3YeZEsbOcp4ijZpYbBBa26-4Ib1h7jJ6dEkV86sg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SPYAIR(스파이에어) - Imagination</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Veiniyfl, Chillin Homie 및 M1NU - Stole (Prod. by 성국)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Four ]</b>
+  included in <b>[ Stole ]</b>
   
   <br />
   <br />
-  11/08/2022 17:32 Playing on YTMusic
+  11/08/2022 17:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
