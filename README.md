@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3NNhrqHZqlI">
-    <img width="300" src="https://lh3.googleusercontent.com/Yiqnzq5SfMrNjf9XTAMCPadMclhC8ltAVaePndf64gdwvjaN6eEDFBw2aKRukpqxlb7rdkb27BdUFLIDfA">
+  <a href="https://music.youtube.com/watch?v=U5jZJXMVLvM">
+    <img width="300" src="https://lh3.googleusercontent.com/OPltGYYkThCTimsXRlBoOGn9oMTjmfSr9UuMpgBH9KGyBwByht1d7CpESDOrgoLMZyMN1O84lqrKdxk6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu(켄시 요네즈/米津 玄師) - Lemon</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던밀스 - 88</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ lemon ]</b>
+  included in <b>[ Young Don ]</b>
   
   <br />
   <br />
-  11/03/2022 17:51 Playing on YTMusic
+  11/08/2022 16:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
