@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=taJJuUq5ZEs">
-    <img width="300" src="https://lh3.googleusercontent.com/MFZ9w3OhzJa8gdinFM4c1ZDsJAxh3QJdmtu6-78giIwBOSenj9x-_A2zEKdCmbkRNfUOzPmSaDs8IzqP">
+  <a href="https://music.youtube.com/watch?v=JovVmrfLCTA">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>로꼬 - 무례하게 No Manners(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh - 어버버버(feat. Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ LOCOMOTIVE ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  11/08/2022 17:16 Playing on YTMusic
+  11/08/2022 17:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
