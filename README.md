@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
-    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
+  <a href="https://music.youtube.com/watch?v=I6PLH9fbJCM">
+    <img width="300" src="https://lh3.googleusercontent.com/Lh2926eMrR9KV_RHDMC46CmAqcj2-HzXw65aAMLBQyLSI18s-1zDbletF1UISn0G11GuhdqUG5o22bwwGw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>브라운티거 (Brown Tigger) - 셔터 올려(feat. 래원, 베이식)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BROKEN FERRARI ]</b>
+  included in <b>[ 셔터 올려 ]</b>
   
   <br />
   <br />
-  11/08/2022 16:18 Playing on YTMusic
+  11/08/2022 16:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
