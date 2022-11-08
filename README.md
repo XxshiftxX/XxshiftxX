@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Tx-xn2cU2zs">
-    <img width="300" src="https://lh3.googleusercontent.com/09AzHq9oGps_sGQIRmH01zrSU4fqPa_Lcf4X9BMjrYUpy9AeBF1dNfVDk57IG19ksjQNJnD1wA9H8wY">
+  <a href="https://music.youtube.com/watch?v=Vbwv8bFsqeY">
+    <img width="300" src="https://lh3.googleusercontent.com/vojkV5Oj4_Xbdzi_QuZXzJzr38SixqkxpRJHLSZTzEeghDx-PPr6Wgkzq-m8P2BZgFpgfUL6XEYp6FH3FA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO  - 돈 벌어</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - X (Acapella Version)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ M O T O W N ]</b>
+  included in <b>[ Y ]</b>
   
   <br />
   <br />
-  11/08/2022 16:59 Playing on YTMusic
+  11/08/2022 17:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
