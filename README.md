@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fgAVroqrFVI">
-    <img width="300" src="https://lh3.googleusercontent.com/UfKFIzGI2qUQ0HVOddKmC9_XYYS2pD3brEcvvCk4LaaDHepoIqZ3eEQGqZabd8m7buOmGzSFf6-r7hw">
+  <a href="https://music.youtube.com/watch?v=uTvArvmgfiM">
+    <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Goin' Nuts(feat. SUPERBEE, 제네 더 질라)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BIPOLAR ]</b>
+  included in <b>[ 2MONTHS ]</b>
   
   <br />
   <br />
-  11/08/2022 17:26 Playing on YTMusic
+  11/08/2022 17:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
