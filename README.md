@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uTvArvmgfiM">
-    <img width="300" src="https://lh3.googleusercontent.com/tdT6iKn9GH8vOGa0WpsxIsxFbJ_KixVLo5eaVETTItEEyDYtnxI88_omYkfD7igGWXnWg-Z1wmj2Thw">
+  <a href="https://music.youtube.com/watch?v=fg8xDzOWllQ">
+    <img width="300" src="https://lh3.googleusercontent.com/79a4jdr46h1QUzVqDtUndrjWeUhE6Vi963hXnuckPqU4-GqS1inCRNF3uDhNJnhp94PfYQefKNVOBGl7">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Goin' Nuts(feat. SUPERBEE, 제네 더 질라)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SPYAIR(스파이에어) - Imagination</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 2MONTHS ]</b>
+  included in <b>[ Four ]</b>
   
   <br />
   <br />
-  11/08/2022 17:29 Playing on YTMusic
+  11/08/2022 17:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
