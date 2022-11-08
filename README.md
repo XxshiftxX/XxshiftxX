@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xL-378prJ5Y">
-    <img width="300" src="https://lh3.googleusercontent.com/BMALll9NV5E7tJronlJBtAD5ospBgMu09_WGiqDk-_tix7aMVJj8F5q9F8MEAOux3UXd6Q7o306PDZc">
+  <a href="https://music.youtube.com/watch?v=Tx-xn2cU2zs">
+    <img width="300" src="https://lh3.googleusercontent.com/09AzHq9oGps_sGQIRmH01zrSU4fqPa_Lcf4X9BMjrYUpy9AeBF1dNfVDk57IG19ksjQNJnD1wA9H8wY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>yama - Running Out</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO  - 돈 벌어</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ the meaning of life ]</b>
+  included in <b>[ M O T O W N ]</b>
   
   <br />
   <br />
-  11/08/2022 16:55 Playing on YTMusic
+  11/08/2022 16:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
