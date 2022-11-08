@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mpgoPp0FB-E">
-    <img width="300" src="https://lh3.googleusercontent.com/m-iLGAroamM02O11BWwd2HjNqAAx9jisL3gjeqf0yzcS-w2R7UUcJ0NtvCxIpSnLdAdp-bb3Z9oM7CM">
+  <a href="https://music.youtube.com/watch?v=E0cHAU35amg">
+    <img width="300" src="https://lh3.googleusercontent.com/55381GQcPwCbn_-Z9ufHtZsvjbQ18LruqHHAFM3a2lUGAVrx8fNijyeF7h-ZVpSI3GqQ2_ZOsbmwsWn4HA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BewhY(비와이) - Red Carpet</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>한요한 - 댄스(feat. 기리보이(Giriboy))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Blind Star 0.5 ]</b>
+  included in <b>[ 엑시브 ]</b>
   
   <br />
   <br />
-  11/08/2022 16:29 Playing on YTMusic
+  11/08/2022 16:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
