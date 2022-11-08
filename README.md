@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=aU2O4yVSPh0">
-    <img width="300" src="https://lh3.googleusercontent.com/R7uWXg7VqFySVfO7VcwtnjdvhPMqojV9YpqY2GTEooRVTepc2LVWPVvqAvj3z6vWRHqkQsmtQ4mDAV8">
+  <a href="https://music.youtube.com/watch?v=xL-378prJ5Y">
+    <img width="300" src="https://lh3.googleusercontent.com/BMALll9NV5E7tJronlJBtAD5ospBgMu09_WGiqDk-_tix7aMVJj8F5q9F8MEAOux3UXd6Q7o306PDZc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>권영훈 - I'M HANDSOME(feat. 기리보이(Giriboy))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>yama - Running Out</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ School Rapper3 Team-Battle, Pt. 2 ]</b>
+  included in <b>[ the meaning of life ]</b>
   
   <br />
   <br />
-  11/08/2022 16:51 Playing on YTMusic
+  11/08/2022 16:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
