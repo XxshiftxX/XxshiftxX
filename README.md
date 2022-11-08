@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Vbwv8bFsqeY">
-    <img width="300" src="https://lh3.googleusercontent.com/vojkV5Oj4_Xbdzi_QuZXzJzr38SixqkxpRJHLSZTzEeghDx-PPr6Wgkzq-m8P2BZgFpgfUL6XEYp6FH3FA">
+  <a href="https://music.youtube.com/watch?v=If2HK8WPK0c">
+    <img width="300" src="https://lh3.googleusercontent.com/DPVLR8YVQyE8RQG5xdF4bFUKF83l2i2ZRLWSv--xUdqArXYpROQKJiUbA9JG1ynscN6IwsuDJSGfgXhAiA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - X (Acapella Version)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Zutto Zutto Zutto</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Y ]</b>
+  included in <b>[ Actor ]</b>
   
   <br />
   <br />
-  11/08/2022 17:03 Playing on YTMusic
+  11/08/2022 17:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
