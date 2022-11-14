@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=49kHIPvHnnA">
-    <img width="300" src="https://lh3.googleusercontent.com/tRm_TauKDWTrxajFK8FQSUC6gBNwm6H5-Oyf-LXbGZ_odb0ZJBXE3AZ82fC-fRtTA1hupU-EEelVAifV">
+  <a href="https://music.youtube.com/watch?v=FRJkEbbXWw4">
+    <img width="300" src="https://lh3.googleusercontent.com/FAR0LQ2RVAqo23QMA5h98anApZDsH3SptNmjxvbrHb86c47h0pFfa28anb7JNzyYt2C2j9JAQOu042XV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Pop It Remix(feat. 쿠기, Hash Swan, 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 - Pipe Down!(feat. 수퍼비)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Pop It Remix ]</b>
+  included in <b>[ Pipe Down! ]</b>
   
   <br />
   <br />
-  11/14/2022 16:26 Playing on YTMusic
+  11/14/2022 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
