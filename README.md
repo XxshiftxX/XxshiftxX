@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rVhjTJMyWJg">
-    <img width="300" src="https://lh3.googleusercontent.com/W8CUpcgcAB5g8jhZN5-W8OjNI4L7T7p_gBMHfwcP12gU56E1izY06BXcC9_E1-es6JZ4TTaWw_h_BubX">
+  <a href="https://music.youtube.com/watch?v=En3KKE89QRs">
+    <img width="300" src="https://lh3.googleusercontent.com/o_lEOyAwT9ztDCt573QkYe2m07MBC4J1crLJOR9_m8OxhsdgvmRZVdCiYKId6K-kbKV6Llg9CfrImQNv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그루비룸 (GroovyRoom) 및 릴보이 (lIlBOI) - WOW (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Coogie - POW(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 0 ]</b>
+  included in <b>[ POW ]</b>
   
   <br />
   <br />
-  11/14/2022 17:16 Playing on YTMusic
+  11/14/2022 17:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
