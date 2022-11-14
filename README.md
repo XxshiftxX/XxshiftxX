@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=En3KKE89QRs">
-    <img width="300" src="https://lh3.googleusercontent.com/o_lEOyAwT9ztDCt573QkYe2m07MBC4J1crLJOR9_m8OxhsdgvmRZVdCiYKId6K-kbKV6Llg9CfrImQNv">
+  <a href="https://music.youtube.com/watch?v=fgAVroqrFVI">
+    <img width="300" src="https://lh3.googleusercontent.com/UfKFIzGI2qUQ0HVOddKmC9_XYYS2pD3brEcvvCk4LaaDHepoIqZ3eEQGqZabd8m7buOmGzSFf6-r7hw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Coogie - POW(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ POW ]</b>
+  included in <b>[ BIPOLAR ]</b>
   
   <br />
   <br />
-  11/14/2022 17:19 Playing on YTMusic
+  11/14/2022 17:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
