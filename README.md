@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=R_6GZYsBu30">
-    <img width="300" src="https://lh3.googleusercontent.com/5NjZiDy3KShHY_A0cC1vQeHcBZZZQOu_oJ-ubDAoHUgz6n-NfwbeM8F2Yai6x8gXrKdjkRKepOvzTOU9lw">
+  <a href="https://music.youtube.com/watch?v=Qet5daXv06Q">
+    <img width="300" src="https://lh3.googleusercontent.com/W8CUpcgcAB5g8jhZN5-W8OjNI4L7T7p_gBMHfwcP12gU56E1izY06BXcC9_E1-es6JZ4TTaWw_h_BubX">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - Chase the Star</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) 및 R.Tee - SUN GOES DOWN (Prod. R.Tee)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Chase the Star ]</b>
+  included in <b>[ 쇼미더머니 11 Episode 0 ]</b>
   
   <br />
   <br />
-  11/14/2022 17:09 Playing on YTMusic
+  11/14/2022 17:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
