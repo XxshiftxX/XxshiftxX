@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7KG_qpYt_g0">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=R_6GZYsBu30">
+    <img width="300" src="https://lh3.googleusercontent.com/5NjZiDy3KShHY_A0cC1vQeHcBZZZQOu_oJ-ubDAoHUgz6n-NfwbeM8F2Yai6x8gXrKdjkRKepOvzTOU9lw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - 내 기쁨은 너가 벤틀리를 끄는 거야</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김승민 - Chase the Star</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ Chase the Star ]</b>
   
   <br />
   <br />
-  11/14/2022 17:05 Playing on YTMusic
+  11/14/2022 17:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
