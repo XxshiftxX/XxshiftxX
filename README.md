@@ -2,17 +2,32 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fgAVroqrFVI">
-    <img width="300" src="https://lh3.googleusercontent.com/UfKFIzGI2qUQ0HVOddKmC9_XYYS2pD3brEcvvCk4LaaDHepoIqZ3eEQGqZabd8m7buOmGzSFf6-r7hw">
+  <a href="https://www.youtube.com/@AvrilLavigneVEVO">
+    <img width="300" src="">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>
+  
+    Avril Lavigne
+  
+  
+  
+    Avril Lavigne
+  
+
+
+
+
+  공식 아티스트 채널
+
+
+ - Avril Lavigne - Sk8er Boi (Official Video)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BIPOLAR ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  11/14/2022 17:20 Playing on YTMusic
+  11/15/2022 13:04 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
