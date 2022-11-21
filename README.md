@@ -2,32 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/@AvrilLavigneVEVO">
-    <img width="300" src="">
+  <a href="https://music.youtube.com/watch?v=qRG919n7_-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>
-  
-    Avril Lavigne
-  
-  
-  
-    Avril Lavigne
-  
-
-
-
-
-  공식 아티스트 채널
-
-
- - Avril Lavigne - Complicated (Official Video)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - 그때가 있었기에(feat. Louie)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ Beauty Of The Pain ]</b>
   
   <br />
   <br />
-  11/15/2022 13:07 Playing on YouTube
+  11/21/2022 14:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
