@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=y9BaX6F_6iU">
-    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
+  <a href="https://music.youtube.com/watch?v=p4LmEOJ0pLg">
+    <img width="300" src="https://lh3.googleusercontent.com/9P4wO-NYp64i4mmhhaY5Er_2vKuwRQCbDpFawGKHaBYY4HaK11hO10_Its8KrHlBKAAt0VNmAXwvyTJv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Mud(feat. Touch the Sky)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Seoul To Cali(feat. J4 Prada)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beauty Of The Pain ]</b>
+  included in <b>[ Beauty Of The Pain 2 ]</b>
   
   <br />
   <br />
-  11/22/2022 10:30 Playing on YTMusic
+  11/22/2022 10:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
