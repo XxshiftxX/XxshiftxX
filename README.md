@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OC-HKloxegg">
-    <img width="300" src="https://lh3.googleusercontent.com/ZHMoX4GeHvknG5Y1zAxZ67iCgyXzYS-SGb_3iEZoF_fBVFz0xmdURWg4spiJG4lat_JMRWFJTDEJ8obi">
+  <a href="https://music.youtube.com/watch?v=qRG919n7_-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Flip Flap(feat. AJ Tracey, Hangzoo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - 그때가 있었기에(feat. Louie)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Flip Flap ]</b>
+  included in <b>[ Beauty Of The Pain ]</b>
   
   <br />
   <br />
-  11/22/2022 10:15 Playing on YTMusic
+  11/22/2022 10:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
