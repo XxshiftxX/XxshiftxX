@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JLtt3-qhXJg">
+  <a href="https://music.youtube.com/watch?v=zguHEi4uGvs">
     <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Romeo(feat. Lil Jibo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - I'm Sayin'(feat. Boi B, ChaMane)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Beauty Of The Pain ]</b>
   
   <br />
   <br />
-  11/22/2022 10:21 Playing on YTMusic
+  11/22/2022 10:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
