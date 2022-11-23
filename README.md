@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0CiM8yNSfyw">
-    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
+  <a href="https://music.youtube.com/watch?v=fn_HXVNEFes">
+    <img width="300" src="https://lh3.googleusercontent.com/dHLNnhNBM38-ahV6ffFIYq1WQKmSnFFn9xN9S52x7DwXK_KSete-mGwaBnZi47GCXdW2OTFmQE0d4Pc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 마천루(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 및 Chillin Homie - Jet Lag</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PAID IN SEOUL ]</b>
+  included in <b>[ A-Team ]</b>
   
   <br />
   <br />
-  11/23/2022 14:45 Playing on YTMusic
+  11/23/2022 14:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
