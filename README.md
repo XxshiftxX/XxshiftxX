@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7LpiHtrg_0g">
-    <img width="300" src="https://lh3.googleusercontent.com/2yroTAbb-KNKNmBssGE1caxC7lPoqTr100cDAE5Wvo-bc9l1NyHmdNaRBrJWfK4KVPgPyFs-_Mc9HgaC">
+  <a href="https://music.youtube.com/watch?v=8p08CpHUmhw">
+    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(feat. 저스디스, 이케이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Tech Fleece Freestyle(feat. KHAN, hangzoo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ One of Them ]</b>
+  included in <b>[ Beauty Of The Pain ]</b>
   
   <br />
   <br />
-  11/23/2022 14:59 Playing on YTMusic
+  11/23/2022 15:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
