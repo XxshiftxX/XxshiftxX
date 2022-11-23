@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
-    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
+  <a href="https://music.youtube.com/watch?v=dZpiFlmtF1o">
+    <img width="300" src="https://lh3.googleusercontent.com/mNesVQeIz1FLPcmHOh9pio9Y6Sjx0_r9a-k96WU4W60o_mJWnPKCwaakvj0l5OhjCoSN5adE0CEoXULPgA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Huh - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kid Milli, Jvcki Wai 및 스윙스 - Hyperreal</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ business boy ]</b>
+  included in <b>[ Hyperreal ]</b>
   
   <br />
   <br />
-  11/23/2022 14:51 Playing on YTMusic
+  11/23/2022 14:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
