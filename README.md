@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1oJoagTSJ6k">
-    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
+  <a href="https://music.youtube.com/watch?v=0CiM8yNSfyw">
+    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Nah Nah Nah(feat. Say Royce)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 마천루(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beauty Of The Pain ]</b>
+  included in <b>[ PAID IN SEOUL ]</b>
   
   <br />
   <br />
-  11/22/2022 10:36 Playing on YTMusic
+  11/23/2022 14:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
