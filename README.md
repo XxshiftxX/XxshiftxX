@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
-    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
+  <a href="https://music.youtube.com/watch?v=1EomF9wfIHw">
+    <img width="300" src="https://lh3.googleusercontent.com/exEi3oAcUvQW-J1NF0GUXrc5JTohDHnmPPanmeVnQf_gf831_jJsoa-TZAxsECEGw3RI5RXZJrwCxzTx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>양홍원, unofficialboyy, gamma - 빛나</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DDKD ]</b>
+  included in <b>[ drugonline gate ]</b>
   
   <br />
   <br />
-  11/26/2022 03:40 Playing on YTMusic
+  11/26/2022 03:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
