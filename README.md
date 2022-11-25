@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NmuhSf71zd8">
-    <img width="300" src="https://lh3.googleusercontent.com/wKC-YKcDPFXNdLKIVSK-aIe2BLayh0ogG8sDpz34_YaLg-iBvgxeGKgesrz3ISaWk8CJQjR3_o_RCVLe">
+  <a href="https://music.youtube.com/watch?v=xWByjEHkPw8">
+    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Chillin Homie, KHAN - Bad Neighbors</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, Kid Milli, NO:EL 및 Swings - Work Out</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bad Neighbors ]</b>
+  included in <b>[ IM ]</b>
   
   <br />
   <br />
-  11/26/2022 03:33 Playing on YTMusic
+  11/26/2022 03:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
