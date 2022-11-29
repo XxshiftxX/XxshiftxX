@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CpaMTZM8WcU">
-    <img width="300" src="https://lh3.googleusercontent.com/Bqa3sQAqgSjv1meN3OcKnDdbbVAVwW3Pfx9lLspRZYBahACeRX7ZkVeOhlLEPeINMSZsLS2T9EbfBEPU">
+  <a href="https://music.youtube.com/watch?v=IcFfCvY-lB0">
+    <img width="300" src="https://i.ytimg.com/vi/IcFfCvY-lB0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>메킷레인 - Weathermen</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>dingo freestyle - 호미들 - 아하! + Hungry (feat. Ourealgoat, LIL GIMCHI) (prod. Kidstone) | [DF LIVE] Homies</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Weathermen ]</b>
+  included in <b>[ 조회수 70만회 ]</b>
   
   <br />
   <br />
-  11/26/2022 03:59 Playing on YTMusic
+  11/29/2022 13:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
