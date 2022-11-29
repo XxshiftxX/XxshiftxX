@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IQRtn4fVuRU">
-    <img width="300" src="https://i.ytimg.com/vi/IQRtn4fVuRU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=tkjScBr4T2M">
+    <img width="300" src="https://i.ytimg.com/vi/tkjScBr4T2M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 - Red Pill (Born from the Blue Pt. II) (Prod. CODE KUNST)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 꽉 쥔 주먹속의 라이터</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 3.2만회 ]</b>
+  included in <b>[ 조회수 22만회 ]</b>
   
   <br />
   <br />
-  11/29/2022 14:10 Playing on YTMusic
+  11/29/2022 14:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
