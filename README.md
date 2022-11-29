@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0KdNgiSLh7w">
-    <img width="300" src="https://i.ytimg.com/vi/0KdNgiSLh7w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=xpDL4q5iwzw">
+    <img width="300" src="https://i.ytimg.com/vi/xpDL4q5iwzw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HIPHOPLE - 던말릭 - 전염 & 누군가 (LIVE) / RAPHOUSE ON AIR [EP.30]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>dingo freestyle - BIG Naughty - 털어! (Feat. M1NU, Veinyfl, Swervy, 래원, 이영지, Lil Nekh, D.Ark) | [DF LIVE] 빅나티</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 27만회 ]</b>
+  included in <b>[ 조회수 617만회 ]</b>
   
   <br />
   <br />
-  11/29/2022 14:23 Playing on YTMusic
+  11/29/2022 14:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
