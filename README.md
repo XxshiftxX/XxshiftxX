@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IcFfCvY-lB0">
-    <img width="300" src="https://i.ytimg.com/vi/IcFfCvY-lB0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=-MtOm4vuL3o">
+    <img width="300" src="https://i.ytimg.com/vi/-MtOm4vuL3o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>dingo freestyle - 호미들 - 아하! + Hungry (feat. Ourealgoat, LIL GIMCHI) (prod. Kidstone) | [DF LIVE] Homies</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - northbutsouth(feat. Kid Milli)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 70만회 ]</b>
+  included in <b>[ 조회수 201만회 ]</b>
   
   <br />
   <br />
-  11/29/2022 13:41 Playing on YTMusic
+  11/29/2022 13:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
