@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ngTZLvKauRE">
-    <img width="300" src="https://i.ytimg.com/vi/ngTZLvKauRE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=oQfymPI9wC8">
+    <img width="300" src="https://i.ytimg.com/vi/oQfymPI9wC8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - REMEDY )(feat. 청하)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 나침반(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 246만회 ]</b>
+  included in <b>[ 조회수 9.2만회 ]</b>
   
   <br />
   <br />
-  11/29/2022 14:00 Playing on YTMusic
+  11/29/2022 14:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
