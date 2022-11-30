@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UUIGuljEpCk">
-    <img width="300" src="https://lh3.googleusercontent.com/rb7tNMBivVLrCE89Wzy8xLe21VirwBN-5dhYhATeSkWX__b1JCjqaeSWKM20aOLU6upRPCEN7iOICLkM">
+  <a href="https://music.youtube.com/watch?v=rybXSV15ofY">
+    <img width="300" src="https://lh3.googleusercontent.com/ofy31xJNup-syyz55Vmi2dprWTX8FF3wr7wSWOcLccm_og_6xdWXBMlpHJV1gZ5z9GHZQIWntHARYTE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fleeky Bang - My Ninjas</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jvcki Wai, 쿠기, 팔로알토 (Paloalto) 및 The Quiett - Fadeaway</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ My Ninjas ]</b>
+  included in <b>[ Fadeaway ]</b>
   
   <br />
   <br />
-  11/30/2022 11:13 Playing on YTMusic
+  11/30/2022 11:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
