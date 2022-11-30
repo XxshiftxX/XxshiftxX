@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dq0JYwPmEfE">
-    <img width="300" src="https://i.ytimg.com/vi/dq0JYwPmEfE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=_morDocl3VM">
+    <img width="300" src="https://lh3.googleusercontent.com/jIOOqclQx7Ew4qNI7tTUo9rAMkOLAvnUgdtipyO5gwW2FBf93fRcMvi9dxDowEFCaFVsAUKugErhGTcR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나플라 - mercy (feat. AP)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>FUYUKO MAYUZUMI (CV: Eri Yukimura) - SOS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 391만회 ]</b>
+  included in <b>[ THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS ]</b>
   
   <br />
   <br />
-  11/29/2022 14:36 Playing on YTMusic
+  11/30/2022 10:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
