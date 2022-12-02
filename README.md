@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bdpiqjL-Y3M">
-    <img width="300" src="https://lh3.googleusercontent.com/vSGUuJdyve-X5OHdEVCeMdtiA3uFCA0Q7TBWlQWKcuBhWvEnyhqxCiVEdhYf3eygdphyAK7PjOs9YoU">
+  <a href="https://music.youtube.com/watch?v=0KdNgiSLh7w">
+    <img width="300" src="https://i.ytimg.com/vi/0KdNgiSLh7w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Love My Life(feat. 서동현, Xwally)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HIPHOPLE - 던말릭 - 전염 & 누군가 (LIVE) / RAPHOUSE ON AIR [EP.30]</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Love My Life ]</b>
+  included in <b>[ 조회수 28만회 ]</b>
   
   <br />
   <br />
-  12/01/2022 15:25 Playing on YTMusic
+  12/02/2022 10:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
