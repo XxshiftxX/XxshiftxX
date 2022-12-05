@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FRJkEbbXWw4">
-    <img width="300" src="https://lh3.googleusercontent.com/FAR0LQ2RVAqo23QMA5h98anApZDsH3SptNmjxvbrHb86c47h0pFfa28anb7JNzyYt2C2j9JAQOu042XV">
+  <a href="https://music.youtube.com/watch?v=mYHaPeUrEr8">
+    <img width="300" src="https://lh3.googleusercontent.com/xc0Wxp58SqjVU6cB51SgepluJxxc6DVEkaz0vwr-d61h5EVdFMO8I8Y0yYe28wg5fyFoMs0BX7c3RuMg9w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 - Pipe Down!(feat. 수퍼비)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JUSTHIS, Kid Milli, NO:EL 및 Young B - IndiGO</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Pipe Down! ]</b>
+  included in <b>[ IM ]</b>
   
   <br />
   <br />
-  12/05/2022 10:13 Playing on YTMusic
+  12/05/2022 10:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
