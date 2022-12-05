@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jtfSQZsqin8">
+  <a href="https://music.youtube.com/watch?v=vswVFvRvrRU">
     <img width="300" src="https://lh3.googleusercontent.com/Wa0NogNI_fmBbcFkM693lTJHDaxBw_6buDXeRl6qImzvgBUmgiIvu9sdsGykQ8nKTsDzQXNWcUXCJXOL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz), 크루셜스타 (CRUCiAL STAR), QM, 김재욱, NSW yoon 및 다민이 (DAMINI) - 아저씨</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이영지, 토이고 (toigo), 제이켠 (J’Kyun), 잠비노 (Jambino) 및 XINSAYNE - WE(feat. 박재범)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 쇼미더머니 11 Episode 1 ]</b>
   
   <br />
   <br />
-  12/05/2022 16:42 Playing on YTMusic
+  12/05/2022 16:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
