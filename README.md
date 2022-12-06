@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TB_vkcVO0FE">
-    <img width="300" src="https://lh3.googleusercontent.com/10ZzDwncrBCCCed_nlVPMeJb9GqwunYkG4_64D1tAKbniwncAjLkCFW8CtxCsrLnJnJvvG9z-lJUlE1f">
+  <a href="https://music.youtube.com/watch?v=P6WxVHLDDq0">
+    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BOYCOLD - YOUTH!(feat. BewhY(비와이), 김하온(HAON), 쿠기)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 나침반(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ YOUTH! ]</b>
+  included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  12/06/2022 11:15 Playing on YTMusic
+  12/06/2022 11:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
