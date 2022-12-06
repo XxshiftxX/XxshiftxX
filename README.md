@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NMd7u0TEWHU">
-    <img width="300" src="https://lh3.googleusercontent.com/Wa0NogNI_fmBbcFkM693lTJHDaxBw_6buDXeRl6qImzvgBUmgiIvu9sdsGykQ8nKTsDzQXNWcUXCJXOL">
+  <a href="https://music.youtube.com/watch?v=Lvc3_flTJcI">
+    <img width="300" src="https://lh3.googleusercontent.com/tvci_qtKfnj90MtSTh5wrTKdF4aYCgjlBrtxNbJYJLzvC2mk6m-_gyAOxscGAkAwKbMpYVpmQIl4-jbTag">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그루비룸 (GroovyRoom), 릴보이 (lIlBOI), Blase (블라세), 노윤하, Polodared, Chillin Homie 및 Fleeky Bang - 위하여 (We Higher) (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK (던말릭) - #DONMALIKSMTM11</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 1 ]</b>
+  included in <b>[ #DONMALIKSMTM11 ]</b>
   
   <br />
   <br />
-  12/05/2022 16:57 Playing on YTMusic
+  12/06/2022 10:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
