@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cHQy87S7KA4">
-    <img width="300" src="https://lh3.googleusercontent.com/kD2EzAO81Zt34yIDvSpfFwjRLJS5U2e8f6zlW93fsuRZ0Q362ZyPDg8vk4ezOnMXksOmjJ1m0zSe2MabwA">
+  <a href="https://music.youtube.com/watch?v=rEIPaJ7jvOY">
+    <img width="300" src="https://lh3.googleusercontent.com/YvQeiTJWuailHiFyN2O3zaP8E9ltxeXnkjgNZiL_T1RfCTGFbc_-UHIhH30GuQMBQ30gqnsgq9eCFtrT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노윤하 - Skip Bottom(feat. Blase)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - Sariru(feat. ron)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Skip Bottom ]</b>
+  included in <b>[ BENZO ]</b>
   
   <br />
   <br />
-  12/06/2022 11:00 Playing on YTMusic
+  12/06/2022 11:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
