@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Lvc3_flTJcI">
-    <img width="300" src="https://lh3.googleusercontent.com/tvci_qtKfnj90MtSTh5wrTKdF4aYCgjlBrtxNbJYJLzvC2mk6m-_gyAOxscGAkAwKbMpYVpmQIl4-jbTag">
+  <a href="https://music.youtube.com/watch?v=mNhjRXfSRC8">
+    <img width="300" src="https://lh3.googleusercontent.com/KuoEB8VDSONNXhjl5DjpA_yEqVlIA0UnPeoUysN5FB9yuQwimWC4AGhIT6fDbP95Rr6RlajtZ8G1r2M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DON MALIK (던말릭) - #DONMALIKSMTM11</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>실키보이즈(SILKYBOIS) - BOMAYE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ #DONMALIKSMTM11 ]</b>
+  included in <b>[ BOMAYE ]</b>
   
   <br />
   <br />
-  12/06/2022 10:53 Playing on YTMusic
+  12/06/2022 10:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
