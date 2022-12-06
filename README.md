@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rEIPaJ7jvOY">
-    <img width="300" src="https://lh3.googleusercontent.com/YvQeiTJWuailHiFyN2O3zaP8E9ltxeXnkjgNZiL_T1RfCTGFbc_-UHIhH30GuQMBQ30gqnsgq9eCFtrT">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - Sariru(feat. ron)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BENZO ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  12/06/2022 11:02 Playing on YTMusic
+  12/06/2022 11:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
