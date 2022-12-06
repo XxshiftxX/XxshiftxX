@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mNhjRXfSRC8">
-    <img width="300" src="https://lh3.googleusercontent.com/KuoEB8VDSONNXhjl5DjpA_yEqVlIA0UnPeoUysN5FB9yuQwimWC4AGhIT6fDbP95Rr6RlajtZ8G1r2M">
+  <a href="https://music.youtube.com/watch?v=cHQy87S7KA4">
+    <img width="300" src="https://lh3.googleusercontent.com/kD2EzAO81Zt34yIDvSpfFwjRLJS5U2e8f6zlW93fsuRZ0Q362ZyPDg8vk4ezOnMXksOmjJ1m0zSe2MabwA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>실키보이즈(SILKYBOIS) - BOMAYE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>노윤하 - Skip Bottom(feat. Blase)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BOMAYE ]</b>
+  included in <b>[ Skip Bottom ]</b>
   
   <br />
   <br />
-  12/06/2022 10:56 Playing on YTMusic
+  12/06/2022 11:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
