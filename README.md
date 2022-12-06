@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7LpiHtrg_0g">
-    <img width="300" src="https://lh3.googleusercontent.com/2yroTAbb-KNKNmBssGE1caxC7lPoqTr100cDAE5Wvo-bc9l1NyHmdNaRBrJWfK4KVPgPyFs-_Mc9HgaC">
+  <a href="https://music.youtube.com/watch?v=TB_vkcVO0FE">
+    <img width="300" src="https://lh3.googleusercontent.com/10ZzDwncrBCCCed_nlVPMeJb9GqwunYkG4_64D1tAKbniwncAjLkCFW8CtxCsrLnJnJvvG9z-lJUlE1f">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허클베리피 - One of Them(feat. 저스디스, 이케이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BOYCOLD - YOUTH!(feat. BewhY(비와이), 김하온(HAON), 쿠기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ One of Them ]</b>
+  included in <b>[ YOUTH! ]</b>
   
   <br />
   <br />
-  12/06/2022 11:10 Playing on YTMusic
+  12/06/2022 11:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
