@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P6WxVHLDDq0">
-    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
+  <a href="https://music.youtube.com/watch?v=UwVRhJ6mSn4">
+    <img width="300" src="https://lh3.googleusercontent.com/xzOA0OrYiJ1QjWBx-C7lB-0ZDO3AqIf3jLMe7rq3zBnQN9UncTaX3u8vthHucIdr83lZgCXfjsGyxXTj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - 나침반(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched - RIDERS(feat. Chin, UNEDUCATED KID, Jay Park, Tiger JK)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HIGH RISK HIGH RETURN ]</b>
+  included in <b>[ RIDERS ]</b>
   
   <br />
   <br />
-  12/06/2022 11:19 Playing on YTMusic
+  12/06/2022 11:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
