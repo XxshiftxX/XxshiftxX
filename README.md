@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8p08CpHUmhw">
-    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
+  <a href="https://music.youtube.com/watch?v=2WhHrXon6Bg">
+    <img width="300" src="https://lh3.googleusercontent.com/vfylIPzFI7rDRx_NVCN-fJ2ZpnpIiD8mO2y185Ss-KOrTdQS4Vo6Q-yYMHUys2O_dJsGbUuzrojqv8kB">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Tech Fleece Freestyle(feat. KHAN, hangzoo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이영지 Lee Young Ji - GO HIGH</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beauty Of The Pain ]</b>
+  included in <b>[ School Rapper3 Final ]</b>
   
   <br />
   <br />
-  12/07/2022 15:16 Playing on YTMusic
+  12/07/2022 15:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
