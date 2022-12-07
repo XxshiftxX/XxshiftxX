@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xmXHQUAWLA8">
-    <img width="300" src="https://lh3.googleusercontent.com/oUgdeF9lksntXEb6C_vhZ5NPC57uubX8F-4I6GWXqG2v6bQ1yMu5OdfPf_2esaCHRqetLrNtF_L4uLY">
+  <a href="https://music.youtube.com/watch?v=PIuvnEwzbTI">
+    <img width="300" src="https://lh3.googleusercontent.com/783Zqud2qPrFpSD1SsAkZiTk_zTXllqfNEUVJKzDW3zittZQJIG64JyposfMI4rjAHmXf_AwJo47xR4I">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - 호랑이소굴(feat. Jvcki Wai)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허클베리피 - La Décima (feat. Han Yo Han)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 호랑이소굴 ]</b>
+  included in <b>[ La Décima ]</b>
   
   <br />
   <br />
-  12/07/2022 15:37 Playing on YTMusic
+  12/07/2022 15:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
