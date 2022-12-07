@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NBxqTvtRd6E">
-    <img width="300" src="https://lh3.googleusercontent.com/2VsBLtYduh22RL-G1Wm2KIpKu47Bhv1953nwk5BpnpYbv0P2FVzUU4guGIBLWjvxiSUGGYvXDVJgnEeuuw">
+  <a href="https://music.youtube.com/watch?v=MYZXUJ-BG-Q">
+    <img width="300" src="https://lh3.googleusercontent.com/LeYtxyl_uTZro2vQSRjBGZb2ruPY52R_H8gONkfl65STW5adNIu2ZEUccRiM7rIhgYdiHHCOjfCOMS8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Vancouver</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Paul Blanco - Summer(feat. BE′O (비오))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 낭만 ]</b>
+  included in <b>[ Summer ]</b>
   
   <br />
   <br />
-  12/07/2022 15:24 Playing on YTMusic
+  12/07/2022 15:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
