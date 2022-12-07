@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fn_HXVNEFes">
-    <img width="300" src="https://lh3.googleusercontent.com/dHLNnhNBM38-ahV6ffFIYq1WQKmSnFFn9xN9S52x7DwXK_KSete-mGwaBnZi47GCXdW2OTFmQE0d4Pc">
+  <a href="https://music.youtube.com/watch?v=hvPs9JuAthU">
+    <img width="300" src="https://lh3.googleusercontent.com/i3i5yxwSGHcWhWi2DhH1yKk0Lp-N3-Vi2k7KPt6YXxy3HJISukflL5LynbDCb4qKRZh4wuBhtPLGxqHg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 및 Chillin Homie - Jet Lag</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SUMIN 및 Slom - FOR NOW</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ A-Team ]</b>
+  included in <b>[ MINISERIES ]</b>
   
   <br />
   <br />
-  12/07/2022 15:55 Playing on YTMusic
+  12/07/2022 15:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
