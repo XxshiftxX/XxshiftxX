@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PIuvnEwzbTI">
-    <img width="300" src="https://lh3.googleusercontent.com/783Zqud2qPrFpSD1SsAkZiTk_zTXllqfNEUVJKzDW3zittZQJIG64JyposfMI4rjAHmXf_AwJo47xR4I">
+  <a href="https://music.youtube.com/watch?v=UUIGuljEpCk">
+    <img width="300" src="https://lh3.googleusercontent.com/rb7tNMBivVLrCE89Wzy8xLe21VirwBN-5dhYhATeSkWX__b1JCjqaeSWKM20aOLU6upRPCEN7iOICLkM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허클베리피 - La Décima (feat. Han Yo Han)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fleeky Bang - My Ninjas</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ La Décima ]</b>
+  included in <b>[ My Ninjas ]</b>
   
   <br />
   <br />
-  12/07/2022 15:42 Playing on YTMusic
+  12/07/2022 15:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
