@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gmShl2UvGlo">
-    <img width="300" src="https://lh3.googleusercontent.com/1cP2dYV9D5JhNA9MbQ167iBFgNq5dimZPDuk9RnQfNoaDRLVHJZ8QVeLf_xhC0pPDNj676r5OlfDzQg">
+  <a href="https://music.youtube.com/watch?v=bdpiqjL-Y3M">
+    <img width="300" src="https://lh3.googleusercontent.com/vSGUuJdyve-X5OHdEVCeMdtiA3uFCA0Q7TBWlQWKcuBhWvEnyhqxCiVEdhYf3eygdphyAK7PjOs9YoU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노윤하 - Flick (Prod. GroovyRoom)(feat. 비오, 김하온)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Love My Life(feat. 서동현, Xwally)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 2 ]</b>
+  included in <b>[ Love My Life ]</b>
   
   <br />
   <br />
-  12/12/2022 18:16 Playing on YTMusic
+  12/12/2022 18:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
