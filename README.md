@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5sG2f8G2gWo">
-    <img width="300" src="https://lh3.googleusercontent.com/eD_ulzogePPUMMBrAqWfCS1B2y7AR31AG0jzsuFU8L6u6vZv7jyF9h2P_HPhB7KubrnF1LzqaN_vq73M">
+  <a href="https://music.youtube.com/watch?v=SdeSGdRWuwg">
+    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Blase (블라세) - Holiday(feat. lIlBOI, GIRIBOY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 - 선인장 (Intro)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 3 ]</b>
+  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
   
   <br />
   <br />
-  12/19/2022 15:26 Playing on YTMusic
+  12/21/2022 14:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
