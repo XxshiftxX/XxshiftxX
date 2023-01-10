@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=r_yi7HoWB7g">
-    <img width="300" src="https://lh3.googleusercontent.com/2YHobrv0Ghe4BWRF3_OFhlWW-O84s7EQ393tc_uD_QDtBI0Ww2DnhOqlU_oJO-uW2HWA9d4s9_jhmsoo">
+  <a href="https://music.youtube.com/watch?v=DwaPnZLO8jI">
+    <img width="300" src="https://lh3.googleusercontent.com/-feEWZ6MCvn39R6a_55IXDtk9yg2GqDSPt9fiY-dyGHUyrbjoofv3iwxwOSWq3RG1soGNyJaeT6q200">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>KHAN - 도깨비 (Prod. R.Tee)(feat. 호미들)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko, Ourealgoat, SINCE 및 Ahn Byeong Woong - Wake Up (Prod. by 코드 쿤스트)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Semi Final ]</b>
+  included in <b>[ 쇼미더머니 10 Episode 1 ]</b>
   
   <br />
   <br />
-  01/10/2023 14:58 Playing on YTMusic
+  01/10/2023 15:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
