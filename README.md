@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QVpk_x96UjU">
-    <img width="300" src="https://lh3.googleusercontent.com/S74G4zAWePBnfLjNyGWRrW9WdzJacszykV67PJKcCV9fHIyx7Z5yRtG6lX9IhpF6DXNmiWIP3AmSCj13">
+  <a href="https://music.youtube.com/watch?v=r_yi7HoWB7g">
+    <img width="300" src="https://lh3.googleusercontent.com/2YHobrv0Ghe4BWRF3_OFhlWW-O84s7EQ393tc_uD_QDtBI0Ww2DnhOqlU_oJO-uW2HWA9d4s9_jhmsoo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노윤하 - Far Post (Prod. Codec)(feat. lobonabeat!)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>KHAN - 도깨비 (Prod. R.Tee)(feat. 호미들)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Far Post (Feat. lobonabeat!) (Prod. Codec) ]</b>
+  included in <b>[ 쇼미더머니 11 Semi Final ]</b>
   
   <br />
   <br />
-  01/10/2023 14:55 Playing on YTMusic
+  01/10/2023 14:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
