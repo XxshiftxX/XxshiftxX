@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Cq6OejPKA8k">
-    <img width="300" src="https://lh3.googleusercontent.com/zFGSEC50XWB2T0DB2hGKyEP1Cgy9pZOOjH3Iw4U0V1Aw1NoNdrk1zsOMHfP5YNubLCK6W_T_2Pgw3acf">
+  <a href="https://music.youtube.com/watch?v=mSi1EeBvuVk">
+    <img width="300" src="https://lh3.googleusercontent.com/-5lYIZuePOZ7ShMFa-NIYp_vEPuMHT2TSUUyLLoiXTG4VRtSmQij4rspbsJqF5mo9cfj61JLXKhKaifD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴보이 (lIlBOI) - Away(feat. Taylor, YANU)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAEHA - devil girl(feat. don malik)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Meantime ]</b>
+  included in <b>[ life like 20 ]</b>
   
   <br />
   <br />
-  01/10/2023 15:18 Playing on YTMusic
+  01/10/2023 15:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
