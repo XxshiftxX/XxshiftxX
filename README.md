@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6mDwK22cZAg">
-    <img width="300" src="https://lh3.googleusercontent.com/5SOC3q-CbjeayaIpY6Qqd99MZ-CStPN9UR7mJju29-a_kB5r01Nh_IvEHZUQxumJlCYrpapMZnqFrBBL">
+  <a href="https://music.youtube.com/watch?v=vswVFvRvrRU">
+    <img width="300" src="https://lh3.googleusercontent.com/Wa0NogNI_fmBbcFkM693lTJHDaxBw_6buDXeRl6qImzvgBUmgiIvu9sdsGykQ8nKTsDzQXNWcUXCJXOL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ian Ka$h (이안캐시) - GTFO(feat. Fleeky Bang, Chillin Homie, Don Mills)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>이영지, 토이고 (toigo), 제이켠 (J’Kyun) 및 잠비노 (Jambino) - WE (Prod. by Slom)(feat. 박재범)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ICEBOX ]</b>
+  included in <b>[ 쇼미더머니 11 Episode 1 ]</b>
   
   <br />
   <br />
-  01/10/2023 14:26 Playing on YTMusic
+  01/10/2023 14:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
