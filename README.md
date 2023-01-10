@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9PYtKnlmGR8">
-    <img width="300" src="https://lh3.googleusercontent.com/k-ZF6v6VPTyiO4zEOhi5gwmqLwJIVXf5uofkhiXhgbOSoFcbx38usGDPdOU9Qd3tXcrBLF5yRKj52Wf3">
+  <a href="https://music.youtube.com/watch?v=SWPaVSKj4Lo">
+    <img width="300" src="https://lh3.googleusercontent.com/hymgGiHouLCiHMnKQ5YO875dxuBy9bVt6Smoz3vv387jJACwBK9oj9cjJJUbIc4dMELO623A3sKgIKjY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TakeOne - 입장</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TAKEONE - 개화</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 녹색이념 ]</b>
+  included in <b>[ 상업예술 ]</b>
   
   <br />
   <br />
-  01/10/2023 15:32 Playing on YTMusic
+  01/10/2023 15:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
