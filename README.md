@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=r_YtIwfz_cw">
-    <img width="300" src="https://lh3.googleusercontent.com/eD_ulzogePPUMMBrAqWfCS1B2y7AR31AG0jzsuFU8L6u6vZv7jyF9h2P_HPhB7KubrnF1LzqaN_vq73M">
+  <a href="https://music.youtube.com/watch?v=QVpk_x96UjU">
+    <img width="300" src="https://lh3.googleusercontent.com/S74G4zAWePBnfLjNyGWRrW9WdzJacszykV67PJKcCV9fHIyx7Z5yRtG6lX9IhpF6DXNmiWIP3AmSCj13">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - 펄펄 (Prod. R.Tee)(feat. Dynamicduo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>노윤하 - Far Post (Prod. Codec)(feat. lobonabeat!)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 3 ]</b>
+  included in <b>[ Far Post (Feat. lobonabeat!) (Prod. Codec) ]</b>
   
   <br />
   <br />
-  01/10/2023 14:52 Playing on YTMusic
+  01/10/2023 14:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
