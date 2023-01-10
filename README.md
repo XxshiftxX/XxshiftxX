@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DwaPnZLO8jI">
-    <img width="300" src="https://lh3.googleusercontent.com/-feEWZ6MCvn39R6a_55IXDtk9yg2GqDSPt9fiY-dyGHUyrbjoofv3iwxwOSWq3RG1soGNyJaeT6q200">
+  <a href="https://music.youtube.com/watch?v=jtfSQZsqin8">
+    <img width="300" src="https://lh3.googleusercontent.com/Wa0NogNI_fmBbcFkM693lTJHDaxBw_6buDXeRl6qImzvgBUmgiIvu9sdsGykQ8nKTsDzQXNWcUXCJXOL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko, Ourealgoat, SINCE 및 Ahn Byeong Woong - Wake Up (Prod. by 코드 쿤스트)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz), 크루셜스타 (CRUCiAL STAR), QM 및 김재욱 - 아저씨</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Episode 1 ]</b>
+  included in <b>[ 쇼미더머니 11 Episode 1 ]</b>
   
   <br />
   <br />
-  01/10/2023 15:02 Playing on YTMusic
+  01/10/2023 15:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
