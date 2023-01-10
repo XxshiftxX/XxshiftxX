@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SdeSGdRWuwg">
-    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
+  <a href="https://music.youtube.com/watch?v=v3waGyIJhVY">
+    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 - 선인장 (Intro)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Blase (블라세) - Diamonds(feat. 릴보이, Spray)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
+  included in <b>[ 쇼미더머니 11 Final ]</b>
   
   <br />
   <br />
-  01/04/2023 17:13 Playing on YTMusic
+  01/10/2023 14:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
