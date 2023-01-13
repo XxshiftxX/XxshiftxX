@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lZ1gN5vr_68">
+  <a href="https://music.youtube.com/watch?v=-k4niDtMqGQ">
     <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 서울로 와</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK - Paid in seoul(feat. Woo)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ PAID IN SEOUL ]</b>
   
   <br />
   <br />
-  01/13/2023 16:17 Playing on YTMusic
+  01/13/2023 16:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
