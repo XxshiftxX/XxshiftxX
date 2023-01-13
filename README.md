@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Rm1FdKlVkeA">
-    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
+  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Blase (블라세) - Chosen 1</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Final ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  01/13/2023 16:25 Playing on YTMusic
+  01/13/2023 16:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
