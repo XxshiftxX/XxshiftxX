@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i9tTgiTmwHs">
-    <img width="300" src="https://lh3.googleusercontent.com/AE9gEnIckTvSrGBti35UklRbhlHHcwA0dRJl-K8MA9lun4GicTj9jqnCSPwpviyW3eItW-OXZt-yXq-s9A">
+  <a href="https://music.youtube.com/watch?v=soAm3NsNQzY">
+    <img width="300" src="https://lh3.googleusercontent.com/8Tj6_2-arGDF8130Batky5eeRqtURItKLL571pQaT9rZlqb3BKhTcvmZuUXjmJgmNA7ohGL1DvCpuR8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>개코 및 쿠기 (Coogie) - Fast (스터디그룹 X 개코, 쿠기 (Coogie))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - BROKEN FERRARI</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fast (스터디그룹 X 개코, 쿠기 (Coogie)) ]</b>
+  included in <b>[ BROKEN FERRARI ]</b>
   
   <br />
   <br />
-  01/16/2023 11:22 Playing on YTMusic
+  01/16/2023 11:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
