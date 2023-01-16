@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-TGBhF2PVE8">
-    <img width="300" src="https://lh3.googleusercontent.com/k2wRvkSpnpeSezE0EPjxlyWQLSKXexWKHBtHsdOnD4B8R1vPPXjkHroPlPWsjCSN_bMRw0TFdlirfWk">
+  <a href="https://music.youtube.com/watch?v=CxByvYAg_JA">
+    <img width="300" src="https://lh3.googleusercontent.com/AsV0uzysx7-6UpYqqaZQF7k5ZVwAFuG0kdMyUUJrxIP2GUnBEqFOdeliJj27i9QnzLvt_qa0G1azma_FlQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - UP해(feat. Jay Park, Woo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크루셜스타 - Tourist</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 10 Final ]</b>
+  included in <b>[ Tourist ]</b>
   
   <br />
   <br />
-  01/16/2023 11:40 Playing on YTMusic
+  01/16/2023 11:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
