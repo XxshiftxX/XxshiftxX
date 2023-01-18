@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E_cakR98hi0">
-    <img width="300" src="https://lh3.googleusercontent.com/LDXm819odQ8SrkcnU0MLr1J-24A1Z_fk5GoM2CkOps63_PZJaWQS4e_U7y1QmEmYDeDWXNazPQ1J5xM">
+  <a href="https://music.youtube.com/watch?v=VVgrJYeNFDM">
+    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - boy(feat. lIlBOI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK - Ride it like</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DEMOTAPE ]</b>
+  included in <b>[ PAID IN SEOUL ]</b>
   
   <br />
   <br />
-  01/18/2023 17:18 Playing on YTMusic
+  01/18/2023 17:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
