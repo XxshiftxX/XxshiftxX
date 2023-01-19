@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3uGgWEG6Bb4">
-    <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
+  <a href="https://music.youtube.com/watch?v=v3waGyIJhVY">
+    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범 - DEJAVU REMIX (Prod. by Slom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Blase (블라세) - Diamonds(feat. 릴보이, Spray)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SLAY HOUSE REMIX ]</b>
+  included in <b>[ 쇼미더머니 11 Final ]</b>
   
   <br />
   <br />
-  01/18/2023 17:39 Playing on YTMusic
+  01/19/2023 22:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
