@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4rFpqDaBKBE">
-    <img width="300" src="https://lh3.googleusercontent.com/eD_ulzogePPUMMBrAqWfCS1B2y7AR31AG0jzsuFU8L6u6vZv7jyF9h2P_HPhB7KubrnF1LzqaN_vq73M">
+  <a href="https://music.youtube.com/watch?v=jtfSQZsqin8">
+    <img width="300" src="https://lh3.googleusercontent.com/Wa0NogNI_fmBbcFkM693lTJHDaxBw_6buDXeRl6qImzvgBUmgiIvu9sdsGykQ8nKTsDzQXNWcUXCJXOL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>KHAN - 나침반 (Prod. R.Tee)(feat. UNEDUCATED KID, SUPERBEE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈 (Leellamarz), 크루셜스타 (CRUCiAL STAR), QM 및 김재욱 - 아저씨</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 3 ]</b>
+  included in <b>[ 쇼미더머니 11 Episode 1 ]</b>
   
   <br />
   <br />
-  01/20/2023 11:02 Playing on YTMusic
+  01/20/2023 11:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
