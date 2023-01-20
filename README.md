@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=K32MnQSxSFM">
-    <img width="300" src="https://lh3.googleusercontent.com/TNBevkHdj5ALPkQjhcs_MF3-_PupwNz42-XyCdL6bBlzEWHsOoEUFMnvYOuMXCSx2wjvZhPHr-8QIedv">
+  <a href="https://music.youtube.com/watch?v=nrYlp9REsYA">
+    <img width="300" src="https://lh3.googleusercontent.com/LQUpcytOawqqw-CJWPJonwdVEGrJXIJawKO--B1-xgNB13aqY1lM0cFTontWre2nvx6MyOpCvbzqhUsY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스 - RAIN SHOWERS REMIX</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>보이비 및 개코 - PEP(feat. 정상수)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 파급효과 (Ripple Effect) ]</b>
+  included in <b>[ PEP ]</b>
   
   <br />
   <br />
-  01/20/2023 11:28 Playing on YTMusic
+  01/20/2023 11:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
