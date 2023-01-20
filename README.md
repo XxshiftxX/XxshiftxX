@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=oKZzLpEXSdM">
-    <img width="300" src="https://lh3.googleusercontent.com/a5LyGyg7LAspF5MbGdOVg1Xw3nJOLrDJjP7fgDK74v5LInUrCJgI_HGqzktdOx6CjJQIsALM7qG8Ef_J-A">
+  <a href="https://music.youtube.com/watch?v=k6nOfli6Ah8">
+    <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - Selfish</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 및 Slom - WE (REMIX)(feat. Paloalto, 넉살, 크루셜스타, Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ VIOLINIST2 ]</b>
+  included in <b>[ SLAY HOUSE (REMIX) ]</b>
   
   <br />
   <br />
-  01/20/2023 13:05 Playing on YTMusic
+  01/20/2023 13:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
