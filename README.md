@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rxnJuK8hLcU">
-    <img width="300" src="https://lh3.googleusercontent.com/jh07MotTbm-ZxjTQbpw8qE2I_MtjIfkS-1dNRSv-_Wci-vIrydnar4kiw7qFdsbyWGiSdzfQNdhwdXQM2Q">
+  <a href="https://music.youtube.com/watch?v=_rEiClxJLHE">
+    <img width="300" src="https://lh3.googleusercontent.com/NIvaBLGU1pgf1Y2WfZTwN5oIKe3qQr0VaHTligRCim84FoW4TnbUS2fvDU9r3-nA2ej04A1QnagkF1M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>나플라 - mercy(feat. AP)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허클베리피 - DNA (Youth Remix)(feat. 조원우, 이로한, 김하온(HAON), Lee Yeongji)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ new blood ]</b>
+  included in <b>[ DNA ]</b>
   
   <br />
   <br />
-  01/20/2023 12:59 Playing on YTMusic
+  01/20/2023 13:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
