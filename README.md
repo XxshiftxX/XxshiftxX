@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8p08CpHUmhw">
-    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
+  <a href="https://music.youtube.com/watch?v=UUIGuljEpCk">
+    <img width="300" src="https://lh3.googleusercontent.com/rb7tNMBivVLrCE89Wzy8xLe21VirwBN-5dhYhATeSkWX__b1JCjqaeSWKM20aOLU6upRPCEN7iOICLkM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Tech Fleece Freestyle(feat. KHAN, hangzoo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fleeky Bang - My Ninjas</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beauty Of The Pain ]</b>
+  included in <b>[ My Ninjas ]</b>
   
   <br />
   <br />
-  01/20/2023 12:37 Playing on YTMusic
+  01/20/2023 12:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
