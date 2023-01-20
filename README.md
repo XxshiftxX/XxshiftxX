@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=k6nOfli6Ah8">
-    <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
+  <a href="https://music.youtube.com/watch?v=cHQy87S7KA4">
+    <img width="300" src="https://lh3.googleusercontent.com/kD2EzAO81Zt34yIDvSpfFwjRLJS5U2e8f6zlW93fsuRZ0Q362ZyPDg8vk4ezOnMXksOmjJ1m0zSe2MabwA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범 및 Slom - WE (REMIX)(feat. Paloalto, 넉살, 크루셜스타, Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>노윤하 - Skip Bottom(feat. Blase)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SLAY HOUSE (REMIX) ]</b>
+  included in <b>[ Skip Bottom ]</b>
   
   <br />
   <br />
-  01/20/2023 13:10 Playing on YTMusic
+  01/20/2023 13:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
