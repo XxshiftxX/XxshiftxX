@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XjOD96EvL1M">
-    <img width="300" src="https://lh3.googleusercontent.com/pRWek6Iydy3vbO7kcm1TS_J8SSs8iiZkuLx9I5ck0R6kSKIEIktygmUXC5mBKyMoni9Q_YUFDPNnjVs">
+  <a href="https://music.youtube.com/watch?v=t6VgxIIHsqk">
+    <img width="300" src="https://lh3.googleusercontent.com/LEccxVDKcClptUfWkHXboH9jNxbe8JORIsxiGL_aVrhvk26lVpqFfRkjgWds0V0MIJjFmGWOFOE-5ak">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스월비 - Mama Lisa</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - 처음 마주쳤을 때처럼</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Undercover Angel ]</b>
+  included in <b>[ 처음 마주쳤을 때처럼 ]</b>
   
   <br />
   <br />
-  01/20/2023 12:09 Playing on YTMusic
+  01/20/2023 12:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
