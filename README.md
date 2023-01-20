@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6mDwK22cZAg">
-    <img width="300" src="https://lh3.googleusercontent.com/5SOC3q-CbjeayaIpY6Qqd99MZ-CStPN9UR7mJju29-a_kB5r01Nh_IvEHZUQxumJlCYrpapMZnqFrBBL">
+  <a href="https://music.youtube.com/watch?v=5rnawnfK2sQ">
+    <img width="300" src="https://lh3.googleusercontent.com/lDDamgMBjF1o8ocsdDwoRPo-zuSaHNI3aGeyMpJO_AjNE6HAPZFyJ39wh-A2ySnx2XyPECOQb1HLKn3G">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ian Ka$h (이안캐시) - GTFO(feat. Fleeky Bang, Chillin Homie, Don Mills)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Justin Bieber - Peaches(feat. Daniel Caesar, Giveon)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ICEBOX ]</b>
+  included in <b>[ Justice ]</b>
   
   <br />
   <br />
-  01/20/2023 11:43 Playing on YTMusic
+  01/20/2023 11:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
