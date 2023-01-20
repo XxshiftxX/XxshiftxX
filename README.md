@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gBbLHFGrMXo">
-    <img width="300" src="https://lh3.googleusercontent.com/_x8ZUqoShaRjB6P5xtMMs_9CEXllf1HuAMyQyR0wn9leewuCkF2qvc7v5LpjJtw9KHTo8ZeY-ehefmZSWw">
+  <a href="https://music.youtube.com/watch?v=-9xfbZN9N78">
+    <img width="300" src="https://lh3.googleusercontent.com/26dQufnzTi4ZfTVxfEuzxoqfZeB_ZH-jqVbm1v040gNyA0LmfgGpmPgIa29lpod2yEFafFewtAeAqP37Og">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - Number(feat. BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>C JAMM 및 양홍원 - 불러</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MaRz&B ]</b>
+  included in <b>[ 불러 ]</b>
   
   <br />
   <br />
-  01/20/2023 13:20 Playing on YTMusic
+  01/20/2023 13:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
