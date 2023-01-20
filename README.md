@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8k821Tx_8cA">
-    <img width="300" src="https://lh3.googleusercontent.com/wcgeUaiVvoJHVxY0WcY1He_9QIWKrHoAkYSf3AQv14Q643vVWrS9kmT4Ev0HT9hbPAO_D63QtbxuwF0n">
+  <a href="https://music.youtube.com/watch?v=TlfBW_tDp8E">
+    <img width="300" src="https://lh3.googleusercontent.com/2YHobrv0Ghe4BWRF3_OFhlWW-O84s7EQ393tc_uD_QDtBI0Ww2DnhOqlU_oJO-uW2HWA9d4s9_jhmsoo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jay Park, YLN Foreign, D.Ark 및 365LIT - DNA Remix</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - 미운오리새끼 (Prod. R.Tee)(feat. sunwoojunga, BOBBY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DNA Remix ]</b>
+  included in <b>[ 쇼미더머니 11 Semi Final ]</b>
   
   <br />
   <br />
-  01/20/2023 13:27 Playing on YTMusic
+  01/20/2023 13:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
