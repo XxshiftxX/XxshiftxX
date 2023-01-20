@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=E9-8T3bz870">
-    <img width="300" src="https://lh3.googleusercontent.com/2YHobrv0Ghe4BWRF3_OFhlWW-O84s7EQ393tc_uD_QDtBI0Ww2DnhOqlU_oJO-uW2HWA9d4s9_jhmsoo">
+  <a href="https://music.youtube.com/watch?v=6mDwK22cZAg">
+    <img width="300" src="https://lh3.googleusercontent.com/5SOC3q-CbjeayaIpY6Qqd99MZ-CStPN9UR7mJju29-a_kB5r01Nh_IvEHZUQxumJlCYrpapMZnqFrBBL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - 빡 (Prod. R.Tee)(feat. 팔로알토, 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ian Ka$h (이안캐시) - GTFO(feat. Fleeky Bang, Chillin Homie, Don Mills)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Semi Final ]</b>
+  included in <b>[ ICEBOX ]</b>
   
   <br />
   <br />
-  01/20/2023 11:39 Playing on YTMusic
+  01/20/2023 11:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
