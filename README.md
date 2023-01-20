@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9PjPh56ZUEQ">
-    <img width="300" src="https://lh3.googleusercontent.com/PCULC74zk5Fl9thcHwekCKHRBvfj3W44jW_LsoyZzm1BM5JsRUu6OMM5DJp7Upp7JJNx1HgYHTJOvHHE">
+  <a href="https://music.youtube.com/watch?v=rX6CWLRYT5A">
+    <img width="300" src="https://lh3.googleusercontent.com/gLcYtwunyzEPM51Gb9BioUwnnFh4xi9Epi6XvelrDqxZ3OzVmbUdJb74Uk7QsNFpITaE6dAPtatSE7UK">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 - New Zealand</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>태버 - 007(feat. Syd)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Origin ]</b>
+  included in <b>[ 007 ]</b>
   
   <br />
   <br />
-  01/20/2023 13:37 Playing on YTMusic
+  01/20/2023 13:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
