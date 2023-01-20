@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bdpiqjL-Y3M">
-    <img width="300" src="https://lh3.googleusercontent.com/vSGUuJdyve-X5OHdEVCeMdtiA3uFCA0Q7TBWlQWKcuBhWvEnyhqxCiVEdhYf3eygdphyAK7PjOs9YoU">
+  <a href="https://music.youtube.com/watch?v=9Y1c8K98OJU">
+    <img width="300" src="https://lh3.googleusercontent.com/nPjH4t1MnLCjCgtislxBTJTkOOmrGbar0fA3tdcAu8Jbm7Vr9DrcXIAJNC8KuYaGvoLQ1npxAHOa-H24">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Love My Life(feat. 서동현, Xwally)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - Grow back(feat. 브라운티거)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Love My Life ]</b>
+  included in <b>[ Grow back ]</b>
   
   <br />
   <br />
-  01/20/2023 12:25 Playing on YTMusic
+  01/20/2023 12:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
