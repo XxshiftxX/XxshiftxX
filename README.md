@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6W2yfmWHdp8">
-    <img width="300" src="https://lh3.googleusercontent.com/xJRQC4r5PU6RBF-T2I0S8i-t1SnT4NuQsMqR6FccuUOXWAWvM-K6ZnsGccSAJbsByaypVduMGlzkVMrXmA">
+  <a href="https://music.youtube.com/watch?v=UDyPp9bkfD0">
+    <img width="300" src="https://lh3.googleusercontent.com/hJU7Bllyq_7pzhZWDjfLE88p1Lomerr4LsrFIs4oDPEAyZZI4DlBU9jPORTeUS-Q7yXfmkLFIe8CQiyS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - DDKD(feat. 저스디스 (JUSTHIS), 다이나믹 듀오)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Martini Blue</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DDKD ]</b>
+  included in <b>[ Her ]</b>
   
   <br />
   <br />
-  01/20/2023 11:53 Playing on YTMusic
+  01/20/2023 11:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
