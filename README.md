@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XGb_ILVNaiQ">
-    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
+  <a href="https://music.youtube.com/watch?v=gBbLHFGrMXo">
+    <img width="300" src="https://lh3.googleusercontent.com/_x8ZUqoShaRjB6P5xtMMs_9CEXllf1HuAMyQyR0wn9leewuCkF2qvc7v5LpjJtw9KHTo8ZeY-ehefmZSWw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - ORIGINAL (Prod. R.Tee)(feat. 시온)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - Number(feat. BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Final ]</b>
+  included in <b>[ MaRz&B ]</b>
   
   <br />
   <br />
-  01/20/2023 13:17 Playing on YTMusic
+  01/20/2023 13:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
