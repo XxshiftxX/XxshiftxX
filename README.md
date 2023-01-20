@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Qet5daXv06Q">
-    <img width="300" src="https://lh3.googleusercontent.com/W8CUpcgcAB5g8jhZN5-W8OjNI4L7T7p_gBMHfwcP12gU56E1izY06BXcC9_E1-es6JZ4TTaWw_h_BubX">
+  <a href="https://music.youtube.com/watch?v=CEq4_q-sKsQ">
+    <img width="300" src="https://lh3.googleusercontent.com/eD_ulzogePPUMMBrAqWfCS1B2y7AR31AG0jzsuFU8L6u6vZv7jyF9h2P_HPhB7KubrnF1LzqaN_vq73M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) 및 R.Tee - SUN GOES DOWN (Prod. R.Tee)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - 으리으리(feat. Homies)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 0 ]</b>
+  included in <b>[ 쇼미더머니 11 Episode 3 ]</b>
   
   <br />
   <br />
-  01/20/2023 12:46 Playing on YTMusic
+  01/20/2023 12:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
