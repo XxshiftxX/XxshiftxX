@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=r_YtIwfz_cw">
-    <img width="300" src="https://lh3.googleusercontent.com/eD_ulzogePPUMMBrAqWfCS1B2y7AR31AG0jzsuFU8L6u6vZv7jyF9h2P_HPhB7KubrnF1LzqaN_vq73M">
+  <a href="https://music.youtube.com/watch?v=XjOD96EvL1M">
+    <img width="300" src="https://lh3.googleusercontent.com/pRWek6Iydy3vbO7kcm1TS_J8SSs8iiZkuLx9I5ck0R6kSKIEIktygmUXC5mBKyMoni9Q_YUFDPNnjVs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - 펄펄 (Prod. R.Tee)(feat. Dynamicduo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스월비 - Mama Lisa</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 3 ]</b>
+  included in <b>[ Undercover Angel ]</b>
   
   <br />
   <br />
-  01/20/2023 12:06 Playing on YTMusic
+  01/20/2023 12:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
