@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UDyPp9bkfD0">
-    <img width="300" src="https://lh3.googleusercontent.com/hJU7Bllyq_7pzhZWDjfLE88p1Lomerr4LsrFIs4oDPEAyZZI4DlBU9jPORTeUS-Q7yXfmkLFIe8CQiyS">
+  <a href="https://music.youtube.com/watch?v=-pT3EMTTX9Q">
+    <img width="300" src="https://lh3.googleusercontent.com/2G3o-K8uFaMiyryk65O1x6WUJ5pgDKUy_QOwV4bx0yy-LvxJNOfuuItzl_bxTxqiKLqlxfbCst_DnvXh">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Martini Blue</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CAMO - Life is Wet</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Her ]</b>
+  included in <b>[ Life is Wet ]</b>
   
   <br />
   <br />
-  01/20/2023 11:56 Playing on YTMusic
+  01/20/2023 12:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
