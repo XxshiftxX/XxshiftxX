@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UUIGuljEpCk">
-    <img width="300" src="https://lh3.googleusercontent.com/rb7tNMBivVLrCE89Wzy8xLe21VirwBN-5dhYhATeSkWX__b1JCjqaeSWKM20aOLU6upRPCEN7iOICLkM">
+  <a href="https://music.youtube.com/watch?v=tKKk3jgjaMo">
+    <img width="300" src="https://lh3.googleusercontent.com/kGdxoFrl5jE6vmnfHMQwLUsaMQh_c80un2l-NXOD4tNAYmR30j40aORNyudoa-mxyb0Rokr7m_2RA2K2og">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fleeky Bang - My Ninjas</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>sokodomo - BE ! (Prod. PEEJAY & Slom)(feat. 팔로알토, lIlBOI)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ My Ninjas ]</b>
+  included in <b>[ 쇼미더머니 10 Semi Final ]</b>
   
   <br />
   <br />
-  01/25/2023 11:15 Playing on YTMusic
+  01/25/2023 11:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
