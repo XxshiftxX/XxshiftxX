@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QVpk_x96UjU">
-    <img width="300" src="https://lh3.googleusercontent.com/S74G4zAWePBnfLjNyGWRrW9WdzJacszykV67PJKcCV9fHIyx7Z5yRtG6lX9IhpF6DXNmiWIP3AmSCj13">
+  <a href="https://music.youtube.com/watch?v=8MPtcMSa__Q">
+    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노윤하 - Far Post (Prod. Codec)(feat. lobonabeat!)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 칭칭칭(feat. DeVita)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Far Post (Feat. lobonabeat!) (Prod. Codec) ]</b>
+  included in <b>[ PAID IN SEOUL ]</b>
   
   <br />
   <br />
-  01/25/2023 15:58 Playing on YTMusic
+  01/25/2023 16:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
