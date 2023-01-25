@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Tdjl_EgmIXw">
-    <img width="300" src="https://lh3.googleusercontent.com/PRC1XMmW31Nq-JldTMxZDkD2OWMuZqQYl8f08MblixeY9PVqfSpVthqF0YFKHHn3e0RYChs3KzDiPl-z">
+  <a href="https://music.youtube.com/watch?v=mNhjRXfSRC8">
+    <img width="300" src="https://lh3.googleusercontent.com/KuoEB8VDSONNXhjl5DjpA_yEqVlIA0UnPeoUysN5FB9yuQwimWC4AGhIT6fDbP95Rr6RlajtZ8G1r2M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched - Spin The Block(feat. Paul Blanco, 365LIT, LIL GIMCHI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>실키보이즈(SILKYBOIS) - BOMAYE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IT'S YOUR WAY ]</b>
+  included in <b>[ BOMAYE ]</b>
   
   <br />
   <br />
-  01/25/2023 12:38 Playing on YTMusic
+  01/25/2023 12:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
