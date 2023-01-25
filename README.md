@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NMd7u0TEWHU">
-    <img width="300" src="https://lh3.googleusercontent.com/Wa0NogNI_fmBbcFkM693lTJHDaxBw_6buDXeRl6qImzvgBUmgiIvu9sdsGykQ8nKTsDzQXNWcUXCJXOL">
+  <a href="https://music.youtube.com/watch?v=-PEwrXZApPI">
+    <img width="300" src="https://lh3.googleusercontent.com/l8PfxmlihY4g4aqFrNzDAmStw6gBP9dHFGaedIVT0FAXNAs-kIantAYAWaObpGVbe8O7ZUiVA58fPHYE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그루비룸 (GroovyRoom), 릴보이 (lIlBOI), Blase (블라세) 및 노윤하 - 위하여 (We Higher) (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>허성현 (Rose de Penny), Dsel, 가오가이 및 Untell - Win Win(feat. BewhY(비와이))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Episode 1 ]</b>
+  included in <b>[ Show Me the Money 9 Episode 1 ]</b>
   
   <br />
   <br />
-  01/25/2023 13:19 Playing on YTMusic
+  01/25/2023 13:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
