@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zuOv-f_jgfo">
-    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
+  <a href="https://music.youtube.com/watch?v=UUIGuljEpCk">
+    <img width="300" src="https://lh3.googleusercontent.com/rb7tNMBivVLrCE89Wzy8xLe21VirwBN-5dhYhATeSkWX__b1JCjqaeSWKM20aOLU6upRPCEN7iOICLkM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DON MALIK - Be a pro</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fleeky Bang - My Ninjas</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PAID IN SEOUL ]</b>
+  included in <b>[ My Ninjas ]</b>
   
   <br />
   <br />
-  01/25/2023 18:45 Playing on YTMusic
+  01/25/2023 18:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
