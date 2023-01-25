@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Gqu7K_dYU5o">
+  <a href="https://music.youtube.com/watch?v=9Q1Cesa9ERQ">
     <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범 및 Slom - BLUE CHECK (REMIX)(feat. Blase, 365LIT, JUPITER, KHAN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 및 Slom - LIKE WATER (REMIX)(feat. 잠비노, XINSAYNE, 토이고, 제이켠)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ SLAY HOUSE (REMIX) ]</b>
   
   <br />
   <br />
-  01/25/2023 17:41 Playing on YTMusic
+  01/25/2023 17:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
