@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=C-bjA7WbnCg">
-    <img width="300" src="https://lh3.googleusercontent.com/kIt6by_WM9Uoyn4dD61rOs-BrpAFaji1mx212T7OKMrsin0NtBTrLj7CPJ-7vYqqIrojoNKYlWf72HFT">
+  <a href="https://music.youtube.com/watch?v=TsO-bLBumLw">
+    <img width="300" src="https://lh3.googleusercontent.com/WFQ5oha4w8Zts-bnjFZLHBJusoYegv8izPW8p0YSScCTevp_drp7bA-P_nwte8rR0sWLK5l65BkqiFPOWA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Peace Out (MEGA MIX) , oceanfromtheblue, TRADE L, 펀치넬로 (punchnello), 에이체스 (A-Chess), DON MALIK (던말릭), Khakii (카키), Polodared, Dive (다이브), 키모엘 (Kimo:L)) (Prod. Yoon)(feat. Don Mills, 안병웅, San E, Chillin Homie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>실키보이즈 - THAT'S FINE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Peace Out MEGA MIX ]</b>
+  included in <b>[ THAT'S FINE ]</b>
   
   <br />
   <br />
-  01/25/2023 16:19 Playing on YTMusic
+  01/25/2023 16:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
