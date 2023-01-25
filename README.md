@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OcvLH6SDa18">
-    <img width="300" src="https://lh3.googleusercontent.com/YXBGz3_WgP0qfPpnMVnXkICw9hVh-erw_XRhXmNh5lMNRN9QQA0UewAFf8ZJCUNzSFDAwUYtzSs-NYQ">
+  <a href="https://music.youtube.com/watch?v=k6nOfli6Ah8">
+    <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모(CHANGMO) - Swoosh Flow (Remix)(feat. 365lit, 제네 더 질라, 차메인, Paul Blanco)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 및 Slom - WE (REMIX)(feat. Paloalto, 넉살, 크루셜스타, Khundi Panda)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Swoosh Flow (Remix) ]</b>
+  included in <b>[ SLAY HOUSE (REMIX) ]</b>
   
   <br />
   <br />
-  01/25/2023 17:29 Playing on YTMusic
+  01/25/2023 17:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
