@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=71igD-J4tCQ">
-    <img width="300" src="https://lh3.googleusercontent.com/tCZJLHtG0VobOdgLXzAF0_mKKY5NEny-jvPVLstsbVGV0Q-kxHR-SZD-nKcD1D1I2QvXRKbCDzmXMoe0">
+  <a href="https://music.youtube.com/watch?v=cHQy87S7KA4">
+    <img width="300" src="https://lh3.googleusercontent.com/kD2EzAO81Zt34yIDvSpfFwjRLJS5U2e8f6zlW93fsuRZ0Q362ZyPDg8vk4ezOnMXksOmjJ1m0zSe2MabwA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>토이고 (toigo), 고은이, NSW yoon 및 노윤하 - HOP ON THE TRUCK (Prod. Padi)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>노윤하 - Skip Bottom(feat. Blase)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ HOP ON THE TRUCK ]</b>
+  included in <b>[ Skip Bottom ]</b>
   
   <br />
   <br />
-  01/25/2023 12:14 Playing on YTMusic
+  01/25/2023 12:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
