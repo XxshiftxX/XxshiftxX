@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=v3waGyIJhVY">
-    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
+  <a href="https://music.youtube.com/watch?v=UUIGuljEpCk">
+    <img width="300" src="https://lh3.googleusercontent.com/rb7tNMBivVLrCE89Wzy8xLe21VirwBN-5dhYhATeSkWX__b1JCjqaeSWKM20aOLU6upRPCEN7iOICLkM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Blase (블라세) - Diamonds(feat. 릴보이, Spray)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fleeky Bang - My Ninjas</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Final ]</b>
+  included in <b>[ My Ninjas ]</b>
   
   <br />
   <br />
-  01/25/2023 11:11 Playing on YTMusic
+  01/25/2023 11:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
