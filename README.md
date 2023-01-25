@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hT7SA7cZ-HI">
-    <img width="300" src="https://lh3.googleusercontent.com/-VwILKAcX4oy4Z8jKRDGYtTQRlwZtMH09kOGEHe4YJf7HcXm1H-x5SJ3vu0PU_hYeaSj45JayDJVscrW">
+  <a href="https://music.youtube.com/watch?v=6mDwK22cZAg">
+    <img width="300" src="https://lh3.googleusercontent.com/5SOC3q-CbjeayaIpY6Qqd99MZ-CStPN9UR7mJju29-a_kB5r01Nh_IvEHZUQxumJlCYrpapMZnqFrBBL">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>호미들 - 생기부(생활기록부)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ian Ka$h (이안캐시) - GTFO(feat. Fleeky Bang, Chillin Homie, Don Mills)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 생기부(생활기록부) ]</b>
+  included in <b>[ ICEBOX ]</b>
   
   <br />
   <br />
-  01/25/2023 13:45 Playing on YTMusic
+  01/25/2023 13:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
