@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SXDzL1RJllk">
-    <img width="300" src="https://lh3.googleusercontent.com/rYNEqXPVCR9U3CvPOzpCmMgCqJBzdG_ocJxE6TfQ8Q46IAIeX235kWljrw5S0aWOFSL35o_u9ei-BsHw">
+  <a href="https://music.youtube.com/watch?v=P6WxVHLDDq0">
+    <img width="300" src="https://lh3.googleusercontent.com/iSOorcYATgD0fq8N_zMOqcIHnbPtWgb8FByWQhG7QR23KZuGB7zu2WVDAv2NNn9CCzdgakIngmy5ses-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>우원재 (Woo) - Uniform(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SINCE - 나침반(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Uniform ]</b>
+  included in <b>[ HIGH RISK HIGH RETURN ]</b>
   
   <br />
   <br />
-  01/25/2023 13:55 Playing on YTMusic
+  01/25/2023 13:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
