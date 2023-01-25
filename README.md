@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xyTRjWvyahc">
-    <img width="300" src="https://lh3.googleusercontent.com/X-q4CbOisg5xWUCay9PsP7K4AyYwFINRcWiEZyNKpPhTGH0H6RTpZCPGuNZJUf28OpUEVafiEb0u_tSC">
+  <a href="https://music.youtube.com/watch?v=eqACDUN3Pfc">
+    <img width="300" src="https://lh3.googleusercontent.com/qYpCSxPmXS6LiyhUJw7LUdVi3qjIVueA3fZuXV90tEdhd1a7bT6-j4chowUPD_xEsz1FztOUdXSKeVfgjQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lil Moshpit - Yooooo(feat. 키드밀리, sokodomo, Polodared)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>GIRIBOY - vv 2(feat. hayake, Kid Milli, 김승민, CHOILB)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ AAA ]</b>
+  included in <b>[ 땡큐 ]</b>
   
   <br />
   <br />
-  01/25/2023 11:21 Playing on YTMusic
+  01/25/2023 11:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
