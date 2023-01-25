@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=K32MnQSxSFM">
-    <img width="300" src="https://lh3.googleusercontent.com/TNBevkHdj5ALPkQjhcs_MF3-_PupwNz42-XyCdL6bBlzEWHsOoEUFMnvYOuMXCSx2wjvZhPHr-8QIedv">
+  <a href="https://music.youtube.com/watch?v=hT7SA7cZ-HI">
+    <img width="300" src="https://lh3.googleusercontent.com/-VwILKAcX4oy4Z8jKRDGYtTQRlwZtMH09kOGEHe4YJf7HcXm1H-x5SJ3vu0PU_hYeaSj45JayDJVscrW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스 - RAIN SHOWERS REMIX</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>호미들 - 생기부(생활기록부)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 파급효과 (Ripple Effect) ]</b>
+  included in <b>[ 생기부(생활기록부) ]</b>
   
   <br />
   <br />
-  01/25/2023 13:41 Playing on YTMusic
+  01/25/2023 13:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
