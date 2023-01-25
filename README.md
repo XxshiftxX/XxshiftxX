@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=cHQy87S7KA4">
-    <img width="300" src="https://lh3.googleusercontent.com/kD2EzAO81Zt34yIDvSpfFwjRLJS5U2e8f6zlW93fsuRZ0Q362ZyPDg8vk4ezOnMXksOmjJ1m0zSe2MabwA">
+  <a href="https://music.youtube.com/watch?v=0CiM8yNSfyw">
+    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노윤하 - Skip Bottom(feat. Blase)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 마천루(feat. JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Skip Bottom ]</b>
+  included in <b>[ PAID IN SEOUL ]</b>
   
   <br />
   <br />
-  01/25/2023 12:19 Playing on YTMusic
+  01/25/2023 12:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
