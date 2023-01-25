@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UUIGuljEpCk">
-    <img width="300" src="https://lh3.googleusercontent.com/rb7tNMBivVLrCE89Wzy8xLe21VirwBN-5dhYhATeSkWX__b1JCjqaeSWKM20aOLU6upRPCEN7iOICLkM">
+  <a href="https://music.youtube.com/watch?v=mNhjRXfSRC8">
+    <img width="300" src="https://lh3.googleusercontent.com/KuoEB8VDSONNXhjl5DjpA_yEqVlIA0UnPeoUysN5FB9yuQwimWC4AGhIT6fDbP95Rr6RlajtZ8G1r2M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fleeky Bang - My Ninjas</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>실키보이즈(SILKYBOIS) - BOMAYE</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ My Ninjas ]</b>
+  included in <b>[ BOMAYE ]</b>
   
   <br />
   <br />
-  01/25/2023 18:47 Playing on YTMusic
+  01/25/2023 18:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
