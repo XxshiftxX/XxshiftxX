@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=G3BFXyeF6Ck">
-    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
+  <a href="https://music.youtube.com/watch?v=71igD-J4tCQ">
+    <img width="300" src="https://lh3.googleusercontent.com/tCZJLHtG0VobOdgLXzAF0_mKKY5NEny-jvPVLstsbVGV0Q-kxHR-SZD-nKcD1D1I2QvXRKbCDzmXMoe0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Chillin Homie, 노윤하, Fleeky Bang 및 KHAN - Go (Prod. 기리보이)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>토이고 (toigo), 고은이, NSW yoon 및 노윤하 - HOP ON THE TRUCK (Prod. Padi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Final ]</b>
+  included in <b>[ HOP ON THE TRUCK ]</b>
   
   <br />
   <br />
-  01/25/2023 12:11 Playing on YTMusic
+  01/25/2023 12:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
