@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bmoLsbc906w">
-    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
+  <a href="https://music.youtube.com/watch?v=xyTRjWvyahc">
+    <img width="300" src="https://lh3.googleusercontent.com/X-q4CbOisg5xWUCay9PsP7K4AyYwFINRcWiEZyNKpPhTGH0H6RTpZCPGuNZJUf28OpUEVafiEb0u_tSC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Pop It(feat. 쿤타(Koonta), Koonta)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Lil Moshpit - Yooooo(feat. 키드밀리, sokodomo, Polodared)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MultrillVerse ]</b>
+  included in <b>[ AAA ]</b>
   
   <br />
   <br />
-  01/25/2023 18:16 Playing on YTMusic
+  01/25/2023 18:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
