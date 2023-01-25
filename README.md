@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=C-bjA7WbnCg">
-    <img width="300" src="https://lh3.googleusercontent.com/kIt6by_WM9Uoyn4dD61rOs-BrpAFaji1mx212T7OKMrsin0NtBTrLj7CPJ-7vYqqIrojoNKYlWf72HFT">
+  <a href="https://music.youtube.com/watch?v=bp8u_vGyUww">
+    <img width="300" src="https://lh3.googleusercontent.com/YjU0RkkeiVpl8r04RGZrW8anllbXDkLiGEq8Ybs8C09uiDRx1b7nVnnQ-UkwjGq8dJNXL719QeRDSjpcZg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 - Peace Out (MEGA MIX) , oceanfromtheblue, TRADE L, 펀치넬로 (punchnello), 에이체스 (A-Chess), DON MALIK (던말릭), Khakii (카키), Polodared, Dive (다이브), 키모엘 (Kimo:L)) (Prod. Yoon)(feat. Don Mills, 안병웅, San E, Chillin Homie)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 - 전염 (Til Infinity)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Peace Out MEGA MIX ]</b>
+  included in <b>[ 선인장화 : MALIK THE CACTUS FLOWER ]</b>
   
   <br />
   <br />
-  01/25/2023 10:53 Playing on YTMusic
+  01/25/2023 11:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
