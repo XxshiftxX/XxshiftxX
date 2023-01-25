@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lqNcTWUn-v4">
-    <img width="300" src="https://lh3.googleusercontent.com/wJPmD0IXmdK6f2QRs9ttXhvmy8z7jR5CiP9TfI64R5EOK9SrKLXSHnjke06tn0xQRqGuIytJEHrRLfSItA">
+  <a href="https://music.youtube.com/watch?v=8p08CpHUmhw">
+    <img width="300" src="https://lh3.googleusercontent.com/Exl8r_caVIfTMajHiKUsq54uCTXrf8sY3cHubiirM_eUsDKsdedIV_jDFNA-GCbMrSkVTpVZRH60CVzvww">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko, CHANGMO, Don Mills 및 Los - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Tech Fleece Freestyle(feat. KHAN, hangzoo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ B.O.T.B. (Best Of The Best) ]</b>
+  included in <b>[ Beauty Of The Pain ]</b>
   
   <br />
   <br />
-  01/25/2023 16:38 Playing on YTMusic
+  01/25/2023 16:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
