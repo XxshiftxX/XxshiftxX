@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5dUsncUzjNk">
-    <img width="300" src="https://lh3.googleusercontent.com/s9SiSIePWD2GC_GiV8sXMjFctnWMSau1GUQaLkbqQRmjbXZg_mEm0aIOZBVd4DlwU0Lk4OgBICKdcNy4AQ">
+  <a href="https://music.youtube.com/watch?v=LxwrUdJ0yqs">
+    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던밀스 - 미래 2(feat. KHAN, J4 Prada, Polodared)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Noble Game (Prod. ILLUID HALLER)(feat. ILLINIT)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 미래 2 ]</b>
+  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
   
   <br />
   <br />
-  01/25/2023 16:45 Playing on YTMusic
+  01/25/2023 16:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
