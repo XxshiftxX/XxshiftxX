@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZEZMScRp4wA">
-    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
+  <a href="https://music.youtube.com/watch?v=71igD-J4tCQ">
+    <img width="300" src="https://lh3.googleusercontent.com/tCZJLHtG0VobOdgLXzAF0_mKKY5NEny-jvPVLstsbVGV0Q-kxHR-SZD-nKcD1D1I2QvXRKbCDzmXMoe0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - Fax (Prod. GroovyRoom)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>토이고 (toigo), 고은이, NSW yoon 및 노윤하 - HOP ON THE TRUCK (Prod. Padi)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
+  included in <b>[ HOP ON THE TRUCK ]</b>
   
   <br />
   <br />
-  01/25/2023 16:30 Playing on YTMusic
+  01/25/2023 16:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
