@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pyR_aPq6B-w">
-    <img width="300" src="https://lh3.googleusercontent.com/Khbujpf3Vt7XREZy-SOLvYnfgFypr7KHSx_q9N5r8ezsGZkvVqCLom3-StWLtXJTY5mk2VMpZICPA4E">
+  <a href="https://music.youtube.com/watch?v=3uGgWEG6Bb4">
+    <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>unofficialboyy 및 HAIFHAIF - 그물,덫,발사대기,포획 (feat. 양홍원)(feat. 양홍원)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 - DEJAVU (REMIX)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 그물,덫,발사대기,포획 ]</b>
+  included in <b>[ SLAY HOUSE (REMIX) ]</b>
   
   <br />
   <br />
-  01/25/2023 16:58 Playing on YTMusic
+  01/25/2023 17:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
