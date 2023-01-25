@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AFG48TpfW-g">
-    <img width="300" src="https://lh3.googleusercontent.com/lrFzvwmpwSKow0Fa5DwADmUSNcnLvj5tEktj6O8mRNcZh9eAayUChWzqFCS-8jLCI6JMiFoM4nR-F-g">
+  <a href="https://music.youtube.com/watch?v=bdpiqjL-Y3M">
+    <img width="300" src="https://lh3.googleusercontent.com/vSGUuJdyve-X5OHdEVCeMdtiA3uFCA0Q7TBWlQWKcuBhWvEnyhqxCiVEdhYf3eygdphyAK7PjOs9YoU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Owen - gimmick(feat. BRADYSTREET, LO VOLF)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Love My Life(feat. 서동현, Xwally)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Smile ]</b>
+  included in <b>[ Love My Life ]</b>
   
   <br />
   <br />
-  01/25/2023 11:56 Playing on YTMusic
+  01/25/2023 11:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
