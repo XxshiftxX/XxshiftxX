@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fn_HXVNEFes">
-    <img width="300" src="https://lh3.googleusercontent.com/dHLNnhNBM38-ahV6ffFIYq1WQKmSnFFn9xN9S52x7DwXK_KSete-mGwaBnZi47GCXdW2OTFmQE0d4Pc">
+  <a href="https://music.youtube.com/watch?v=3uGgWEG6Bb4">
+    <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>블라세 및 Chillin Homie - Jet Lag</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 - DEJAVU (REMIX)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ A-Team ]</b>
+  included in <b>[ SLAY HOUSE (REMIX) ]</b>
   
   <br />
   <br />
-  01/25/2023 12:52 Playing on YTMusic
+  01/25/2023 12:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
