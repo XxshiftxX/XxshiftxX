@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Yrhc4xwrAmY">
-    <img width="300" src="https://i.ytimg.com/vi/Yrhc4xwrAmY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=PYFoFlTDAz0">
+    <img width="300" src="https://lh3.googleusercontent.com/-hWZoSvRqB7u5ouJh2bJvK6BIm9YXBYAo7tR8FC-o941a21q0wnH1CTQcAeVA10ZINBI8nrFE2mX5NY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>서리'30' - BE! REMIX - Son Simba, dsel, Khundi Panda, CHOILB</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>저스디스 (JUSTHIS) - 2022 Fr33styl3 (Prod. Simo of Y2K92)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 11만회 ]</b>
+  included in <b>[ Do Not Go Gentle Into That Good Night II ]</b>
   
   <br />
   <br />
-  01/26/2023 14:28 Playing on YTMusic
+  01/26/2023 14:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
