@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TsO-bLBumLw">
-    <img width="300" src="https://lh3.googleusercontent.com/WFQ5oha4w8Zts-bnjFZLHBJusoYegv8izPW8p0YSScCTevp_drp7bA-P_nwte8rR0sWLK5l65BkqiFPOWA">
+  <a href="https://music.youtube.com/watch?v=cHQy87S7KA4">
+    <img width="300" src="https://lh3.googleusercontent.com/kD2EzAO81Zt34yIDvSpfFwjRLJS5U2e8f6zlW93fsuRZ0Q362ZyPDg8vk4ezOnMXksOmjJ1m0zSe2MabwA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>실키보이즈 - THAT'S FINE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>노윤하 - Skip Bottom(feat. Blase)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ THAT'S FINE ]</b>
+  included in <b>[ Skip Bottom ]</b>
   
   <br />
   <br />
-  01/26/2023 14:16 Playing on YTMusic
+  01/26/2023 14:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
