@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bdpiqjL-Y3M">
-    <img width="300" src="https://lh3.googleusercontent.com/vSGUuJdyve-X5OHdEVCeMdtiA3uFCA0Q7TBWlQWKcuBhWvEnyhqxCiVEdhYf3eygdphyAK7PjOs9YoU">
+  <a href="https://music.youtube.com/watch?v=LiLYrVp7a6Q">
+    <img width="300" src="https://lh3.googleusercontent.com/B5VFDn2Mrc0g5SsY7tgaOjqa-VlPNtqtBK15Dt-8J1Nw074YK86CvT9mRvuLfDcmaxZPPGIrxZ1iDY19DQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NSW yoon - Love My Life(feat. 서동현, Xwally)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAEHA - Loop(feat. Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Love My Life ]</b>
+  included in <b>[ Loop (Feat. Skinny Brown) ]</b>
   
   <br />
   <br />
-  01/26/2023 14:45 Playing on YTMusic
+  01/28/2023 18:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
