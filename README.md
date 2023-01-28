@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Rm1FdKlVkeA">
-    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
+  <a href="https://music.youtube.com/watch?v=xyTRjWvyahc">
+    <img width="300" src="https://lh3.googleusercontent.com/X-q4CbOisg5xWUCay9PsP7K4AyYwFINRcWiEZyNKpPhTGH0H6RTpZCPGuNZJUf28OpUEVafiEb0u_tSC">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Blase (블라세) - Chosen 1</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Lil Moshpit - Yooooo(feat. 키드밀리, sokodomo, Polodared)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Final ]</b>
+  included in <b>[ AAA ]</b>
   
   <br />
   <br />
-  01/28/2023 18:52 Playing on YTMusic
+  01/28/2023 18:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
