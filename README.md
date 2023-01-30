@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=w9-wbKTqqWo">
-    <img width="300" src="https://lh3.googleusercontent.com/rmYTAzDdwxYo4obBKDrNt8D3RYOSFbANYCGKrQ44l2hw9xz7O8qYDuuvbeZ6-D9QFEC2_SNCDC6i43YMsg">
+  <a href="https://music.youtube.com/watch?v=k7-BssOf7Pg">
+    <img width="300" src="https://lh3.googleusercontent.com/8pZSqhQWetxWVVrqEBL5r2k0R_ZZdBgAtII0fqWjupkgBKCIORgo0LKDBxKYp8PCpFl1l5Q4Z8QYAWg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>노윤하 및 CHERRY BOY 17 - A yo Dj</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - Friends With Benefits</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EarthQuake ]</b>
+  included in <b>[ TOAST ]</b>
   
   <br />
   <br />
-  01/28/2023 19:40 Playing on YTMusic
+  01/30/2023 13:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
