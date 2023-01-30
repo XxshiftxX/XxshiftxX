@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=t6VgxIIHsqk">
-    <img width="300" src="https://lh3.googleusercontent.com/LEccxVDKcClptUfWkHXboH9jNxbe8JORIsxiGL_aVrhvk26lVpqFfRkjgWds0V0MIJjFmGWOFOE-5ak">
+  <a href="https://music.youtube.com/watch?v=97EtSDf6wx8">
+    <img width="300" src="https://lh3.googleusercontent.com/xYh7NdmqmB3k15V7CnTosgv67AFqQo-xxoJQo05Oo1yXy4zLv2eOBVKKeytby6pi7HtXuwDrKK39Wphy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - 처음 마주쳤을 때처럼</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gist - Black Swan(feat. Leellamarz, DON MALIK)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 처음 마주쳤을 때처럼 ]</b>
+  included in <b>[ Beginning ]</b>
   
   <br />
   <br />
-  01/30/2023 14:54 Playing on YTMusic
+  01/30/2023 15:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
