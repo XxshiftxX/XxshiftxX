@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NV2Dlbg_F_E">
-    <img width="300" src="https://lh3.googleusercontent.com/M21Tzzxp57ziZMaRI_G9vNjwFyyqbG6928DzT_DPvcbutGQGHLIMt3xJWHnGLx9UbIgAOE2fm1fqqNO0">
+  <a href="https://music.youtube.com/watch?v=t6VgxIIHsqk">
+    <img width="300" src="https://lh3.googleusercontent.com/LEccxVDKcClptUfWkHXboH9jNxbe8JORIsxiGL_aVrhvk26lVpqFfRkjgWds0V0MIJjFmGWOFOE-5ak">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GIST - 사랑해줄래(feat. MELOH)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - 처음 마주쳤을 때처럼</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 사랑해줄래 ]</b>
+  included in <b>[ 처음 마주쳤을 때처럼 ]</b>
   
   <br />
   <br />
-  01/30/2023 14:53 Playing on YTMusic
+  01/30/2023 14:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
