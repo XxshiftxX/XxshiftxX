@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-l4oL8nEwag">
-    <img width="300" src="https://lh3.googleusercontent.com/WPadUGe8cBVf1Tr_ZSnOC_iEXTIIg1VP4397V7UxKA9vmFrJ658HA-fwDNIcJ38bAHz6D9c36JkoZx5O">
+  <a href="https://music.youtube.com/watch?v=851x4fHEsRE">
+    <img width="300" src="https://lh3.googleusercontent.com/pS9USJ0e1FVTy6JiwLFheZb0htMkneF2fKNGrQgRyB649POR3o67BQpRqDqplJ-9XQ9gknTa4uoBH_w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - 끝말잇기(feat. Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Louie, Royal 44, CK 및 OXYNOVA - Better Life</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOAST ]</b>
+  included in <b>[ YNR VS ALL ]</b>
   
   <br />
   <br />
-  03/27/2023 16:06 Playing on YTMusic
+  03/27/2023 16:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
