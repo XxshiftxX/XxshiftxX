@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8lI_pyIAj8I">
-    <img width="300" src="https://lh3.googleusercontent.com/A4vCDZHLZWZUPwe__h2atwI-assWPHNABUlnpBuAFQGhuusT7X-fvKBBtJSk7s3uoiIsd83MnawHQpWk">
+  <a href="https://music.youtube.com/watch?v=oikRLNDf1bw">
+    <img width="300" src="https://lh3.googleusercontent.com/80ZrytEBoa1slGHAddD0kURF1HBOQBnMKa8TxeWg0q1wkejYlbBMC7dW5DcjGlZlvNj8wwa9d8GKe4g3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - HDYF(feat. Hash Swan)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAEHA - All In(feat. Chin)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Midnight law ]</b>
+  included in <b>[ Life Like Last 18 ]</b>
   
   <br />
   <br />
-  03/27/2023 16:17 Playing on YTMusic
+  03/27/2023 16:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
