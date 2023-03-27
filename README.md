@@ -2,11 +2,11 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MJbgUhQ-lAo">
+  <a href="https://music.youtube.com/watch?v=atI77HqDQxI">
     <img width="300" src="https://lh3.googleusercontent.com/fBGIbyszYQ1dimP_7Qg1K_gl7oMkYC3J2TMy_ge2YGz5GloxtvEzIrAH7ddEG1xg8W0xTIdA0u0p82es">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - ZEN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - MADE IN SEOUL(feat. The Quiett)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ MADE IN SEOUL ]</b>
   
