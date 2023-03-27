@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ehJ4uSmJ30I">
-    <img width="300" src="https://lh3.googleusercontent.com/fBGIbyszYQ1dimP_7Qg1K_gl7oMkYC3J2TMy_ge2YGz5GloxtvEzIrAH7ddEG1xg8W0xTIdA0u0p82es">
+  <a href="https://music.youtube.com/watch?v=GJUf-uUFBXo">
+    <img width="300" src="https://lh3.googleusercontent.com/oa2USllJTI9cMpWHTXqOvhg7928zxVaPRPA0FL0RusAp6-EYflBWXMjDIywWxiOnoh2N8ztBUw8DOlu8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - 9924(feat. Gist)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>코드 쿤스트 (CODE KUNST) - Jumper(feat. 개코, MINO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MADE IN SEOUL ]</b>
+  included in <b>[ Remember Archive ]</b>
   
   <br />
   <br />
-  03/27/2023 15:38 Playing on YTMusic
+  03/27/2023 15:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
