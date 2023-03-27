@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=L4Rxvjb_Eh8">
-    <img width="300" src="https://lh3.googleusercontent.com/4xH_ekCN0fQI5CwsVlriqSG1Kv1igptYPCSCDxSIwGsKlHZBMahFnQuE_EwKgJsPOqYKSFLSamqCL7Y">
+  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
+    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스, JINBO, YUNHWAY, 다민이 (DAMINI), DUT2 및 Bamsem (밤샘) - Future Bounce (Prod. JINBO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ AP Alchemy : Side A ]</b>
+  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
   
   <br />
   <br />
-  03/27/2023 15:48 Playing on YTMusic
+  03/27/2023 15:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
