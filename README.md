@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=851x4fHEsRE">
-    <img width="300" src="https://lh3.googleusercontent.com/pS9USJ0e1FVTy6JiwLFheZb0htMkneF2fKNGrQgRyB649POR3o67BQpRqDqplJ-9XQ9gknTa4uoBH_w">
+  <a href="https://music.youtube.com/watch?v=1uCjUBwOjms">
+    <img width="300" src="https://lh3.googleusercontent.com/UTCPepxSgPjImsszrUJNywCQyPQtZx_tRM2vCW-9WfR8zM3lrsAW__joO9XQckqSKP1c-7UMyWCRGgQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Louie, Royal 44, CK 및 OXYNOVA - Better Life</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kid Milli 및 dress - Cliché</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ YNR VS ALL ]</b>
+  included in <b>[ Face & Mask ]</b>
   
   <br />
   <br />
-  03/27/2023 16:10 Playing on YTMusic
+  03/27/2023 16:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
