@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8MPtcMSa__Q">
-    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
+  <a href="https://music.youtube.com/watch?v=L4Rxvjb_Eh8">
+    <img width="300" src="https://lh3.googleusercontent.com/4xH_ekCN0fQI5CwsVlriqSG1Kv1igptYPCSCDxSIwGsKlHZBMahFnQuE_EwKgJsPOqYKSFLSamqCL7Y">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 칭칭칭(feat. DeVita)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스, JINBO, YUNHWAY, 다민이 (DAMINI), DUT2 및 Bamsem (밤샘) - Future Bounce (Prod. JINBO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PAID IN SEOUL ]</b>
+  included in <b>[ AP Alchemy : Side A ]</b>
   
   <br />
   <br />
-  03/27/2023 15:46 Playing on YTMusic
+  03/27/2023 15:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
