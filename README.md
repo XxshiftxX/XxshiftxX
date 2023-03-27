@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Gqu7K_dYU5o">
-    <img width="300" src="https://lh3.googleusercontent.com/VhvlqUmT87gssaT-V61pF89vRLxNyJWf46G_KK836lVnRskF5CobAY50YjqvyW6RiOxOpKcBbM98OTyQ">
+  <a href="https://music.youtube.com/watch?v=fBBqSucQ_q0">
+    <img width="300" src="https://lh3.googleusercontent.com/KUBxuLALJJOppf3WigXZa-p9lr32PZ5uDfLB54ZSka4t6vBtwZgr7hKeaqjI_xIra__dFsmn6iT0O7bg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>박재범 및 Slom - BLUE CHECK (REMIX)(feat. Blase, 365LIT, JUPITER, KHAN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - MR. BAD(feat. 우원재)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SLAY HOUSE (REMIX) ]</b>
+  included in <b>[ BUT FOR NOW LEAVE ME ALONE ]</b>
   
   <br />
   <br />
-  03/27/2023 15:56 Playing on YTMusic
+  03/27/2023 16:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
