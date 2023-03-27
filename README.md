@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fBBqSucQ_q0">
-    <img width="300" src="https://lh3.googleusercontent.com/KUBxuLALJJOppf3WigXZa-p9lr32PZ5uDfLB54ZSka4t6vBtwZgr7hKeaqjI_xIra__dFsmn6iT0O7bg">
+  <a href="https://music.youtube.com/watch?v=-l4oL8nEwag">
+    <img width="300" src="https://lh3.googleusercontent.com/WPadUGe8cBVf1Tr_ZSnOC_iEXTIIg1VP4397V7UxKA9vmFrJ658HA-fwDNIcJ38bAHz6D9c36JkoZx5O">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - MR. BAD(feat. 우원재)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - 끝말잇기(feat. Skinny Brown)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BUT FOR NOW LEAVE ME ALONE ]</b>
+  included in <b>[ TOAST ]</b>
   
   <br />
   <br />
-  03/27/2023 16:03 Playing on YTMusic
+  03/27/2023 16:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
