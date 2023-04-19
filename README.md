@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gOM16CxCZrI">
-    <img width="300" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">
+  <a href="https://music.youtube.com/watch?v=lSDPmvq_Z10">
+    <img width="300" src="https://lh3.googleusercontent.com/xGx0xoJdm5rFwlCCltRlIkiET9DN_PsfvKLVhQe3pG-8156v8DQs67eVASLG7WYlOoqPAoSLjbviaj6X">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve - Bokuramadaunderground</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jazzyfact - BIG</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Otogi ]</b>
+  included in <b>[ BIG ]</b>
   
   <br />
   <br />
-  04/19/2023 09:22 Playing on YTMusic
+  04/19/2023 10:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
