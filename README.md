@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lSDPmvq_Z10">
-    <img width="300" src="https://lh3.googleusercontent.com/xGx0xoJdm5rFwlCCltRlIkiET9DN_PsfvKLVhQe3pG-8156v8DQs67eVASLG7WYlOoqPAoSLjbviaj6X">
+  <a href="https://music.youtube.com/watch?v=CQ_HMxbJtCA">
+    <img width="300" src="https://lh3.googleusercontent.com/HzDP84NAR7zdMusMEwev3xkXRRPv8jDDjqdjdj-pmGi_fMiJIlC4a2VCXSY3xs2NpoYHp5foKVOlgqeQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Jazzyfact - BIG</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일 - Acrobat 곡예사</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BIG ]</b>
+  included in <b>[ Acrobat 곡예사 ]</b>
   
   <br />
   <br />
-  04/19/2023 10:14 Playing on YTMusic
+  04/19/2023 10:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
