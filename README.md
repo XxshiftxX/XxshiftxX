@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sFFRpdW62RI">
-    <img width="300" src="https://lh3.googleusercontent.com/rYL85NOjhkBqU_VWupD78bLNbYHprQzb5MMqiamB9yVHGt8UQpJk5UxjTGiOHXqGp6gHofrWaT1q3zkVew">
+  <a href="https://music.youtube.com/watch?v=hBaO3ObMDpI">
+    <img width="300" src="https://lh3.googleusercontent.com/QjEgn2NSOWP14KBnjWjkjq51ekrZvRH3yVwocyJmrjkWV6V08-1iOpfuCuyaM38d_4z9WX_nc5UDeQJF">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>sasakure.UK - トンデモワンダーズ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Giga - CH4NGE(feat. KAF)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ トンデモワンダーズ ]</b>
+  included in <b>[ CH4NGE ]</b>
   
   <br />
   <br />
-  04/19/2023 09:16 Playing on YTMusic
+  04/19/2023 09:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
