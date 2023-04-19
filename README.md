@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=CBmLuH2kWTM">
-    <img width="300" src="https://lh3.googleusercontent.com/sNFH5rW0m54-PYmJupX2erj4Lz7l-Llk2yB4PRULcBdr0PH7irbxkEUVNXnPHkaxMvbfGC3b51xi8zE">
+  <a href="https://music.youtube.com/watch?v=sFFRpdW62RI">
+    <img width="300" src="https://lh3.googleusercontent.com/rYL85NOjhkBqU_VWupD78bLNbYHprQzb5MMqiamB9yVHGt8UQpJk5UxjTGiOHXqGp6gHofrWaT1q3zkVew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - 추월</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>sasakure.UK - トンデモワンダーズ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BORA ]</b>
+  included in <b>[ トンデモワンダーズ ]</b>
   
   <br />
   <br />
-  04/19/2023 09:15 Playing on YTMusic
+  04/19/2023 09:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
