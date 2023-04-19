@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rBMsE5A4Y5c">
-    <img width="300" src="https://lh3.googleusercontent.com/1JR6p3QdxnSNGFrcXifgb1Kv9QJvNL3IYFHYGFuczL-Hc86H_PKyRWioi8OkQ5oSeJ1wUcERpJ6GEgIe-w">
+  <a href="https://music.youtube.com/watch?v=CBmLuH2kWTM">
+    <img width="300" src="https://lh3.googleusercontent.com/sNFH5rW0m54-PYmJupX2erj4Lz7l-Llk2yB4PRULcBdr0PH7irbxkEUVNXnPHkaxMvbfGC3b51xi8zE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>코드 쿤스트 (CODE KUNST) - BAD BAD(feat. Tabber, 박재범)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - 추월</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Archive 01 ]</b>
+  included in <b>[ BORA ]</b>
   
   <br />
   <br />
-  03/27/2023 16:26 Playing on YTMusic
+  04/19/2023 09:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
