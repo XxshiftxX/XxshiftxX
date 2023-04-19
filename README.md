@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5ejymaeiR5s">
-    <img width="300" src="https://lh3.googleusercontent.com/xiAVsdcMG1oB2inteEUtnMw7H7ZE3rAvOQkgcttEzmkAvJOm07HHNZYtWPu3JGcS_8aBqRRxfDg0BBOn">
+  <a href="https://music.youtube.com/watch?v=4ZrzqYE-UqM">
+    <img width="300" src="https://lh3.googleusercontent.com/vgUeloJe97b1b0JwtK_jWW2zFqUuk-yeBKj2HpWsy9HYmkzaMEDBnvPA63mrU60SSAeXsEV-ns-m-mof">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 (Don Malik) - 네비대로 가주세요(feat. 유라 (youra))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>피타입 (P-Type) - Explicit Content</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DAWN IN SEOUL ]</b>
+  included in <b>[ Explicit Content ]</b>
   
   <br />
   <br />
-  04/19/2023 10:21 Playing on YTMusic
+  04/19/2023 14:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
