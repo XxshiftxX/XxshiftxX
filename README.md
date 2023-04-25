@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=HFtn3y77Vs0">
-    <img width="300" src="https://lh3.googleusercontent.com/KMJDAAjsLT0W1hd4NWIthP3xfSk6hoXHHALB6NJgtKjlb9E3L2KLS6crQHQHaLLPbuBjJbd-JWZX41Y">
+  <a href="https://music.youtube.com/watch?v=k0g04t7ZeSw">
+    <img width="300" src="https://lh3.googleusercontent.com/CS9aE9fPqjKPhj2VBlDPhTq15nZquoSIiT9W9AKBwnr_kkSKnTTYnHky1HmMLgtIfHzudKSlfqYU88wi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yuuri - BETELGEUSE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YOASOBI - 怪物</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ichi ]</b>
+  included in <b>[ THE BOOK 2 ]</b>
   
   <br />
   <br />
-  04/25/2023 20:57 Playing on YTMusic
+  04/25/2023 21:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
