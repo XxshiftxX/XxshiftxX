@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=v1LXbb2S0TI">
-    <img width="300" src="https://lh3.googleusercontent.com/F-okYAcpUtthIDLZwl3PA1TGR-P3gz-oCbLQqkUkhyR-PVce_GSPqLDq9lDPaKeNImWCEOgM117JB-I">
+  <a href="https://music.youtube.com/watch?v=77MILyL0-Hk">
+    <img width="300" src="https://i.ytimg.com/vi/77MILyL0-Hk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Aimer - atemonaku</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HAJE - 카노 - 마음짓기 (PV, 자막) 心做し</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ atemonaku ]</b>
+  included in <b>[ 조회수 316만회 ]</b>
   
   <br />
   <br />
-  04/25/2023 22:26 Playing on YTMusic
+  04/25/2023 22:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
