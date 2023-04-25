@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0GEm67c9WUg">
-    <img width="300" src="https://lh3.googleusercontent.com/28VjulbxCOrev2IHBJ_0m5xgmrGZ4vyY7TUhj7n3RMhXWUpNcG1yu43UM2yEwE0rMEf8PaX_WyCaTR12">
+  <a href="https://music.youtube.com/watch?v=XKe03_eCtyg">
+    <img width="300" src="https://lh3.googleusercontent.com/-Pcy2xv0wC_KU3I2HLBtMYRUYR4aAhrQj0wl3X0ax0NPoJAc1cqV-dgksHSx9gYl86SB0yxiiirevjhn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve - FightSong</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yorushika - Miyakoochi</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ FightSong ]</b>
+  included in <b>[ Magic Lantern ]</b>
   
   <br />
   <br />
-  04/25/2023 21:48 Playing on YTMusic
+  04/25/2023 21:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
