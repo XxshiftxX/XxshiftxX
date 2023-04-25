@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WFRB9zl8tS8">
-    <img width="300" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">
+  <a href="https://music.youtube.com/watch?v=y8bRrsQ7Sd0">
+    <img width="300" src="https://lh3.googleusercontent.com/fF_ABPbI3oFZsajh-Can-0cyqgAEYhmGmNFuxLAtXBC44JAJkzVPPO8HvGOR_nEqu1UXRGCBgbpNd4XjKg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve - Last Dance</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ラックライフ - 名前を呼ぶよ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Otogi ]</b>
+  included in <b>[ Life is beautiful ]</b>
   
   <br />
   <br />
-  04/25/2023 23:50 Playing on YTMusic
+  04/25/2023 23:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
