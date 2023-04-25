@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LKii10hZI1E">
-    <img width="300" src="https://lh3.googleusercontent.com/7kb_g2798DaGVo3GIlSh4jSH_g8v4sEPGcLPhVKnCSchZupLDdSkpg8Pn1_ixXqpIOJgO_tpvjyP-shI1g">
+  <a href="https://music.youtube.com/watch?v=1p_12vV3FQk">
+    <img width="300" src="https://lh3.googleusercontent.com/tJ3KnOmNnFyyuziP7DCKQ712xYkPNy4sw6g769VDn9dcT3Gz_vxursHeMcecgkhlc5EhWjwffehSZHMBPQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>녹황색사회 - Hitorigoto</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yuuri - Astronauts</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Shiawase - EP ]</b>
+  included in <b>[ Ni ]</b>
   
   <br />
   <br />
-  04/25/2023 23:40 Playing on YTMusic
+  04/25/2023 23:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
