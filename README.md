@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=64ftDYJXcTo">
-    <img width="300" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">
+  <a href="https://music.youtube.com/watch?v=NMA_isZYsYQ">
+    <img width="300" src="https://lh3.googleusercontent.com/NzNwvpFBVqnTcsoC68ryZidkX9c0e6yH0g5txpIpHIRT95iyK9KfEgIDWURm0NhVCqrDskVWEtsPCLZP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>요루시카 - だから僕は音楽を辞めた</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - KICK BACK</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ だから僕は音楽を辞めた ]</b>
+  included in <b>[ KICK BACK ]</b>
   
   <br />
   <br />
-  04/25/2023 23:59 Playing on YTMusic
+  04/26/2023 00:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
