@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UgHNJ6mjJy0">
-    <img width="300" src="https://lh3.googleusercontent.com/4k5KoohQv4eW27d3YPBGA0UV9aopwdkUZrU6Os6bLu5MZEiu3Ifkvb-4U_8i4qxR9KKYLdxnmA78UD2Vfg">
+  <a href="https://music.youtube.com/watch?v=WFRB9zl8tS8">
+    <img width="300" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>달의하루 - 염라</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Eve - Last Dance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 염라 ]</b>
+  included in <b>[ Otogi ]</b>
   
   <br />
   <br />
-  04/25/2023 23:46 Playing on YTMusic
+  04/25/2023 23:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
