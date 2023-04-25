@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2qtvPBymDxo">
-    <img width="300" src="https://lh3.googleusercontent.com/aJWIPkhb7OVjwHQUsIAAZp-AmiwdeE8v3Q02glunfM4p6wRC5Hi9_gucTiJNEPWsoRB7_i_IdmYNVmj9">
+  <a href="https://music.youtube.com/watch?v=AiQo6ZyM9bs">
+    <img width="300" src="https://lh3.googleusercontent.com/N3yL9T3ccNuXPjjG17VYmr-__gMlZMeTpEcyY7puzAkknUQgz_eGThhWPuFHn3iBY75wcopk7Wd_-ZE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve - Inochi No Tabekata</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yorushika - Telepath</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Smile ]</b>
+  included in <b>[ Telepath ]</b>
   
   <br />
   <br />
-  04/26/2023 00:36 Playing on YTMusic
+  04/26/2023 00:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
