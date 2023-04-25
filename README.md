@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uUAnQUxitpU">
-    <img width="300" src="https://lh3.googleusercontent.com/CS9aE9fPqjKPhj2VBlDPhTq15nZquoSIiT9W9AKBwnr_kkSKnTTYnHky1HmMLgtIfHzudKSlfqYU88wi">
+  <a href="https://music.youtube.com/watch?v=LKii10hZI1E">
+    <img width="300" src="https://lh3.googleusercontent.com/7kb_g2798DaGVo3GIlSh4jSH_g8v4sEPGcLPhVKnCSchZupLDdSkpg8Pn1_ixXqpIOJgO_tpvjyP-shI1g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YOASOBI - もう少しだけ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>녹황색사회 - Hitorigoto</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ THE BOOK 2 ]</b>
+  included in <b>[ Shiawase - EP ]</b>
   
   <br />
   <br />
-  04/25/2023 23:36 Playing on YTMusic
+  04/25/2023 23:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
