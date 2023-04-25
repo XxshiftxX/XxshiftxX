@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4BxUlO0sUt8">
-    <img width="300" src="https://lh3.googleusercontent.com/YuRjIzJuy_cg2_wNApb5LzF4c31T3pOz6yEBDR3gzfWKBBu_hOgahzI06V6VCoOgkyHE_nKKOcuS6-T0">
+  <a href="https://music.youtube.com/watch?v=bJuPW59rmNQ">
+    <img width="300" src="https://lh3.googleusercontent.com/jG4x1o-04bAOfxHT1yy3rPOk2EIi1sEofD4L7z2RzaOSwIVx9JDKZEVBlE_QjgL-FYfGe5LQ_Ek2EvUtEw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>sumika - 花笑む</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Keina Suda - Mellow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 花笑む ]</b>
+  included in <b>[ Mellow ]</b>
   
   <br />
   <br />
-  04/25/2023 23:28 Playing on YTMusic
+  04/25/2023 23:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
