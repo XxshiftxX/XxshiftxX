@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=RJnsCL5_EZY">
-    <img width="300" src="https://lh3.googleusercontent.com/usRY1YHwTozhICwi6AxDnQBJImYEfKYKEYluFa61-ph2322QObXAe95QRjgVyf0onSDlaGTmpNLxdtA">
+  <a href="https://music.youtube.com/watch?v=3XIORoa0v0k">
+    <img width="300" src="https://lh3.googleusercontent.com/bDUpPIK_5mbGUojOUZbKlRp2AsYWds2G3_2PtFDPzY3vGUGDXpPMyJ3cSU70I0PWsu8UxJkrxomReQM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Character</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - Flower And Badger Game</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Character ]</b>
+  included in <b>[ Plagiarism ]</b>
   
   <br />
   <br />
-  04/25/2023 22:11 Playing on YTMusic
+  04/25/2023 22:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
