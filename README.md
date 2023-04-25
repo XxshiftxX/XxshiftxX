@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=y8bRrsQ7Sd0">
-    <img width="300" src="https://lh3.googleusercontent.com/fF_ABPbI3oFZsajh-Can-0cyqgAEYhmGmNFuxLAtXBC44JAJkzVPPO8HvGOR_nEqu1UXRGCBgbpNd4XjKg">
+  <a href="https://music.youtube.com/watch?v=64ftDYJXcTo">
+    <img width="300" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ラックライフ - 名前を呼ぶよ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - だから僕は音楽を辞めた</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Life is beautiful ]</b>
+  included in <b>[ だから僕は音楽を辞めた ]</b>
   
   <br />
   <br />
-  04/25/2023 23:55 Playing on YTMusic
+  04/25/2023 23:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
