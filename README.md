@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ksvhmylUaIM">
-    <img width="300" src="https://lh3.googleusercontent.com/kyp-Zxg0F4eYRYdDEKypzvcAIxVkfOm82DDsXdKHEwP7aCTjyBCT5YLvmsBWC0P_VuoBxeTS8JJnrqg">
+  <a href="https://music.youtube.com/watch?v=9GGDbVHz3yU">
+    <img width="300" src="https://lh3.googleusercontent.com/cMVIleJ5mGq5LQ5rN0Vcu8O_Sf8lnsQJVLSnwrAT_Ex0BjN4qJIvvfxrL5XtT-kpaRrOJ_SEya-hi7E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ado - 神っぽいな 歌いました</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nanawoakari - Kien Romance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 神っぽいな 歌いました ]</b>
+  included in <b>[ Kien Romance ]</b>
   
   <br />
   <br />
-  04/25/2023 22:33 Playing on YTMusic
+  04/25/2023 22:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
