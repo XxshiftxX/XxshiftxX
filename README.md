@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=77MILyL0-Hk">
-    <img width="300" src="https://i.ytimg.com/vi/77MILyL0-Hk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=ksvhmylUaIM">
+    <img width="300" src="https://lh3.googleusercontent.com/kyp-Zxg0F4eYRYdDEKypzvcAIxVkfOm82DDsXdKHEwP7aCTjyBCT5YLvmsBWC0P_VuoBxeTS8JJnrqg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HAJE - 카노 - 마음짓기 (PV, 자막) 心做し</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ado - 神っぽいな 歌いました</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 316만회 ]</b>
+  included in <b>[ 神っぽいな 歌いました ]</b>
   
   <br />
   <br />
-  04/25/2023 22:29 Playing on YTMusic
+  04/25/2023 22:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
