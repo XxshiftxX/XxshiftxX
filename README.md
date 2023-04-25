@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8Selo-P1Ovc">
-    <img width="300" src="https://lh3.googleusercontent.com/AniPdO57l8shB2EWKPxpwtllogUjm5rRjibnlDre3PlgqIoiyVRWj6FHr9de2OC7ONIDHj_59bG-cShR">
+  <a href="https://music.youtube.com/watch?v=2eNEQ0cQtkI">
+    <img width="300" src="https://lh3.googleusercontent.com/yZS5cGvyeDKPkCI5cmlD3p_O_CCjE4N6msFalbOEhuRytLta0QgzjPbJbzlh2KGzmEiG6sLafrzEf1Vx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>kessoku band - Never forget</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YOASOBI - 祝福</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Kessoku Band ]</b>
+  included in <b>[ 祝福 ]</b>
   
   <br />
   <br />
-  04/25/2023 21:37 Playing on YTMusic
+  04/25/2023 21:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
