@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=37W7Y2RRyiM">
-    <img width="300" src="https://lh3.googleusercontent.com/aixVDum8bIjxh-zawNsilqtKif-lH5ogu3B5eUMGp6BPilm5_iYJs5aon8gDUa5Cd5ec67lClIkEwoE6">
+  <a href="https://music.youtube.com/watch?v=VRHlyjMIzEg">
+    <img width="300" src="https://lh3.googleusercontent.com/fF_ABPbI3oFZsajh-Can-0cyqgAEYhmGmNFuxLAtXBC44JAJkzVPPO8HvGOR_nEqu1UXRGCBgbpNd4XjKg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>오피셜히게단디즘 - Pretender</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ラックライフ - 風が吹く街</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Pretender ]</b>
+  included in <b>[ Life is beautiful ]</b>
   
   <br />
   <br />
-  04/26/2023 00:16 Playing on YTMusic
+  04/26/2023 00:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
