@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=qVM0WPvZfcM">
-    <img width="300" src="https://lh3.googleusercontent.com/KXqd8sQ8LvIF0UvP0ytpsagJuU8t63zBE7MMeFuDaLiEwTGslnZXSJEQBKhqkZXdMIbH7pzuYHWf5d87">
+  <a href="https://music.youtube.com/watch?v=m9SMT5ipbxk">
+    <img width="300" src="https://lh3.googleusercontent.com/AjWNrfzz6BqjRL5diZ-bPxFqGOsNk20xS6jcqoQWpNGWdch404mDWKVBkl4s9n74aLjXJWgldqm3Dc8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PENOMECO - RINDAMAN (Feat. ZICO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YOASOBI - アイドル</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [Rorschach] Part 1 ]</b>
+  included in <b>[ アイドル ]</b>
   
   <br />
   <br />
-  04/25/2023 15:30 Playing on YTMusic
+  04/25/2023 20:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
