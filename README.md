@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sZSnUdS3Ckw">
-    <img width="300" src="https://lh3.googleusercontent.com/tJ3KnOmNnFyyuziP7DCKQ712xYkPNy4sw6g769VDn9dcT3Gz_vxursHeMcecgkhlc5EhWjwffehSZHMBPQ">
+  <a href="https://music.youtube.com/watch?v=v1LXbb2S0TI">
+    <img width="300" src="https://lh3.googleusercontent.com/F-okYAcpUtthIDLZwl3PA1TGR-P3gz-oCbLQqkUkhyR-PVce_GSPqLDq9lDPaKeNImWCEOgM117JB-I">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yuuri - Time Machine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Aimer - atemonaku</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ni ]</b>
+  included in <b>[ atemonaku ]</b>
   
   <br />
   <br />
-  04/25/2023 22:22 Playing on YTMusic
+  04/25/2023 22:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
