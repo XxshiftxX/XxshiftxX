@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=J2XFg5lL048">
-    <img width="300" src="https://lh3.googleusercontent.com/rlbJggYU8m7ZPNjm-669NiNwib4Z_3cTd63qGY6oop8pj-0CPInBeq8oQdphpKD5-248DVhPmRd0mHtA">
+  <a href="https://music.youtube.com/watch?v=6PgP5I9YY1I">
+    <img width="300" src="https://lh3.googleusercontent.com/V4hZt-zmS0LmWbhpOrosgC11dbD4biXZGogGvF6uVAjnib9kaeLzu5kg82bmeY2F6vq_W5p15MNmW4NHdg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>yama - ibuki</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>10-FEET - 第ゼロ感</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ibuki ]</b>
+  included in <b>[ コリンズ ]</b>
   
   <br />
   <br />
-  04/25/2023 22:40 Playing on YTMusic
+  04/25/2023 22:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
