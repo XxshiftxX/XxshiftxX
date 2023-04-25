@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6PgP5I9YY1I">
-    <img width="300" src="https://lh3.googleusercontent.com/V4hZt-zmS0LmWbhpOrosgC11dbD4biXZGogGvF6uVAjnib9kaeLzu5kg82bmeY2F6vq_W5p15MNmW4NHdg">
+  <a href="https://music.youtube.com/watch?v=fYBQJfPBmRg">
+    <img width="300" src="https://lh3.googleusercontent.com/AniPdO57l8shB2EWKPxpwtllogUjm5rRjibnlDre3PlgqIoiyVRWj6FHr9de2OC7ONIDHj_59bG-cShR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>10-FEET - 第ゼロ感</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>kessoku band - Guitar, Loneliness and Blue Planet</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ コリンズ ]</b>
+  included in <b>[ Kessoku Band ]</b>
   
   <br />
   <br />
-  04/25/2023 22:44 Playing on YTMusic
+  04/25/2023 22:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
