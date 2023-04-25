@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=V-7cDTePL8E">
-    <img width="300" src="https://lh3.googleusercontent.com/tXBLgoG5hz0kE7xPCCq2G7hJXg0-o4-5iBympTivFPFOHOazPdSsJBw_Eurs6gtFYSKBSoyOb312DU-mtw">
+  <a href="https://music.youtube.com/watch?v=8Selo-P1Ovc">
+    <img width="300" src="https://lh3.googleusercontent.com/AniPdO57l8shB2EWKPxpwtllogUjm5rRjibnlDre3PlgqIoiyVRWj6FHr9de2OC7ONIDHj_59bG-cShR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leo/need - ROKI(feat. Hoshino Ichika&Hatsune Miku)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>kessoku band - Never forget</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Leo/need SEKAI ALBUM vol.1 ]</b>
+  included in <b>[ Kessoku Band ]</b>
   
   <br />
   <br />
-  04/25/2023 21:33 Playing on YTMusic
+  04/25/2023 21:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
