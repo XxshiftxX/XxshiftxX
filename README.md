@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BoB-0pv9-1o">
-    <img width="300" src="https://lh3.googleusercontent.com/yT2EELPqwKiO4N9zqm7V5d6t5LCyxVG0VlddcLVs_aAEzFNOADe9ui83yLvFIalioDTvtHRc6pJpM0U_rw">
+  <a href="https://music.youtube.com/watch?v=kh_yLwkRUIE">
+    <img width="300" src="https://lh3.googleusercontent.com/-Pcy2xv0wC_KU3I2HLBtMYRUYR4aAhrQj0wl3X0ax0NPoJAc1cqV-dgksHSx9gYl86SB0yxiiirevjhn">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YOASOBI - アドベンチャー</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yorushika - The First Night</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ アドベンチャー ]</b>
+  included in <b>[ Magic Lantern ]</b>
   
   <br />
   <br />
-  04/25/2023 22:52 Playing on YTMusic
+  04/25/2023 22:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
