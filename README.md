@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zauiaENne-g">
-    <img width="300" src="https://lh3.googleusercontent.com/7cs1E0Im8D2bsqKZg8AdG-h8TAid_jq-Xr7u_uD1_GFMwUPiAr4f73JVnhjyWsUAAVNwzzbiTEesgXi8">
+  <a href="https://music.youtube.com/watch?v=27NtZwyog7g">
+    <img width="300" src="https://lh3.googleusercontent.com/mjFKIfGMHYF0ACytwZaSvfo31ur0cwZeza6s0xdJmw7qry-TJNQSTyzF3N53Awi7lbPnZ1G4RXKSvZE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sangatsu No Phantasia - Lemon no Hana</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Oku Hanako(오쿠 하나코) - 変わらないもの</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lemon no Hana ]</b>
+  included in <b>[ TIME NOTE ]</b>
   
   <br />
   <br />
-  04/25/2023 23:14 Playing on YTMusic
+  04/25/2023 23:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
