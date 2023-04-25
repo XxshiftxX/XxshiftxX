@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OMhVQLBNyGs">
-    <img width="300" src="https://lh3.googleusercontent.com/0YZUtskrdCiFQSFY-M7AsNKqVgdDknioVeBlbmDkonekjcuIctqXlV85A1MQf9tEsqWGOGD7_s9Aasd0">
+  <a href="https://music.youtube.com/watch?v=S3PVIkvPfks">
+    <img width="300" src="https://lh3.googleusercontent.com/PiwbntpwpN5Fak7XyeP3l9zcxy-bq1zMfU1mhHMP4w7y_9leKyVGRHM84_LxRFOzHdwaU9O6hKrlFm4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>ずっと真夜中でいいのに。 - 残機</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>RADWIMPS - Suzume(feat. Toaka)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 残機 ]</b>
+  included in <b>[ Suzume (Motion Picture Soundtrack) ]</b>
   
   <br />
   <br />
-  04/25/2023 21:26 Playing on YTMusic
+  04/25/2023 21:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
