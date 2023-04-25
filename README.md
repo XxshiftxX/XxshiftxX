@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XKe03_eCtyg">
-    <img width="300" src="https://lh3.googleusercontent.com/-Pcy2xv0wC_KU3I2HLBtMYRUYR4aAhrQj0wl3X0ax0NPoJAc1cqV-dgksHSx9gYl86SB0yxiiirevjhn">
+  <a href="https://music.youtube.com/watch?v=R2UiaXn9_J8">
+    <img width="300" src="https://lh3.googleusercontent.com/rSGFGZegbZwpzyLSCZHME9JXQZ0mKMZlYqxrAcfMtPrFUOI09S1avWHRIVDMIfbxNlW1FSmKmIgNH9A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yorushika - Miyakoochi</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>OFFICIAL HIGE DANDISM - ホワイトノイズ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Magic Lantern ]</b>
+  included in <b>[ ホワイトノイズ ]</b>
   
   <br />
   <br />
-  04/25/2023 21:52 Playing on YTMusic
+  04/25/2023 21:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
