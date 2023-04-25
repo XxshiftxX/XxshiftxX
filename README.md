@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NMA_isZYsYQ">
-    <img width="300" src="https://lh3.googleusercontent.com/NzNwvpFBVqnTcsoC68ryZidkX9c0e6yH0g5txpIpHIRT95iyK9KfEgIDWURm0NhVCqrDskVWEtsPCLZP">
+  <a href="https://music.youtube.com/watch?v=sd1mAKAzpf0">
+    <img width="300" src="https://lh3.googleusercontent.com/BMALll9NV5E7tJronlJBtAD5ospBgMu09_WGiqDk-_tix7aMVJj8F5q9F8MEAOux3UXd6Q7o306PDZc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - KICK BACK</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>yama - Blood Flow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ KICK BACK ]</b>
+  included in <b>[ the meaning of life ]</b>
   
   <br />
   <br />
-  04/26/2023 00:04 Playing on YTMusic
+  04/26/2023 00:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
