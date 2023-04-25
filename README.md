@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m9SMT5ipbxk">
-    <img width="300" src="https://lh3.googleusercontent.com/AjWNrfzz6BqjRL5diZ-bPxFqGOsNk20xS6jcqoQWpNGWdch404mDWKVBkl4s9n74aLjXJWgldqm3Dc8">
+  <a href="https://music.youtube.com/watch?v=-LwBbLa_Vhc">
+    <img width="300" src="https://lh3.googleusercontent.com/AniPdO57l8shB2EWKPxpwtllogUjm5rRjibnlDre3PlgqIoiyVRWj6FHr9de2OC7ONIDHj_59bG-cShR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YOASOBI - アイドル</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>kessoku band - If I could be a constellation</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ アイドル ]</b>
+  included in <b>[ Kessoku Band ]</b>
   
   <br />
   <br />
-  04/25/2023 20:49 Playing on YTMusic
+  04/25/2023 20:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
