@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kh_yLwkRUIE">
-    <img width="300" src="https://lh3.googleusercontent.com/-Pcy2xv0wC_KU3I2HLBtMYRUYR4aAhrQj0wl3X0ax0NPoJAc1cqV-dgksHSx9gYl86SB0yxiiirevjhn">
+  <a href="https://music.youtube.com/watch?v=DM1zy4qCGBo">
+    <img width="300" src="https://lh3.googleusercontent.com/KmXfP-37OBqn96JetgGJmCz6uY0glvx2nWJbAQxfngUhQVgInbLwxRrzm7QirOOOsPejJ2LxCmUrzLTj">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yorushika - The First Night</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>녹황색사회 - Kesshou</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Magic Lantern ]</b>
+  included in <b>[ Kesshou ]</b>
   
   <br />
   <br />
-  04/25/2023 22:56 Playing on YTMusic
+  04/25/2023 23:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
