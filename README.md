@@ -2,17 +2,32 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=AiQo6ZyM9bs">
-    <img width="300" src="https://lh3.googleusercontent.com/N3yL9T3ccNuXPjjG17VYmr-__gMlZMeTpEcyY7puzAkknUQgz_eGThhWPuFHn3iBY75wcopk7Wd_-ZE">
+  <a href="https://www.youtube.com/@sunghajung">
+    <img width="300" src="">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yorushika - Telepath</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>
+  
+    Sungha Jung
+  
+  
+  
+    Sungha Jung
+  
+
+
+
+
+  공식 아티스트 채널
+
+
+ - (Kenshi Yonezu) KICK BACK - Sungha Jung (Live)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Telepath ]</b>
+  included in <b>[ Not supported ]</b>
   
   <br />
   <br />
-  04/26/2023 00:40 Playing on YTMusic
+  04/27/2023 08:51 Playing on YouTube
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
