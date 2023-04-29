@@ -2,32 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://www.youtube.com/@KenshiYonezu">
-    <img width="300" src="">
+  <a href="https://music.youtube.com/watch?v=MJbgUhQ-lAo">
+    <img width="300" src="https://lh3.googleusercontent.com/fBGIbyszYQ1dimP_7Qg1K_gl7oMkYC3J2TMy_ge2YGz5GloxtvEzIrAH7ddEG1xg8W0xTIdA0u0p82es">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>
-  
-    Kenshi Yonezu  米津玄師
-  
-  
-  
-    Kenshi Yonezu  米津玄師
-  
-
-
-
-
-  공식 아티스트 채널
-
-
- - Kenshi Yonezu  - Live from 2019 Tour / When The Spine Becomes Opal</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - ZEN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Not supported ]</b>
+  included in <b>[ MADE IN SEOUL ]</b>
   
   <br />
   <br />
-  04/27/2023 08:54 Playing on YouTube
+  04/29/2023 16:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
