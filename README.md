@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ghxcy4WIoOk">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=8k821Tx_8cA">
+    <img width="300" src="https://lh3.googleusercontent.com/wcgeUaiVvoJHVxY0WcY1He_9QIWKrHoAkYSf3AQv14Q643vVWrS9kmT4Ev0HT9hbPAO_D63QtbxuwF0n">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - Hyperstar</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jay Park, YLN Foreign, D.Ark 및 365LIT - DNA Remix</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ DNA Remix ]</b>
   
   <br />
   <br />
-  04/29/2023 17:22 Playing on YTMusic
+  04/29/2023 17:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
