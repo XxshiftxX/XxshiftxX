@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mNhjRXfSRC8">
-    <img width="300" src="https://lh3.googleusercontent.com/KuoEB8VDSONNXhjl5DjpA_yEqVlIA0UnPeoUysN5FB9yuQwimWC4AGhIT6fDbP95Rr6RlajtZ8G1r2M">
+  <a href="https://music.youtube.com/watch?v=1xxf3Y1pWtk">
+    <img width="300" src="https://lh3.googleusercontent.com/nc7CrtYK5GwMZdjdzaP3dULnSjdg8_MMuavCQ_JnkUpuZr6gKTf-_zLUmjdKruvYqaX1aGq1J_YrfLSx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>실키보이즈(SILKYBOIS) - BOMAYE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Huh - business boy(feat. nongmill kim, BLOO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BOMAYE ]</b>
+  included in <b>[ business boy ]</b>
   
   <br />
   <br />
-  04/29/2023 17:32 Playing on YTMusic
+  04/29/2023 17:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
