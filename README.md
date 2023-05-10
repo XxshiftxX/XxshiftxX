@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dxMLXDGfa2M">
+  <a href="https://music.youtube.com/watch?v=ka1V6r5DYEY">
     <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - 시험해</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - 니가 싫어(feat. SUMIN)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ The Drift ]</b>
   
   <br />
   <br />
-  05/10/2023 11:06 Playing on YTMusic
+  05/10/2023 11:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
