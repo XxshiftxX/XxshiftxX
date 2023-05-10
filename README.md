@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NSLyFl0i1sM">
+  <a href="https://music.youtube.com/watch?v=GA9ouRF5r-c">
     <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - 아스팔트(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - 야</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ The Drift ]</b>
   
   <br />
   <br />
-  05/10/2023 10:54 Playing on YTMusic
+  05/10/2023 10:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
