@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ot8W6gfkLy4">
+  <a href="https://music.youtube.com/watch?v=1CaM0C2GHLI">
     <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - BAD BOY(feat. 서동현)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - 1, 2, 3 Go Shoot(feat. Blase, REI AMI)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ The Drift ]</b>
   
   <br />
   <br />
-  05/10/2023 10:45 Playing on YTMusic
+  05/10/2023 10:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
