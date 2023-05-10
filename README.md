@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1Ys6C1QMNvI">
-    <img width="300" src="https://lh3.googleusercontent.com/Qx_V_iJGc_4BnqNDhuYlcfsJ9pMD_2DugiMB6hAhWMtWLm5sDBBQAfK8OEgt80JY7cRjAQ_3kfceCCU">
+  <a href="https://music.youtube.com/watch?v=mVLXX5G2pyQ">
+    <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 태지</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - Intro</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ UNDERGROUND ROCKSTAR ]</b>
+  included in <b>[ The Drift ]</b>
   
   <br />
   <br />
-  04/29/2023 17:39 Playing on YTMusic
+  05/10/2023 10:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
