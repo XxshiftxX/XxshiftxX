@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zOkIe3RcTCs">
-    <img width="300" src="https://lh3.googleusercontent.com/7e0qJAww69B2DFDDUgFqp59lWMXzuHGS-GG_BFR1sD8rcO80G71aP86hV9NGCqsjx4dMEzO1yxZojAA">
+  <a href="https://music.youtube.com/watch?v=zfnZxuaVZyM">
+    <img width="300" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - LADY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>aimyon - Kimi Wa Rock Wo Kikanai</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ LADY ]</b>
+  included in <b>[ Excitement of Youth ]</b>
   
   <br />
   <br />
-  05/15/2023 14:46 Playing on YTMusic
+  05/15/2023 14:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
