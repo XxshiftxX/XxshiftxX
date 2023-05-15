@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NMA_isZYsYQ">
-    <img width="300" src="https://lh3.googleusercontent.com/NzNwvpFBVqnTcsoC68ryZidkX9c0e6yH0g5txpIpHIRT95iyK9KfEgIDWURm0NhVCqrDskVWEtsPCLZP">
+  <a href="https://music.youtube.com/watch?v=zOkIe3RcTCs">
+    <img width="300" src="https://lh3.googleusercontent.com/7e0qJAww69B2DFDDUgFqp59lWMXzuHGS-GG_BFR1sD8rcO80G71aP86hV9NGCqsjx4dMEzO1yxZojAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - KICK BACK</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - LADY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ KICK BACK ]</b>
+  included in <b>[ LADY ]</b>
   
   <br />
   <br />
-  05/10/2023 11:13 Playing on YTMusic
+  05/15/2023 14:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
