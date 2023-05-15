@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zfnZxuaVZyM">
-    <img width="300" src="https://lh3.googleusercontent.com/CSgt3fJdiDX8QtOW6DmOVYeGB0K2emGmRo7jVSrPkypGB8fcW8MUJCLbNL33Kik0cSJc-Hz9tNXOOXfU">
+  <a href="https://music.youtube.com/watch?v=fYBQJfPBmRg">
+    <img width="300" src="https://lh3.googleusercontent.com/AniPdO57l8shB2EWKPxpwtllogUjm5rRjibnlDre3PlgqIoiyVRWj6FHr9de2OC7ONIDHj_59bG-cShR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>aimyon - Kimi Wa Rock Wo Kikanai</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>kessoku band - Guitar, Loneliness and Blue Planet</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Excitement of Youth ]</b>
+  included in <b>[ Kessoku Band ]</b>
   
   <br />
   <br />
-  05/15/2023 14:49 Playing on YTMusic
+  05/15/2023 14:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
