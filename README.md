@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WM4ypgS3tEM">
-    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
+  <a href="https://music.youtube.com/watch?v=McE5KqvSHN4">
+    <img width="300" src="https://lh3.googleusercontent.com/t1Q09PAUppA5MMHxIy9GPYW5PzurUI892yqXMjvKRIP7HZD1tmICg0Hv4MHADCQYjtqFXDZ1oi6kZBPmrQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 고기반찬</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈, NSW yoon 및 Street Baby - Money dance(feat. HAON, Sik-K)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PAID IN SEOUL ]</b>
+  included in <b>[ DAYDATE ]</b>
   
   <br />
   <br />
-  06/16/2023 17:40 Playing on YTMusic
+  06/16/2023 17:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
