@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=McE5KqvSHN4">
-    <img width="300" src="https://lh3.googleusercontent.com/t1Q09PAUppA5MMHxIy9GPYW5PzurUI892yqXMjvKRIP7HZD1tmICg0Hv4MHADCQYjtqFXDZ1oi6kZBPmrQ">
+  <a href="https://music.youtube.com/watch?v=tKFNk6Z_VwM">
+    <img width="300" src="https://lh3.googleusercontent.com/ltDmtQpTt-z41MRAgNjc1NMl35I0L3DlCJjUvHSxOFSm9rS6w7gxKubAT7qZiR2taU4zf0GmCtmzTLI0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈, NSW yoon 및 Street Baby - Money dance(feat. HAON, Sik-K)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Way Ched (웨이체드) 및 unofficialboyy - 아이(feat. DON MALIK)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DAYDATE ]</b>
+  included in <b>[ i ]</b>
   
   <br />
   <br />
-  06/16/2023 17:43 Playing on YTMusic
+  06/16/2023 17:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
