@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=RYDp8Nt-Vus">
-    <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
+  <a href="https://music.youtube.com/watch?v=37lBLnAL1JE">
+    <img width="300" src="https://lh3.googleusercontent.com/L8r3OlJlMCVPX4KYcTJksKgw0z9jco3DOm3-1nmy3CrllkwEGoJHGxgTRNTHZX1HjFHwZ_i6S21oV6ythQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - WOW</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SILKYBOIS(실키보이즈) - HOP ON</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Drift ]</b>
+  included in <b>[ HOP ON ]</b>
   
   <br />
   <br />
-  06/16/2023 17:57 Playing on YTMusic
+  06/16/2023 18:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
