@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rEIPaJ7jvOY">
-    <img width="300" src="https://lh3.googleusercontent.com/YvQeiTJWuailHiFyN2O3zaP8E9ltxeXnkjgNZiL_T1RfCTGFbc_-UHIhH30GuQMBQ30gqnsgq9eCFtrT">
+  <a href="https://music.youtube.com/watch?v=WM4ypgS3tEM">
+    <img width="300" src="https://lh3.googleusercontent.com/98mP4-Ma9LFFP3yQbcXjCzqn-tINUZ_9K3_Xzz0Fr2eN7u7cxEPgZzw5kUh1u-roCWI9eioVDDQcPuteAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - Sariru(feat. ron)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DON MALIK - 고기반찬</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BENZO ]</b>
+  included in <b>[ PAID IN SEOUL ]</b>
   
   <br />
   <br />
-  06/16/2023 17:36 Playing on YTMusic
+  06/16/2023 17:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
