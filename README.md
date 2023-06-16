@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-ZTFxgIDeRM">
-    <img width="300" src="https://lh3.googleusercontent.com/9q2pqUOPpS9iu-Z2gik0yCcavXVOzkZORem16uWqUlbv8ePFqagNiFq4hNMxM34EFf1Sos7czsCavbvg">
+  <a href="https://music.youtube.com/watch?v=KStnhAjMzH0">
+    <img width="300" src="https://lh3.googleusercontent.com/Rzy1QsqfV3wlf-pTt3WsSOMrkcE42Atrog72bK3kwzdjgHJBqqz_WEAdTiMg1aNZrGk5EuITqLoMtmXe">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>넉살 - 브라더 (Feat. Don Mills, Los)(feat. Don Mills, Los)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Paloalto - PRICELESS(feat. toigo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 1Q87 ]</b>
+  included in <b>[ Dirt ]</b>
   
   <br />
   <br />
-  06/16/2023 18:19 Playing on YTMusic
+  06/16/2023 18:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
