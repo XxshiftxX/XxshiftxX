@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KNSabE1xE9Q">
-    <img width="300" src="https://lh3.googleusercontent.com/naCJaSWZ4_H5Aan1oSIOb_0GVAp2DI9XaZ7xqdFkGTpVEBc478VKF_Qy_zcskfAWFsFDEKrohr97U4E">
+  <a href="https://music.youtube.com/watch?v=rEIPaJ7jvOY">
+    <img width="300" src="https://lh3.googleusercontent.com/YvQeiTJWuailHiFyN2O3zaP8E9ltxeXnkjgNZiL_T1RfCTGFbc_-UHIhH30GuQMBQ30gqnsgq9eCFtrT">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - Way up(feat. CAMO, 저스디스)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - Sariru(feat. ron)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 쇼미더머니 11 Final ]</b>
+  included in <b>[ BENZO ]</b>
   
   <br />
   <br />
-  06/16/2023 17:33 Playing on YTMusic
+  06/16/2023 17:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
