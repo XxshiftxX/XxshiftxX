@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=htOhiR7irJg">
-    <img width="300" src="https://lh3.googleusercontent.com/pS9USJ0e1FVTy6JiwLFheZb0htMkneF2fKNGrQgRyB649POR3o67BQpRqDqplJ-9XQ9gknTa4uoBH_w">
+  <a href="https://music.youtube.com/watch?v=Ud9jlpRpsP4">
+    <img width="300" src="https://lh3.googleusercontent.com/W3YW0W8VDcWRy_9GWi0UG0dMAqU3z6oMJZ7jCx6NKzg_zoLvVwCzrCANmgZPl7kFENYRFjQaKtRV0Dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>OXYNOVA, SUPERBEE, LIL GIMCHI, Uneducated Kid 및 KHAN - YnR Shit</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스, 블랙넛 (Black Nut), shinjihang 및 율음 - Fosho-! (Prod. YEOHO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ YNR VS ALL ]</b>
+  included in <b>[ AP Alchemy : Side P ]</b>
   
   <br />
   <br />
-  06/16/2023 17:50 Playing on YTMusic
+  06/16/2023 17:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
