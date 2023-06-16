@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ud9jlpRpsP4">
-    <img width="300" src="https://lh3.googleusercontent.com/W3YW0W8VDcWRy_9GWi0UG0dMAqU3z6oMJZ7jCx6NKzg_zoLvVwCzrCANmgZPl7kFENYRFjQaKtRV0Dg">
+  <a href="https://music.youtube.com/watch?v=RYDp8Nt-Vus">
+    <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스, 블랙넛 (Black Nut), shinjihang 및 율음 - Fosho-! (Prod. YEOHO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - WOW</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ AP Alchemy : Side P ]</b>
+  included in <b>[ The Drift ]</b>
   
   <br />
   <br />
-  06/16/2023 17:54 Playing on YTMusic
+  06/16/2023 17:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
