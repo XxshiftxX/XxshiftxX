@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tKFNk6Z_VwM">
-    <img width="300" src="https://lh3.googleusercontent.com/ltDmtQpTt-z41MRAgNjc1NMl35I0L3DlCJjUvHSxOFSm9rS6w7gxKubAT7qZiR2taU4zf0GmCtmzTLI0">
+  <a href="https://music.youtube.com/watch?v=htOhiR7irJg">
+    <img width="300" src="https://lh3.googleusercontent.com/pS9USJ0e1FVTy6JiwLFheZb0htMkneF2fKNGrQgRyB649POR3o67BQpRqDqplJ-9XQ9gknTa4uoBH_w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched (웨이체드) 및 unofficialboyy - 아이(feat. DON MALIK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>OXYNOVA, SUPERBEE, LIL GIMCHI, Uneducated Kid 및 KHAN - YnR Shit</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ i ]</b>
+  included in <b>[ YNR VS ALL ]</b>
   
   <br />
   <br />
-  06/16/2023 17:47 Playing on YTMusic
+  06/16/2023 17:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
