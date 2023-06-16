@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XuTIkXPCKQY">
-    <img width="300" src="https://lh3.googleusercontent.com/ihDkpi5bfGTVmbGRW6OfunzOsalzb55qSIHkQWOKAXKtYrki6AP_1HXFX4QSToJktQFiYOUm68_Ijg0">
+  <a href="https://music.youtube.com/watch?v=afDxVj6qiNA">
+    <img width="300" src="https://lh3.googleusercontent.com/Bucpj7Zg0mzdyx5lrrG7sbSkSWzvWD-FcKAH2PydzF-iJuundThGr9WQLjKMJLHBIh37HEefN6BEXmYD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu(켄시 요네즈/米津 玄師) - Kanden</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>블라세 - Squeeze )(feat. XINSAYNE, SINCE, 맥대디 (Mckdaddy))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ STRAY SHEEP ]</b>
+  included in <b>[ MultrillVerse ]</b>
   
   <br />
   <br />
-  05/15/2023 15:10 Playing on YTMusic
+  06/16/2023 17:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
