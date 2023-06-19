@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=p_kNRBIg4OI">
-    <img width="300" src="https://lh3.googleusercontent.com/KXqd8sQ8LvIF0UvP0ytpsagJuU8t63zBE7MMeFuDaLiEwTGslnZXSJEQBKhqkZXdMIbH7pzuYHWf5d87">
+  <a href="https://music.youtube.com/watch?v=k7-BssOf7Pg">
+    <img width="300" src="https://lh3.googleusercontent.com/WPadUGe8cBVf1Tr_ZSnOC_iEXTIIg1VP4397V7UxKA9vmFrJ658HA-fwDNIcJ38bAHz6D9c36JkoZx5O">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PENOMECO - Trust Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - Friends With Benefits</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [Rorschach] Part 1 ]</b>
+  included in <b>[ TOAST ]</b>
   
   <br />
   <br />
-  06/20/2023 01:06 Playing on YTMusic
+  06/20/2023 01:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
