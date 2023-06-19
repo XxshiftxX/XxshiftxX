@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=etrxJ0Y3G3Q">
-    <img width="300" src="https://lh3.googleusercontent.com/9q05SnA8Im0AZxPhUYqhtx4e2tWL9M7yJF0BgDRbGGhRXKS7YzG4kH3W_D2Sd0Nj5Hx2ufO46znRs3-l">
+  <a href="https://music.youtube.com/watch?v=FaWV8ElGuUo">
+    <img width="300" src="https://lh3.googleusercontent.com/UyA7eKZGkMV2LwpW0RdCA8DmI54B3lmZDgoIjcYVzAxNKyVuWdBn2vC2fWMFyDZlZhkvAlEkf0fSncmC8g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - 아스팔트(feat. pH-1)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Action!(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 아스팔트 ]</b>
+  included in <b>[ Action! ]</b>
   
   <br />
   <br />
-  06/20/2023 01:30 Playing on YTMusic
+  06/20/2023 01:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
