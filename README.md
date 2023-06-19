@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=quATUrxXq0k">
-    <img width="300" src="https://lh3.googleusercontent.com/rgoQwcfcVwePyQVdY7qkuohKAs_aauPrKjO7DPrxPTggvBrxIzOBB1i-eXUNXzeBQ6xrk4DhI9VMwNIO">
+  <a href="https://music.youtube.com/watch?v=AaECVchAYyQ">
+    <img width="300" src="https://lh3.googleusercontent.com/pHtWGeGeFekT6E-Oj73Gh-rcja4zkZxs0WrsLowATveBrFi2KafRIq9Gf4GWe3fQsSQKG3Rn0uGWQ9bo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Anne-Marie - Birthday</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ASH ISLAND - WONDER</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Birthday ]</b>
+  included in <b>[ ROSE ]</b>
   
   <br />
   <br />
-  06/20/2023 01:22 Playing on YTMusic
+  06/20/2023 01:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
