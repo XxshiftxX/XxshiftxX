@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WdrNABIsrRg">
-    <img width="300" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">
+  <a href="https://music.youtube.com/watch?v=lqNcTWUn-v4">
+    <img width="300" src="https://lh3.googleusercontent.com/wJPmD0IXmdK6f2QRs9ttXhvmy8z7jR5CiP9TfI64R5EOK9SrKLXSHnjke06tn0xQRqGuIytJEHrRLfSItA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Telepathy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gaeko, CHANGMO, Don Mills 및 Los - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Foxiboy ]</b>
+  included in <b>[ B.O.T.B. (Best Of The Best) ]</b>
   
   <br />
   <br />
-  06/20/2023 01:13 Playing on YTMusic
+  06/20/2023 01:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
