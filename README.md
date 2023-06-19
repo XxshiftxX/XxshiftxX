@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7KG_qpYt_g0">
-    <img width="300" src="https://lh3.googleusercontent.com/yZTtpy3PXhUx6BaUl-SxiDDqWvI-VfAGHvGpUfQOosEMqMstR10_9HecHd1u0w0vNrota6BGNk_HDg4">
+  <a href="https://music.youtube.com/watch?v=aG8Rz_052Pw">
+    <img width="300" src="https://lh3.googleusercontent.com/XAYtmYDUhTHP8OYsTCWcAP7Lc5ONv1s4wIciqhVIVm-fEmvvpdCv7ArLnGQ0ImXd77j-WW1WabCQsiAytA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - 내 기쁨은 너가 벤틀리를 끄는 거야</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 도쿄</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PROTOTYPE RESEARCH #0063 ]</b>
+  included in <b>[ 100년제전문대학 ]</b>
   
   <br />
   <br />
-  06/20/2023 00:33 Playing on YTMusic
+  06/20/2023 00:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
