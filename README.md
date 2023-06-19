@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=RD-0SvXhIJg">
-    <img width="300" src="https://lh3.googleusercontent.com/YGsuqdjUW0HvjUT-5rm8A903lTG7Ti6KnCu4U0wW8ziNHFgM2msHknvnzW6dGcO5lzG-gnZBoS-gbVR3">
+  <a href="https://music.youtube.com/watch?v=npacTDziTcA">
+    <img width="300" src="https://lh3.googleusercontent.com/8wjhfp4Y21MiBMjFoQnbPzeHZP0cyt8KoFfeBcQTfpKgz6NRkM7-7em5H3JZLSxttftIXb6SRMZXlJci">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Leellamarz - City Lights(feat. Hash Swan)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>JAEHA - 3 2 1</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ City Lights ]</b>
+  included in <b>[ 3 2 1 ]</b>
   
   <br />
   <br />
-  06/20/2023 00:19 Playing on YTMusic
+  06/20/2023 00:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
