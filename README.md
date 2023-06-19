@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5rJONUxSk20">
-    <img width="300" src="https://lh3.googleusercontent.com/ZgG60s_vUFFYbJkXQfeTbIeHmOSmPHJXL1KJGgQc8CBlKZcYmn9azrvpZw2P75qz0GPze84LCm89SdQW">
+  <a href="https://music.youtube.com/watch?v=lAz-rD3SDS4">
+    <img width="300" src="https://lh3.googleusercontent.com/2YHobrv0Ghe4BWRF3_OFhlWW-O84s7EQ393tc_uD_QDtBI0Ww2DnhOqlU_oJO-uW2HWA9d4s9_jhmsoo">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>지코 (ZICO) - Boys And Girls(feat. Babylon)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Blase (블라세) - Name Tag (Prod. GroovyRoom)(feat. 식케이, 쿠기)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GALLERY ]</b>
+  included in <b>[ 쇼미더머니 11 Semi Final ]</b>
   
   <br />
   <br />
-  06/20/2023 00:59 Playing on YTMusic
+  06/20/2023 01:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
