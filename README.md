@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9GBR5GWAUd4">
-    <img width="300" src="https://lh3.googleusercontent.com/xXFq8hxE-WbPbCyNP71VwfiP9pwweIjR3Ma3C4JFuBCn6L_DqTOJLqOyHqzqC58t6F3mtJ4bJsgqKqsg">
+  <a href="https://music.youtube.com/watch?v=L_pRTyuZ9fk">
+    <img width="300" src="https://lh3.googleusercontent.com/I3iO06RiTBbOW7_tnBsKD0M7IQuAc1PLMhi9RGXU_s_2_gggnpL6t4d_GEnqkpa0Ci5yKvIxxC1E_Ig">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Different Summer(feat. Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - Shinigami</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Summer Episodes ]</b>
+  included in <b>[ Pale Blue ]</b>
   
   <br />
   <br />
-  06/20/2023 00:40 Playing on YTMusic
+  06/20/2023 00:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
