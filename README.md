@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lqNcTWUn-v4">
-    <img width="300" src="https://lh3.googleusercontent.com/wJPmD0IXmdK6f2QRs9ttXhvmy8z7jR5CiP9TfI64R5EOK9SrKLXSHnjke06tn0xQRqGuIytJEHrRLfSItA">
+  <a href="https://music.youtube.com/watch?v=quATUrxXq0k">
+    <img width="300" src="https://lh3.googleusercontent.com/rgoQwcfcVwePyQVdY7qkuohKAs_aauPrKjO7DPrxPTggvBrxIzOBB1i-eXUNXzeBQ6xrk4DhI9VMwNIO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gaeko, CHANGMO, Don Mills 및 Los - B.O.T.B. (Prod. by GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Anne-Marie - Birthday</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ B.O.T.B. (Best Of The Best) ]</b>
+  included in <b>[ Birthday ]</b>
   
   <br />
   <br />
-  06/20/2023 01:17 Playing on YTMusic
+  06/20/2023 01:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
