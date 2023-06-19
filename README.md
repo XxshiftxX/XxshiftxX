@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1CaM0C2GHLI">
-    <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
+  <a href="https://music.youtube.com/watch?v=Iu9_-m-OS_k">
+    <img width="300" src="https://lh3.googleusercontent.com/bnFXE3VcLRBDaxIl7cK-Oq8cHNWN8QukClPqIKNV8ijlCk76FPRIYxZGHxnYB6resgKN3XnJMeJrG4ka">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - 1, 2, 3 Go Shoot(feat. Blase, REI AMI)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - R.I.P(feat. B.I)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Drift ]</b>
+  included in <b>[ BEIGE ]</b>
   
   <br />
   <br />
-  06/20/2023 00:13 Playing on YTMusic
+  06/20/2023 00:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
