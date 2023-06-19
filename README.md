@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=npacTDziTcA">
-    <img width="300" src="https://lh3.googleusercontent.com/8wjhfp4Y21MiBMjFoQnbPzeHZP0cyt8KoFfeBcQTfpKgz6NRkM7-7em5H3JZLSxttftIXb6SRMZXlJci">
+  <a href="https://music.youtube.com/watch?v=uEPf9n-QNbU">
+    <img width="300" src="https://lh3.googleusercontent.com/oa2USllJTI9cMpWHTXqOvhg7928zxVaPRPA0FL0RusAp6-EYflBWXMjDIywWxiOnoh2N8ztBUw8DOlu8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>JAEHA - 3 2 1</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>코드 쿤스트 (CODE KUNST) - BAD BAD(feat. Tabber, 박재범)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 3 2 1 ]</b>
+  included in <b>[ Remember Archive ]</b>
   
   <br />
   <br />
-  06/20/2023 00:24 Playing on YTMusic
+  06/20/2023 00:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
