@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KStnhAjMzH0">
-    <img width="300" src="https://lh3.googleusercontent.com/Rzy1QsqfV3wlf-pTt3WsSOMrkcE42Atrog72bK3kwzdjgHJBqqz_WEAdTiMg1aNZrGk5EuITqLoMtmXe">
+  <a href="https://music.youtube.com/watch?v=ot8W6gfkLy4">
+    <img width="300" src="https://lh3.googleusercontent.com/E2t6NKYG4nkC80tegsalxd_OHxRhQivyuwtZJdePzgQyFwiHpxPm9i81Pcd47HsmJfJkq1o6wqEzcmY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Paloalto - PRICELESS(feat. toigo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미란이 - BAD BOY(feat. 서동현)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dirt ]</b>
+  included in <b>[ The Drift ]</b>
   
   <br />
   <br />
-  06/16/2023 18:23 Playing on YTMusic
+  06/19/2023 23:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
