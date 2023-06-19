@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8lI_pyIAj8I">
-    <img width="300" src="https://lh3.googleusercontent.com/A4vCDZHLZWZUPwe__h2atwI-assWPHNABUlnpBuAFQGhuusT7X-fvKBBtJSk7s3uoiIsd83MnawHQpWk">
+  <a href="https://music.youtube.com/watch?v=jKmib7okBdY">
+    <img width="300" src="https://lh3.googleusercontent.com/kR2JdGsrIE0FaZS1N6nGtej4julucCI6jGGLXNBoLvvfh8EjOd5OeMn60cxGuPor01cAPrVuNFOPZ8NP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>허성현 (Huh) - HDYF(feat. Hash Swan)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - EVERYTHING(feat. 창모(CHANGMO), 쿠기, 윤진영, 비비(BIBI))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Midnight law ]</b>
+  included in <b>[ EVERYTHING ]</b>
   
   <br />
   <br />
-  06/19/2023 23:59 Playing on YTMusic
+  06/20/2023 00:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
