@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=k7-BssOf7Pg">
-    <img width="300" src="https://lh3.googleusercontent.com/WPadUGe8cBVf1Tr_ZSnOC_iEXTIIg1VP4397V7UxKA9vmFrJ658HA-fwDNIcJ38bAHz6D9c36JkoZx5O">
+  <a href="https://music.youtube.com/watch?v=WdrNABIsrRg">
+    <img width="300" src="https://lh3.googleusercontent.com/THuEe5pd0gK5JxxAiyjpQXnPjT4TfazRl8wkbbDfSDM01iuP2_CFZ6qZFcl9pjJp3ATfb5JyC1Bjjc5S">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - Friends With Benefits</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>래원 (Layone) - Telepathy</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TOAST ]</b>
+  included in <b>[ Foxiboy ]</b>
   
   <br />
   <br />
-  06/20/2023 01:10 Playing on YTMusic
+  06/20/2023 01:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
