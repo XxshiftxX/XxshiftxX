@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=t6VgxIIHsqk">
-    <img width="300" src="https://lh3.googleusercontent.com/LEccxVDKcClptUfWkHXboH9jNxbe8JORIsxiGL_aVrhvk26lVpqFfRkjgWds0V0MIJjFmGWOFOE-5ak">
+  <a href="https://music.youtube.com/watch?v=8vnfNZD_E44">
+    <img width="300" src="https://lh3.googleusercontent.com/eD_ulzogePPUMMBrAqWfCS1B2y7AR31AG0jzsuFU8L6u6vZv7jyF9h2P_HPhB7KubrnF1LzqaN_vq73M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>TOIL 및 Gist - 처음 마주쳤을 때처럼</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - 눈 (EYE) (Prod. R.Tee)(feat. BIG Naughty, JUSTHIS)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 처음 마주쳤을 때처럼 ]</b>
+  included in <b>[ 쇼미더머니 11 Episode 3 ]</b>
   
   <br />
   <br />
-  06/20/2023 00:05 Playing on YTMusic
+  06/20/2023 00:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
