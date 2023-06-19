@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NUELBXE94mU">
-    <img width="300" src="https://lh3.googleusercontent.com/xYh7NdmqmB3k15V7CnTosgv67AFqQo-xxoJQo05Oo1yXy4zLv2eOBVKKeytby6pi7HtXuwDrKK39Wphy">
+  <a href="https://music.youtube.com/watch?v=5rJONUxSk20">
+    <img width="300" src="https://lh3.googleusercontent.com/ZgG60s_vUFFYbJkXQfeTbIeHmOSmPHJXL1KJGgQc8CBlKZcYmn9azrvpZw2P75qz0GPze84LCm89SdQW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gist - 인생네컷(feat. JAEHA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>지코 (ZICO) - Boys And Girls(feat. Babylon)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beginning ]</b>
+  included in <b>[ GALLERY ]</b>
   
   <br />
   <br />
-  06/20/2023 00:56 Playing on YTMusic
+  06/20/2023 00:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
