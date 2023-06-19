@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QTSfan8rmSo">
-    <img width="300" src="https://lh3.googleusercontent.com/xET0f3EcxfNII0k7urx5bMwnmEjVQ3hLZT5eaTYW4I1rCvypOitKr9Jn9WEIFZ_lkqI3WGYlLjlGWr3R">
+  <a href="https://music.youtube.com/watch?v=eS-NAO3zmn4">
+    <img width="300" src="https://lh3.googleusercontent.com/EjuB2PuG_IrW2lphUbqbfiRa7hxh9jMOGSELjPSWP7ys2RSDN0JPPCUc5WgWu3kxIPgvp-mcSjWeIwmxjg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>george - Boat</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>LE SSERAFIM - 이브, 프시케 그리고 푸른 수염의 아내</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Boat ]</b>
+  included in <b>[ UNFORGIVEN ]</b>
   
   <br />
   <br />
-  06/20/2023 00:46 Playing on YTMusic
+  06/20/2023 00:50 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
