@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Iu9_-m-OS_k">
-    <img width="300" src="https://lh3.googleusercontent.com/bnFXE3VcLRBDaxIl7cK-Oq8cHNWN8QukClPqIKNV8ijlCk76FPRIYxZGHxnYB6resgKN3XnJMeJrG4ka">
+  <a href="https://music.youtube.com/watch?v=RD-0SvXhIJg">
+    <img width="300" src="https://lh3.googleusercontent.com/YGsuqdjUW0HvjUT-5rm8A903lTG7Ti6KnCu4U0wW8ziNHFgM2msHknvnzW6dGcO5lzG-gnZBoS-gbVR3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>키드밀리 (Kid Milli) - R.I.P(feat. B.I)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Leellamarz - City Lights(feat. Hash Swan)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BEIGE ]</b>
+  included in <b>[ City Lights ]</b>
   
   <br />
   <br />
-  06/20/2023 00:17 Playing on YTMusic
+  06/20/2023 00:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
