@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wiJO_OgsyPE">
-    <img width="300" src="https://lh3.googleusercontent.com/W81_17KOxCj0kwgM-lR7Z-20xwTQsgpoMBPJ9k1ieR9CAOkpEQlvl5F5aQ2qq-RT9PJZSmCWANIRxIGGkg">
+  <a href="https://music.youtube.com/watch?v=6aP_zJ21Jmw">
+    <img width="300" src="https://lh3.googleusercontent.com/dFwYfIFmiTAKcNvylswwQ9VaCTSmgz6NbwbIklgw0BxAUjSS8aE_B0T_yXjSH3b7GaFVwx7nuO7Kjg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Vaundy - CHAINSAW BLOOD</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Vaundy - 恋風邪にのせて</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CHAINSAW BLOOD ]</b>
+  included in <b>[ 恋風邪にのせて ]</b>
   
   <br />
   <br />
-  08/10/2023 10:41 Playing on YTMusic
+  08/10/2023 10:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
