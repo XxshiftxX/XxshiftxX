@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6aP_zJ21Jmw">
-    <img width="300" src="https://lh3.googleusercontent.com/dFwYfIFmiTAKcNvylswwQ9VaCTSmgz6NbwbIklgw0BxAUjSS8aE_B0T_yXjSH3b7GaFVwx7nuO7Kjg">
+  <a href="https://music.youtube.com/watch?v=iLnfe7uQuGw">
+    <img width="300" src="https://lh3.googleusercontent.com/VaOkAa4YX7nKaoFCHOvrc3NGPmlWD9OS_U3H_8tExPpFPiR1KfIuZ1eB6EoIhSpAOBCmC4UesQgWvypN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Vaundy - 恋風邪にのせて</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Vaundy - 置き手紙</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 恋風邪にのせて ]</b>
+  included in <b>[ 置き手紙 ]</b>
   
   <br />
   <br />
-  08/10/2023 10:44 Playing on YTMusic
+  08/10/2023 10:48 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
