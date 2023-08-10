@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FaWV8ElGuUo">
-    <img width="300" src="https://lh3.googleusercontent.com/UyA7eKZGkMV2LwpW0RdCA8DmI54B3lmZDgoIjcYVzAxNKyVuWdBn2vC2fWMFyDZlZhkvAlEkf0fSncmC8g">
+  <a href="https://music.youtube.com/watch?v=kNDbaYEp0tU">
+    <img width="300" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Action!(feat. GRAY)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Vaundy - 怪獣の花唄</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Action! ]</b>
+  included in <b>[ strobo ]</b>
   
   <br />
   <br />
-  06/20/2023 01:33 Playing on YTMusic
+  08/10/2023 10:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
