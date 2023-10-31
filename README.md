@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xDDwPuEnHKk">
-    <img width="300" src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb">
+  <a href="https://music.youtube.com/watch?v=aJjvKCtivak">
+    <img width="300" src="https://lh3.googleusercontent.com/af_jQ-T0nTfQPVpTV7xJSN6FKrSI6fTju7X3-KSB8pmDpXHG7DxQ3KsLSifNnCzs_ETxQ9a13ukCJqNs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>All Time Low - Some Kind of Disaster</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Bring Me The Horizon - Throne</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Wake Up, Sunshine ]</b>
+  included in <b>[ That's The Spirit ]</b>
   
   <br />
   <br />
-  10/31/2023 14:52 Playing on YTMusic
+  10/31/2023 14:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
