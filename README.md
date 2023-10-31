@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9kUMm57Filk">
-    <img width="300" src="https://lh3.googleusercontent.com/fcnEPZPv8r3zRAzCHw4zc6jubxxzjMwMNZw6pQsr9C5brLRQl_hP4rYc_nzvEqmOTv5NOgUeB0jGLGnK">
+  <a href="https://music.youtube.com/watch?v=WHdL2vstvL8">
+    <img width="300" src="https://lh3.googleusercontent.com/y7jJKn2kx_HKMfSY4NmVnalSFZ3HKwYyJiLWA72--H-eqZ2Azlx51U-CsXS4tWO8Th5oL1JQS-24ZOfR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PinocchioP - 転生林檎</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - 言って。</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 転生林檎 ]</b>
+  included in <b>[ 夏草が邪魔をする ]</b>
   
   <br />
   <br />
-  10/31/2023 15:33 Playing on YTMusic
+  10/31/2023 15:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
