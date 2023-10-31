@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ycbYMQRSwjc">
-    <img width="300" src="https://lh3.googleusercontent.com/nni4-mmac3wPGF3ruzPCuPCsb5lK0tiasjnckJrz_9lKvgJVawRToMRTR5LNnJ_AGPrZKnhcARWdeTA">
+  <a href="https://music.youtube.com/watch?v=e4UKtfiX_wM">
+    <img width="300" src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이브릴 라빈 - Hello Heartache</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>All Time Low - Monsters(feat. 블랙베어)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Avril Lavigne (Expanded Edition) ]</b>
+  included in <b>[ Wake Up, Sunshine ]</b>
   
   <br />
   <br />
-  10/31/2023 11:09 Playing on YTMusic
+  10/31/2023 11:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
