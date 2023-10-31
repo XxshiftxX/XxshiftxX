@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=B5CDl20DMYA">
-    <img width="300" src="https://lh3.googleusercontent.com/T4jTq6F7JTRC7q2mIonhBohZbX1ExGeHhjLPU6t6KcUP_MhXHp2kHuQCusLBU_2WSkqn_uyjjBkTrdK4">
+  <a href="https://music.youtube.com/watch?v=b1zJC-bgBaQ">
+    <img width="300" src="https://lh3.googleusercontent.com/YSDUjBs7wGeo6Vef4j0SZoHNpWiyLgqERx7JVB4sxEvdPOW6oWNRj3Z3nSiSHrrqd_JOS6LwcnIKeic">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>달의하루 - 염라</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kairiki bear - ダーリンダンス</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 염라 ]</b>
+  included in <b>[ ダーリンシンドローム ]</b>
   
   <br />
   <br />
-  10/31/2023 16:26 Playing on YTMusic
+  10/31/2023 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
