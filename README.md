@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=OHhNPgKXrsc">
-    <img width="300" src="https://lh3.googleusercontent.com/ml1H4bjGFAcwVHguoFwMp2GCZs9LCxZaNyva3HH71vFRPnrhu7a46EIwq5IT7td43BANY2JlKC3jXKBA1Q">
+  <a href="https://music.youtube.com/watch?v=hmaVxjk8Lqc">
+    <img width="300" src="https://lh3.googleusercontent.com/pBeI4_mLpxt_U1l6_QeEzRtE9WAVOUAXj113c9vUJEaE5FO9jQ9qEMYOdpMQ7-Jlx7uSMy5R8cMuBC1l">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Houshou Marine - I'm Your Treasure Box * You have found captain Marine in a treasure chest</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TUYU - アンダーキッズ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ I'm Your Treasure Box * You have found captain Marine in a treasure chest ]</b>
+  included in <b>[ アンダーキッズ ]</b>
   
   <br />
   <br />
-  10/31/2023 16:09 Playing on YTMusic
+  10/31/2023 16:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
