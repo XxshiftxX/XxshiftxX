@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=e4UKtfiX_wM">
-    <img width="300" src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb">
+  <a href="https://music.youtube.com/watch?v=h5I774U_s2I">
+    <img width="300" src="https://lh3.googleusercontent.com/U3celp0_C0eecLCLGj39kBAhhnOhCDyxEGeUMMBjGSozO_l-TCuKZiabwL6LJTA-bWmHJbcC98jwJEP7">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>All Time Low - Monsters(feat. 블랙베어)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Avril Lavigne - Bite Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Wake Up, Sunshine ]</b>
+  included in <b>[ Love Sux ]</b>
   
   <br />
   <br />
-  10/31/2023 11:12 Playing on YTMusic
+  10/31/2023 14:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
