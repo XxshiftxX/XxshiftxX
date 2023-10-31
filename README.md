@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FWd4e28WAyQ">
-    <img width="300" src="https://lh3.googleusercontent.com/8ZVWP4ukAhtczeD7arm8yIWvCDGa1q8KhwvAPtU0pOIv7PGTgXPGCTkuS5g0OMM0d_cmkiUabJ54hUWF">
+  <a href="https://music.youtube.com/watch?v=07WqeT394wU">
+    <img width="300" src="https://lh3.googleusercontent.com/QIT-lf3FqcGe09q_j4EJ6QLVIhE58v4L2DskAlFiDU5PmXFl-ak0F-uiKE2-jbStisiC9u-3Ses6oWNaQg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yunosuke - Awake Now</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Chogakusei - Fake Parade</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Awake Now ]</b>
+  included in <b>[ Fake Parade ]</b>
   
   <br />
   <br />
-  10/31/2023 16:20 Playing on YTMusic
+  10/31/2023 16:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
