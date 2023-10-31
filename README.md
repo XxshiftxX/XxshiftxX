@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3UbBjzFDkd4">
-    <img width="300" src="https://lh3.googleusercontent.com/EiYMgUrCgqBzEnF-aoMbUsai30iTtln52y_jjw6QFXK7Y1Ro8_-9VnMaM18sD_CFcR6Yg3aJ_Ob6YtEX">
+  <a href="https://music.youtube.com/watch?v=PMMqfnRx2IA">
+    <img width="300" src="https://lh3.googleusercontent.com/pSqlTL8XU2BaCsQ_Ris1n4OZt0_VrdDXM1TYFsZ_l0pKICHbrDYqq0cDT5bUn_imgqRyfCG64ilAQ-wGsQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Vaundy - 花占い</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Simple Plan - Perfect</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 花占い ]</b>
+  included in <b>[ No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition) ]</b>
   
   <br />
   <br />
-  08/10/2023 10:52 Playing on YTMusic
+  10/31/2023 11:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
