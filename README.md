@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=7JI8XY1Fvto">
-    <img width="300" src="https://lh3.googleusercontent.com/SEJJczsBbcLMsRkZisRBV2zqPvKxiOLg1uTmEm7x5DTi2zeDoKLA4zS5RQ-bIXN46gLm4sLLRjuUQIHZLg">
+  <a href="https://music.youtube.com/watch?v=FA3a-HQtiAE">
+    <img width="300" src="https://lh3.googleusercontent.com/lGIBw1KSyZv2b8hz6x3REeRCiYkKEKl7FQ16xMC5AiZYzCVz5xiG5whDs9dGGT_icgUNyE9080U21Bc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>아도 - Usseewa</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>稲葉曇 - ロストアンブレラ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Usseewa ]</b>
+  included in <b>[ アンチサイクロン ]</b>
   
   <br />
   <br />
-  10/31/2023 16:38 Playing on YTMusic
+  10/31/2023 16:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
