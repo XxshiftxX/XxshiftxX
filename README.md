@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wIwqxGGmddU">
-    <img width="300" src="https://lh3.googleusercontent.com/gtskzh1aA6TMDWO8yD9c0lPfZQkgDIvVxXC2NkoRmvjDlKXcxoWASo6N9XRGQ-AVlhUZqA5kEvIHFyA">
+  <a href="https://music.youtube.com/watch?v=xDDwPuEnHKk">
+    <img width="300" src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fame on Fire & Arcaeus - Don't Let Me Down</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>All Time Low - Some Kind of Disaster</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Don't Let Me Down ]</b>
+  included in <b>[ Wake Up, Sunshine ]</b>
   
   <br />
   <br />
-  10/31/2023 14:50 Playing on YTMusic
+  10/31/2023 14:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
