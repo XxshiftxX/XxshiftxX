@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QkvNLdtkQcE">
-    <img width="300" src="https://lh3.googleusercontent.com/eTYxB3_jA6iNZ47_UYr2KqG1rwRu8FJxj6reUeCgCwoZ_vHygfF9ewfu_P2cLWz80m1yvQWnLzunpms">
+  <a href="https://music.youtube.com/watch?v=NXzZik68hTE">
+    <img width="300" src="https://lh3.googleusercontent.com/yoZbj8OKj9ELsG8CJtph113lsYXzOuD26gNZG6HvkEdleVuTMedIxVs8HYqD1AGjO13Fjm1-1yoMNSw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Machine Gun Kelly - love race(feat. Kellin Quinn)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TUYU - It's Raining After All</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ love race ]</b>
+  included in <b>[ It's Raining After All ]</b>
   
   <br />
   <br />
-  10/31/2023 15:02 Playing on YTMusic
+  10/31/2023 15:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
