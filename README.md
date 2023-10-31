@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=aJjvKCtivak">
-    <img width="300" src="https://lh3.googleusercontent.com/af_jQ-T0nTfQPVpTV7xJSN6FKrSI6fTju7X3-KSB8pmDpXHG7DxQ3KsLSifNnCzs_ETxQ9a13ukCJqNs">
+  <a href="https://music.youtube.com/watch?v=QkvNLdtkQcE">
+    <img width="300" src="https://lh3.googleusercontent.com/eTYxB3_jA6iNZ47_UYr2KqG1rwRu8FJxj6reUeCgCwoZ_vHygfF9ewfu_P2cLWz80m1yvQWnLzunpms">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Bring Me The Horizon - Throne</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Machine Gun Kelly - love race(feat. Kellin Quinn)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ That's The Spirit ]</b>
+  included in <b>[ love race ]</b>
   
   <br />
   <br />
-  10/31/2023 14:59 Playing on YTMusic
+  10/31/2023 15:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
