@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=shE2JEE2oys">
-    <img width="300" src="https://lh3.googleusercontent.com/sfnu9GylRiCiKOOa8NL7LiOsczxetf8Uei6Y_Hxzvrici7IiO1EiCnxyuD6Qzmfsxqmja0Dsw5lrme3i">
+  <a href="https://music.youtube.com/watch?v=FWd4e28WAyQ">
+    <img width="300" src="https://lh3.googleusercontent.com/8ZVWP4ukAhtczeD7arm8yIWvCDGa1q8KhwvAPtU0pOIv7PGTgXPGCTkuS5g0OMM0d_cmkiUabJ54hUWF">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>다즈비 - Adios</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yunosuke - Awake Now</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Adios ]</b>
+  included in <b>[ Awake Now ]</b>
   
   <br />
   <br />
-  10/31/2023 16:17 Playing on YTMusic
+  10/31/2023 16:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
