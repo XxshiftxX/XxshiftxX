@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=07WqeT394wU">
-    <img width="300" src="https://lh3.googleusercontent.com/QIT-lf3FqcGe09q_j4EJ6QLVIhE58v4L2DskAlFiDU5PmXFl-ak0F-uiKE2-jbStisiC9u-3Ses6oWNaQg">
+  <a href="https://music.youtube.com/watch?v=B5CDl20DMYA">
+    <img width="300" src="https://lh3.googleusercontent.com/T4jTq6F7JTRC7q2mIonhBohZbX1ExGeHhjLPU6t6KcUP_MhXHp2kHuQCusLBU_2WSkqn_uyjjBkTrdK4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Chogakusei - Fake Parade</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>달의하루 - 염라</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Fake Parade ]</b>
+  included in <b>[ 염라 ]</b>
   
   <br />
   <br />
-  10/31/2023 16:23 Playing on YTMusic
+  10/31/2023 16:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
