@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lno2LTa8TC0">
-    <img width="300" src="https://lh3.googleusercontent.com/ez6RwTkgz0BTuCJ7G0V8uU_XaAfgTixYwC9EIfvSuXnpVvemc_Od3kCcxCJgSym2hdsd3bgNnQFLNk0">
+  <a href="https://music.youtube.com/watch?v=-ZAoXUugigU">
+    <img width="300" src="https://lh3.googleusercontent.com/-C3Bzbv161Fj_pbV7ACIyqva-JnkJ21jyB7F8aiL0StSXcYVVJFwLmSIYc6q4JVZOATC4DdZWpmk6CmSxQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이브릴 라빈 - Darlin</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Simple Plan - Ruin My Life(feat. Deryck Whibley)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Goodbye Lullaby (Special Edition) ]</b>
+  included in <b>[ Harder Than It Looks ]</b>
   
   <br />
   <br />
-  10/31/2023 14:42 Playing on YTMusic
+  10/31/2023 14:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
