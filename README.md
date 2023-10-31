@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VIerIHzYtlg">
-    <img width="300" src="https://lh3.googleusercontent.com/S648qnT9nts3M3SgIqyD2iIZotDAZm-eoENwky2EP0Bm08GCn2g30HrNaDaU1uwaFJiPlUgIJqWFA4us">
+  <a href="https://music.youtube.com/watch?v=7JI8XY1Fvto">
+    <img width="300" src="https://lh3.googleusercontent.com/SEJJczsBbcLMsRkZisRBV2zqPvKxiOLg1uTmEm7x5DTi2zeDoKLA4zS5RQ-bIXN46gLm4sLLRjuUQIHZLg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Pastel*Palettes - しゅわりん☆どり～みん</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아도 - Usseewa</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TITLE IDOL ]</b>
+  included in <b>[ Usseewa ]</b>
   
   <br />
   <br />
-  10/31/2023 16:34 Playing on YTMusic
+  10/31/2023 16:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
