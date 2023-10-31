@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zkQUTIMea-M">
-    <img width="300" src="https://lh3.googleusercontent.com/I58T5SXEdrOALNkoEW_lncvG9cHbnGXSDHwpygrzETvhPRIMIdOb4wKnPG6toxifDkcMjEKe_KiQHNb8zA">
+  <a href="https://music.youtube.com/watch?v=dmAXGFI-VAI">
+    <img width="300" src="https://lh3.googleusercontent.com/OW9GTIklnnAUHhnHM6oyjqzkNXFcFY3Kmf8n9ypixs9ZnMkh_qVqoZLu2hmEJ1fofnclf9qrhC1s-bHWqQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>아라이 아키노 - 雨の日には</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>다즈비 - Kousui</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Blue Planet ]</b>
+  included in <b>[ Remindful.Two ]</b>
   
   <br />
   <br />
-  10/31/2023 16:57 Playing on YTMusic
+  10/31/2023 17:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
