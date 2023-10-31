@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UM8-yjDOTSI">
-    <img width="300" src="https://lh3.googleusercontent.com/HUmsOGk7OnIJleekpLmXLuZ_9Igvhv8fwVigKVbuzqjYo3Mj5iWMVXYAPZgbAaCpyVOW9W2cu8NZS52m7g">
+  <a href="https://music.youtube.com/watch?v=zkQUTIMea-M">
+    <img width="300" src="https://lh3.googleusercontent.com/I58T5SXEdrOALNkoEW_lncvG9cHbnGXSDHwpygrzETvhPRIMIdOb4wKnPG6toxifDkcMjEKe_KiQHNb8zA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Eve - Okinimesumama</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아라이 아키노 - 雨の日には</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bunka ]</b>
+  included in <b>[ Blue Planet ]</b>
   
   <br />
   <br />
-  10/31/2023 16:53 Playing on YTMusic
+  10/31/2023 16:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
