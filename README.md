@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=VIKYDJtG0xY">
-    <img width="300" src="https://lh3.googleusercontent.com/PEbImpwhcqWO4WJ1Dq4rr-MLKIas320y6twe6k-gH3EZGgI9-qFrFHYi6yn6-yzazmUGWR6R8QLiE7g">
+  <a href="https://music.youtube.com/watch?v=GKU0m7P5kDE">
+    <img width="300" src="https://lh3.googleusercontent.com/XA8O7vYtLjh2k1uixVbczPXaEGJPqMx0b2ZBRkcI8NDtQM935b-6vQtiEu86JJjYK9PZq0mvQ3atH3Auzw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Boys Like Girls - The Great Escape</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>girlfriends - Tattoo</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Boys Like Girls ]</b>
+  included in <b>[ Tattoo ]</b>
   
   <br />
   <br />
-  11/02/2023 13:28 Playing on YTMusic
+  11/02/2023 13:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
