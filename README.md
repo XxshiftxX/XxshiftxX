@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GKU0m7P5kDE">
-    <img width="300" src="https://lh3.googleusercontent.com/XA8O7vYtLjh2k1uixVbczPXaEGJPqMx0b2ZBRkcI8NDtQM935b-6vQtiEu86JJjYK9PZq0mvQ3atH3Auzw">
+  <a href="https://music.youtube.com/watch?v=Rzo0kf9MJwc">
+    <img width="300" src="https://lh3.googleusercontent.com/3NQeSycUW-0g70gEFYyNbnIfZvxDEt5qwPQ5803FtxVFNPNd_R6GdEgKH48tAHSwp_QKDwye-ZeeNdWY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>girlfriends - Tattoo</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에이브릴 라빈 - He Wasn't</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Tattoo ]</b>
+  included in <b>[ The Dome Vol. 34 ]</b>
   
   <br />
   <br />
-  11/02/2023 13:30 Playing on YTMusic
+  11/02/2023 13:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
