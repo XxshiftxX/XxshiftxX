@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EhjK3tVKbnA">
-    <img width="300" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">
+  <a href="https://music.youtube.com/watch?v=zOkIe3RcTCs">
+    <img width="300" src="https://lh3.googleusercontent.com/7e0qJAww69B2DFDDUgFqp59lWMXzuHGS-GG_BFR1sD8rcO80G71aP86hV9NGCqsjx4dMEzO1yxZojAA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>LUCY - 떼굴떼굴</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - LADY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLUE ]</b>
+  included in <b>[ LADY ]</b>
   
   <br />
   <br />
-  11/02/2023 12:00 Playing on YTMusic
+  11/02/2023 12:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
