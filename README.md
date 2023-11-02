@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Rzo0kf9MJwc">
-    <img width="300" src="https://lh3.googleusercontent.com/3NQeSycUW-0g70gEFYyNbnIfZvxDEt5qwPQ5803FtxVFNPNd_R6GdEgKH48tAHSwp_QKDwye-ZeeNdWY">
+  <a href="https://music.youtube.com/watch?v=dSlYFtXENPo">
+    <img width="300" src="https://lh3.googleusercontent.com/G5HiBWRSXVVcpGkCD10tS8J02EEAXvjAeKrVR_tzNlP0oTxWDRCY6uETpEB7U8q6OgwM8mk2lLkskbD6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이브릴 라빈 - He Wasn't</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Wheatus - Teenage Dirtbag</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Dome Vol. 34 ]</b>
+  included in <b>[ Wheatus ]</b>
   
   <br />
   <br />
-  11/02/2023 13:34 Playing on YTMusic
+  11/02/2023 13:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
