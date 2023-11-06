@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4dOw3TpoHtk">
-    <img width="300" src="https://lh3.googleusercontent.com/wkLUDz_kCeUEbe-RAUcBs_xygNT6QbYd5iYIT0wq3GuVuOZwE1IFXt19Gmu7EVsJpesCWrzA8MfqBOH6IA">
+  <a href="https://music.youtube.com/watch?v=fR8iPh9S9qg">
+    <img width="300" src="https://lh3.googleusercontent.com/3wtBtbEDwBJfqgf_nYT5_liMj1-ro9SNsjjCG-JUhQCXRSdzCOS_JvHrt9MqMjhauux0kzTyJ6vDb_AP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>라스베가스의 공포와 혐오 - Let Me Hear</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MAN WITH A MISSION 및 milet - Kizuna No Kiseki</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Feeling of Unity ]</b>
+  included in <b>[ Kizuna No Kiseki / Koi Kogare ]</b>
   
   <br />
   <br />
-  11/06/2023 20:51 Playing on YTMusic
+  11/06/2023 20:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
