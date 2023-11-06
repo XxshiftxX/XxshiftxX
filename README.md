@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0c7zGU2C2mM">
-    <img width="300" src="https://lh3.googleusercontent.com/FzLKj6zFEJna0gRNDeZRH4nuQwEyN-YbCaC-bIGLoia6EhirHUachdvdEdR3VdB7pArgFCW8mtpLPL0">
+  <a href="https://music.youtube.com/watch?v=vHfAjfKVMew">
+    <img width="300" src="https://lh3.googleusercontent.com/RSbGntYDLWHM9bT2pMuMhcYXoEkHr-WAYX2r6I0_ChgEvjUdb8XDXNT2qk_JLtG3aI61nx49UsGv1Ys">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>NewJeans - Super Shy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ado - 逆光 (ウタ from ONE PIECE FILM RED)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ NewJeans 'Super Shy' ]</b>
+  included in <b>[ 逆光 (ウタ from ONE PIECE FILM RED) ]</b>
   
   <br />
   <br />
-  11/03/2023 14:20 Playing on YTMusic
+  11/06/2023 20:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
