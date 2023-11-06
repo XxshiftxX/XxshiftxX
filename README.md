@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1D5sm82yaFY">
-    <img width="300" src="https://lh3.googleusercontent.com/QDIpLS9hwm7G_AKZYw8mSxYOQP4c0-suayp056c3lKW9CF8qbPZ6nGKtkLJJaFt4vTpPErhp0HNacWE">
+  <a href="https://music.youtube.com/watch?v=QCBIXV7cqgc">
+    <img width="300" src="https://lh3.googleusercontent.com/iiZQmQeRESVSsGJq0M-zYgriTKrbOuEWgFx7bDvRabWFbeXxjiXHw4v2K5CQHoQcm4h8uscWwlFPOcW-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>아키야마 키이로 - Caffeine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MAISONdes - Love Trap Muchu(feat. asmi, Three)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ From Dropout ]</b>
+  included in <b>[ Noisy Room ]</b>
   
   <br />
   <br />
-  11/06/2023 21:06 Playing on YTMusic
+  11/06/2023 21:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
