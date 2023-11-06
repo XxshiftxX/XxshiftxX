@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5RaU8K8sLTM">
-    <img width="300" src="https://lh3.googleusercontent.com/j_UehGMnLkEdZT0NwrMoI8LnSCxvelDYKIq1FFFyWp5VVouSJ72vAkIiW60EGh_HcahV_MwkzPQBP1pasA">
+  <a href="https://music.youtube.com/watch?v=t-6vQLdz6C8">
+    <img width="300" src="https://lh3.googleusercontent.com/DPVLR8YVQyE8RQG5xdF4bFUKF83l2i2ZRLWSv--xUdqArXYpROQKJiUbA9JG1ynscN6IwsuDJSGfgXhAiA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>King Gnu - SPECIALZ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Merry Go Round</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ SPECIALZ ]</b>
+  included in <b>[ Actor ]</b>
   
   <br />
   <br />
-  11/06/2023 20:24 Playing on YTMusic
+  11/06/2023 20:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
