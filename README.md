@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=t-6vQLdz6C8">
-    <img width="300" src="https://lh3.googleusercontent.com/DPVLR8YVQyE8RQG5xdF4bFUKF83l2i2ZRLWSv--xUdqArXYpROQKJiUbA9JG1ynscN6IwsuDJSGfgXhAiA">
+  <a href="https://music.youtube.com/watch?v=EZy_vHyFedw">
+    <img width="300" src="https://lh3.googleusercontent.com/sHzfH8LR7ybsBpPCxF8h2wQYQc5Lj1ki_X5Uc7DpK19lUBMTKX0QrEiVKuEXuBBolpnBL_gfmln6Mhqp">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Merry Go Round</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Official HIGE DANdism - ミックスナッツ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Actor ]</b>
+  included in <b>[ ミックスナッツEP ]</b>
   
   <br />
   <br />
-  11/06/2023 20:28 Playing on YTMusic
+  11/06/2023 20:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
