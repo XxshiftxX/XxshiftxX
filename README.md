@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-eUYBNIntTI">
-    <img width="300" src="https://lh3.googleusercontent.com/fnr_qibcoQ5Z_DoJOP0NWBWWHX6xcq7JvXF5DZYLfmH0Zo3KZM1xkCwgfYxBUTWCQVYA3vdQ6q1ZrLSCYw">
+  <a href="https://music.youtube.com/watch?v=1D5sm82yaFY">
+    <img width="300" src="https://lh3.googleusercontent.com/QDIpLS9hwm7G_AKZYw8mSxYOQP4c0-suayp056c3lKW9CF8qbPZ6nGKtkLJJaFt4vTpPErhp0HNacWE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>10-FEET - Dai Zero Kan</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아키야마 키이로 - Caffeine</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 제ZERO감 (Dai Zero Kan) (더 퍼스트 슬램덩크 주제곡) ]</b>
+  included in <b>[ From Dropout ]</b>
   
   <br />
   <br />
-  11/06/2023 21:02 Playing on YTMusic
+  11/06/2023 21:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
