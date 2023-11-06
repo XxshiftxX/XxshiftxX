@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=d6NPs3OQIAU">
-    <img width="300" src="https://lh3.googleusercontent.com/WJsfqIlLhWYLspnYKvF2FXAxHb8j8bEwt7J9tM4Mi_gRikmiupb9T5XcXSwUr59FhxX7ZsYQ-PGFAw3T">
+  <a href="https://music.youtube.com/watch?v=4dOw3TpoHtk">
+    <img width="300" src="https://lh3.googleusercontent.com/wkLUDz_kCeUEbe-RAUcBs_xygNT6QbYd5iYIT0wq3GuVuOZwE1IFXt19Gmu7EVsJpesCWrzA8MfqBOH6IA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Aimer - Zankyosanka</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>라스베가스의 공포와 혐오 - Let Me Hear</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Open a Door ]</b>
+  included in <b>[ Feeling of Unity ]</b>
   
   <br />
   <br />
-  11/06/2023 20:48 Playing on YTMusic
+  11/06/2023 20:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
