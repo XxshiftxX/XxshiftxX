@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9if2rlTRY-0">
-    <img width="300" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">
+  <a href="https://music.youtube.com/watch?v=-eUYBNIntTI">
+    <img width="300" src="https://lh3.googleusercontent.com/fnr_qibcoQ5Z_DoJOP0NWBWWHX6xcq7JvXF5DZYLfmH0Zo3KZM1xkCwgfYxBUTWCQVYA3vdQ6q1ZrLSCYw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>One OK Rock(원오크락) - Re:make</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>10-FEET - Dai Zero Kan</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 残響リファレンス ]</b>
+  included in <b>[ 제ZERO감 (Dai Zero Kan) (더 퍼스트 슬램덩크 주제곡) ]</b>
   
   <br />
   <br />
-  11/06/2023 20:58 Playing on YTMusic
+  11/06/2023 21:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
