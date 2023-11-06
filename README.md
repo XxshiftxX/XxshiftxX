@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fR8iPh9S9qg">
-    <img width="300" src="https://lh3.googleusercontent.com/3wtBtbEDwBJfqgf_nYT5_liMj1-ro9SNsjjCG-JUhQCXRSdzCOS_JvHrt9MqMjhauux0kzTyJ6vDb_AP">
+  <a href="https://music.youtube.com/watch?v=9if2rlTRY-0">
+    <img width="300" src="https://lh3.googleusercontent.com/V5hd8PiPlGgPFeOurQIKjbkoGWUl1V0laWyel7uwFM94TUiEGecsQg5k4F7-uWkhrfi9sHKSa_bJg_4-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MAN WITH A MISSION 및 milet - Kizuna No Kiseki</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>One OK Rock(원오크락) - Re:make</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Kizuna No Kiseki / Koi Kogare ]</b>
+  included in <b>[ 残響リファレンス ]</b>
   
   <br />
   <br />
-  11/06/2023 20:55 Playing on YTMusic
+  11/06/2023 20:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
