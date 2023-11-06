@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fYBQJfPBmRg">
-    <img width="300" src="https://lh3.googleusercontent.com/AniPdO57l8shB2EWKPxpwtllogUjm5rRjibnlDre3PlgqIoiyVRWj6FHr9de2OC7ONIDHj_59bG-cShR">
+  <a href="https://music.youtube.com/watch?v=NMA_isZYsYQ">
+    <img width="300" src="https://lh3.googleusercontent.com/NzNwvpFBVqnTcsoC68ryZidkX9c0e6yH0g5txpIpHIRT95iyK9KfEgIDWURm0NhVCqrDskVWEtsPCLZP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>kessoku band - Guitar, Loneliness and Blue Planet</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - KICK BACK</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Kessoku Band ]</b>
+  included in <b>[ KICK BACK ]</b>
   
   <br />
   <br />
-  11/06/2023 20:40 Playing on YTMusic
+  11/06/2023 20:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
