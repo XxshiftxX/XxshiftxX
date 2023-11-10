@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EhjK3tVKbnA">
-    <img width="300" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">
+  <a href="https://music.youtube.com/watch?v=lTDgdtyqIuY">
+    <img width="300" src="https://lh3.googleusercontent.com/1QZFohWvhlRKlmwLXlAtaRZa9x8mkp7sw5FM-DqdNZQK04hLwZIXESsYoCVOJSnumNJmrVgVSnJvqpXu">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>LUCY - 떼굴떼굴</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>니코 터치 더 월 - niwakaamenimomakezu (Album Mix)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BLUE ]</b>
+  included in <b>[ niwakaamenimomakezu (Album Mix) ]</b>
   
   <br />
   <br />
-  11/10/2023 16:02 Playing on YTMusic
+  11/10/2023 16:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
