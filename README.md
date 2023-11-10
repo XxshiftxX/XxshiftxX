@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gYuO6OUm6SQ">
-    <img width="300" src="https://lh3.googleusercontent.com/pL-U5l31u9y1ZZI1OkTDoumgDPazq8Jt1DDgLrHIkByvb1QlPpZ3F4Nw02QZV9vASpx5p9Kwxzf2-MwqaQ">
+  <a href="https://music.youtube.com/watch?v=EhjK3tVKbnA">
+    <img width="300" src="https://lh3.googleusercontent.com/860yCs0Vv1rp8bMidst1XvaEn6JxZVyd_W-PycTrqvkZApuR8VDbxaL1MuQSKPUsKtOuOKUJV0A4c09q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SHINSEI KAMATTE CHAN - 僕の戦争</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>LUCY - 떼굴떼굴</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 僕の戦争 ]</b>
+  included in <b>[ BLUE ]</b>
   
   <br />
   <br />
-  11/06/2023 21:25 Playing on YTMusic
+  11/10/2023 16:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
