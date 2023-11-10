@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NrmLcwGjovc">
-    <img width="300" src="https://lh3.googleusercontent.com/AOJSJM2DFSwU4EojW4pDgRS_QNFbKjNavm_Y06U4MZsnmEuBjS9nCUd9j1LUFke6GqZ2B6ktOWbBUshOVQ">
+  <a href="https://music.youtube.com/watch?v=64ftDYJXcTo">
+    <img width="300" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>LUCY - 21세기의 어떤 날</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>요루시카 - だから僕は音楽を辞めた</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 21세기의 어떤 날 ]</b>
+  included in <b>[ だから僕は音楽を辞めた ]</b>
   
   <br />
   <br />
-  11/10/2023 16:11 Playing on YTMusic
+  11/10/2023 16:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
