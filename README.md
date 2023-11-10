@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fRR-p12wshE">
-    <img width="300" src="https://i.ytimg.com/vi/fRR-p12wshE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=yFQYyXOAdUQ">
+    <img width="300" src="https://lh3.googleusercontent.com/5Sp3Kj8n6ZBqQ9diOdOGIsBTFUMLhcqS3Jjb4n3VLxVTnCGiT5dvxaix3tiE5Y5w0kDWEbmX28JqG2o">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>HUBOG - 【다온 Live】 01.가을 - From Y to Y</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Zutto Zutto Zutto</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 32만회 ]</b>
+  included in <b>[ Zutto Zutto Zutto ]</b>
   
   <br />
   <br />
-  11/10/2023 16:30 Playing on YTMusic
+  11/10/2023 16:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
