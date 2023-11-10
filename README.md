@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sd1mAKAzpf0">
-    <img width="300" src="https://lh3.googleusercontent.com/BMALll9NV5E7tJronlJBtAD5ospBgMu09_WGiqDk-_tix7aMVJj8F5q9F8MEAOux3UXd6Q7o306PDZc">
+  <a href="https://music.youtube.com/watch?v=194g0izPfdA">
+    <img width="300" src="https://lh3.googleusercontent.com/0k_u5oGZBtfPplIXhZ1FKJqny8H-EF66U7hDPtoFqOg3A9-eJc6qHPKbKv0EbkBE1VzShL6BSFl27GwD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>yama - Blood Flow</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>윤하 (YOUNHA) - 별의 조각</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ the meaning of life ]</b>
+  included in <b>[ END THEORY ]</b>
   
   <br />
   <br />
-  11/10/2023 16:19 Playing on YTMusic
+  11/10/2023 16:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
