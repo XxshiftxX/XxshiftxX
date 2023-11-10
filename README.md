@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Q3Ouk8kkhgU">
-    <img width="300" src="https://lh3.googleusercontent.com/KMJDAAjsLT0W1hd4NWIthP3xfSk6hoXHHALB6NJgtKjlb9E3L2KLS6crQHQHaLLPbuBjJbd-JWZX41Y">
+  <a href="https://music.youtube.com/watch?v=fRR-p12wshE">
+    <img width="300" src="https://i.ytimg.com/vi/fRR-p12wshE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yuuri - Leo</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>HUBOG - 【다온 Live】 01.가을 - From Y to Y</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ichi ]</b>
+  included in <b>[ 조회수 32만회 ]</b>
   
   <br />
   <br />
-  11/10/2023 16:26 Playing on YTMusic
+  11/10/2023 16:30 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
