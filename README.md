@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=RKwpWqOrSA8">
-    <img width="300" src="https://lh3.googleusercontent.com/PSW3UP0PJvQeVc4yvKA6LGtknoet8ysRfKAv0ZcPOXjjjVGNWtynqsm-26Y6dPMmUHWqd6BcR5P9LLG0iA">
+  <a href="https://music.youtube.com/watch?v=DTtb9rt1tnk">
+    <img width="300" src="https://lh3.googleusercontent.com/MIAqmIn_RcVQpBbnF6iqTOJq0gHTiZXlcGQwEHjKrglyt0RWhCJ5USCeQtbM2JR2UTCQmpJK6QXWl5M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Machine Gun Kelly - bloody valentine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>에이브릴 라빈 - Complicated</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Tickets To My Downfall ]</b>
+  included in <b>[ Let Go ]</b>
   
   <br />
   <br />
-  11/11/2023 22:55 Playing on YTMusic
+  11/11/2023 22:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
