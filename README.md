@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=h5I774U_s2I">
-    <img width="300" src="https://lh3.googleusercontent.com/U3celp0_C0eecLCLGj39kBAhhnOhCDyxEGeUMMBjGSozO_l-TCuKZiabwL6LJTA-bWmHJbcC98jwJEP7">
+  <a href="https://music.youtube.com/watch?v=pQpIkMiYQHw">
+    <img width="300" src="https://lh3.googleusercontent.com/_1vOaku3ewVH9MFXDT_-afR_ZLgFg0xN31tOFuTQWgiVqHf8ohayHsk1RRvL63SO9lXhkVeF1vwLMYfn0g">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Avril Lavigne - Bite Me</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Avril Lavigne - Sk8er Boi</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Love Sux ]</b>
+  included in <b>[ Let Go (20th Anniversary Edition) ]</b>
   
   <br />
   <br />
-  11/11/2023 22:37 Playing on YTMusic
+  11/11/2023 22:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
