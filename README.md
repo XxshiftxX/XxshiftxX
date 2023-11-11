@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=osR5O6yn9W8">
-    <img width="300" src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb">
+  <a href="https://music.youtube.com/watch?v=_5maAlwxfd8">
+    <img width="300" src="https://lh3.googleusercontent.com/YKO8v0Sy3H6qKS0u8Vb_cajD5c9RErhNnOsWh4Z018dlTont_YVTlJu1WZrCyM7a9yV7IjhuLNY57pQ0Og">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>All Time Low - Melancholy Kaleidoscope</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Sum 41 - The Hell Song</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Wake Up, Sunshine ]</b>
+  included in <b>[ Does This Look Infected? ]</b>
   
   <br />
   <br />
-  11/11/2023 23:01 Playing on YTMusic
+  11/11/2023 23:04 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
