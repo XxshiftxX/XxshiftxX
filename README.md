@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=DTtb9rt1tnk">
-    <img width="300" src="https://lh3.googleusercontent.com/MIAqmIn_RcVQpBbnF6iqTOJq0gHTiZXlcGQwEHjKrglyt0RWhCJ5USCeQtbM2JR2UTCQmpJK6QXWl5M">
+  <a href="https://music.youtube.com/watch?v=osR5O6yn9W8">
+    <img width="300" src="https://lh3.googleusercontent.com/ftHghtoB449MXyG4NP3YBPvMwBwc9xVdxwq34fq6i1QTONuBZm4tAQY9pKkUMhes6gDT4xE2dAmDxFKb">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>에이브릴 라빈 - Complicated</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>All Time Low - Melancholy Kaleidoscope</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Let Go ]</b>
+  included in <b>[ Wake Up, Sunshine ]</b>
   
   <br />
   <br />
-  11/11/2023 22:57 Playing on YTMusic
+  11/11/2023 23:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
