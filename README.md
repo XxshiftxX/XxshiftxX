@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yFQYyXOAdUQ">
-    <img width="300" src="https://lh3.googleusercontent.com/5Sp3Kj8n6ZBqQ9diOdOGIsBTFUMLhcqS3Jjb4n3VLxVTnCGiT5dvxaix3tiE5Y5w0kDWEbmX28JqG2o">
+  <a href="https://music.youtube.com/watch?v=h5I774U_s2I">
+    <img width="300" src="https://lh3.googleusercontent.com/U3celp0_C0eecLCLGj39kBAhhnOhCDyxEGeUMMBjGSozO_l-TCuKZiabwL6LJTA-bWmHJbcC98jwJEP7">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Zutto Zutto Zutto</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Avril Lavigne - Bite Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Zutto Zutto Zutto ]</b>
+  included in <b>[ Love Sux ]</b>
   
   <br />
   <br />
-  11/10/2023 16:36 Playing on YTMusic
+  11/11/2023 22:37 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
