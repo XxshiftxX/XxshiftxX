@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=p1Gr_Bg2Eag">
-    <img width="300" src="https://lh3.googleusercontent.com/m2ve8j_wJWg5NOVGlqJQxHtftRddr9U8yzpba_mDg0Anl4edUMCaKe829sXJmGbYvfV5UOeKF7GPaYE">
+  <a href="https://music.youtube.com/watch?v=RKwpWqOrSA8">
+    <img width="300" src="https://lh3.googleusercontent.com/PSW3UP0PJvQeVc4yvKA6LGtknoet8ysRfKAv0ZcPOXjjjVGNWtynqsm-26Y6dPMmUHWqd6BcR5P9LLG0iA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>파라모어 - crushcrushcrush</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Machine Gun Kelly - bloody valentine</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Riot! ]</b>
+  included in <b>[ Tickets To My Downfall ]</b>
   
   <br />
   <br />
-  11/11/2023 22:51 Playing on YTMusic
+  11/11/2023 22:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
