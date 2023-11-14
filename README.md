@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eg-AwKRUFec">
-    <img width="300" src="https://lh3.googleusercontent.com/ZZ80aTZXUYiYuKBg7O3xipKZwBUDmyNZKYZL_dKRxJsWJAhQQUgx533hTUR6sYdVfO4PP0hvmpCr-lUW">
+  <a href="https://music.youtube.com/watch?v=GJY8OMJXRAk">
+    <img width="300" src="https://lh3.googleusercontent.com/XNEmm81IV32mGxlJKcXaz10bSkF0ehKGpYWk2kzh2QzGioFIUHVr9rZh0ktPybBzok9CNAKL3fWGjYWt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lil Nas X 및 Jack Harlow - INDUSTRY BABY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Panic! At The Disco(패닉 앳 더 디스코) - High Hopes</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ INDUSTRY BABY ]</b>
+  included in <b>[ Pray for the Wicked ]</b>
   
   <br />
   <br />
-  11/14/2023 22:48 Playing on YTMusic
+  11/14/2023 22:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
