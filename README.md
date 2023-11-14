@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EZy_vHyFedw">
-    <img width="300" src="https://lh3.googleusercontent.com/sHzfH8LR7ybsBpPCxF8h2wQYQc5Lj1ki_X5Uc7DpK19lUBMTKX0QrEiVKuEXuBBolpnBL_gfmln6Mhqp">
+  <a href="https://music.youtube.com/watch?v=NMA_isZYsYQ">
+    <img width="300" src="https://lh3.googleusercontent.com/NzNwvpFBVqnTcsoC68ryZidkX9c0e6yH0g5txpIpHIRT95iyK9KfEgIDWURm0NhVCqrDskVWEtsPCLZP">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Official HIGE DANdism - ミックスナッツ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Kenshi Yonezu - KICK BACK</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ミックスナッツEP ]</b>
+  included in <b>[ KICK BACK ]</b>
   
   <br />
   <br />
-  11/14/2023 09:43 Playing on YTMusic
+  11/14/2023 09:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
