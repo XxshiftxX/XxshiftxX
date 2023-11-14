@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QL6hgc12zR4">
-    <img width="300" src="https://lh3.googleusercontent.com/kImp9PsPvgwj5t3S70EfFyANHQAyBJ3L9hAgrZ63A7390ecVUUxvFVMyC9nR2nrV-GWW48g9AlrHjiSBvw">
+  <a href="https://music.youtube.com/watch?v=eKVl8-zLP28">
+    <img width="300" src="https://lh3.googleusercontent.com/uZifQXj46aL1Tondm0OjbAh3GXdos5ZyPPVu0FwaJYylKY6tiNpXtm9ikeq44qb_1XHpo4V7RKSXqA9M">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>VALORANT, Grabbitz 및 bbno$ - Ticking Away</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Imagine Dragons(이매진 드래곤스) - Warriors</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Ticking Away ]</b>
+  included in <b>[ Smoke + Mirrors (Asia Tour Edition) ]</b>
   
   <br />
   <br />
-  11/14/2023 22:33 Playing on YTMusic
+  11/14/2023 22:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
