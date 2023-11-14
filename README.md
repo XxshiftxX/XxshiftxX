@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TFR0hH7dx9Y">
-    <img width="300" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">
+  <a href="https://music.youtube.com/watch?v=7be0fq_1Hwc">
+    <img width="300" src="https://lh3.googleusercontent.com/v_9D7-qcGPdGaKb-sA5wBwpY9SXsUZdzMLFcaR_AQRsY84iQnOEfI9hKUh5B1Veb_HElggrbVRDVp5yl">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그린 데이 - Know Your Enemy</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>My Chemical Romance(마이 케미컬 로맨스) - The Sharpest Lives</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 21st Century Breakdown ]</b>
+  included in <b>[ The Black Parade ]</b>
   
   <br />
   <br />
-  11/14/2023 13:23 Playing on YTMusic
+  11/14/2023 13:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
