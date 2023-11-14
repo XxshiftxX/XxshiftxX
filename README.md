@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=iR1sAex__VA">
-    <img width="300" src="https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R">
+  <a href="https://music.youtube.com/watch?v=G1ej5up7JG0">
+    <img width="300" src="https://lh3.googleusercontent.com/LDjFD-70y9c3aYL3-2zTUXkmlWfNlryJllQpHZLxZgi0i73pGx9JaJkNzDTo2LO9cGBDJx7E4eWdytMA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Avicii(아비치) - Waiting For Love</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Shivers</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Stories ]</b>
+  included in <b>[ Shivers ]</b>
   
   <br />
   <br />
-  11/14/2023 23:27 Playing on YTMusic
+  11/14/2023 23:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
