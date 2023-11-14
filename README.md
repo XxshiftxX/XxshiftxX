@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ooE8Og_tWgk">
-    <img width="300" src="https://lh3.googleusercontent.com/CQSHiNOKdHU2nOHeY9VlFAanXa83cy16GzGOUbjawV1o4-s0tlSICZBmfpSfy0L80-dml-w1gJfSdW3g">
+  <a href="https://music.youtube.com/watch?v=QTfK8bCHuvs">
+    <img width="300" src="https://lh3.googleusercontent.com/wWz-yiwxKxRx7SFRDyKeul2YO_Vh0Hj8kM7EEbsZRuvVCF6xKAWSlOtqo9BmSJ5WrJUM8c5WYaRvltd6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Rixton - Me And My Broken Heart</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>K/DA - MORE(feat. 렉시 리우, 자이라 번스, Seraphine, League of Legends)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Let The Road ]</b>
+  included in <b>[ ALL OUT ]</b>
   
   <br />
   <br />
-  11/14/2023 23:46 Playing on YTMusic
+  11/14/2023 23:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
