@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_GWKkqNoyEA">
-    <img width="300" src="https://lh3.googleusercontent.com/m2pZLjozMvQBj21LgvAIslVPP-T2xQlxbxCTJ98vpPN8HZ0fgR-wisJQ2IzrKS2yLTAYBjs0TpOYnIY">
+  <a href="https://music.youtube.com/watch?v=4EQkYVtE-28">
+    <img width="300" src="https://lh3.googleusercontent.com/YoQ-A-GOpgeE8tgdF3Rcf5z9V8NIIKjLH6_7X3QphIQUwVHioLu7Ik2wQzU0oCkyNm1TeLDLDYvomJ8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>OneRepublic - Counting Stars</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Post Malone(포스트 말론) - Circles</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Native ]</b>
+  included in <b>[ Hollywood's Bleeding ]</b>
   
   <br />
   <br />
-  11/14/2023 23:09 Playing on YTMusic
+  11/14/2023 23:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
