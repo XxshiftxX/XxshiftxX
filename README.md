@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jdzKPUhXa-o">
-    <img width="300" src="https://lh3.googleusercontent.com/T7zV1U9DY4QyX1-LRMh82bdLy4vzWszPdjassPk-gCJ5WaUFekhqCvOllR2txyn-LKyuUEj8t607PeI">
+  <a href="https://music.youtube.com/watch?v=_GWKkqNoyEA">
+    <img width="300" src="https://lh3.googleusercontent.com/m2pZLjozMvQBj21LgvAIslVPP-T2xQlxbxCTJ98vpPN8HZ0fgR-wisJQ2IzrKS2yLTAYBjs0TpOYnIY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>League of Legends 및 NewJeans - GODS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>OneRepublic - Counting Stars</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GODS ]</b>
+  included in <b>[ Native ]</b>
   
   <br />
   <br />
-  11/14/2023 23:05 Playing on YTMusic
+  11/14/2023 23:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
