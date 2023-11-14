@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eXRWHzV72sU">
-    <img width="300" src="https://lh3.googleusercontent.com/BtAKhqmTBoZWEQPlcF9tgpqILWNkQ4vc0tk0nlSrIpdvhW9sf9K-tQDoym1zh9Svl-8PnpFCY_6vNYg7">
+  <a href="https://music.youtube.com/watch?v=h5I774U_s2I">
+    <img width="300" src="https://lh3.googleusercontent.com/U3celp0_C0eecLCLGj39kBAhhnOhCDyxEGeUMMBjGSozO_l-TCuKZiabwL6LJTA-bWmHJbcC98jwJEP7">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Linkin Park(린킨 파크) - What I've Done</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Avril Lavigne - Bite Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Minutes To Midnight (Deluxe) ]</b>
+  included in <b>[ Love Sux ]</b>
   
   <br />
   <br />
-  11/14/2023 13:29 Playing on YTMusic
+  11/14/2023 16:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
