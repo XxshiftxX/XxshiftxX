@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KNDdgJ1bYkY">
-    <img width="300" src="https://lh3.googleusercontent.com/7dwT1O8MQlICIMDZig_5p2W7AWNU_T4d8v4NDPFeL6VFYhCCfdtCZBcvdii4z9N2iKt-a9yyjuxoyw4f7A">
+  <a href="https://music.youtube.com/watch?v=oLeROuCMwj8">
+    <img width="300" src="https://lh3.googleusercontent.com/h_vJZqh3sSE3k9A0wnzTjeM06SB11N_oDbT1uvxUjBRvuHQ9Czwo-jFT7KqyPvHCfBKSH_3mEKtah-XRtg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>AJR - Way Less Sad</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>트웬티 원 파일럿츠 - Heathens</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OK ORCHESTRA ]</b>
+  included in <b>[ Heathens ]</b>
   
   <br />
   <br />
-  11/15/2023 00:05 Playing on YTMusic
+  11/15/2023 00:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
