@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vOwVTtoR-9E">
-    <img width="300" src="https://lh3.googleusercontent.com/zIp803Jz-e2AiDnhOaBVLFkIpSQ-K6Pw3lElHRpae59jiHh0ky2lSBb_5PQzQu4myABpiLBVmdXaNy8">
+  <a href="https://music.youtube.com/watch?v=QL6hgc12zR4">
+    <img width="300" src="https://lh3.googleusercontent.com/kImp9PsPvgwj5t3S70EfFyANHQAyBJ3L9hAgrZ63A7390ecVUUxvFVMyC9nR2nrV-GWW48g9AlrHjiSBvw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>리그 오브 레전드 및 MAX - Take Over(feat. Jeremy McKinnon of A Day To Remember, 헨리)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>VALORANT, Grabbitz 및 bbno$ - Ticking Away</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Take Over ]</b>
+  included in <b>[ Ticking Away ]</b>
   
   <br />
   <br />
-  11/14/2023 22:30 Playing on YTMusic
+  11/14/2023 22:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
