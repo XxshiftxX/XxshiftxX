@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ljUtuoFt-8c">
-    <img width="300" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">
+  <a href="https://music.youtube.com/watch?v=TFR0hH7dx9Y">
+    <img width="300" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Nirvana - Smells Like Teen Spirit</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>그린 데이 - Know Your Enemy</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Nevermind ]</b>
+  included in <b>[ 21st Century Breakdown ]</b>
   
   <br />
   <br />
-  11/14/2023 13:17 Playing on YTMusic
+  11/14/2023 13:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
