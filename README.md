@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=-Oleu6OEJYY">
-    <img width="300" src="https://lh3.googleusercontent.com/JeVJiVrap9mLd7VkPBqggE9oExQLacJPEc8HTPaREZBcXD3jezxDioUhDaszLqNIRybm3UCujPsq2-Y">
+  <a href="https://music.youtube.com/watch?v=GGsuLVlLObc">
+    <img width="300" src="https://lh3.googleusercontent.com/TBZwGVexVwKqB72dcGGW1Y7gCWE_J5gD9Wa_3LHo0goLo5vWmNq-BvPp_4Jav8FN8Z3sXanpO-AU8-Zt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>더 스코어 - Legend</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>WALK THE MOON - Shut Up and Dance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ATLAS ]</b>
+  included in <b>[ TALKING IS HARD ]</b>
   
   <br />
   <br />
-  11/14/2023 23:56 Playing on YTMusic
+  11/14/2023 23:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
