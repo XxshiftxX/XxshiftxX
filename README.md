@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=G1ej5up7JG0">
-    <img width="300" src="https://lh3.googleusercontent.com/LDjFD-70y9c3aYL3-2zTUXkmlWfNlryJllQpHZLxZgi0i73pGx9JaJkNzDTo2LO9cGBDJx7E4eWdytMA">
+  <a href="https://music.youtube.com/watch?v=DHnl4hPbizw">
+    <img width="300" src="https://lh3.googleusercontent.com/NMIZhB4OqzP4WP4nA5rR1Dh51FB2Qe2-FsY1j_wLudYd1zdBym5llmNg-IMT8FVuklRImG9nI72ug7QG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran - Shivers</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>League of Legends 및 PVRIS - Burn It All Down</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Shivers ]</b>
+  included in <b>[ Burn It All Down ]</b>
   
   <br />
   <br />
-  11/14/2023 23:31 Playing on YTMusic
+  11/14/2023 23:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
