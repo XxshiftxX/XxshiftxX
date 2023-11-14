@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eKVl8-zLP28">
-    <img width="300" src="https://lh3.googleusercontent.com/uZifQXj46aL1Tondm0OjbAh3GXdos5ZyPPVu0FwaJYylKY6tiNpXtm9ikeq44qb_1XHpo4V7RKSXqA9M">
+  <a href="https://music.youtube.com/watch?v=tZKe908QmIg">
+    <img width="300" src="https://lh3.googleusercontent.com/FfH4vvXOm_MgZh0qQArVvKczW3LPzVzF5ZHfIrcB-q5KSqa-mdtcx6CXwKjwjthxkkKQJjHZqgdr7uDt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Imagine Dragons(이매진 드래곤스) - Warriors</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Unlike Pluto - Everything Black</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Smoke + Mirrors (Asia Tour Edition) ]</b>
+  included in <b>[ Everything Black ]</b>
   
   <br />
   <br />
-  11/14/2023 22:38 Playing on YTMusic
+  11/14/2023 22:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
