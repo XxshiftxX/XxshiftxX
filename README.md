@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=tZKe908QmIg">
-    <img width="300" src="https://lh3.googleusercontent.com/FfH4vvXOm_MgZh0qQArVvKczW3LPzVzF5ZHfIrcB-q5KSqa-mdtcx6CXwKjwjthxkkKQJjHZqgdr7uDt">
+  <a href="https://music.youtube.com/watch?v=K1FlAphL2p8">
+    <img width="300" src="https://lh3.googleusercontent.com/a36isbIbmOGd6VYH6j61aatMj94BUftO-xeBfeUAv0yUNGZME6Arcfk10cjJTq6D5UFgRWZl9MX8aax9">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Unlike Pluto - Everything Black</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>트웬티 원 파일럿츠 - Stressed Out</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Everything Black ]</b>
+  included in <b>[ Blurryface ]</b>
   
   <br />
   <br />
-  11/14/2023 22:40 Playing on YTMusic
+  11/14/2023 22:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
