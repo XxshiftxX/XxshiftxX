@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dfk6i41GCNo">
-    <img width="300" src="https://lh3.googleusercontent.com/dTaLSBJmPtDdl69KdOGmYmfEb6EEwGkaEcm3j3ksWgdppIUjfNnVLE_jxLTkJl7KBliu5_YjMPfGLDuV">
+  <a href="https://music.youtube.com/watch?v=dRHcHCz5ruY">
+    <img width="300" src="https://lh3.googleusercontent.com/2vl2y4NlXYsdHReeHOn6pLEymSMrCMblpVa9-r4kzhetbNjkNxr3cngButyhvscaMntHHCLuJ_HKi0o">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fall Out Boy(폴 아웃 보이) - Centuries</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Halsey(할시) - Gasoline</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ American Beauty/American Psycho ]</b>
+  included in <b>[ BADLANDS (Deluxe) ]</b>
   
   <br />
   <br />
-  11/14/2023 22:59 Playing on YTMusic
+  11/14/2023 23:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
