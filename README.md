@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Vm3tf65-8d4">
-    <img width="300" src="https://lh3.googleusercontent.com/FGn-Mi8JPzghW12pj45Enugz6MyfObhj0_7Jm1WsAa3vTTjcoEDnSef1cffPETUYai8FO24CDeGqPiUz">
+  <a href="https://music.youtube.com/watch?v=ArN80_ahos0">
+    <img width="300" src="https://lh3.googleusercontent.com/OnXjgnaqEvH8mDKSoj-3Wm6v-vjtOKTJzOtNffqwfHOcinpYmPMczGYv5Kb9JU5RmbYaLpzGrHfXRWc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Hitsujibungaku - more than words</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Mrs. GREEN APPLE - Anatani</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ more than words ]</b>
+  included in <b>[ Anatani ]</b>
   
   <br />
   <br />
-  11/14/2023 09:58 Playing on YTMusic
+  11/14/2023 10:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
