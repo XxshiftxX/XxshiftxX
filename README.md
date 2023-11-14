@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QTfK8bCHuvs">
-    <img width="300" src="https://lh3.googleusercontent.com/wWz-yiwxKxRx7SFRDyKeul2YO_Vh0Hj8kM7EEbsZRuvVCF6xKAWSlOtqo9BmSJ5WrJUM8c5WYaRvltd6">
+  <a href="https://music.youtube.com/watch?v=Kx7B-XvmFtE">
+    <img width="300" src="https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>K/DA - MORE(feat. 렉시 리우, 자이라 번스, Seraphine, League of Legends)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Imagine Dragons(이매진 드래곤스) - Believer</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ ALL OUT ]</b>
+  included in <b>[ Evolve ]</b>
   
   <br />
   <br />
-  11/14/2023 23:49 Playing on YTMusic
+  11/14/2023 23:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
