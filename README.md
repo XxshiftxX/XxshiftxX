@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=voAu0YRWUNE">
-    <img width="300" src="https://lh3.googleusercontent.com/NXXSkZbIeHfz7VaEqux9fE9oJY4jhnBeMFiqumSibPZvOBUF4ItL8D7kaCEqHP--BmXPriGQOT458PgS">
+  <a href="https://music.youtube.com/watch?v=2ywwkGZnqoY">
+    <img width="300" src="https://lh3.googleusercontent.com/-fIRe_1SQcmQ6OvdV0pAa5yHaQ0AwKPo-slqH4WBYzaS1Slt1s2TFOsdu2drzMx2i2WWnQs_YrC5Al0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Be a flower</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>King Gnu - Sakayume</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Be a flower ]</b>
+  included in <b>[ Sakayume ]</b>
   
   <br />
   <br />
-  11/14/2023 09:27 Playing on YTMusic
+  11/14/2023 09:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
