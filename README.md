@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=mctEybOqY6s">
-    <img width="300" src="https://lh3.googleusercontent.com/_9dKeYfUG6LiyUfc3t7SraPmIlv075WdUeweRlt1WpcAT4MODyVtzidzPyMXsFaohn9RixzsLg9qnvNayw">
+  <a href="https://music.youtube.com/watch?v=wzslO9QbDAQ">
+    <img width="300" src="https://lh3.googleusercontent.com/-BEztfsDGO0IBhZqiBsxGt67C4wlqYnuQuJjOj4PiDPlLkDGyG-YhQCYQcySuhnBwIZhOTZHJVUwJ6CTqg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YOASOBI - 勇者</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>녹황색사회 - Mela!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 勇者 ]</b>
+  included in <b>[ Singalong ]</b>
   
   <br />
   <br />
-  11/14/2023 09:36 Playing on YTMusic
+  11/14/2023 09:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
