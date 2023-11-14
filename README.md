@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QXbykPTLXuc">
-    <img width="300" src="https://lh3.googleusercontent.com/Q9KyEICq7ijGR999P5OT0fc_vJRCR7XmR8jgoFQFHiInZmnrQq8dUZmrJWmpuvc3CcrGv80GeJkgnKPT">
+  <a href="https://music.youtube.com/watch?v=9GGDbVHz3yU">
+    <img width="300" src="https://lh3.googleusercontent.com/cMVIleJ5mGq5LQ5rN0Vcu8O_Sf8lnsQJVLSnwrAT_Ex0BjN4qJIvvfxrL5XtT-kpaRrOJ_SEya-hi7E">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>아이리 칸나 - 최종화</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nanawoakari - Kien Romance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 최종화 ]</b>
+  included in <b>[ Kien Romance ]</b>
   
   <br />
   <br />
-  11/14/2023 09:50 Playing on YTMusic
+  11/14/2023 09:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
