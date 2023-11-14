@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KpDYOdKG0gk">
-    <img width="300" src="https://lh3.googleusercontent.com/QxicXDFnXs4PGBC0crgIAQu0K448SoxcrhFmdQYnTCkf6hgCgDx3YlrcBBbo5kbxtUmUH7X-MOwljxNI">
+  <a href="https://music.youtube.com/watch?v=U0XcqF7rqHk">
+    <img width="300" src="https://lh3.googleusercontent.com/FnRYR-BT3RONNVBVF0Ws8IzCnzZYu7qbulZ3LL99NadPK8kEK_dvyldmJEGg_DZpJ0UsKoqwALI8SEz6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Against The Current - again&again(feat. guardin)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>그린 데이 - 21 Guns</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ again&again ]</b>
+  included in <b>[ 21st Century Breakdown ]</b>
   
   <br />
   <br />
-  11/14/2023 16:31 Playing on YTMusic
+  11/14/2023 16:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
