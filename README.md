@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NuB-1myGido">
-    <img width="300" src="https://lh3.googleusercontent.com/9wphzJXb9UONKjd90QpXiyoqRSxg1nd60bjUVnEMN1-f8k1OyB_sDMk40_bEPtxHn2tPbofPRvDRbIpG">
+  <a href="https://music.youtube.com/watch?v=nYALiooya2Q">
+    <img width="300" src="https://lh3.googleusercontent.com/jLTGe22dPtNjn4W1zqTpTgMjnUEyqbI9jizZGgh-GefpblBIrg7RSvemoK_os4hmSijmVA73uz2zhJg8sg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>리그 오브 레전드 - RISE(feat. The Word Alive)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>VALORANT - Fire Again(feat. Ashnikko)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RISE ]</b>
+  included in <b>[ Fire Again ]</b>
   
   <br />
   <br />
-  11/14/2023 23:21 Playing on YTMusic
+  11/14/2023 23:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
