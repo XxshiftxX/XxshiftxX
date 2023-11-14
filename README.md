@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_5maAlwxfd8">
-    <img width="300" src="https://lh3.googleusercontent.com/YKO8v0Sy3H6qKS0u8Vb_cajD5c9RErhNnOsWh4Z018dlTont_YVTlJu1WZrCyM7a9yV7IjhuLNY57pQ0Og">
+  <a href="https://music.youtube.com/watch?v=voAu0YRWUNE">
+    <img width="300" src="https://lh3.googleusercontent.com/NXXSkZbIeHfz7VaEqux9fE9oJY4jhnBeMFiqumSibPZvOBUF4ItL8D7kaCEqHP--BmXPriGQOT458PgS">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sum 41 - The Hell Song</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Be a flower</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Does This Look Infected? ]</b>
+  included in <b>[ Be a flower ]</b>
   
   <br />
   <br />
-  11/11/2023 23:04 Playing on YTMusic
+  11/14/2023 09:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
