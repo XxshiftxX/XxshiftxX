@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5DF9aRuiOZo">
-    <img width="300" src="https://lh3.googleusercontent.com/4igiWMyX-TCOC4EwsL4hGJz4Z1QVSSLCrqAySMivS_UHkAjGQA7BqCf7iaaDQPSciW1T8xfDeDqP7iLzEA">
+  <a href="https://music.youtube.com/watch?v=dfk6i41GCNo">
+    <img width="300" src="https://lh3.googleusercontent.com/dTaLSBJmPtDdl69KdOGmYmfEb6EEwGkaEcm3j3ksWgdppIUjfNnVLE_jxLTkJl7KBliu5_YjMPfGLDuV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Maroon 5(마룬 파이브) - Animals</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fall Out Boy(폴 아웃 보이) - Centuries</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ V (Asia Tour Edition) ]</b>
+  included in <b>[ American Beauty/American Psycho ]</b>
   
   <br />
   <br />
-  11/14/2023 22:54 Playing on YTMusic
+  11/14/2023 22:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
