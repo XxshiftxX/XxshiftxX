@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GJY8OMJXRAk">
-    <img width="300" src="https://lh3.googleusercontent.com/XNEmm81IV32mGxlJKcXaz10bSkF0ehKGpYWk2kzh2QzGioFIUHVr9rZh0ktPybBzok9CNAKL3fWGjYWt">
+  <a href="https://music.youtube.com/watch?v=5DF9aRuiOZo">
+    <img width="300" src="https://lh3.googleusercontent.com/4igiWMyX-TCOC4EwsL4hGJz4Z1QVSSLCrqAySMivS_UHkAjGQA7BqCf7iaaDQPSciW1T8xfDeDqP7iLzEA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Panic! At The Disco(패닉 앳 더 디스코) - High Hopes</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Maroon 5(마룬 파이브) - Animals</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Pray for the Wicked ]</b>
+  included in <b>[ V (Asia Tour Edition) ]</b>
   
   <br />
   <br />
-  11/14/2023 22:52 Playing on YTMusic
+  11/14/2023 22:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
