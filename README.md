@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=472QYP2pjoA">
-    <img width="300" src="https://lh3.googleusercontent.com/RHXUo30Ov6YQwaQLUcVIEJdwCW-GMGrWrvta_MQDKLmgk79A1ScCjlSM8EfMfoH-2Zec2gi215sd7s3-3g">
+  <a href="https://music.youtube.com/watch?v=KpDYOdKG0gk">
+    <img width="300" src="https://lh3.googleusercontent.com/QxicXDFnXs4PGBC0crgIAQu0K448SoxcrhFmdQYnTCkf6hgCgDx3YlrcBBbo5kbxtUmUH7X-MOwljxNI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Simple Plan - In (EP Version)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Against The Current - again&again(feat. guardin)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Get Your Heart On - The Second Coming! ]</b>
+  included in <b>[ again&again ]</b>
   
   <br />
   <br />
-  11/14/2023 16:27 Playing on YTMusic
+  11/14/2023 16:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
