@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ArN80_ahos0">
-    <img width="300" src="https://lh3.googleusercontent.com/OnXjgnaqEvH8mDKSoj-3Wm6v-vjtOKTJzOtNffqwfHOcinpYmPMczGYv5Kb9JU5RmbYaLpzGrHfXRWc">
+  <a href="https://music.youtube.com/watch?v=JKxpjWCCQ6Y">
+    <img width="300" src="https://lh3.googleusercontent.com/CKsTdAksMw1znNaxSD3B8mwgxSfBqcCeso9JWTPHwPdxdK_2KqZ68Zaf_PrmqDOa2AtB4jZuQapfFw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Mrs. GREEN APPLE - Anatani</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Vaundy - 呼吸のように</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Anatani ]</b>
+  included in <b>[ 呼吸のように ]</b>
   
   <br />
   <br />
-  11/14/2023 10:03 Playing on YTMusic
+  11/14/2023 10:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
