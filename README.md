@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=m5um3I3ayJ8">
-    <img width="300" src="https://lh3.googleusercontent.com/9bCgudR3d-3PFpHmawTExLr4WL6SeS7UuXDpar3BvLhg8QN05eC5Ng6F-6fi8wAlZ9OY5mzeRtFdJIiv">
+  <a href="https://music.youtube.com/watch?v=Bm47bjvXiVo">
+    <img width="300" src="https://lh3.googleusercontent.com/teq6ac9-tinMrLUhDhee22FarY7svno8FBrN_Izrh9nQ-3HDTlkJerKUGAUYOTCe4fw5jVuiiOlfGzCc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Everclear - Everything To Everyone</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BOOM BOOM SATELLITES - Shut Up and Explode</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ So Much For The Afterglow ]</b>
+  included in <b>[ Exposed ]</b>
   
   <br />
   <br />
-  11/17/2023 18:51 Playing on YTMusic
+  11/17/2023 18:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
