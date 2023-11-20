@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Bm47bjvXiVo">
-    <img width="300" src="https://lh3.googleusercontent.com/teq6ac9-tinMrLUhDhee22FarY7svno8FBrN_Izrh9nQ-3HDTlkJerKUGAUYOTCe4fw5jVuiiOlfGzCc">
+  <a href="https://music.youtube.com/watch?v=U31mUH2DnWk">
+    <img width="300" src="https://lh3.googleusercontent.com/-V2vyRArXHs-MopfpULVmDC7amR_plX0qmZUnMeXLLKNejenmiaqTzqAwB78DLHhnjwngmrfbYgaK0l8eA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BOOM BOOM SATELLITES - Shut Up and Explode</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>실리카겔 - NO PAIN</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Exposed ]</b>
+  included in <b>[ NO PAIN ]</b>
   
   <br />
   <br />
-  11/17/2023 18:55 Playing on YTMusic
+  11/20/2023 14:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
