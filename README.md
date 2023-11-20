@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=U31mUH2DnWk">
-    <img width="300" src="https://lh3.googleusercontent.com/-V2vyRArXHs-MopfpULVmDC7amR_plX0qmZUnMeXLLKNejenmiaqTzqAwB78DLHhnjwngmrfbYgaK0l8eA">
+  <a href="https://music.youtube.com/watch?v=rsbTdhCLpNE">
+    <img width="300" src="https://lh3.googleusercontent.com/JpRLnvCIZPBqjXovCl1GzqBaDRjNYZVFOUvJ3ZO7xQDFMVFQms19cDKWg49WcS-dfyIp5_uGqV20DhJV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>실리카겔 - NO PAIN</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Steriogram - Walkie Talkie Man</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ NO PAIN ]</b>
+  included in <b>[ Schmack! ]</b>
   
   <br />
   <br />
-  11/20/2023 14:33 Playing on YTMusic
+  11/20/2023 14:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
