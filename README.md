@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=64ftDYJXcTo">
-    <img width="300" src="https://lh3.googleusercontent.com/E9mNJmhQEosrQEzXm9V7EAnqTVVtyzWm0Ob_OHezNF3RLelHJBuDXU9LA0E3l_KiaT_YumFTOCx0zDI">
+  <a href="https://music.youtube.com/watch?v=fHbmVbh449s">
+    <img width="300" src="https://lh3.googleusercontent.com/pK3o_QpuM8RqP_KkCdvqmLXjf4DTkwWGTpyVneDB5Q4qB-aDoWleX3jdAgXlvY04-62eElcdbi_dCFyYLw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>요루시카 - だから僕は音楽を辞めた</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Simple Plan - Shut Up!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ だから僕は音楽を辞めた ]</b>
+  included in <b>[ Still Not Getting Any ]</b>
   
   <br />
   <br />
-  11/21/2023 15:18 Playing on YTMusic
+  11/21/2023 15:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
