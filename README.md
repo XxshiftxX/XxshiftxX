@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=4SxMxOOooBI">
-    <img width="300" src="https://lh3.googleusercontent.com/mx0g7T_tbFhOZFkTtcoVFX_vn8eJ0ZvLHxptslu-DNUlTwo2SQN9atRI5oRr07U9_icZZHYSYMEThQjt">
+  <a href="https://music.youtube.com/watch?v=zqKrpw36xnU">
+    <img width="300" src="https://lh3.googleusercontent.com/c6Iw7I0E0sTp98IChoHrB9x6F9usgDV97xTYPleSSfG8Ujl6kE3ing69MUb1BE7LceZ9FDQuTKmcoFJG">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Against The Current - burn it down</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>KANA-BOON - シルエット</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ fever ]</b>
+  included in <b>[ TIME ]</b>
   
   <br />
   <br />
-  11/21/2023 15:07 Playing on YTMusic
+  11/21/2023 15:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
