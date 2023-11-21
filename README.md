@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zqKrpw36xnU">
-    <img width="300" src="https://lh3.googleusercontent.com/c6Iw7I0E0sTp98IChoHrB9x6F9usgDV97xTYPleSSfG8Ujl6kE3ing69MUb1BE7LceZ9FDQuTKmcoFJG">
+  <a href="https://music.youtube.com/watch?v=WFRB9zl8tS8">
+    <img width="300" src="https://lh3.googleusercontent.com/bgq9_gd_V5zcwwSc6f5CMmRQJoirTZKUY4pLFBycZG1x643tUZN185V1NVMOskXwiwIBx0JVvE58y7Db">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>KANA-BOON - シルエット</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Eve - Last Dance</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ TIME ]</b>
+  included in <b>[ Otogi ]</b>
   
   <br />
   <br />
-  11/21/2023 15:10 Playing on YTMusic
+  11/21/2023 15:14 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
