@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2eNEQ0cQtkI">
-    <img width="300" src="https://lh3.googleusercontent.com/yZS5cGvyeDKPkCI5cmlD3p_O_CCjE4N6msFalbOEhuRytLta0QgzjPbJbzlh2KGzmEiG6sLafrzEf1Vx">
+  <a href="https://music.youtube.com/watch?v=t-6vQLdz6C8">
+    <img width="300" src="https://lh3.googleusercontent.com/DPVLR8YVQyE8RQG5xdF4bFUKF83l2i2ZRLWSv--xUdqArXYpROQKJiUbA9JG1ynscN6IwsuDJSGfgXhAiA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>YOASOBI - 祝福</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Merry Go Round</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 祝福 ]</b>
+  included in <b>[ Actor ]</b>
   
   <br />
   <br />
-  11/21/2023 14:53 Playing on YTMusic
+  11/21/2023 14:56 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
