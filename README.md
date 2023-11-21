@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=EGpDMibvmqY">
-    <img width="300" src="https://lh3.googleusercontent.com/PBQ6C4mRMVAEn6y8tTbxCUwzyOjSXtW-E71YpwRFWNhWYtgusk_Z_rTcWO9lLVPtqF65AueLJqrS2kMQ">
+  <a href="https://music.youtube.com/watch?v=fdz_cabS9BU">
+    <img width="300" src="https://lh3.googleusercontent.com/emeqGnTWaGFe5roPNKOsSe5WFl81hEScrwhlaJkSrmZn8F-rcYVg_VtYKSj5v59eU5ZrUo3uzlbI0wDV">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>윤하 - 비밀번호 486</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Thinking out Loud</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 감성 터지는 그 시절의 사랑과 이별 ]</b>
+  included in <b>[ x (Deluxe Edition) ]</b>
   
   <br />
   <br />
-  11/21/2023 15:42 Playing on YTMusic
+  11/21/2023 15:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
