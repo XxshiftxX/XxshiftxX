@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=t-6vQLdz6C8">
-    <img width="300" src="https://lh3.googleusercontent.com/DPVLR8YVQyE8RQG5xdF4bFUKF83l2i2ZRLWSv--xUdqArXYpROQKJiUbA9JG1ynscN6IwsuDJSGfgXhAiA">
+  <a href="https://music.youtube.com/watch?v=UQBwlhAm6Yk">
+    <img width="300" src="https://lh3.googleusercontent.com/gMyiCraskhI-ktQe72qBFhByXIhiyDYGwjp8niBwIIQacb-Qpz5sq5YsZZtpA3EQ13OJri4N-1jTtTrs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ryokuoushoku Shakai - Merry Go Round</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>K/DA - POP/STARS (feat. (G)I-DLE, Madison Beer, Jaira Burns, League of Legends)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Actor ]</b>
+  included in <b>[ POP/STARS ]</b>
   
   <br />
   <br />
-  11/21/2023 14:56 Playing on YTMusic
+  11/21/2023 15:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
