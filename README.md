@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ozPtL1R6mZ8">
-    <img width="300" src="https://lh3.googleusercontent.com/a8zHwJCB_xOTiohW6m7fg6b9s4AJjJu_kTbyVMc_aH_dsulYH6DzSZRUODZy0SYPHTDKwWqJCzB6OP-z">
+  <a href="https://music.youtube.com/watch?v=4SxMxOOooBI">
+    <img width="300" src="https://lh3.googleusercontent.com/mx0g7T_tbFhOZFkTtcoVFX_vn8eJ0ZvLHxptslu-DNUlTwo2SQN9atRI5oRr07U9_icZZHYSYMEThQjt">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SPYAIR(스파이에어) - Sakuramitsutsuki</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Against The Current - burn it down</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Sakuramitsutsuki ]</b>
+  included in <b>[ fever ]</b>
   
   <br />
   <br />
-  11/21/2023 15:03 Playing on YTMusic
+  11/21/2023 15:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
