@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_GX3D32b3TI">
-    <img width="300" src="https://lh3.googleusercontent.com/_wv8AcuL5VdOHAblkYID3WIakfAM4OqkPiUrdnTT6P1XdQF8Hk3kMh6DEJeyb-f9pu51GE3AaZxGuw0">
+  <a href="https://music.youtube.com/watch?v=2eNEQ0cQtkI">
+    <img width="300" src="https://lh3.googleusercontent.com/yZS5cGvyeDKPkCI5cmlD3p_O_CCjE4N6msFalbOEhuRytLta0QgzjPbJbzlh2KGzmEiG6sLafrzEf1Vx">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>YOASOBI - 祝福</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ STAR WALKIN' (League of Legends Worlds Anthem) ]</b>
+  included in <b>[ 祝福 ]</b>
   
   <br />
   <br />
-  11/21/2023 14:34 Playing on YTMusic
+  11/21/2023 14:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
