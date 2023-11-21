@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kJXQHpWqaeY">
-    <img width="300" src="https://lh3.googleusercontent.com/NI0brvqpTIsAdI5lTnzDzfnDTtkT-RodzKEjDfUvGtEAt4wcjAFbPC0VQMu4R3N72Mj8PZHQaZPe13ko">
+  <a href="https://music.youtube.com/watch?v=TBiNR9yhnaQ">
+    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Against the Current - blindfolded (acoustic)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - Trip (feat. 한나)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ blindfolded (acoustic) ]</b>
+  included in <b>[ Violinist ]</b>
   
   <br />
   <br />
-  11/21/2023 16:05 Playing on YTMusic
+  11/21/2023 16:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
