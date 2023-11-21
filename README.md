@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fdz_cabS9BU">
-    <img width="300" src="https://lh3.googleusercontent.com/emeqGnTWaGFe5roPNKOsSe5WFl81hEScrwhlaJkSrmZn8F-rcYVg_VtYKSj5v59eU5ZrUo3uzlbI0wDV">
+  <a href="https://music.youtube.com/watch?v=vV2rvrqlWL8">
+    <img width="300" src="https://lh3.googleusercontent.com/5-qyEVZXwTRljJ2AtbgGdzvNoo_JXDOr6NIdpJWMzwT5AyaTwmGcEYdhBy30aipbNjNKc6aanIzmiCSv">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Ed Sheeran(에드 시런) - Thinking out Loud</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fall Out Boy(폴 아웃 보이) - The Last Of The Real Ones</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ x (Deluxe Edition) ]</b>
+  included in <b>[ MANIA ]</b>
   
   <br />
   <br />
-  11/21/2023 15:47 Playing on YTMusic
+  11/21/2023 15:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
