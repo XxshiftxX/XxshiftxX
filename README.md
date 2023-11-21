@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=BFkFSdMDRg4">
+  <a href="https://music.youtube.com/watch?v=YtiHAPaLbaA">
     <img width="300" src="https://lh3.googleusercontent.com/85KAqcNV0aSEvl8p63_WQPzgPsZXRyx0zrBXqlYD81L5rUenVELXfM2shou8SSAChHDTmxoq2apeT51bSw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김효은 및 던말릭 (DON MALIK) - 나잇값</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김효은 및 던말릭 (DON MALIK) - city light</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ 49 ]</b>
   
   <br />
   <br />
-  11/21/2023 14:06 Playing on YTMusic
+  11/21/2023 14:10 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
