@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=p9AvPpkQ13w">
-    <img width="300" src="https://lh3.googleusercontent.com/9OSf_Oc7ILCTKrlkiMlbjmOFn0BXG40Fp9aaSRD2cBQdpb62tZj2OvsIqDMsYLgnd_Drnrf-5HXAblX2">
+  <a href="https://music.youtube.com/watch?v=kJXQHpWqaeY">
+    <img width="300" src="https://lh3.googleusercontent.com/NI0brvqpTIsAdI5lTnzDzfnDTtkT-RodzKEjDfUvGtEAt4wcjAFbPC0VQMu4R3N72Mj8PZHQaZPe13ko">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SPYAIR(스파이에어) - Movin' On</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Against the Current - blindfolded (acoustic)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 0 Game ]</b>
+  included in <b>[ blindfolded (acoustic) ]</b>
   
   <br />
   <br />
-  11/21/2023 16:02 Playing on YTMusic
+  11/21/2023 16:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
