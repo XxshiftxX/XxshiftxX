@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=uMqMsRk5a5E">
-    <img width="300" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">
+  <a href="https://music.youtube.com/watch?v=29mWpVp6944">
+    <img width="300" src="https://lh3.googleusercontent.com/KjbA-zeWqENWLtdUubPNBgoxzZ7ElSIdGWo9Hq84dk0ZHCs_-4GW7h6RbwKiYxZtX5EA7QNoeWOiBOI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Vaundy - 不可幸力</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>킹 누 - Umbrella</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ strobo ]</b>
+  included in <b>[ Ceremony ]</b>
   
   <br />
   <br />
-  11/21/2023 14:27 Playing on YTMusic
+  11/21/2023 14:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
