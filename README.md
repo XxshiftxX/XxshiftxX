@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=TBiNR9yhnaQ">
-    <img width="300" src="https://lh3.googleusercontent.com/F72A4V2wD8hpEdEBt7AOAFIBcUAvj5DuG_HR1UzVr24B0ZCqgfUSO_mfOsbPygXNx_SLaEG2_MkvagTy">
+  <a href="https://music.youtube.com/watch?v=8PhC75qPXpE">
+    <img width="300" src="https://lh3.googleusercontent.com/9pbuRwMH5tUQQJqf2HP-xH1hjay-4Ag-PlHdka7g9Qnpf52vsLKnj_QGSOrfAdy6w2pj9_0aj153-snN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈(Leellamarz) - Trip (feat. 한나)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DEAN - DIE 4 YOU</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Violinist ]</b>
+  included in <b>[ DIE 4 YOU ]</b>
   
   <br />
   <br />
-  11/21/2023 16:09 Playing on YTMusic
+  11/22/2023 15:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
