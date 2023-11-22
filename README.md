@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8PhC75qPXpE">
-    <img width="300" src="https://lh3.googleusercontent.com/9pbuRwMH5tUQQJqf2HP-xH1hjay-4Ag-PlHdka7g9Qnpf52vsLKnj_QGSOrfAdy6w2pj9_0aj153-snN">
+  <a href="https://music.youtube.com/watch?v=DttWpRemVfU">
+    <img width="300" src="https://lh3.googleusercontent.com/hlLCLz0Wcc-S2CH83W6kTQy9PaFXMmwEoXfOj6_E68BKL5Nbs0LxC-z9DBbCXZ922KnHzfEeDyrOB94D">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DEAN - DIE 4 YOU</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ado - unravel</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DIE 4 YOU ]</b>
+  included in <b>[ unravel ]</b>
   
   <br />
   <br />
-  11/22/2023 15:17 Playing on YTMusic
+  11/22/2023 16:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
