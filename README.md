@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XOl8GN-mxSU">
-    <img width="300" src="https://lh3.googleusercontent.com/owX8Q_pqKE6Q3HWirqES0X5Gu4s62n-InyLGafeeYg5s0VmYSFnNQrbOfhEJcGu7Of3hm_hOAvfajMP6">
+  <a href="https://music.youtube.com/watch?v=GeesYluywgo">
+    <img width="300" src="https://lh3.googleusercontent.com/1aAPj3iSWVCk_Hzy8Qdo5fYFkXrciaUxsGbO6bkQsk1QvPi-CC7J1ECYl1I1zJ68AyqL0JO2qWR7pDOg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>펀치넬로 (punchnello) - 묻다.(bury.) (feat. SOLE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크러쉬 - Deep End (feat. AMAKA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 묻다.(bury.) ]</b>
+  included in <b>[ wonderego ]</b>
   
   <br />
   <br />
-  11/27/2023 22:07 Playing on YTMusic
+  11/27/2023 22:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
