@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Ut2s9V_us8Q">
-    <img width="300" src="https://lh3.googleusercontent.com/1aAPj3iSWVCk_Hzy8Qdo5fYFkXrciaUxsGbO6bkQsk1QvPi-CC7J1ECYl1I1zJ68AyqL0JO2qWR7pDOg">
+  <a href="https://music.youtube.com/watch?v=IZchnF53J0s">
+    <img width="300" src="https://lh3.googleusercontent.com/iQO8RxL-VVr_HSaVe9Rhvil2E0JX5GaZI8VGyq0wOSDUy55lStksz3LICmTIIM2Wl4WYg1zjx3RBTeA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>크러쉬 - SHE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>페노메코 - 했을 걸 (feat. Hoody)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ wonderego ]</b>
+  included in <b>[ Dry Flower ]</b>
   
   <br />
   <br />
-  11/27/2023 22:23 Playing on YTMusic
+  11/27/2023 22:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
