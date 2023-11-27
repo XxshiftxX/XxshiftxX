@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=1x6pcgRXmPs">
-    <img width="300" src="https://lh3.googleusercontent.com/CqsBQp8riim_Wub-geWJv1I8mNc0bdl87MuaHFKjmYNxSrX06VOp_z6DHQ8Vb-YJjnsZ1tO0lYBHieM">
+  <a href="https://music.youtube.com/watch?v=tiFpz-FxSJg">
+    <img width="300" src="https://lh3.googleusercontent.com/EN6MppEhywxNeUjcI_39OJWyrGZzlfh0I6b-cmvRb3oJ_ZxeLqhjPwc7_z0AD6Zj9lsBREUoB7DnDhYO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 교통정리 (feat. 헤이즈(Heize))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - Bye bye my blue</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 교통정리 ]</b>
+  included in <b>[ Bye bye my blue ]</b>
   
   <br />
   <br />
-  11/27/2023 22:31 Playing on YTMusic
+  11/27/2023 22:34 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
