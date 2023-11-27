@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=u2LMzgzfTn0">
-    <img width="300" src="https://lh3.googleusercontent.com/wKMELcR2_elbOL2-5Z_UtzrZZIYPL41eiPIgtINbb9ADtBaYsRpwfEHy9ewVz531WrMN3MQbM1V4LaCb1g">
+  <a href="https://music.youtube.com/watch?v=jdzKPUhXa-o">
+    <img width="300" src="https://lh3.googleusercontent.com/T7zV1U9DY4QyX1-LRMh82bdLy4vzWszPdjassPk-gCJ5WaUFekhqCvOllR2txyn-LKyuUEj8t607PeI">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>릴러말즈 - 나쁜 X (feat. CHANGMO)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>League of Legends 및 NewJeans - GODS</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 인생은 한번이야 ]</b>
+  included in <b>[ GODS ]</b>
   
   <br />
   <br />
-  11/27/2023 21:40 Playing on YTMusic
+  11/27/2023 21:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
