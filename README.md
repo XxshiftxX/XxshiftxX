@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=IZchnF53J0s">
-    <img width="300" src="https://lh3.googleusercontent.com/iQO8RxL-VVr_HSaVe9Rhvil2E0JX5GaZI8VGyq0wOSDUy55lStksz3LICmTIIM2Wl4WYg1zjx3RBTeA">
+  <a href="https://music.youtube.com/watch?v=1x6pcgRXmPs">
+    <img width="300" src="https://lh3.googleusercontent.com/CqsBQp8riim_Wub-geWJv1I8mNc0bdl87MuaHFKjmYNxSrX06VOp_z6DHQ8Vb-YJjnsZ1tO0lYBHieM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>페노메코 - 했을 걸 (feat. Hoody)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 교통정리 (feat. 헤이즈(Heize))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dry Flower ]</b>
+  included in <b>[ 교통정리 ]</b>
   
   <br />
   <br />
-  11/27/2023 22:27 Playing on YTMusic
+  11/27/2023 22:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
