@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GeesYluywgo">
-    <img width="300" src="https://lh3.googleusercontent.com/1aAPj3iSWVCk_Hzy8Qdo5fYFkXrciaUxsGbO6bkQsk1QvPi-CC7J1ECYl1I1zJ68AyqL0JO2qWR7pDOg">
+  <a href="https://music.youtube.com/watch?v=oKgCka74xJ4">
+    <img width="300" src="https://lh3.googleusercontent.com/xmrK4gKJYIswInx5wbSv-3ixwqXa206HV645_da5wZtP8mddxL7WR862ytzMtzDtujDLVyjEU3dp68m2">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>크러쉬 - Deep End (feat. AMAKA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>merrymerryseoul - Summer Travel (by u^^Vp, 재균) (Prod. BLANCASH)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ wonderego ]</b>
+  included in <b>[ 없어진, 잊혀진, 잃어버린 것들 ]</b>
   
   <br />
   <br />
-  11/27/2023 22:09 Playing on YTMusic
+  11/27/2023 22:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
