@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jdzKPUhXa-o">
-    <img width="300" src="https://lh3.googleusercontent.com/T7zV1U9DY4QyX1-LRMh82bdLy4vzWszPdjassPk-gCJ5WaUFekhqCvOllR2txyn-LKyuUEj8t607PeI">
+  <a href="https://music.youtube.com/watch?v=h0ccMK0U9nY">
+    <img width="300" src="https://lh3.googleusercontent.com/AoumIJIXIR7IILMeA8T0I_g6eg_r0-xytsAO8gjZXUzjeCt1LHOw6qugmXKLExIcv8SUxXqkHTw8BPs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>League of Legends 및 NewJeans - GODS</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Alone (feat. 이하이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GODS ]</b>
+  included in <b>[ ALONE ]</b>
   
   <br />
   <br />
-  11/27/2023 21:42 Playing on YTMusic
+  11/27/2023 21:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
