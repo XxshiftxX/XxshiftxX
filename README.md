@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Zt58EeBijBM">
-    <img width="300" src="https://lh3.googleusercontent.com/qinv3LenedbvI-sDV9H_1h0eBX2nedPOjfaHg9dYmuHQVVabw_36CVnuA1wgZR3FlocS_yC9KMazHTc">
+  <a href="https://music.youtube.com/watch?v=lq3NLUN8DDc">
+    <img width="300" src="https://lh3.googleusercontent.com/quN2WPMLxcP3OAbm1KEGsEGUYbbMdeqtOF1u4fKa-wpj17d0PfIltzdbzBL5_cY8rlYjpe_nKh7ahmYQ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>sweetch - b u b b l e ✧ (feat. Haedo)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DEAN(딘) - instagram</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ light #3 ]</b>
+  included in <b>[ instagram ]</b>
   
   <br />
   <br />
-  11/27/2023 22:39 Playing on YTMusic
+  11/27/2023 22:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
