@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8PhC75qPXpE">
-    <img width="300" src="https://lh3.googleusercontent.com/9pbuRwMH5tUQQJqf2HP-xH1hjay-4Ag-PlHdka7g9Qnpf52vsLKnj_QGSOrfAdy6w2pj9_0aj153-snN">
+  <a href="https://music.youtube.com/watch?v=7wstmDsnSvg">
+    <img width="300" src="https://lh3.googleusercontent.com/9vFHAGLSprQ7ss-VA99Ks-SesyQVws_JlTccJ9jCeOA0jjTNRtR7o0-jAyOivnYR9zlQ0AWPBC7At_LEnw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DEAN - DIE 4 YOU</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크러쉬 - Wake Up (feat. DEAN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DIE 4 YOU ]</b>
+  included in <b>[ From Midnight To Sunrise ]</b>
   
   <br />
   <br />
-  11/27/2023 21:32 Playing on YTMusic
+  11/27/2023 21:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
