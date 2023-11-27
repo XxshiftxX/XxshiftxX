@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lq3NLUN8DDc">
-    <img width="300" src="https://lh3.googleusercontent.com/quN2WPMLxcP3OAbm1KEGsEGUYbbMdeqtOF1u4fKa-wpj17d0PfIltzdbzBL5_cY8rlYjpe_nKh7ahmYQ">
+  <a href="https://music.youtube.com/watch?v=UfvEdyq25R8">
+    <img width="300" src="https://lh3.googleusercontent.com/8Meyif44b-YhgDLQPC27tgVyf7nJTllillFM9XdNt-cU7S-jq7OXuyeNmHpIYWRzRd6YpaCQELDsSpwLfw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DEAN(딘) - instagram</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>g0nny (거니) - 꽃잎</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ instagram ]</b>
+  included in <b>[ 꽃잎 ]</b>
   
   <br />
   <br />
-  11/27/2023 22:44 Playing on YTMusic
+  11/27/2023 22:47 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
