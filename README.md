@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Nt9bkgRQbLs">
-    <img width="300" src="https://lh3.googleusercontent.com/De_fUzhB1A3TVGKEgeyImLQJ_vgZxd7zGlRMkuJkyc75ExYVSCAcD_m1fMpURUHTthLB3eYgWiBByG8">
+  <a href="https://music.youtube.com/watch?v=ifjzTjkNP6c">
+    <img width="300" src="https://lh3.googleusercontent.com/xgxVFoIkLyQUIoiduh-mw4LQ2ja5s3w3b64zQGDg68oR4ad3wlkAuvpI-Ftppo0yAxcIFgrLGdnSKR4">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Goldfinger - Superman</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Fall Out Boy(폴 아웃 보이) - "The Take Over, The Breaks Over"</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hang-Ups ]</b>
+  included in <b>[ Infinity On High ]</b>
   
   <br />
   <br />
-  11/27/2023 16:17 Playing on YTMusic
+  11/27/2023 16:20 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
