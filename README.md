@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Qnk4jiWamm4">
-    <img width="300" src="https://lh3.googleusercontent.com/TWWT47cHLv3yAugk4h9eOzQ46FHmXc_g-KmBVy2d4sbg_F-Gv6xrPglztRVzp8D_l-yzOnvh-QToM8s">
+  <a href="https://music.youtube.com/watch?v=8PhC75qPXpE">
+    <img width="300" src="https://lh3.googleusercontent.com/9pbuRwMH5tUQQJqf2HP-xH1hjay-4Ag-PlHdka7g9Qnpf52vsLKnj_QGSOrfAdy6w2pj9_0aj153-snN">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Radiohead(라디오헤드) - Just</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DEAN - DIE 4 YOU</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Bends ]</b>
+  included in <b>[ DIE 4 YOU ]</b>
   
   <br />
   <br />
-  11/27/2023 16:29 Playing on YTMusic
+  11/27/2023 21:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
