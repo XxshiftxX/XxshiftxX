@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=06HcqK2vvlw">
-    <img width="300" src="https://lh3.googleusercontent.com/229bErE63A6cZfHAi7RNSA9xSfBO4NaeA7cNEGtTjJv8N457Yz01RAICVOUGiG93qurZJp4p3GBNhZBF">
+  <a href="https://music.youtube.com/watch?v=1TQ_48rLDjY">
+    <img width="300" src="https://lh3.googleusercontent.com/ha6bVWBA7E_wVBMyhsaeSjjO090MpFB2_aLiaEuZG-Q09TcwcEsmtHFZTvMsTgG7BRYoA6Tdb-DczC8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>그린 데이 - When I Come Around</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>릴 빅 피시 - Take On Me</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dookie ]</b>
+  included in <b>[ Favorite Noise ]</b>
   
   <br />
   <br />
-  11/27/2023 16:23 Playing on YTMusic
+  11/27/2023 16:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
