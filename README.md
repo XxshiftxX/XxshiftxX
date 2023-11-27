@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=NYEL4dtI4Ow">
-    <img width="300" src="https://lh3.googleusercontent.com/bR0cX_rLSs_mtc36YN3OMXxpyrEatyoPiVsDEK2Vbg8Yv9U6F4qRrkn3ZMrdKp5vMQI358YWedeuKZwf">
+  <a href="https://music.youtube.com/watch?v=Ua22DL02vWM">
+    <img width="300" src="https://lh3.googleusercontent.com/VloccvouShlqB5cf0yrGoqlHoQydv-TiMmJA5Fgvvy-9NWcq42WuuhVEHiY0jfTAe9neexL7c6mRsVft">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PATEKO, Jayci yucca 및 Kid Wine - 또 한 번의 밤을 보내며</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>THAMA - 산들바람 (Breeze)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 또 한 번의 밤을 보내며 ]</b>
+  included in <b>[ WOOOF! ]</b>
   
   <br />
   <br />
-  11/27/2023 21:56 Playing on YTMusic
+  11/27/2023 22:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
