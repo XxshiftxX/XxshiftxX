@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=i5-ZApaXEXg">
-    <img width="300" src="https://lh3.googleusercontent.com/1aAPj3iSWVCk_Hzy8Qdo5fYFkXrciaUxsGbO6bkQsk1QvPi-CC7J1ECYl1I1zJ68AyqL0JO2qWR7pDOg">
+  <a href="https://music.youtube.com/watch?v=Zt58EeBijBM">
+    <img width="300" src="https://lh3.googleusercontent.com/qinv3LenedbvI-sDV9H_1h0eBX2nedPOjfaHg9dYmuHQVVabw_36CVnuA1wgZR3FlocS_yC9KMazHTc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>크러쉬 - Monday Blues</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>sweetch - b u b b l e ✧ (feat. Haedo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ wonderego ]</b>
+  included in <b>[ light #3 ]</b>
   
   <br />
   <br />
-  11/27/2023 22:36 Playing on YTMusic
+  11/27/2023 22:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
