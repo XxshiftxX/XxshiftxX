@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=N3bk5L7wM0k">
-    <img width="300" src="https://lh3.googleusercontent.com/DN0qeaAvNDWFcjpcKWKqKeppt977Mn5QJksjeP_MN8DVI2dk-O8gDSUNc6u6hmi9Z5mZRlA9CmPSQeY">
+  <a href="https://music.youtube.com/watch?v=XOl8GN-mxSU">
+    <img width="300" src="https://lh3.googleusercontent.com/owX8Q_pqKE6Q3HWirqES0X5Gu4s62n-InyLGafeeYg5s0VmYSFnNQrbOfhEJcGu7Of3hm_hOAvfajMP6">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>넬 (Nell) - Wanderer</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>펀치넬로 (punchnello) - 묻다.(bury.) (feat. SOLE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Wanderer ]</b>
+  included in <b>[ 묻다.(bury.) ]</b>
   
   <br />
   <br />
-  11/27/2023 22:02 Playing on YTMusic
+  11/27/2023 22:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
