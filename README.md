@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GF_FPaRCUmE">
-    <img width="300" src="https://lh3.googleusercontent.com/qS2t1vtYlBO2nhstY7z5vBUtmn_LuKUU0RfI9oGZEtaYMHzgLmMAcXJML14PCjoUS9hbQ_3cHjfpYsKt">
+  <a href="https://music.youtube.com/watch?v=hec789eUt0E">
+    <img width="300" src="https://lh3.googleusercontent.com/iJpTLcGYZbuopaIuB-QeQMobKeqwBrhrbsUzD55Q_ruixlQz5O_5lih28iHzsjTVc9319sALh0hhuT4t">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Way Ched (웨이체드) 및 TRADE L - FLIRT (feat. Leellamarz)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>야루 - 밤의 품에 (feat. 범키)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CHED&L ]</b>
+  included in <b>[ 밤의 품에 (by. 범키) ]</b>
   
   <br />
   <br />
-  11/27/2023 22:17 Playing on YTMusic
+  11/27/2023 22:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
