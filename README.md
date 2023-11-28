@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=w2t4P7HSuGg">
-    <img width="300" src="https://lh3.googleusercontent.com/85KAqcNV0aSEvl8p63_WQPzgPsZXRyx0zrBXqlYD81L5rUenVELXfM2shou8SSAChHDTmxoq2apeT51bSw">
+  <a href="https://music.youtube.com/watch?v=iwnHOPY3Z24">
+    <img width="300" src="https://lh3.googleusercontent.com/wSaCVGFPFZoiOU2zWu-9epNWqFlsMlMbL9qGWNOVqAFR61Ol8U-2Igw00GFKyjSCCCHhb2anT9vPp98">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김효은 및 던말릭 (DON MALIK) - 콩깍지</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김효은 - Finally remix (feat. 윤진영, 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 49 ]</b>
+  included in <b>[ LOVE-HATE ]</b>
   
   <br />
   <br />
-  11/28/2023 13:24 Playing on YTMusic
+  11/28/2023 13:28 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
