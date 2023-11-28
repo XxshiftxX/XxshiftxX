@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=31CmQXt50HA">
-    <img width="300" src="https://lh3.googleusercontent.com/MsJOH4s8jamz0ZF_7ipIXvfbO40KtfUvkKOgWP8l1z9VByInR4CNVH4V_NJJJBA8E5BlxAL8UFZSlFDi">
+  <a href="https://music.youtube.com/watch?v=w8g15-inzQM">
+    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SINCE - No Matter What</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - `15 (feat. Golden)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ THE SOLOEST ]</b>
+  included in <b>[ The Island Kid ]</b>
   
   <br />
   <br />
-  11/28/2023 13:39 Playing on YTMusic
+  11/28/2023 13:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
