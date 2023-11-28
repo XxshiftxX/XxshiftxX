@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=UfvEdyq25R8">
-    <img width="300" src="https://lh3.googleusercontent.com/8Meyif44b-YhgDLQPC27tgVyf7nJTllillFM9XdNt-cU7S-jq7OXuyeNmHpIYWRzRd6YpaCQELDsSpwLfw">
+  <a href="https://music.youtube.com/watch?v=w2t4P7HSuGg">
+    <img width="300" src="https://lh3.googleusercontent.com/85KAqcNV0aSEvl8p63_WQPzgPsZXRyx0zrBXqlYD81L5rUenVELXfM2shou8SSAChHDTmxoq2apeT51bSw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>g0nny (거니) - 꽃잎</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김효은 및 던말릭 (DON MALIK) - 콩깍지</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 꽃잎 ]</b>
+  included in <b>[ 49 ]</b>
   
   <br />
   <br />
-  11/27/2023 22:47 Playing on YTMusic
+  11/28/2023 13:24 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
