@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ehJ4uSmJ30I">
-    <img width="300" src="https://lh3.googleusercontent.com/fBGIbyszYQ1dimP_7Qg1K_gl7oMkYC3J2TMy_ge2YGz5GloxtvEzIrAH7ddEG1xg8W0xTIdA0u0p82es">
+  <a href="https://music.youtube.com/watch?v=5xiyuTMgCPI">
+    <img width="300" src="https://lh3.googleusercontent.com/EjV8lfgwoDLQyS_4_jrGuTqKEN1FQ3TqgkIQYmivftm6aB891EDyWpiWdW6LPpqs_fCESQR1AH_dr6wd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - 9924 (feat. Gist)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오케이션 - Get That Money</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MADE IN SEOUL ]</b>
+  included in <b>[ Get That Money ]</b>
   
   <br />
   <br />
-  11/28/2023 13:32 Playing on YTMusic
+  11/28/2023 13:36 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
