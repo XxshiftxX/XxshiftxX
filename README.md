@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=iwnHOPY3Z24">
-    <img width="300" src="https://lh3.googleusercontent.com/wSaCVGFPFZoiOU2zWu-9epNWqFlsMlMbL9qGWNOVqAFR61Ol8U-2Igw00GFKyjSCCCHhb2anT9vPp98">
+  <a href="https://music.youtube.com/watch?v=ehJ4uSmJ30I">
+    <img width="300" src="https://lh3.googleusercontent.com/fBGIbyszYQ1dimP_7Qg1K_gl7oMkYC3J2TMy_ge2YGz5GloxtvEzIrAH7ddEG1xg8W0xTIdA0u0p82es">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김효은 - Finally remix (feat. 윤진영, 창모(CHANGMO))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>던말릭 (DON MALIK) - 9924 (feat. Gist)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ LOVE-HATE ]</b>
+  included in <b>[ MADE IN SEOUL ]</b>
   
   <br />
   <br />
-  11/28/2023 13:28 Playing on YTMusic
+  11/28/2023 13:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
