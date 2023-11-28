@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=w8g15-inzQM">
-    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
+  <a href="https://music.youtube.com/watch?v=NGmKY_gPHb0">
+    <img width="300" src="https://lh3.googleusercontent.com/iQO8RxL-VVr_HSaVe9Rhvil2E0JX5GaZI8VGyq0wOSDUy55lStksz3LICmTIIM2Wl4WYg1zjx3RBTeA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - `15 (feat. Golden)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>페노메코 - Hotel Lobby (feat. Verbal Jint)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Island Kid ]</b>
+  included in <b>[ Dry Flower ]</b>
   
   <br />
   <br />
-  11/28/2023 13:42 Playing on YTMusic
+  11/28/2023 13:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
