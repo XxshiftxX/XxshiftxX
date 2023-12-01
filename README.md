@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2o9aoL0NWpw">
+  <a href="https://music.youtube.com/watch?v=rMXlAJOQsss">
     <img width="300" src="https://lh3.googleusercontent.com/s0pyPiTCElsfstNcNAwUDMiKnMicqBvuvP0SZxHawDOsJhko6ZoaI-iawQ1BWF9pvF072UBnUVv9DtJZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Rage Against The Machine - Killing In the Name</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Rage Against The Machine - Take the Power Back</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Rage Against The Machine ]</b>
   
   <br />
   <br />
-  12/01/2023 11:52 Playing on YTMusic
+  12/01/2023 11:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
