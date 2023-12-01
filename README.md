@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=jFU6xiWbHT0">
+  <a href="https://music.youtube.com/watch?v=jwcq2Ci6jx0">
     <img width="300" src="https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Nirvana - Drain You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Nirvana - Lounge Act</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Nevermind ]</b>
   
   <br />
   <br />
-  12/01/2023 09:36 Playing on YTMusic
+  12/01/2023 09:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
