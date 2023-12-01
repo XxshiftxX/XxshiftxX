@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=fLndnUeWlQo">
+  <a href="https://music.youtube.com/watch?v=BbbWzMGSUuE">
     <img width="300" src="https://lh3.googleusercontent.com/s0pyPiTCElsfstNcNAwUDMiKnMicqBvuvP0SZxHawDOsJhko6ZoaI-iawQ1BWF9pvF072UBnUVv9DtJZ">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Rage Against The Machine - Settle for Nothing</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Rage Against The Machine - Bullet In the Head</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ Rage Against The Machine ]</b>
   
   <br />
   <br />
-  12/01/2023 12:04 Playing on YTMusic
+  12/01/2023 12:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
