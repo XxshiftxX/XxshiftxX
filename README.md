@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LBt60dfwEBY">
-    <img width="300" src="https://lh3.googleusercontent.com/SPHeXqlEhzw-pPbAx3AQU4HSD-XuSMlPtLsptfvHOjOTd6F_1ZbELaOYn1d8-jGZ5HW8O1R0pLqausuVZw">
+  <a href="https://music.youtube.com/watch?v=4nzZeUUiG2c">
+    <img width="300" src="https://lh3.googleusercontent.com/xhq4w_EYewqWP6ExyUuZuitKXysad110gf_6X-pCPsQMlpnc0UBqX4GVvPw-3I1SWO-rjKP1juPCskH3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Radiohead - No Surprises</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>my bloody valentine - only shallow</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OK Computer ]</b>
+  included in <b>[ loveless ]</b>
   
   <br />
   <br />
-  12/01/2023 11:12 Playing on YTMusic
+  12/01/2023 11:40 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
