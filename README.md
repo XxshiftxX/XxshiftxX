@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=eeybhp1d0Xk">
-    <img width="300" src="https://lh3.googleusercontent.com/kFFyhTnD0rYm8SjQIf7Gz00k6LKMbC19eH2BDOzWgMs-b1xtTNyJzmGtzIgiOItr9CVfKt7YZ7qPwNk">
+  <a href="https://music.youtube.com/watch?v=vHfAjfKVMew">
+    <img width="300" src="https://lh3.googleusercontent.com/RSbGntYDLWHM9bT2pMuMhcYXoEkHr-WAYX2r6I0_ChgEvjUdb8XDXNT2qk_JLtG3aI61nx49UsGv1Ys">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>우효 - Teddy Bear Returns (Summer Edition)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ado - 逆光 (ウタ from ONE PIECE FILM RED)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Teddy Bear Returns (Summer Edition) ]</b>
+  included in <b>[ 逆光 (ウタ from ONE PIECE FILM RED) ]</b>
   
   <br />
   <br />
-  12/01/2023 09:06 Playing on YTMusic
+  12/01/2023 09:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
