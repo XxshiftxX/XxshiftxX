@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_fTWmUlTEqE">
+  <a href="https://music.youtube.com/watch?v=Bf01riuiJWA">
     <img width="300" src="https://lh3.googleusercontent.com/SPHeXqlEhzw-pPbAx3AQU4HSD-XuSMlPtLsptfvHOjOTd6F_1ZbELaOYn1d8-jGZ5HW8O1R0pLqausuVZw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Radiohead - Subterranean Homesick Alien</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Radiohead - Exit Music (For a Film)</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ OK Computer ]</b>
   
   <br />
   <br />
-  12/01/2023 10:12 Playing on YTMusic
+  12/01/2023 10:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
