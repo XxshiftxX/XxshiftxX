@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=drYlfbHy30c">
-    <img width="300" src="https://lh3.googleusercontent.com/XEQV_-Dg26iGqxnmhtNbB8kGmuAPVWXtMIoivtBVSv75CyW1JAVEQ2fftXL--Km7ZLXh8S1ncF3YfSrpWA">
+  <a href="https://music.youtube.com/watch?v=MUyoeDVGoBk">
+    <img width="300" src="https://lh3.googleusercontent.com/JXBhGHLdtcnnywU7nHbVhz9UZeWTHgkZ8FbkZd3osfg2SUWAHRTm8rEJlNBQVQuG33Gf9kgBqoSPwMsljw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Mrs. GREEN APPLE - Inferno</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>King Gnu - MIRROR</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Inferno & More Hits ]</b>
+  included in <b>[ THE GREATEST UNKNOWN ]</b>
   
   <br />
   <br />
-  12/04/2023 15:51 Playing on YTMusic
+  12/05/2023 10:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
