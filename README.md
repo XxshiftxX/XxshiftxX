@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vXl9bDJ1C9I">
-    <img width="300" src="https://lh3.googleusercontent.com/pMeZwrofF5cLstYjcKnGLVDThGyleRvgE2M-4AH192reugFQWJi7yRx0Q_g1nmPt7jHuGZMABcM6Pdc">
+  <a href="https://music.youtube.com/watch?v=P5SLKIfzo6M">
+    <img width="300" src="https://lh3.googleusercontent.com/dSPaFoqzgcpoRGXqoYRdbvwipfQgx399p_lXsxJUNgtbDWO-RYTseUDLBu-3zsQha-W8Zmo_jJOZb2tR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Tenpercent Curtain - 貫禄とユーモア</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yuuri - Astronauts -Orchestral Arrangement Version-</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 貫禄とユーモア ]</b>
+  included in <b>[ Hibiku ]</b>
   
   <br />
   <br />
-  12/05/2023 11:57 Playing on YTMusic
+  12/05/2023 12:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
