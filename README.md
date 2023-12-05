@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lvaydAGvWog">
-    <img width="300" src="https://lh3.googleusercontent.com/6WReQ0F6MrH7kF1Zj9qDGf40GvW40x262hvhIuHWkmoWQHwsoIEGsskDbLD6Lw1WB8xt-agfbsqQz2-V1A">
+  <a href="https://music.youtube.com/watch?v=vXl9bDJ1C9I">
+    <img width="300" src="https://lh3.googleusercontent.com/pMeZwrofF5cLstYjcKnGLVDThGyleRvgE2M-4AH192reugFQWJi7yRx0Q_g1nmPt7jHuGZMABcM6Pdc">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>キタニタツヤ - PINK</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Tenpercent Curtain - 貫禄とユーモア</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ BIPOLAR ]</b>
+  included in <b>[ 貫禄とユーモア ]</b>
   
   <br />
   <br />
-  12/05/2023 11:53 Playing on YTMusic
+  12/05/2023 11:57 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
