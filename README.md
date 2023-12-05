@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=A_KoJ5-BhZc">
-    <img width="300" src="https://lh3.googleusercontent.com/Eb6lcDGYoiL2LYIYqFMwbjgE3CcJhlJk8fYyBPLO6hHE9D3E6S9WN_jNuXtqUeBf8nByStAvfj1bLsFf">
+  <a href="https://music.youtube.com/watch?v=MPvdGK3CJ90">
+    <img width="300" src="https://lh3.googleusercontent.com/v7kRmzMNRaWywpfWlYnHHe6oVhXVo5fmtOCj17W-ybpDkhcsVApLWx1qhV4q1rKyLM1yZ32qPxFXUGsp7Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>PEOPLE 1 - DOGLAND</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Anonymouz - Night Owl (100kaiouto Remix) (feat. wanuka)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ DOGLAND ]</b>
+  included in <b>[ Night Owl (100kaiouto Remix) ]</b>
   
   <br />
   <br />
-  12/05/2023 12:05 Playing on YTMusic
+  12/05/2023 12:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
