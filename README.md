@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YYrgpnumkvE">
-    <img width="300" src="https://lh3.googleusercontent.com/lHAxC-hbwL5mST-rw7XwDbHtwAQNqCzqcU5CQenl1_WQajF3qyOCHu2OTwYlVGTc8lmh-07-T77dvpg">
+  <a href="https://music.youtube.com/watch?v=PxQxeCTOBU0">
+    <img width="300" src="https://lh3.googleusercontent.com/0n5dl5UnsN-img3LZ-t4qKa8D8zY6EFHyfCtQDcV6Fxj__CQ8HpLmwGzsBxKxmNWOvz3LrkZVAAaKf22">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>millennium parade - FAMILIA</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Ozaki Hiroya - When the music is over (feat. Mizuki Ohira)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ THE MILLENNIUM PARADE ]</b>
+  included in <b>[ Golden Hour ]</b>
   
   <br />
   <br />
-  12/05/2023 14:12 Playing on YTMusic
+  12/05/2023 14:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
