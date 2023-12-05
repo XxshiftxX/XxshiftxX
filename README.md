@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=PHyjB_ow4D0">
-    <img width="300" src="https://lh3.googleusercontent.com/sdqWrRfTwR0OUV_jdIQWKDXU1jnL7cmdcJtOgwDT2cC-3ngpTQQKg7sdkrmGJqgo3aSLSgEwyWmarKg">
+  <a href="https://music.youtube.com/watch?v=Xay0HJ4LsNc">
+    <img width="300" src="https://lh3.googleusercontent.com/pYNfOjHHfaINeMxgblPBaHPqz8GLCuD9mkxpUqfdeDsMj2YUoWDO3oYUggUnayW9V8CY0YWOYWoC6QA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Sakai Yu - It's You</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Vaundy - しわあわせ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Only Yu ]</b>
+  included in <b>[ しわあわせ ]</b>
   
   <br />
   <br />
-  12/05/2023 11:45 Playing on YTMusic
+  12/05/2023 11:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
