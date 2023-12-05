@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XOaSFj7Q6HY">
+  <a href="https://music.youtube.com/watch?v=EUF47UGmREU">
     <img width="300" src="https://lh3.googleusercontent.com/JXBhGHLdtcnnywU7nHbVhz9UZeWTHgkZ8FbkZd3osfg2SUWAHRTm8rEJlNBQVQuG33Gf9kgBqoSPwMsljw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>King Gnu - Ame Sansan</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>King Gnu - BOY</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ THE GREATEST UNKNOWN ]</b>
   
   <br />
   <br />
-  12/05/2023 11:17 Playing on YTMusic
+  12/05/2023 11:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
