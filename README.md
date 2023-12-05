@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Y44B21cl8JQ">
-    <img width="300" src="https://lh3.googleusercontent.com/x_bIKORfMffBjRAvHoNhPdviZtds0gLtMcy9bAvSin015QnthqObf0HZlIK4MHu6Wu-WKi5BB_aRUl4">
+  <a href="https://music.youtube.com/watch?v=roZaPAlr2dg">
+    <img width="300" src="https://lh3.googleusercontent.com/nSQjULASV6pnZWfiv69tAK2ESrZNqycZ9T2wkAE_iK6Apar535ENVTQkeFDp9UJFrpGIoNoqR9I_qgY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>dawgss - MAJIC</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>OFFICIAL HIGE DANDISM - 日常</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ INORI ]</b>
+  included in <b>[ 日常 ]</b>
   
   <br />
   <br />
-  12/05/2023 13:46 Playing on YTMusic
+  12/05/2023 14:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
