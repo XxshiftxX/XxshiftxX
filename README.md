@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P5SLKIfzo6M">
-    <img width="300" src="https://lh3.googleusercontent.com/dSPaFoqzgcpoRGXqoYRdbvwipfQgx399p_lXsxJUNgtbDWO-RYTseUDLBu-3zsQha-W8Zmo_jJOZb2tR">
+  <a href="https://music.youtube.com/watch?v=A_KoJ5-BhZc">
+    <img width="300" src="https://lh3.googleusercontent.com/Eb6lcDGYoiL2LYIYqFMwbjgE3CcJhlJk8fYyBPLO6hHE9D3E6S9WN_jNuXtqUeBf8nByStAvfj1bLsFf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Yuuri - Astronauts -Orchestral Arrangement Version-</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>PEOPLE 1 - DOGLAND</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hibiku ]</b>
+  included in <b>[ DOGLAND ]</b>
   
   <br />
   <br />
-  12/05/2023 12:01 Playing on YTMusic
+  12/05/2023 12:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
