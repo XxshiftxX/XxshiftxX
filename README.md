@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=d_3aRjeix8c">
+  <a href="https://music.youtube.com/watch?v=9y5iaRtS3hU">
     <img width="300" src="https://lh3.googleusercontent.com/JXBhGHLdtcnnywU7nHbVhz9UZeWTHgkZ8FbkZd3osfg2SUWAHRTm8rEJlNBQVQuG33Gf9kgBqoSPwMsljw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>King Gnu - Delta</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>King Gnu - Sakayume</b> &nbsp&nbsp&nbsp🎵
   <br>
   included in <b>[ THE GREATEST UNKNOWN ]</b>
   
   <br />
   <br />
-  12/05/2023 10:45 Playing on YTMusic
+  12/05/2023 10:46 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
