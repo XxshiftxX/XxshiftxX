@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rY3JFD52ipk">
-    <img width="300" src="https://lh3.googleusercontent.com/xuJMs5m8hQM44jnFmLGNcbFRSoECT4gUgStaaOmkyMx995fOcivKmSq04ZqunPCAPhY6ciSxTGknDtZL">
+  <a href="https://music.youtube.com/watch?v=mnXOzVfyZeM">
+    <img width="300" src="https://lh3.googleusercontent.com/XBoVCDP7hPE1nkA5wCV-y_skoQaw4kLVqGG_9YfEiH9Re9LX-PZjta6-g4ST_SC4lmcoys1N6RU0LidO">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Fujii Kaze - Hana</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>THREE1989 - morning bird</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Hana ]</b>
+  included in <b>[ morning bird ]</b>
   
   <br />
   <br />
-  12/05/2023 14:22 Playing on YTMusic
+  12/06/2023 11:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
