@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9Unrl9Yi55s">
-    <img width="300" src="https://lh3.googleusercontent.com/dP_vI0XXlNl3JKI4x-K3KvFhttkKeOA3H9LJ7E5rWzCmXwG5wPZySFYQ7soDeoXx6lckdpiOkTkU6p-L">
+  <a href="https://music.youtube.com/watch?v=h0ccMK0U9nY">
+    <img width="300" src="https://lh3.googleusercontent.com/AoumIJIXIR7IILMeA8T0I_g6eg_r0-xytsAO8gjZXUzjeCt1LHOw6qugmXKLExIcv8SUxXqkHTw8BPs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>디핵 (D-Hack) 및 PATEKO (파테코) - OHAYO MY NIGHT</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Alone (feat. 이하이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ OHAYO MY NIGHT ]</b>
+  included in <b>[ ALONE ]</b>
   
   <br />
   <br />
-  12/07/2023 11:39 Playing on YTMusic
+  12/07/2023 11:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
