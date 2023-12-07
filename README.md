@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=6d-ygS1tKuU">
-    <img width="300" src="https://lh3.googleusercontent.com/_-maRiTVmQHydddlmmtgGUBxcRwhZEkwHGFaaAKt41vqZFJxfcHRfdh9nEjAdyufM-lB5WdbEccZ2hY">
+  <a href="https://music.youtube.com/watch?v=KMvxAH-bRmw">
+    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>DPR LIVE - Jasmine</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Joker (feat. JAMIE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Jasmine ]</b>
+  included in <b>[ Bucket List ]</b>
   
   <br />
   <br />
-  12/07/2023 12:03 Playing on YTMusic
+  12/07/2023 12:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
