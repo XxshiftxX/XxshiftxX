@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=xKRYKEUwS0E">
-    <img width="300" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">
+  <a href="https://music.youtube.com/watch?v=MC6HbNML5MY">
+    <img width="300" src="https://lh3.googleusercontent.com/-TkZjxquIByrxGSbwhVtJjqKCeXF4qOTk5GPuFbfcpDb105bsr4A5eB2W7fgOhTmZJe_Y1SpmQbGrXLE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>마미손 - 사랑은 (Remaster) (feat. Wonstein)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>기리보이 - 눈이 오던 날 (feat. SOLE)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 나의슬픔(My Sadness)(Remaster) ]</b>
+  included in <b>[ 눈이 오던 날 ]</b>
   
   <br />
   <br />
-  12/07/2023 13:02 Playing on YTMusic
+  12/07/2023 13:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
