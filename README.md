@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=y799k7ITSAQ">
-    <img width="300" src="https://lh3.googleusercontent.com/XFqMOdjdqFHsAFvJS4zmK46d9hGoa7ateSMAJQRLWfWUF2DUmJyZuIQhcNg8BEmae4kA66NoWrAeoRXiRg">
+  <a href="https://music.youtube.com/watch?v=h4Zn-5x9_Jw">
+    <img width="300" src="https://lh3.googleusercontent.com/t1MkaRP21cSNtBno4SO5-2gnBQLNjuRi9tbZHq_f6NuM7adOfcwq67s7WbAXQx5yARyzKhma8A5MKoE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>RAGA - 夢の続き (feat. Frankkiss)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>휘인 - Letter Filled With Light</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ WICKED ]</b>
+  included in <b>[ WHEE ]</b>
   
   <br />
   <br />
-  12/07/2023 18:13 Playing on YTMusic
+  12/07/2023 18:16 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
