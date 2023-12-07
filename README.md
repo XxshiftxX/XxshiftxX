@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9DuRqJ2WvYg">
-    <img width="300" src="https://lh3.googleusercontent.com/Wq_G1Y2ZoszrLus9OE3uMzlzaN4v0ECwq9fq_8lD1hb3I29_8ffHp8bbsiiIZzJMHGVy6gSsqc3F9uor">
+  <a href="https://music.youtube.com/watch?v=Ic2iQMDyfPo">
+    <img width="300" src="https://lh3.googleusercontent.com/FUrAEqtby_uLa-vVe9Ej7zxpwSNDUjJxilm5_WAcnA2awH3TuKHrxANbcbs0RApV1Hs4YS939zVugPou">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SOLE - 왜 (feat. Gaeko)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>백예린 - Lovegame</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 왜 ]</b>
+  included in <b>[ tellusboutyourself ]</b>
   
   <br />
   <br />
-  12/07/2023 13:50 Playing on YTMusic
+  12/07/2023 13:52 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
