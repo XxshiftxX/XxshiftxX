@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=nOXmo1qGkog">
-    <img width="300" src="https://lh3.googleusercontent.com/T9BdgrGw5kpbob5i_jBW3NBYhl0_LxnF-XD6EoiOaJXleI33Oi-B-UOdqisInBga3FZ0Om-cHeRyuZfk">
+  <a href="https://music.youtube.com/watch?v=s-lCRUxIFps">
+    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>수연이 - Lonely</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Game Night</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lonely ]</b>
+  included in <b>[ The Island Kid ]</b>
   
   <br />
   <br />
-  12/07/2023 16:18 Playing on YTMusic
+  12/07/2023 16:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
