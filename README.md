@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=hiUPJaHjuUk">
-    <img width="300" src="https://lh3.googleusercontent.com/-tdq58fAgaawQcx744mZUP67379plUJcWvzPSyfRy305ZmNcYii54WboN9OBa4I-cEdzu7u5yW4nSFlBQA">
+  <a href="https://music.youtube.com/watch?v=9oDweg-CNn4">
+    <img width="300" src="https://lh3.googleusercontent.com/FIg2S_3Jj0L9tCVzrzLhPxmC9OnKPDJ-f6y2oRvEuxeaDp44AijX8O-IRXvWfmSYL_4mH6vtN1E0tK4hsg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>아이유(IU) - 돌림노래 (feat. DEAN)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>미노이 (meenoi) - Tea time (feat. 10CM)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ IU 5th Album 'LILAC' ]</b>
+  included in <b>[ Tea time ]</b>
   
   <br />
   <br />
-  12/07/2023 12:29 Playing on YTMusic
+  12/07/2023 12:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
