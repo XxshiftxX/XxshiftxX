@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5unoMyCBXrk">
-    <img width="300" src="https://lh3.googleusercontent.com/Z3sZgMffyxtczrMFYSOLfXD1J_mRYigqctJ0M6a-xYbgjN-4KUE_hrqtylmeFCslroqmtpXnLHoWI0Sd">
+  <a href="https://music.youtube.com/watch?v=jmD5E2lcTmE">
+    <img width="300" src="https://lh3.googleusercontent.com/5mnC0KzS6PsUJt4crfdQwZqnmaqbNBaGLxgE6jfBJGUo7ALCUFB3wZoZpeIdkzjuTWz22ugwM6ER4eNi">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>크러쉬(Crush) - 넌</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Beenzino - Nike Shoes (feat. Dynamic Duo)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 넌 ]</b>
+  included in <b>[ 2 4 : 2 6 ]</b>
   
   <br />
   <br />
-  12/07/2023 17:22 Playing on YTMusic
+  12/07/2023 17:26 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
