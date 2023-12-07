@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=H9Sq31JUZyI">
-    <img width="300" src="https://lh3.googleusercontent.com/PEeEbxFd2Ouc06V9dxmDKdHPcWMPlMQLc3P70BdL8lnokJq7_NMwgcITrBik5IJYFEkuO1Ck1iD-7IK3Gg">
+  <a href="https://music.youtube.com/watch?v=WdIq0CNXnvg">
+    <img width="300" src="https://lh3.googleusercontent.com/AZbXj5D1Q51iNXHeDW0GwPHDqPRTGvCLROLBUPE4jgMYlIwxdcYi20lOWvAb_mxnDqIWHEwPNKattFs0">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>SOLE - 곁에 있어줘 (feat. Wonstein)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>박재범 - Need To Know</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 곁에 있어줘 ]</b>
+  included in <b>[ Need To Know ]</b>
   
   <br />
   <br />
-  12/07/2023 12:43 Playing on YTMusic
+  12/07/2023 12:45 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
