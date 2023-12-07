@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YtiHAPaLbaA">
-    <img width="300" src="https://lh3.googleusercontent.com/85KAqcNV0aSEvl8p63_WQPzgPsZXRyx0zrBXqlYD81L5rUenVELXfM2shou8SSAChHDTmxoq2apeT51bSw">
+  <a href="https://music.youtube.com/watch?v=gkh-1YIVz2A">
+    <img width="300" src="https://lh3.googleusercontent.com/xIOO-9mVNsQEg4YcTjeJ0_rndOayJHtb-vFHKHGWp_3QUP0LHepJBzMpA2CdngQaBYF_kudXtV0jEdhGVg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김효은 및 던말릭 (DON MALIK) - city light</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>흐를 - 커피는 너를 닮아서</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 49 ]</b>
+  included in <b>[ 커피는 너를 닮아서 ]</b>
   
   <br />
   <br />
-  12/07/2023 15:02 Playing on YTMusic
+  12/07/2023 15:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
