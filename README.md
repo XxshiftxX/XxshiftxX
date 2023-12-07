@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=GFYUJ_UMVZA">
-    <img width="300" src="https://lh3.googleusercontent.com/hTvDrYYDBhNEEmUKSt22wMaiJmKzXTMWNmbR-lUVvqlYprjo-gDrUHO5TYhWuNpIBsB9h0E0gPcOpZEw">
+  <a href="https://music.youtube.com/watch?v=k8gK2C85TjM">
+    <img width="300" src="https://lh3.googleusercontent.com/ZPcEDzrI7tk3zT1UJl5VuTBpqK2Io1TgYRzp2TCeU03g8VHOz1Y7B9IF_arMWRjw5sMH3FCHcMoSd0CTfg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>크러쉬 - 자나깨나 (feat. Joy, 조이 of Red Velvet)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>펀치 (Punch) - 밤이 되니까</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ homemade 1 ]</b>
+  included in <b>[ 밤이 되니까 ]</b>
   
   <br />
   <br />
-  12/07/2023 13:17 Playing on YTMusic
+  12/07/2023 13:21 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
