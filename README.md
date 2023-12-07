@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KMvxAH-bRmw">
-    <img width="300" src="https://lh3.googleusercontent.com/l8rLEEg8RtvywaAyTco8EfWlo93LcpkseXhq8AFpmiymQKgp1jmzU9LEhPdt9dg17KZxs6DZzgygffn9dg">
+  <a href="https://music.youtube.com/watch?v=LKUXc1uwA2Y">
+    <img width="300" src="https://lh3.googleusercontent.com/Jm7tah3dQ4569pTj62Qq-CTSdP3p2FpP-M_7JLtVlh2TRx4ZZRzA-Q1T1gCCJaTVYxnuWolzjVARfRM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - Joker (feat. JAMIE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Good Night (feat. 비오)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Bucket List ]</b>
+  included in <b>[ RE:UP ]</b>
   
   <br />
   <br />
-  12/07/2023 12:05 Playing on YTMusic
+  12/07/2023 12:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
