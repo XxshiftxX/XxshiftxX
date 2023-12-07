@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=sQsgQOOMXYI">
-    <img width="300" src="https://lh3.googleusercontent.com/IJMWrnZhN5LuuOtPWPF49GFsPT1waBNSnAmFzsriml3AlJG6pdsS5NfqrmxFr-LP2qGZZuDZX8A0LPlA">
+  <a href="https://music.youtube.com/watch?v=dbCgebXQtBU">
+    <img width="300" src="https://lh3.googleusercontent.com/x7INWwbHjPS-DVLCOC-8VKdTR5ABpt-rmI1HGjgo-IznTAAQ_HjxuFicntKfQK6dYqc-0OVIVuNV0EDY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이(Giriboy) - 고속</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - PEOPLE (feat. 더 콰이엇(The Quiett), Paloalto)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 신고식 5곡 ]</b>
+  included in <b>[ PEOPLE ]</b>
   
   <br />
   <br />
-  12/07/2023 16:57 Playing on YTMusic
+  12/07/2023 17:01 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
