@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9YftB_pqOVo">
-    <img width="300" src="https://lh3.googleusercontent.com/o0KQmWPp7hF_NME1hBniHhohbCYpDtbbLw3Dmk28ozBI7vdqsdK5PJ5DyFd9FMJlUOnI8UNO1Czr-Gs">
+  <a href="https://music.youtube.com/watch?v=NUELBXE94mU">
+    <img width="300" src="https://lh3.googleusercontent.com/xYh7NdmqmB3k15V7CnTosgv67AFqQo-xxoJQo05Oo1yXy4zLv2eOBVKKeytby6pi7HtXuwDrKK39Wphy">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Maydien - Something Special [Prod. by Mitchell Yard] (feat. Ayelle)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Gist - 인생네컷 (feat. JAEHA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Something Special [Prod. by Mitchell Yard] ]</b>
+  included in <b>[ Beginning ]</b>
   
   <br />
   <br />
-  12/07/2023 14:56 Playing on YTMusic
+  12/07/2023 14:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
