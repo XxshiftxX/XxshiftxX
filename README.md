@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=vbMJf5NIxtU">
-    <img width="300" src="https://lh3.googleusercontent.com/dGtng2X9vjJCrrGOlc2Iouiw1c8XTNBpTjJ1KKUgo2Ic6qxHK0QLhjxBuCQp4FDA6H3qS93wqEmIyJrP">
+  <a href="https://music.youtube.com/watch?v=3dEwX4X-EGE">
+    <img width="300" src="https://lh3.googleusercontent.com/NGce_SD2cHBmzUtBLooaLHb8mD7RQlMLkKjpsYc_O6xHKbO0AHgWbiLmhODvWI883FDGZ5yEZ0O3LLe-">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>원슈타인 - 존재만으로</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>BE'O - Counting Stars (feat. Beenzino)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 스물다섯 스물하나 OST Part 4 ]</b>
+  included in <b>[ Counting Stars ]</b>
   
   <br />
   <br />
-  12/07/2023 11:45 Playing on YTMusic
+  12/07/2023 11:49 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
