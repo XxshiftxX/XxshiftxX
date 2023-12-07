@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MuA6qjX6HHE">
-    <img width="300" src="https://lh3.googleusercontent.com/MHs5PES7gTfcKYZL7_6n8PvVjfzKAikrFPmL6d50n4kMXawmDA7HMqQkzQ3z15TFHA589nyiUWAelgpv">
+  <a href="https://music.youtube.com/watch?v=y799k7ITSAQ">
+    <img width="300" src="https://lh3.googleusercontent.com/XFqMOdjdqFHsAFvJS4zmK46d9hGoa7ateSMAJQRLWfWUF2DUmJyZuIQhcNg8BEmae4kA66NoWrAeoRXiRg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Penthouse (feat. Sik-K(식케이))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>RAGA - 夢の続き (feat. Frankkiss)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ GATSBY ]</b>
+  included in <b>[ WICKED ]</b>
   
   <br />
   <br />
-  12/07/2023 18:09 Playing on YTMusic
+  12/07/2023 18:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
