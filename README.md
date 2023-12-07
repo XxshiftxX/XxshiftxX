@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ZmKB_0tecKM">
-    <img width="300" src="https://lh3.googleusercontent.com/5KME1KuNnEzfO1wQYnA8LGRHaEtr5jI8KZ3moGt5XEuPgrZJ7pFGwpo85Kn2BJSV8ENY9NCKxPEca3px">
+  <a href="https://music.youtube.com/watch?v=P8N4nloV788">
+    <img width="300" src="https://lh3.googleusercontent.com/prL-l8btpKS3LHLrNtDoROZQ8Rl3MEvGVPxH_Na4oFeZ6ixm__53LnLTfPIJepMsfJn7DLYxVNdYKzhb">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>E SENS - No Boss (feat. Dok2)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Jay Park - YACHT (k) (feat. Sik-K)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 저금통 ]</b>
+  included in <b>[ YACHT (k) ]</b>
   
   <br />
   <br />
-  12/07/2023 15:27 Playing on YTMusic
+  12/07/2023 15:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
