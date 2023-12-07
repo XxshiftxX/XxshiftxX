@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=LKUXc1uwA2Y">
-    <img width="300" src="https://lh3.googleusercontent.com/Jm7tah3dQ4569pTj62Qq-CTSdP3p2FpP-M_7JLtVlh2TRx4ZZRzA-Q1T1gCCJaTVYxnuWolzjVARfRM">
+  <a href="https://music.youtube.com/watch?v=Z8E0apklL2w">
+    <img width="300" src="https://lh3.googleusercontent.com/uAxlSvSvAYe6rA-h3vItHWMuGqER3GJa9YMoZsf3Obmr_T47HggwKaQf8GsaufArJq0u9Cj8w8KxsVY">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Good Night (feat. 비오)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Yerin Baek - 그건 아마 우리의 잘못은 아닐 거야</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RE:UP ]</b>
+  included in <b>[ Our Love is Great ]</b>
   
   <br />
   <br />
-  12/07/2023 12:09 Playing on YTMusic
+  12/07/2023 12:13 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
