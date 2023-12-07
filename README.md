@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=yFQo7lGGs0A">
-    <img width="300" src="https://lh3.googleusercontent.com/LQy9wmfmclIIfgjaXLDbgIKhjG1TAlzi6_FsvKOPLOKvXjBAjfvL3kVgS4Lfzv_LJQndj6ATgCzT1U31">
+  <a href="https://music.youtube.com/watch?v=RQ_cixrcXZ0">
+    <img width="300" src="https://lh3.googleusercontent.com/-aB03JZvL8GfZ9gKAbMl6GvMKK43f6-ICu8EX2Pi7gB6s3L73SVzrAjeu3p0iEzmt6Lzi9jKo3NDa3P_">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>수연이 - Lovely White</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DEAN - 풀어 (Pour up) (Feat. ZICO)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lovely White ]</b>
+  included in <b>[ 130 Mood : TRBL ]</b>
   
   <br />
   <br />
-  12/07/2023 18:27 Playing on YTMusic
+  12/07/2023 18:31 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
