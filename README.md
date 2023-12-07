@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kC6DuRAnGzI">
-    <img width="300" src="https://lh3.googleusercontent.com/FUrAEqtby_uLa-vVe9Ej7zxpwSNDUjJxilm5_WAcnA2awH3TuKHrxANbcbs0RApV1Hs4YS939zVugPou">
+  <a href="https://music.youtube.com/watch?v=xKRYKEUwS0E">
+    <img width="300" src="https://lh3.googleusercontent.com/Bbxb73AoELQF8B5F_7e7w-KoOnuOi7-FogTlrY5f6O4Xd1HIUI3tlDeT3m_OSvxO6EAQhNoetaESojUV9Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>백예린 - Hate you</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>마미손 - 사랑은 (Remaster) (feat. Wonstein)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ tellusboutyourself ]</b>
+  included in <b>[ 나의슬픔(My Sadness)(Remaster) ]</b>
   
   <br />
   <br />
-  12/07/2023 12:58 Playing on YTMusic
+  12/07/2023 13:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
