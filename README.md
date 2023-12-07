@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=SdiWGvScIg8">
-    <img width="300" src="https://lh3.googleusercontent.com/47iYWdEWLZ1KCPsCQwQIakJ5SXwvddZasjkUzZznhLctxEVW1MR2bw0QrwIZNWVIzv0WlWeaIPnzuZhbLg">
+  <a href="https://music.youtube.com/watch?v=bG8eUj6BKsE">
+    <img width="300" src="https://lh3.googleusercontent.com/cqX8wy249Meg4uqcqI88Urst2nxqXU-y7dF07l19rVo84-94-7MyozLf_DqpjjVldc0J2xvIfaP70-8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>로이킴 Roy Kim - 문득 Suddenly</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>moeki - A Rainy Night in NY</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 開花期 (개화기) Blossom ]</b>
+  included in <b>[ A Rainy Night in NY ]</b>
   
   <br />
   <br />
-  12/07/2023 17:55 Playing on YTMusic
+  12/07/2023 17:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
