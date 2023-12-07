@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=j-seAiANLG8">
-    <img width="300" src="https://lh3.googleusercontent.com/EpsBfg9gACyWrXuq-AHYc0KO5avSRC-vVXoTQpyzY7XcrD-qetsgWOs-7CQpGhF2C-xZEE1FN9PRJF3qBA">
+  <a href="https://music.youtube.com/watch?v=PK02_Q5hHKo">
+    <img width="300" src="https://lh3.googleusercontent.com/j4FCnfqLXk_N6yg47XvQEbZP-lZrkF-9wJ_f_oc6gumNIzJM__pWppvjEKw5L9r5o21vxSKQEpRclDhw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Heize - And July (feat. DEAN, DJ Friz)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>파테코 - Rainy day (feat. Skinny Brown, ASH ISLAND)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ And July ]</b>
+  included in <b>[ Rainy day ]</b>
   
   <br />
   <br />
-  12/07/2023 11:55 Playing on YTMusic
+  12/07/2023 11:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
