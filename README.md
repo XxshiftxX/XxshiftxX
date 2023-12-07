@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=3dEwX4X-EGE">
-    <img width="300" src="https://lh3.googleusercontent.com/NGce_SD2cHBmzUtBLooaLHb8mD7RQlMLkKjpsYc_O6xHKbO0AHgWbiLmhODvWI883FDGZ5yEZ0O3LLe-">
+  <a href="https://music.youtube.com/watch?v=f0ina8aQ1Pg">
+    <img width="300" src="https://lh3.googleusercontent.com/jcC_nN8vCVQZhHF9PViqM-cn-wWqVaI2AlDNH-HbNy1frX1cabFOjNr_q0pKjVQ4gwiTNbmvv5fl0ts">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BE'O - Counting Stars (feat. Beenzino)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CHANGMO - 아름다워</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Counting Stars ]</b>
+  included in <b>[ 돈 벌 시간 2 ]</b>
   
   <br />
   <br />
-  12/07/2023 11:49 Playing on YTMusic
+  12/07/2023 11:51 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
