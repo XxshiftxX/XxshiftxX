@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lBH5Br4AQX8">
-    <img width="300" src="https://lh3.googleusercontent.com/XYFL4W0ge-PojCdxnME1uYsDKZSy4pmkhjkFWq-C8nWF4nlcJ9cmG4ljRqbvYwQiZvk_-bnPjBFF-b8">
+  <a href="https://music.youtube.com/watch?v=UrO3TU3_9iM">
+    <img width="300" src="https://lh3.googleusercontent.com/KvGBfoL7yiBCmZxvrrLTAJoqRAziRZ_RFuAD4B_rhwC4V7E6Dsozxodb7HWWJQ7sB6ahb56zoFOiyEQq">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>수잔 - Eros</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아티션 - 쉽게 사랑에 빠지잖아</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ EROS ]</b>
+  included in <b>[ DEEPERSEL ]</b>
   
   <br />
   <br />
-  12/07/2023 17:38 Playing on YTMusic
+  12/07/2023 17:41 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
