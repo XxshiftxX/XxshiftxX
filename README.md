@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=XeR5lk8pPRU">
-    <img width="300" src="https://lh3.googleusercontent.com/h7bs8nxW8A8jBxljxrVRWmtfk6F_3HEpLbHf5yajs9_yz-a-56Hu26Mpu-r4Vx4iub9JEcG0zZdUwoAM">
+  <a href="https://music.youtube.com/watch?v=MkF1QqVn1_s">
+    <img width="300" src="https://lh3.googleusercontent.com/27dcyIEkO-IURdBoJUxRuK4-7jvOl97jwZZwP8o2MDQ1u1NzceB2WbVVr8u9KhwAHhMaEOOd5Tdo_HE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CODE KUNST, CHOI JUNG HOON of JANNABI, Simon Dominic - 사라진 모든 것들에게(with ELLE KOREA)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Shawty (feat. 릴러말즈(Leellamarz))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ RECONNECT ]</b>
+  included in <b>[ COMFY ]</b>
   
   <br />
   <br />
-  12/07/2023 16:29 Playing on YTMusic
+  12/07/2023 16:33 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
