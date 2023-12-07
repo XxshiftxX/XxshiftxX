@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=YQRt_UusizQ">
-    <img width="300" src="https://lh3.googleusercontent.com/7-e0VZmrYOuVYWDC4T3SEj208JA9wl3x9bupWXCUtEoC57S2qTW6SwIKAaOQ-okEawB1m8Mgu7Y0dt01Ow">
+  <a href="https://music.youtube.com/watch?v=0tyznwCDUYI">
+    <img width="300" src="https://lh3.googleusercontent.com/GAcxi8ZhrmrVgkHWUbJTyk2nN_XhIvAZCbubA4v7Q16qWeHTMtaCtdP8i_5Pg80pp5Vu3LRA7Su5xHm8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스틸 및 차콜 - MANGO!</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Villain (feat. LeeHi, 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MANGO! ]</b>
+  included in <b>[ Show Me the Money 9 Semi Final ]</b>
   
   <br />
   <br />
-  12/07/2023 17:15 Playing on YTMusic
+  12/07/2023 17:18 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
