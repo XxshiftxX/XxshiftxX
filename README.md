@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=f9TH7HruP-Y">
-    <img width="300" src="https://lh3.googleusercontent.com/dmlsckw6ofMJruf9iY2RE1cYFYbtvlh7fJdtFV1EpygePSYSeOgwthUpJYGVPPn-G7DUNmhBeksiTq8">
+  <a href="https://music.youtube.com/watch?v=wDwVQi91pM8">
+    <img width="300" src="https://lh3.googleusercontent.com/87nqIn1ToikM0oCHnjWQ-9iMP_jzVJr4yE48ZKegS_WNarvIbXLiAW5_KcdNH6X_qOc4aACyr69wLZenHA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - 잘 지내길 바래</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Dusty Bottle - How Could You? (feat. Moon(혜원))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Double-sidedness ]</b>
+  included in <b>[ How Could You? ]</b>
   
   <br />
   <br />
-  12/07/2023 16:35 Playing on YTMusic
+  12/07/2023 16:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
