@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rMXzWOd4tdc">
-    <img width="300" src="https://lh3.googleusercontent.com/OyLypIiGnDUiHbORc7x6jVSdJ5CYCWUT915fTl85hgDWcnXwwjWxXG4D8PTcVq27zz66aq0OJm8fkoWV">
+  <a href="https://music.youtube.com/watch?v=ImX-hblTSW0">
+    <img width="300" src="https://lh3.googleusercontent.com/t1MkaRP21cSNtBno4SO5-2gnBQLNjuRi9tbZHq_f6NuM7adOfcwq67s7WbAXQx5yARyzKhma8A5MKoE">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>김승민 - Drivin' (feat. 래원 (Layone), BIG Naughty (서동현))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>휘인 - 오묘해</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Drivin' ]</b>
+  included in <b>[ WHEE ]</b>
   
   <br />
   <br />
-  12/07/2023 13:58 Playing on YTMusic
+  12/07/2023 14:00 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
