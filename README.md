@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=aG-SjeP6mjk">
-    <img width="300" src="https://lh3.googleusercontent.com/iQO8RxL-VVr_HSaVe9Rhvil2E0JX5GaZI8VGyq0wOSDUy55lStksz3LICmTIIM2Wl4WYg1zjx3RBTeA">
+  <a href="https://music.youtube.com/watch?v=MQ8a7-AYsw4">
+    <img width="300" src="https://lh3.googleusercontent.com/06xseXtdWCw_RTggkbNlZcQiEpOzMpCMGPbvyClJQYZHdhEmZxmVc46Om7mC2RH9iZ-XA5JQr9R-3ycR">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>페노메코 - 걘 아니야 Pt.2</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>오왼 오바도즈 (Owen Ovadoz) - 작업</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dry Flower ]</b>
+  included in <b>[ P.O.E.M. ]</b>
   
   <br />
   <br />
-  12/07/2023 16:05 Playing on YTMusic
+  12/07/2023 16:08 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
