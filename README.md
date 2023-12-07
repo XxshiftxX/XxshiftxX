@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=5gOVGYcB0B8">
-    <img width="300" src="https://lh3.googleusercontent.com/O2efqFCRQjigoeXp153BRB2CdNnQcfuezB9D_Gs9hCqhCs8oa8tRiOk226Q6tyMevO5waipTz53Q-aDrJw">
+  <a href="https://music.youtube.com/watch?v=TcbC9nJBlLc">
+    <img width="300" src="https://lh3.googleusercontent.com/KUILJI1T3xCwqy-0bblPFfRop8XraNLN6gZU6pn-rjBc_LNk8qePEavqvBJHeRV30p9vsBpNOpgVgLk">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Right Now (feat. Crush)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>빈지노 Beenzino - Dali, Van, Picasso</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Right Now ]</b>
+  included in <b>[ 12 ]</b>
   
   <br />
   <br />
-  12/07/2023 16:12 Playing on YTMusic
+  12/07/2023 16:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
