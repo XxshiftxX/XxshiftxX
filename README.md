@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rwqtcL_WmiU">
-    <img width="300" src="https://lh3.googleusercontent.com/o5uj2l0CjqLA0LuXcC_9c6Kluar2nlj-ljVtW6iIi0e5FKLORJnya6yzOISkhhsGyrrwDdxwFx_RFVmH6A">
+  <a href="https://music.youtube.com/watch?v=yFQo7lGGs0A">
+    <img width="300" src="https://lh3.googleusercontent.com/LQy9wmfmclIIfgjaXLDbgIKhjG1TAlzi6_FsvKOPLOKvXjBAjfvL3kVgS4Lfzv_LJQndj6ATgCzT1U31">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - NEWS (feat. 릴러말즈)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>수연이 - Lovely White</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ CLOUD STAR ]</b>
+  included in <b>[ Lovely White ]</b>
   
   <br />
   <br />
-  12/07/2023 18:23 Playing on YTMusic
+  12/07/2023 18:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
