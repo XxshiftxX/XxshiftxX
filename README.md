@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=irkNILKWI8Y">
-    <img width="300" src="https://lh3.googleusercontent.com/xMtbLWziqd5IRFPNOjsP1MTyeUGN5y2bSutcGChwnC4XMSheS1dOkhMAWrFBLiVclpyuKz8UjI-SkIHa">
+  <a href="https://music.youtube.com/watch?v=XeR5lk8pPRU">
+    <img width="300" src="https://lh3.googleusercontent.com/h7bs8nxW8A8jBxljxrVRWmtfk6F_3HEpLbHf5yajs9_yz-a-56Hu26Mpu-r4Vx4iub9JEcG0zZdUwoAM">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>페노메코(PENOMECO) - No.5 (feat. 크러쉬)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST, CHOI JUNG HOON of JANNABI, Simon Dominic - 사라진 모든 것들에게(with ELLE KOREA)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Garden ]</b>
+  included in <b>[ RECONNECT ]</b>
   
   <br />
   <br />
-  12/07/2023 16:26 Playing on YTMusic
+  12/07/2023 16:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
