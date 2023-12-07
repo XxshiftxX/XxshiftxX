@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=2QtEmG8uT2Y">
-    <img width="300" src="https://lh3.googleusercontent.com/MtrhVmcX2DlZZW3uT6kk9AxrpMzx_RXwIm1NwRavSpq8mElJ65gszR04OztD1iaBLo_e9AEDr-xIpwg">
+  <a href="https://music.youtube.com/watch?v=rJ1Qk3AnxZk">
+    <img width="300" src="https://lh3.googleusercontent.com/tY4zPqq4MfLjwKMPJMFLQchFeGsu_-PXh3LpO1g4LpiLOoK7MzGonjEjpH8kA9538-ldA3uzu_dLrV9NjA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>로꼬 - 시간이 들겠지 (feat. Colde)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>TABBY 및 BURCH - กูอยู่ของกูดีดี</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 시간이 들겠지 ]</b>
+  included in <b>[ กูอยู่ของกูดีดี ]</b>
   
   <br />
   <br />
-  12/07/2023 15:13 Playing on YTMusic
+  12/07/2023 15:17 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
