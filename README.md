@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wICTcaxD4lU">
-    <img width="300" src="https://lh3.googleusercontent.com/K72N-dP1CvrrH8euoO7Y1Wpju2SN1OwgcDebfAPaeFTVDthH0e1LspUQd1iWQYs84xvHnzhATB7FYbvm">
+  <a href="https://music.youtube.com/watch?v=IxoIcewyNKc">
+    <img width="300" src="https://lh3.googleusercontent.com/2cYglux78aCjzSzi37B3HDGj43oxxtKOJEair71COFQa_PtX8DI_Qn9153QEpGLhQj8BHTMwmi4mVbdA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MOON - 밤거리 (feat. Zion.T)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>공기남 - 파란섬 (feat. Chan, 1Ho)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 밤거리 ]</b>
+  included in <b>[ 새벽일기 ]</b>
   
   <br />
   <br />
-  12/07/2023 14:29 Playing on YTMusic
+  12/07/2023 14:32 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
