@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=FpBrJJZju7o">
-    <img width="300" src="https://lh3.googleusercontent.com/smRPtCuqqHgeNPU2RTjb0-d5qZcgnhSi0Sq3BYeF1ZumSepHkfjIXIpGODHlPX-YeL52abc6XYoSn8Q">
+  <a href="https://music.youtube.com/watch?v=rwqtcL_WmiU">
+    <img width="300" src="https://lh3.googleusercontent.com/o5uj2l0CjqLA0LuXcC_9c6Kluar2nlj-ljVtW6iIi0e5FKLORJnya6yzOISkhhsGyrrwDdxwFx_RFVmH6A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GAL - Great Things</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>제이씨 유카 - NEWS (feat. 릴러말즈)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Great Things ]</b>
+  included in <b>[ CLOUD STAR ]</b>
   
   <br />
   <br />
-  12/07/2023 18:20 Playing on YTMusic
+  12/07/2023 18:23 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
