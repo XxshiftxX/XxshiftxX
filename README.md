@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=03K3Ku6Oe74">
-    <img width="300" src="https://lh3.googleusercontent.com/-T-wHoV3AmdaZ6AJHOvL_YZaGvbVYnOympJptufOQ5R_nbWEbqvryq5mogACYeTsSmhQDDDFcaN-P1Ruew">
+  <a href="https://music.youtube.com/watch?v=tfN4O7qhlpk">
+    <img width="300" src="https://lh3.googleusercontent.com/HbGcTdLKIm-RFNMO8q7WJ7y9aHwGGXvS-jwTxySQPTvac0BSwTNmVBKFdeM9-msnUarmk0JWEh84tOg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>수연이 - Blue</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>타블로, 에릭남(Eric Nam) 및 갤런트 - Cave Me In</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Blue ]</b>
+  included in <b>[ Cave Me In ]</b>
   
   <br />
   <br />
-  12/07/2023 18:02 Playing on YTMusic
+  12/07/2023 18:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
