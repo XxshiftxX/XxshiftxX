@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=bG8eUj6BKsE">
-    <img width="300" src="https://lh3.googleusercontent.com/cqX8wy249Meg4uqcqI88Urst2nxqXU-y7dF07l19rVo84-94-7MyozLf_DqpjjVldc0J2xvIfaP70-8">
+  <a href="https://music.youtube.com/watch?v=03K3Ku6Oe74">
+    <img width="300" src="https://lh3.googleusercontent.com/-T-wHoV3AmdaZ6AJHOvL_YZaGvbVYnOympJptufOQ5R_nbWEbqvryq5mogACYeTsSmhQDDDFcaN-P1Ruew">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>moeki - A Rainy Night in NY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>수연이 - Blue</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ A Rainy Night in NY ]</b>
+  included in <b>[ Blue ]</b>
   
   <br />
   <br />
-  12/07/2023 17:59 Playing on YTMusic
+  12/07/2023 18:02 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
