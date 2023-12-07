@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MC6HbNML5MY">
-    <img width="300" src="https://lh3.googleusercontent.com/-TkZjxquIByrxGSbwhVtJjqKCeXF4qOTk5GPuFbfcpDb105bsr4A5eB2W7fgOhTmZJe_Y1SpmQbGrXLE">
+  <a href="https://music.youtube.com/watch?v=esnzSdbzlvA">
+    <img width="300" src="https://lh3.googleusercontent.com/d5ytesHTJ29iChj8TtIgMfCwsxKaiArM6S3gXYmNTlDPyAbh2JXVERvJjiGFliPmlZIBGt9-gVOEA04">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>기리보이 - 눈이 오던 날 (feat. SOLE)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>로꼬 - Can't Sleep (feat. 헤이즈(Heize))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 눈이 오던 날 ]</b>
+  included in <b>[ SOME TIME ]</b>
   
   <br />
   <br />
-  12/07/2023 13:05 Playing on YTMusic
+  12/07/2023 13:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
