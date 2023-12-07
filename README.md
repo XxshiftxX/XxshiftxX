@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MD1RdwdGtV4">
-    <img width="300" src="https://lh3.googleusercontent.com/2vZpJlUnO467sNKUaLzYr88o8bji4w8xSdzkb3vgnsnK_T-BKNHjM0o6zix4OBI360K9EHd6hVLOrtQlIA">
+  <a href="https://music.youtube.com/watch?v=kgjsF9ZgF00">
+    <img width="300" src="https://lh3.googleusercontent.com/HIMn5BpNvwH9a3zsozEONomn7UNY8pNhOcFWgkJPLX7IwFHMOtIHN4PcyUi2O1e4OTXEs4PBFSOhqxHH">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>offonoff(오프온오프) - Cigarette (feat. 미소, 타블로)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>죠지 - 언제든 어디라도</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ boy. ]</b>
+  included in <b>[ 1집수록곡 ]</b>
   
   <br />
   <br />
-  12/07/2023 14:15 Playing on YTMusic
+  12/07/2023 14:19 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
