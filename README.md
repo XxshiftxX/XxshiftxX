@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0tyznwCDUYI">
-    <img width="300" src="https://lh3.googleusercontent.com/GAcxi8ZhrmrVgkHWUbJTyk2nN_XhIvAZCbubA4v7Q16qWeHTMtaCtdP8i_5Pg80pp5Vu3LRA7Su5xHm8">
+  <a href="https://music.youtube.com/watch?v=5unoMyCBXrk">
+    <img width="300" src="https://lh3.googleusercontent.com/Z3sZgMffyxtczrMFYSOLfXD1J_mRYigqctJ0M6a-xYbgjN-4KUE_hrqtylmeFCslroqmtpXnLHoWI0Sd">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>스윙스(Swings) - Villain (feat. LeeHi, 사이먼 도미닉)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크러쉬(Crush) - 넌</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Semi Final ]</b>
+  included in <b>[ 넌 ]</b>
   
   <br />
   <br />
-  12/07/2023 17:18 Playing on YTMusic
+  12/07/2023 17:22 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
