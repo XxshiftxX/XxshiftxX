@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=csCGy_PbH9Q">
-    <img width="300" src="https://lh3.googleusercontent.com/i-AByI__mmxXmuP_lTOJwWIj3owE0bHGUrt-wxD2iPH8LDB6Sc9WQV0WNFw52hQq69Fp1_n4m22lYaOV">
+  <a href="https://music.youtube.com/watch?v=49vcJbRlJcI">
+    <img width="300" src="https://lh3.googleusercontent.com/oQ4R6GhWBXhzf0bLboZNWB0yMs2yPs7-PsyCoFO5hvzQg_ok9CSVl-UHLSFLYzMQylg6mTV075akjVGEUA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>GRAY (그레이) - Moon Blue</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - FIRE WATER (feat. Golden, 타블로)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Dingo X GRAY ]</b>
+  included in <b>[ MUGGLES' MANSION ]</b>
   
   <br />
   <br />
-  12/07/2023 15:50 Playing on YTMusic
+  12/07/2023 15:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
