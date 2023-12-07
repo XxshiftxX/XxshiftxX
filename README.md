@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=9jVm7ohsBTI">
-    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
+  <a href="https://music.youtube.com/watch?v=w4vjQXaP0I4">
+    <img width="300" src="https://lh3.googleusercontent.com/MhybGYRyAkoLtd9LhdFpdiI3cCYTl2iTAwoFpqU0_RR_fhVRx7RCdB0qyaZDhWJAjKX1xTJ_iuSIr4Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Escobar (feat. 오왼(Owen))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>DJ 웨건 - Our Lives (feat. 박재범(Jay Park), Ugly Duck)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Island Kid ]</b>
+  included in <b>[ Our Lives ]</b>
   
   <br />
   <br />
-  12/07/2023 18:34 Playing on YTMusic
+  12/07/2023 18:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
