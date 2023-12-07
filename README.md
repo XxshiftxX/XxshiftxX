@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=pmPSYasuubc">
-    <img width="300" src="https://lh3.googleusercontent.com/ZBCg0DCD4KJhb1tqDGvd3Kv2TSvoHw-Hl-sIecMwhBb_Gc2nrTBCFxLN-FnAsPSms3ZZE6GdhsnnZP5AVA">
+  <a href="https://music.youtube.com/watch?v=ncz51z9TKBI">
+    <img width="300" src="https://lh3.googleusercontent.com/obV-yaz_Cif0rMIqc0rfxEUn-lJR183nd1WeOYdUFn4obCsBwzY7O1yLi-BKceavAcwQEoh4UA3rnwYf">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Wonstein - 밤이 되니까</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>조광일, 개코, 저스디스 및 코드 쿤스트 (CODE KUNST) - 가시 (Prod. 코드 쿤스트)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 밤이 되니까 ]</b>
+  included in <b>[ 쇼미더머니 10 Episode 2 ]</b>
   
   <br />
   <br />
-  12/07/2023 14:07 Playing on YTMusic
+  12/07/2023 14:11 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
