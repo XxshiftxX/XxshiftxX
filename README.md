@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=lQaP8He_lCg">
-    <img width="300" src="https://lh3.googleusercontent.com/6-sXaiSM-w6U01BofJoZulHBBjmXcdIKA7fbXREBlezcSR8nhiYqan_dYAN1SpcLGnMLOuuGDqjKp75D">
+  <a href="https://music.youtube.com/watch?v=DRrEnLZ1Iks">
+    <img width="300" src="https://lh3.googleusercontent.com/5bPwa-rIKNhunnXo9f6YAapIssTiSD_uckoKSKIxHOhg7I9NomzS7J7WYkgOeODaKAwoq1KQmVpueBVm">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>헤이즈(Heize) - 작사가</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Hoody - D-day (feat. 기리보이)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Lyricist ]</b>
+  included in <b>[ D-day ]</b>
   
   <br />
   <br />
-  12/07/2023 14:39 Playing on YTMusic
+  12/07/2023 14:44 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
