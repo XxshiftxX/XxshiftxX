@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=8zK-gyVswxE">
-    <img width="300" src="https://lh3.googleusercontent.com/2VsBLtYduh22RL-G1Wm2KIpKu47Bhv1953nwk5BpnpYbv0P2FVzUU4guGIBLWjvxiSUGGYvXDVJgnEeuuw">
+  <a href="https://music.youtube.com/watch?v=hiUPJaHjuUk">
+    <img width="300" src="https://lh3.googleusercontent.com/-tdq58fAgaawQcx744mZUP67379plUJcWvzPSyfRy305ZmNcYii54WboN9OBa4I-cEdzu7u5yW4nSFlBQA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>BIG Naughty (서동현) - 낭만교향곡 (feat. CHANGMO, 박재범)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>아이유(IU) - 돌림노래 (feat. DEAN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 낭만 ]</b>
+  included in <b>[ IU 5th Album 'LILAC' ]</b>
   
   <br />
   <br />
-  12/07/2023 12:25 Playing on YTMusic
+  12/07/2023 12:29 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
