@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MkF1QqVn1_s">
-    <img width="300" src="https://lh3.googleusercontent.com/27dcyIEkO-IURdBoJUxRuK4-7jvOl97jwZZwP8o2MDQ1u1NzceB2WbVVr8u9KhwAHhMaEOOd5Tdo_HE">
+  <a href="https://music.youtube.com/watch?v=f9TH7HruP-Y">
+    <img width="300" src="https://lh3.googleusercontent.com/dmlsckw6ofMJruf9iY2RE1cYFYbtvlh7fJdtFV1EpygePSYSeOgwthUpJYGVPPn-G7DUNmhBeksiTq8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>웨이체드 - Shawty (feat. 릴러말즈(Leellamarz))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>김승민 - 잘 지내길 바래</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ COMFY ]</b>
+  included in <b>[ Double-sidedness ]</b>
   
   <br />
   <br />
-  12/07/2023 16:33 Playing on YTMusic
+  12/07/2023 16:35 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
