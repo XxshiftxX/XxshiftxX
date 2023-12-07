@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=dbCgebXQtBU">
-    <img width="300" src="https://lh3.googleusercontent.com/x7INWwbHjPS-DVLCOC-8VKdTR5ABpt-rmI1HGjgo-IznTAAQ_HjxuFicntKfQK6dYqc-0OVIVuNV0EDY">
+  <a href="https://music.youtube.com/watch?v=dFE03zBYFdI">
+    <img width="300" src="https://lh3.googleusercontent.com/zjmhSd2meo3f6FEjaAAEmyuGPt-h9Hni8vkGz8FYJ7nbDXF6NF9QId1H3IVMBxUghCsR_kYLzUK52WeMMA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - PEOPLE (feat. 더 콰이엇(The Quiett), Paloalto)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>페노메코(PENOMECO) - Good Morning (feat. Car, the Garden)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ PEOPLE ]</b>
+  included in <b>[ Good Morning (feat. Car, the garden) ]</b>
   
   <br />
   <br />
-  12/07/2023 17:01 Playing on YTMusic
+  12/07/2023 17:06 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
