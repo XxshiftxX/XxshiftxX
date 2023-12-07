@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=WZnigdGYx-I">
-    <img width="300" src="https://lh3.googleusercontent.com/zj1Qc8H3gKpLBdKYbI-ksjD6irN3lvKLm-jtXaC3-PZ06YmdrCf47E52u9mbz0sWwHEyO-sbHGI3wJVw">
+  <a href="https://music.youtube.com/watch?v=pmPSYasuubc">
+    <img width="300" src="https://lh3.googleusercontent.com/ZBCg0DCD4KJhb1tqDGvd3Kv2TSvoHw-Hl-sIecMwhBb_Gc2nrTBCFxLN-FnAsPSms3ZZE6GdhsnnZP5AVA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>창모 (CHANGMO) - 이렇게 둘이</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Wonstein - 밤이 되니까</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 이렇게 둘이 ]</b>
+  included in <b>[ 밤이 되니까 ]</b>
   
   <br />
   <br />
-  12/07/2023 14:03 Playing on YTMusic
+  12/07/2023 14:07 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
