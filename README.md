@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=zt1zcLJbftw">
-    <img width="300" src="https://lh3.googleusercontent.com/NNj6mPVpXeHlv_8YGGvGCxZmwtUKCXXLqu8bo-y8kxGhhmg1TDPYXg0iOkxIda9GDz17_6Ki8YQTkKOB">
+  <a href="https://music.youtube.com/watch?v=lBH5Br4AQX8">
+    <img width="300" src="https://lh3.googleusercontent.com/XYFL4W0ge-PojCdxnME1uYsDKZSy4pmkhjkFWq-C8nWF4nlcJ9cmG4ljRqbvYwQiZvk_-bnPjBFF-b8">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>미란이 - Achoo (feat. pH-1, 김하온(HAON))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>수잔 - Eros</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Show Me the Money 9 Episode 3 ]</b>
+  included in <b>[ EROS ]</b>
   
   <br />
   <br />
-  12/07/2023 17:35 Playing on YTMusic
+  12/07/2023 17:38 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
