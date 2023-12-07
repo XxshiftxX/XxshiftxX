@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=gkh-1YIVz2A">
-    <img width="300" src="https://lh3.googleusercontent.com/xIOO-9mVNsQEg4YcTjeJ0_rndOayJHtb-vFHKHGWp_3QUP0LHepJBzMpA2CdngQaBYF_kudXtV0jEdhGVg">
+  <a href="https://music.youtube.com/watch?v=zfZmjgcNM9c">
+    <img width="300" src="https://lh3.googleusercontent.com/Y4H-wy_Edke9s7C5S7RG1Eps_CXOdrH5BIJaBx58rnkl3FAxyvhqQ8uIYOJQ9iYhcua_vJRpYB2mT7Ju1Q">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>흐를 - 커피는 너를 닮아서</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>크러쉬(Crush) - Outside (feat. 빈지노(Beenzino))</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 커피는 너를 닮아서 ]</b>
+  included in <b>[ Outside ]</b>
   
   <br />
   <br />
-  12/07/2023 15:06 Playing on YTMusic
+  12/07/2023 15:09 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
