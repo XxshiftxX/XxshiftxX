@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=97EtSDf6wx8">
-    <img width="300" src="https://lh3.googleusercontent.com/xYh7NdmqmB3k15V7CnTosgv67AFqQo-xxoJQo05Oo1yXy4zLv2eOBVKKeytby6pi7HtXuwDrKK39Wphy">
+  <a href="https://music.youtube.com/watch?v=YQRt_UusizQ">
+    <img width="300" src="https://lh3.googleusercontent.com/7-e0VZmrYOuVYWDC4T3SEj208JA9wl3x9bupWXCUtEoC57S2qTW6SwIKAaOQ-okEawB1m8Mgu7Y0dt01Ow">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Gist - Black Swan (feat. Leellamarz, DON MALIK)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>스틸 및 차콜 - MANGO!</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ Beginning ]</b>
+  included in <b>[ MANGO! ]</b>
   
   <br />
   <br />
-  12/07/2023 17:12 Playing on YTMusic
+  12/07/2023 17:15 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
