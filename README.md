@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Fy5C-bzi59Q">
-    <img width="300" src="https://lh3.googleusercontent.com/ildm1QEeiEcNh8L7vtF9R103yZJ4CXozGjW1iMwWb78naV1-bWVN19mnlFfEC2GunGrubnpJ2qJOLeo">
+  <a href="https://music.youtube.com/watch?v=aG-SjeP6mjk">
+    <img width="300" src="https://lh3.googleusercontent.com/iQO8RxL-VVr_HSaVe9Rhvil2E0JX5GaZI8VGyq0wOSDUy55lStksz3LICmTIIM2Wl4WYg1zjx3RBTeA">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>LeeHi - ONLY</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>페노메코 - 걘 아니야 Pt.2</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 4 ONLY ]</b>
+  included in <b>[ Dry Flower ]</b>
   
   <br />
   <br />
-  12/07/2023 16:01 Playing on YTMusic
+  12/07/2023 16:05 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
