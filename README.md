@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=0q7HDOyrC_A">
-    <img width="300" src="https://lh3.googleusercontent.com/HrjaXI4FcX5iMdvuhFeDB0_nmQyLOb3DnwZotZtgcIRA0gGhxU6hNjtxQI-e_wxF1uHRvpNawXyBNes">
+  <a href="https://music.youtube.com/watch?v=SdiWGvScIg8">
+    <img width="300" src="https://lh3.googleusercontent.com/47iYWdEWLZ1KCPsCQwQIakJ5SXwvddZasjkUzZznhLctxEVW1MR2bw0QrwIZNWVIzv0WlWeaIPnzuZhbLg">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>크러쉬 - Lookin 4 (feat. Joyce Wrice, Devin Morrison)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>로이킴 Roy Kim - 문득 Suddenly</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 나빠(NAPPA) ]</b>
+  included in <b>[ 開花期 (개화기) Blossom ]</b>
   
   <br />
   <br />
-  12/07/2023 17:50 Playing on YTMusic
+  12/07/2023 17:55 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
