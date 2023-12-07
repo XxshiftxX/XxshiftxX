@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=MQ8a7-AYsw4">
-    <img width="300" src="https://lh3.googleusercontent.com/06xseXtdWCw_RTggkbNlZcQiEpOzMpCMGPbvyClJQYZHdhEmZxmVc46Om7mC2RH9iZ-XA5JQr9R-3ycR">
+  <a href="https://music.youtube.com/watch?v=5gOVGYcB0B8">
+    <img width="300" src="https://lh3.googleusercontent.com/O2efqFCRQjigoeXp153BRB2CdNnQcfuezB9D_Gs9hCqhCs8oa8tRiOk226Q6tyMevO5waipTz53Q-aDrJw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>오왼 오바도즈 (Owen Ovadoz) - 작업</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>쿠기 (Coogie) - Right Now (feat. Crush)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ P.O.E.M. ]</b>
+  included in <b>[ Right Now ]</b>
   
   <br />
   <br />
-  12/07/2023 16:08 Playing on YTMusic
+  12/07/2023 16:12 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
