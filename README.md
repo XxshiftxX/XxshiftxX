@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=evQLfWsMG9M">
-    <img width="300" src="https://lh3.googleusercontent.com/ESrKFdFnNWFhd6dRQJ-v_dtIB_FY0037EEqtceBmE-QR0L1VvG_B_DAm8kBVYR0mOvUG7UGGJbCh6WjPYw">
+  <a href="https://music.youtube.com/watch?v=Gotv2_VXI_Y">
+    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>페노메코(PENOMECO) - COCO BOTTLE</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - Christ</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ COCO BOTTLE ]</b>
+  included in <b>[ The Island Kid ]</b>
   
   <br />
   <br />
-  12/07/2023 15:21 Playing on YTMusic
+  12/07/2023 15:25 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
