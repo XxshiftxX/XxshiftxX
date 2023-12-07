@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=49vcJbRlJcI">
-    <img width="300" src="https://lh3.googleusercontent.com/oQ4R6GhWBXhzf0bLboZNWB0yMs2yPs7-PsyCoFO5hvzQg_ok9CSVl-UHLSFLYzMQylg6mTV075akjVGEUA">
+  <a href="https://music.youtube.com/watch?v=HEUdtH7CVdA">
+    <img width="300" src="https://lh3.googleusercontent.com/P3MBMVgULpwSsAS2-nFitOou6U34BpwwGKP7i4OAVdy1r5zI5MA3TQ2Zrvp7ubgHoduD5eMDd6-Vxkc3">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>CODE KUNST - FIRE WATER (feat. Golden, 타블로)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>pH-1 - DRESSING ROOM</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MUGGLES' MANSION ]</b>
+  included in <b>[ X ]</b>
   
   <br />
   <br />
-  12/07/2023 15:53 Playing on YTMusic
+  12/07/2023 15:58 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
