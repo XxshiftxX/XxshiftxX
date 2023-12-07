@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=wDwVQi91pM8">
-    <img width="300" src="https://lh3.googleusercontent.com/87nqIn1ToikM0oCHnjWQ-9iMP_jzVJr4yE48ZKegS_WNarvIbXLiAW5_KcdNH6X_qOc4aACyr69wLZenHA">
+  <a href="https://music.youtube.com/watch?v=KN8aPkyH0jE">
+    <img width="300" src="https://lh3.googleusercontent.com/_8lYWv-5Kg2TopjqWREkAj8nKZBxyPTnstSaRzfBBbXyESdyxgEy4E77Twr_UfvhAJQhbqhYGpHNoV-t">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Dusty Bottle - How Could You? (feat. Moon(혜원))</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>ZICO - BERMUDA TRIANGLE (feat. Crush, DEAN)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ How Could You? ]</b>
+  included in <b>[ BERMUDA TRIANGLE ]</b>
   
   <br />
   <br />
-  12/07/2023 16:38 Playing on YTMusic
+  12/07/2023 16:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
