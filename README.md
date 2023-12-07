@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=rdV-zeseC0o">
-    <img width="300" src="https://lh3.googleusercontent.com/fsBVV0cPTXx41CQCPF33IsZPszHj5o8vLb1842JTKfDx_yE5B8E2XXSm2mg4Ndn-S0K_g1xaJssL3sU">
+  <a href="https://music.youtube.com/watch?v=wkQqlxOuX_M">
+    <img width="300" src="https://lh3.googleusercontent.com/WX6rMpKKSQ4dXt-xahoSRD1dwxjfOo3g6HehBmnnLM-Il8bRJ4ROCAgY01Si92p4U_W6VpgdK2AUEEfW">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>수란(Suran) - Relax Moment</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>정기고(Junggigo) - warm</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ [SURAN X KABREW] Relax Moment ]</b>
+  included in <b>[ warm ]</b>
   
   <br />
   <br />
-  12/07/2023 14:50 Playing on YTMusic
+  12/07/2023 14:53 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
