@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=Gotv2_VXI_Y">
-    <img width="300" src="https://lh3.googleusercontent.com/mRlGGc-KUCD3JD3_zpbTmG4s23ZyQqKzRWM9DjiquMAti9jN2RhO29WfARGf1hEedp2rf9VMScUp1Hw">
+  <a href="https://music.youtube.com/watch?v=ZmKB_0tecKM">
+    <img width="300" src="https://lh3.googleusercontent.com/5KME1KuNnEzfO1wQYnA8LGRHaEtr5jI8KZ3moGt5XEuPgrZJ7pFGwpo85Kn2BJSV8ENY9NCKxPEca3px">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>pH-1 - Christ</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>E SENS - No Boss (feat. Dok2)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ The Island Kid ]</b>
+  included in <b>[ 저금통 ]</b>
   
   <br />
   <br />
-  12/07/2023 15:25 Playing on YTMusic
+  12/07/2023 15:27 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
