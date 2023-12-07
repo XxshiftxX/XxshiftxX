@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ImX-hblTSW0">
-    <img width="300" src="https://lh3.googleusercontent.com/t1MkaRP21cSNtBno4SO5-2gnBQLNjuRi9tbZHq_f6NuM7adOfcwq67s7WbAXQx5yARyzKhma8A5MKoE">
+  <a href="https://music.youtube.com/watch?v=WZnigdGYx-I">
+    <img width="300" src="https://lh3.googleusercontent.com/zj1Qc8H3gKpLBdKYbI-ksjD6irN3lvKLm-jtXaC3-PZ06YmdrCf47E52u9mbz0sWwHEyO-sbHGI3wJVw">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>휘인 - 오묘해</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>창모 (CHANGMO) - 이렇게 둘이</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ WHEE ]</b>
+  included in <b>[ 이렇게 둘이 ]</b>
   
   <br />
   <br />
-  12/07/2023 14:00 Playing on YTMusic
+  12/07/2023 14:03 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
