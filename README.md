@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=QBkmQRjMzrI">
-    <img width="300" src="https://i.ytimg.com/vi/QBkmQRjMzrI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=K3-95GtTsgA">
+    <img width="300" src="https://i.ytimg.com/vi/K3-95GtTsgA/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>EL S - 하츠네 미쿠 - 소실 (자막)</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>lllllllll8981 - 카가미네 린렌-하극상</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 238만회 ]</b>
+  included in <b>[ 조회수 51만회 ]</b>
   
   <br />
   <br />
-  07/19/2024 15:54 Playing on YTMusic
+  07/19/2024 15:59 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
