@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P8aLyARLzt8">
-    <img width="300" src="https://i.ytimg.com/vi/P8aLyARLzt8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=QBkmQRjMzrI">
+    <img width="300" src="https://i.ytimg.com/vi/QBkmQRjMzrI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Alice Clipton - 하츠네 미쿠 - 롤링 걸 (rolling girl) [신 자막,HD PV]</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>EL S - 하츠네 미쿠 - 소실 (자막)</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 203만회 ]</b>
+  included in <b>[ 조회수 238만회 ]</b>
   
   <br />
   <br />
-  07/19/2024 15:51 Playing on YTMusic
+  07/19/2024 15:54 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
