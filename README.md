@@ -1,1 +1,23 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zhncya4mzkzxc7r7p5l32x7qre&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![header](https://capsule-render.vercel.app/api?type=wave&height=170&section=header&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+
+<h3 align="center">🎵 Now Playing... 🎵</h3>
+<p align="center">
+  <a href="https://music.youtube.com/watch?v=_VkcZ3tmBMo">
+    <img width="300" src="https://i.ytimg.com/vi/_VkcZ3tmBMo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  </a>
+  <br>
+  🎵&nbsp&nbsp&nbsp <b>「永遠」EIENMUSIC - Hanatan - Niwaka Ame</b> &nbsp&nbsp&nbsp🎵
+  <br>
+  included in <b>[ 조회수 490만회 ]</b>
+  
+  <br />
+  <br />
+  08/19/2024 17:27 Playing on YTMusic
+  <br />
+  <br />
+  Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
+</p>
+
+<h3 align="center">•••</h3>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&height=150&section=footer)
