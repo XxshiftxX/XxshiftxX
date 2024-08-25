@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=_VkcZ3tmBMo">
-    <img width="300" src="https://i.ytimg.com/vi/_VkcZ3tmBMo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs">
+  <a href="https://music.youtube.com/watch?v=JoJ6lnF07U4">
+    <img width="300" src="https://lh3.googleusercontent.com/rl2E83Xmw23p6Ax6wuXbuec-wBH88pln6RRqJjdhWxnZNYUgP-5X2v-5Jd1BRJpWJiO7Pd-4sXofU1w">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>「永遠」EIENMUSIC - Hanatan - Niwaka Ame</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>MONGOL800 - 小さな恋のうた</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ 조회수 490만회 ]</b>
+  included in <b>[ MESSAGE ]</b>
   
   <br />
   <br />
-  08/19/2024 17:27 Playing on YTMusic
+  08/25/2024 09:39 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
