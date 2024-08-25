@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=kJEPeKPtZyw">
-    <img width="300" src="https://lh3.googleusercontent.com/sHjo10Puz--32IVM8hMv5mS3fNui28ODdiOoNKyvMyeuOKotrqrKAm5eVZKUkA6xpaLHqQts28JSDlIF3A">
+  <a href="https://music.youtube.com/watch?v=pMTRBNMX2mw">
+    <img width="300" src="https://lh3.googleusercontent.com/p02tMoYXYGf2LE4Bx8VHTCVB9i2QI_C74BOczaIzmkyc--oWLgMRzVIlVpIw3dYYv7-DsMUcbttiPNfD">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>Vaundy - 花占い</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>SPYAIR - サクラミツツキ - Sakura Mitsutsuki</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ replica ]</b>
+  included in <b>[ Sakura Mitsutsuki ]</b>
   
   <br />
   <br />
-  08/25/2024 09:42 Playing on YTMusic
+  08/25/2024 09:43 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
