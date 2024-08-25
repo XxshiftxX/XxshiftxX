@@ -2,17 +2,17 @@
 
 <h3 align="center">🎵 Now Playing... 🎵</h3>
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=JoJ6lnF07U4">
-    <img width="300" src="https://lh3.googleusercontent.com/rl2E83Xmw23p6Ax6wuXbuec-wBH88pln6RRqJjdhWxnZNYUgP-5X2v-5Jd1BRJpWJiO7Pd-4sXofU1w">
+  <a href="https://music.youtube.com/watch?v=kJEPeKPtZyw">
+    <img width="300" src="https://lh3.googleusercontent.com/sHjo10Puz--32IVM8hMv5mS3fNui28ODdiOoNKyvMyeuOKotrqrKAm5eVZKUkA6xpaLHqQts28JSDlIF3A">
   </a>
   <br>
-  🎵&nbsp&nbsp&nbsp <b>MONGOL800 - 小さな恋のうた</b> &nbsp&nbsp&nbsp🎵
+  🎵&nbsp&nbsp&nbsp <b>Vaundy - 花占い</b> &nbsp&nbsp&nbsp🎵
   <br>
-  included in <b>[ MESSAGE ]</b>
+  included in <b>[ replica ]</b>
   
   <br />
   <br />
-  08/25/2024 09:39 Playing on YTMusic
+  08/25/2024 09:42 Playing on YTMusic
   <br />
   <br />
   Generated with <a href="https://github.com/20chan/github-now">20chan/github-now</a>
